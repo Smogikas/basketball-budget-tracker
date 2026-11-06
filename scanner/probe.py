@@ -22,7 +22,7 @@ S.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en,*;q=0.5"})
 
 def get(url):
     try:
-        r = S.get(url, timeout=20, allow_redirects=True)
+        r = S.get(url, timeout=(5, 10), allow_redirects=True)
         return r
     except requests.RequestException as e:
         return str(e)[:150]
@@ -74,8 +74,8 @@ def probe(url):
         out["article_links"] = len(links)
         out["article_sample"] = links[:8]
     base = r.url.rstrip("/")
-    for path in ("/feed", "/feed/", "/rss", "/rss.xml", "/feed.xml", "/rss/", "/index.xml", "/atom.xml"):
-        candidates += [origin + path, base + path]
+    for path in ("/feed", "/rss", "/rss.xml"):
+        candidates += [base + path, origin + path]
     robots = get(origin + "/robots.txt")
     if not isinstance(robots, str) and robots.status_code == 200:
         out["robots_sitemaps"] = re.findall(r"(?im)^sitemap:\s*(\S+)", robots.text)[:10]
@@ -90,7 +90,7 @@ def probe(url):
         info = feed_info(c)
         if info and info["url"] not in [f["url"] for f in feeds]:
             feeds.append(info)
-        if len(feeds) >= 4:
+        if len(feeds) >= 3 or len(tried) >= 10:
             break
     out["feeds"] = feeds
     return out
@@ -99,10 +99,13 @@ def probe(url):
 def main():
     with open(os.path.join(ROOT, "config", "probe_urls.txt"), encoding="utf-8") as f:
         urls = [l.strip() for l in f if l.strip() and not l.startswith("#")]
-    results = []
-    for u in urls:
-        print("probing", u, flush=True)
-        results.append(probe(u))
+    from concurrent.futures import ThreadPoolExecutor
+    urls = list(dict.fromkeys(urls))  # drop duplicates, keep order
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        results = list(pool.map(probe, urls))
+    for r in results:
+        print(r["input"], r.get("status", r.get("error")), len(r.get("feeds", [])), "feeds",
+              r.get("article_links", 0), "article links", flush=True)
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     with open(os.path.join(ROOT, "data", "probe.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=1)
