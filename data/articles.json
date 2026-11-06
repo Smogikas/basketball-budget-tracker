@@ -1,1 +1,998 @@
-{"updated": "", "warnings": [], "run": [], "items": []}
+{
+ "updated": "2026-11-06T21:18+00:00",
+ "warnings": [],
+ "run": [
+  {
+   "site": "Sportando",
+   "checked": 10,
+   "found": 0,
+   "error": "",
+   "new_links": 10,
+   "skipped_nba": 1
+  },
+  {
+   "site": "BasketNews.lt",
+   "checked": 10,
+   "found": 1,
+   "error": "",
+   "new_links": 10,
+   "skipped_nba": 2
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 10,
+   "found": 0,
+   "error": "",
+   "new_links": 10,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 18,
+   "found": 0,
+   "error": "",
+   "new_links": 18,
+   "skipped_nba": 2
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 20,
+   "found": 1,
+   "error": "",
+   "new_links": 20
+  },
+  {
+   "site": "PianetaBasket",
+   "checked": 40,
+   "found": 0,
+   "error": "",
+   "new_links": 196
+  },
+  {
+   "site": "Israel Hayom",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.israelhayom.co.il/sitemaps/googlenews.xml"
+  },
+  {
+   "site": "Sport5",
+   "checked": 12,
+   "found": 0,
+   "error": "",
+   "new_links": 12
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 10,
+   "found": 0,
+   "error": "",
+   "new_links": 10
+  },
+  {
+   "site": "TrendBasket",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "new_links": 4
+  },
+  {
+   "site": "Eurohoops EN",
+   "checked": 20,
+   "found": 1,
+   "error": "",
+   "new_links": 20
+  },
+  {
+   "site": "Eurohoops GR",
+   "checked": 20,
+   "found": 0,
+   "error": "",
+   "new_links": 20
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 20,
+   "found": 1,
+   "error": "",
+   "new_links": 20,
+   "skipped_nba": 3
+  },
+  {
+   "site": "Athletiko",
+   "checked": 40,
+   "found": 0,
+   "error": "",
+   "new_links": 50
+  },
+  {
+   "site": "SDNA",
+   "checked": 40,
+   "found": 1,
+   "error": "",
+   "new_links": 77,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Sport24",
+   "checked": 40,
+   "found": 0,
+   "error": "",
+   "new_links": 40
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 40,
+   "found": 2,
+   "error": "",
+   "new_links": 50,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Telesport",
+   "checked": 10,
+   "found": 1,
+   "error": "",
+   "new_links": 10
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 36,
+   "found": 2,
+   "error": "",
+   "new_links": 36,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "new_links": 5
+  },
+  {
+   "site": "Encestando",
+   "checked": 8,
+   "found": 0,
+   "error": "",
+   "new_links": 8
+  },
+  {
+   "site": "Marca",
+   "checked": 37,
+   "found": 0,
+   "error": "",
+   "new_links": 52,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Mundo Deportivo",
+   "checked": 40,
+   "found": 1,
+   "error": "",
+   "new_links": 73,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 40,
+   "found": 3,
+   "error": "",
+   "new_links": 55,
+   "skipped_nba": 3
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 40,
+   "found": 0,
+   "error": "",
+   "new_links": 50
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 10,
+   "found": 0,
+   "error": "",
+   "new_links": 10
+  },
+  {
+   "site": "Basket.zoznam.sk",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "new_links": 6
+  },
+  {
+   "site": "Dnevnik.si",
+   "checked": 12,
+   "found": 0,
+   "error": "",
+   "new_links": 12
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 27,
+   "found": 3,
+   "error": "",
+   "new_links": 27,
+   "skipped_nba": 1
+  },
+  {
+   "site": "Basketball.hr",
+   "checked": 19,
+   "found": 0,
+   "error": "",
+   "new_links": 19
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 8,
+   "found": 0,
+   "error": "",
+   "new_links": 8,
+   "skipped_nba": 1
+  },
+  {
+   "site": "SportoweFakty",
+   "checked": 24,
+   "found": 0,
+   "error": "",
+   "new_links": 24,
+   "skipped_nba": 2
+  }
+ ],
+ "items": [
+  {
+   "id": "21f27508c580",
+   "url": "https://www.basketnews.lt/news-258967-selsmas-zalgirio-rubineje-lojimai-juokeliai-apie-atlyginima-ir-linkejimas-kapitonui.html#utm_medium=rss&utm_content=news",
+   "title": "Šėlsmas „Žalgirio“ rūbinėje – lojimai, juokeliai apie atlyginimą ir linkėjimas kapitonui",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "alga",
+    "atlyginim"
+   ],
+   "snippets": [
+    "Jonui į pagalbą dar kartą prisistatė Grigonis, kuris aukštaūgiui grąžino skolą, mat JV prieš mėnesį Barselonoje siūlė pakelti atlyginimą Mariui .",
+    "Šįkart identišką pasiūlymą pateikė gynėjas: „Tai tada algą jam pakelkite!“.",
+    "„Tai algą pakelkite, jeigu mėgaujuosi, – toliau kikeno Jonas, tačiau netrukus surimtėjo."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4e47e86b231d",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/zalgirio-rubineje-juokas-ir-nuostaba-sukeles-pakartotas-ulanovo-rekordas-kiek-1362-2800900?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "„Žalgirio“ rūbinėje – juokas ir nuostabą sukėlęs pakartotas Ulanovo rekordas: „Kiek?!“",
+   "site": "15min 24sek",
+   "country": "Turkey",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "alga",
+    "algos"
+   ],
+   "snippets": [
+    "Lojimas, džiaugsmas, šmaikštavimai dėl algos pakėlimo ir linkėjimai Edgarui Ulanovui skambėjo Kauno „Žalgirio“ rūbinėje po užtikrintos pergalės prieš Stambulo „Bešiktaš“.",
+    "– Tai gal algą pakelkite?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "21da21322096",
+   "url": "https://www.eurohoops.net/en/proa/2031363/nadir-hifi-is-reportedly-the-only-player-in-the-french-league-with-a-1m-euros-salary/",
+   "title": "Nadir Hifi is reportedly the only player in the French league with a 1M euros salary",
+   "site": "Eurohoops EN",
+   "country": "France",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budget",
+    "salar"
+   ],
+   "snippets": [
+    "With Monaco out of the picture and ASVEL not being able to have a really high budget, only one player is getting a relatively big contract in France according to \"Maxi Basket\"",
+    "French basketball magazine “Maxi Basket” presents a full list of the contracts in the French league with the two EuroLeague clubs dominating the Top20 salaries and only one player, Nadir Hifi, getting paid a one-million euros annual net salary.",
+    "According to the report, out of the top 23 salaries, 2 belong to the players of Paris Basketball and LDLC ASVEL, which are the two EuroLeague teams of the country,"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Elan Chalon",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,339,000 €, salary budget 1,893,000 €",
+      "25/26: budget 7,188,000 €, salary budget 2,034,000 €",
+      "24/25: budget 6,175,000 €, salary budget 1,806,000 €",
+      "player rows: 26/27 (12), 25/26 (13), 24/25 (10)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jeremiah Hill",
+     "sheet": [
+      "26/27 Elan Chalon: 250,000 €",
+      "25/26 Elan Chalon: 250,000 €",
+      "24/25 Elan Chalon: 150,000 €"
+     ]
+    },
+    {
+     "name": "Nadir Hifi",
+     "sheet": [
+      "26/27 Paris Basketball: 1,100,000 €",
+      "25/26 Paris Basketball: 1,000,000 €",
+      "24/25 Paris Basketball: 250,000 €",
+      "23/24 Paris Basketball: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8e91af6b5611",
+   "url": "https://www.eurohoops.net/tr/proa-tr/2031373/fransa-liginde-maasi-1-milyonu-gecen-tek-oyuncu-var/",
+   "title": "Fransa Ligi’nde Maaşı 1 Milyonu Geçen Tek Oyuncu Var",
+   "site": "Eurohoops TR",
+   "country": "France",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "butce",
+    "maas",
+    "maasi"
+   ],
+   "snippets": [
+    "Listenin zirvesinde, ligde yıllık 1 milyon euro net maaş barajına ulaşan tek isim olan Nadir Hifi bulunuyor.",
+    "Maaş bütçelerindeki makas o kadar açık ki, ligde en çok kazanan ilk 23 oyuncunun 22’si Paris Basketball ve LDLC ASVEL forması giyiyor."
+   ],
+   "amounts": [
+    "1 Milyonu",
+    "1 milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Nadir Hifi",
+     "sheet": [
+      "26/27 Paris Basketball: 1,100,000 €",
+      "25/26 Paris Basketball: 1,000,000 €",
+      "24/25 Paris Basketball: 250,000 €",
+      "23/24 Paris Basketball: 175,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "96b293bde018",
+   "url": "https://www.sdna.gr/mpasket/1484134_niklas-moy-aresoyn-oi-nees-prokliseis-opos-ayti-sti-soyidia",
+   "title": "Νίκλας: «Μου αρέσουν οι νέες προκλήσεις όπως αυτή στη Σουηδία»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Δεν το είχε πετύχει ακόμα, αλλά ήδη από εκείνη τη χρονιά φαινόταν ότι το μπάτζετ θα ήταν πολύ υψηλό."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "060ba3cd8f59",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2584237/h-epomeni-mera-toy-ellinikoy-mpasket-mia-kayti-patata-poy-den-thelei",
+   "title": "H επόμενη μέρα του ελληνικού μπάσκετ: Μία «καυτή πατάτα» που δεν θέλει κανείς ή μύθος;",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Για το τέλος αφήσαμε τις πηγές εκείνες που χωρίς ακόμη να επιβεβαιώνονται, αναφέρουν την πρόθεση της Πολιτείας να αναζητησει υποφήφιο κοινής αποδοχής που θα εγγυηθεί την ενότητα, θα μπορεσει να διασφαλίσει την ομαλή μετάβαση στην μετά Λιόλιου εποχή και θα ηγηθεί της ομοσπονδίας μέχρι τις επόμενες…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6f9f60595542",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2584201/mia-dikaii-kai-epofelis-lysi-gia-ari-kai-politeia",
+   "title": "Μια δίκαιη και επωφελής λύση για Άρη και Πολιτεία",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Όπως είναι αλήθεια ότι έως το 2025, η ΚΑΕ Άρης δεν είχε την οικονομική δυναμική για να προχωρήσει στην αποδοχή των όρων που περιγράφονται στους όρους του άρθρου που τέθηκε προς δημόσια διαβούλευση.",
+    "Πώς θα αναλάμβανε έξοδα συντήρησης 350.000-400.000 ευρώ όταν τόσος ήταν και ο αγωνιστικός προϋπολογισμός της; Ουσιαστικά θα «έθαβε» τις ελπίδες της στα θεμέλια του Παλέ."
+   ],
+   "amounts": [
+    "400.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "aa4de7ab01fd",
+   "url": "https://telesport.rs/2026/11/06/zvezda-srusila-brata-koloko-i-dzons-udruzenim-snagama/",
+   "title": "Zvezda srušila brata, Koloko i Džons udruženim snagama! - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "zaradio"
+   ],
+   "snippets": [
+    "Prišunjao se iza leđa Nvora i ukrao posed, Barcokas je zbog prigovora zaradio tehničku."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bd615181a8f3",
+   "url": "http://sportacentrs.com/basketbols/eirokausi/06112026-cik_janis_gailitis_pelna_darba_francija",
+   "title": "Cik Jānis Gailītis pelna trenera darbā Francijā?",
+   "site": "Sportacentrs",
+   "country": "France",
+   "published": "2026-11-06",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "alga",
+    "algas",
+    "algu",
+    "atalgojum",
+    "budzet"
+   ],
+   "snippets": [
+    "Gandrīz puse no leģēndārā Tonija Pārkera algas",
+    "Gailītis ar šādu atalgojumu dala septīto vietu starp 16 Francijas augstākās līgas vislabāk atalgotajiem galvenajiem treneriem.",
+    "Saraksta līderis ir Vilerbānas ASVEL galvenais treneris Tonijs Pārkers, kura atalgojums tiek lēsts 250 tūkstošu eiro apmērā — nedaudz vairāk nekā divreiz lielāks par Gailīša algu."
+   ],
+   "amounts": [
+    "250 tūkst",
+    "1,2 miljonu",
+    "200 tūkst",
+    "160 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "JL Bourg Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 8,160,000 €, salary budget 2,334,000 €",
+      "25/26: budget 8,122,000 €, salary budget 2,300,000 €",
+      "24/25: budget 7,806,000 €, salary budget 2,359,000 €",
+      "player rows: 26/27 (13), 25/26 (13), 24/25 (12)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Janis Gailitis",
+     "sheet": [
+      "26/27 SIG Strasbourg: 120,000 €",
+      "25/26 SIG Strasbourg: 100,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "b2a5b6de373f",
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261105/1004247678/objetivo-barca-maccabi-quiere-deshacerse-jugador-mejor-pagado.html",
+   "title": "Fue objetivo del Barça: el Maccabi quiere deshacerse de su jugador mejor pagado",
+   "site": "Mundo Deportivo",
+   "country": "Israel",
+   "published": "2026-11-05",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "por temporada",
+    "salar"
+   ],
+   "snippets": [
+    "Los salarios del Maccabi Tel Aviv: Theis, el mejor pagado",
+    "Este pobre rendimiento ha provocado que, según una información de Walla Sport, el club israelí ya esté estudiando un posible traspaso de Theis si algún otro equipo está dispuesto a hacerse cargo de su elevado contrato, de dos años por un valor aproximado de 4,5 millones de dólares, en torno a los…",
+    "Su pobre rendimiento está muy lejos del elevado salario que cobra en Israel, pero no será fácil que algún otro equipo se atreva a asumir las elevadas cantidades del contrato del alemán."
+   ],
+   "amounts": [
+    "4,5 millones",
+    "2,2 millones"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (16), 25/26 (16), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9f6ce5c8236d",
+   "url": "http://sportacentrs.com/basketbols/damas/05112026-aigars_nerips_paraksim_dzilak_esam_loti_m",
+   "title": "Aigars Nerips: \"Paraksim dziļāk – esam ļoti maz bijuši kopā\"",
+   "site": "Sportacentrs",
+   "country": "Lithuania",
+   "published": "2026-11-05",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "platu"
+   ],
+   "snippets": [
+    "novembrī, izcīnītā uzvara ļāva spert platu soli pretī dalībai izslēgšanas spēlēs."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Umana Reyer Venezia",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 11,000,000 €, salary budget 7,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 11,840,000 €, salary budget 8,160,000 €",
+      "player rows: 25/26 (2), 21/22 (1), 17/18 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bbe17096f08c",
+   "url": "http://sportacentrs.com/basketbols/eirokausi/05112026-skuja_par_dalibu_eirokausa_slodze_ir_juta",
+   "title": "Skuja par dalību Eirokausā: \"Slodze ir jūtama, un sezonas gaitā būs vēl trakāk\"",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-05",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Augstāki budžeti, dārgāki spēlētāji un lielāka meistarība,\" viņš turpināja."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Rigas Zelli",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,500,000 €, salary budget 1,200,000 €",
+      "25/26: budget 950,000 €, salary budget 560,000 €",
+      "24/25: budget 750,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e012ca065149",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/objavljene-plate-igraca-asvela-krauder-igra-za-samo-250000-peti-mils-i-bolomboj-imaju-po-800000/558187",
+   "title": "Objavljene plate igrača Asvela: Krauder igra za samo 250.000, Peti Mils i Bolomboj imaju po 800.000 | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "France",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budzet",
+    "plata",
+    "plate",
+    "platu"
+   ],
+   "snippets": [
+    "Ipak, nakon što je Asvel tokom leta morao značajno da koriguje budžet, nekadašnji as San Antonija odlučio je da se odrekne ogromnog dela ugovorenih primanja.",
+    "Sam Parker je u razgovoru za Ekip otkrio da je pristao na petostruko manju platu, a razlog nije bio nimalo sebičan.",
+    "Ukupno za plate igrača Asvel izdvaja 7.880.000 evra godišnje."
+   ],
+   "amounts": [
+    "7.880.000 evra",
+    "250.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "1d881c3aea9d",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/olimpija-trazi-centra-majk-tobi-nije-u-opticaju-tajsa-koci-plata-od-2400000-evra/558115",
+   "title": "Olimpija traži centra: Majk Tobi nije u opticaju, Tajsa koči plata od 2.400.000 evra | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "plata",
+    "platu"
+   ],
+   "snippets": [
+    "Tajs ima potpisanu dvogodišnju saradnju sa šestostrukim prvakom Evrope i to za godišnju platu od 2.400.000 evra, što je veliki finansijski izdatak i otežava bilo kakve pregovore između njega, Makabija i Olimpije."
+   ],
+   "amounts": [
+    "2.400.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2832842bec7f",
+   "url": "https://ekipa.svet24.si/sport/kosarka/liga-aba/aleksandar-vucic-srbija-crvena-zvezda-sponzor-alta-banka-1937493",
+   "title": "Vučićev padec že zarezal v srbski šport, tole se je zgodilo Crveni zvezdi",
+   "site": "Ekipa Svet24",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "proracun"
+   ],
+   "snippets": [
+    "Stečaj Alta banke pa je močno zarezal tudi v proračun košarkarskega kluba Crvena zvezda.",
+    "Proračun košarkarskega kluba Crvena zvezda, ki sicer uspešno igra v evroligi, naj bi znašal več kot 20 milijonov evrov."
+   ],
+   "amounts": [
+    "1,7 milijona",
+    "20 milijonov"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f6408b4f2721",
+   "url": "https://ekipa.svet24.si/sport/kosarka/slovenija-ostalo-kosarka/cedevita-olimpija-tortona-eurocup-1938355",
+   "title": "Olimpija po muki do evropske zmage - Mitrović pa izgubil živce nad sodniki",
+   "site": "Ekipa Svet24",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "proracun"
+   ],
+   "snippets": [
+    "Sicer je vedno realistični Zvezdan Mitrović takoj dal vedeti tudi, da ima italijanska zasedba mnogo višji proračun in da do zdaj ni nastopala po pričakovanjih."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Zvezdan Mitrovič",
+     "sheet": [
+      "21/22 AS Monaco Basket: 250,000 €",
+      "20/21 AS Monaco Basket: 240,000 €",
+      "19/20 ASVEL Basket: 240,000 €",
+      "17/18 AS Monaco Basket: 180,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "fdc89132717c",
+   "url": "https://ekipa.svet24.si/sport/kosarka/slovenija-ostalo-kosarka/olimpija-razglasila-rekord-stozice-razkrile-resnico-kaj-se-res-dogaja-kosarka-tekma-eurocup-1938233",
+   "title": "Olimpija o rekordu, Stožice pa z neprijetno resnico. Kaj se res dogaja?",
+   "site": "Ekipa Svet24",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "plat"
+   ],
+   "snippets": [
+    "Dokler bodo prazni sedeži tako opazni, bo rekordna prodaja vstopnic ostajala le ena plat precej bolj zapletene zgodbe."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  }
+ ]
+}
