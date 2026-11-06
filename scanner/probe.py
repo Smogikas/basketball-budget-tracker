@@ -81,7 +81,6 @@ def probe(url):
         for sm in out["robots_sitemaps"]:
             if "news" in sm.lower():
                 candidates.append(sm)
-        out["robots_blocks_all"] = bool(re.search(r"(?ims)user-agent:\s*\*\s*(?:\n(?!user-agent).*)*?\ndisallow:\s*/\s*$", robots.text))
     for c in candidates:
         if c in tried:
             continue
