@@ -1,0 +1,487 @@
+[
+ {
+  "site": "Sportando",
+  "page1_links": 56,
+  "working": []
+ },
+ {
+  "site": "BasketNews.lt",
+  "page1_links": 148,
+  "working": []
+ },
+ {
+  "site": "BasketNews.com",
+  "page1_links": 144,
+  "working": [
+   {
+    "template": "https://basketnews.com/?page={n}",
+    "page2_new": 84,
+    "page5_new": 0,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
+     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
+    ]
+   },
+   {
+    "template": "https://basketnews.com/?p={n}",
+    "page2_new": 84,
+    "page5_new": 0,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
+     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
+    ]
+   },
+   {
+    "template": "https://basketnews.com/?pg={n}",
+    "page2_new": 84,
+    "page5_new": 0,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
+     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
+    ]
+   },
+   {
+    "template": "https://basketnews.com/?strana={n}",
+    "page2_new": 84,
+    "page5_new": 0,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
+     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
+    ]
+   },
+   {
+    "template": "https://basketnews.com/?pagina={n}",
+    "page2_new": 84,
+    "page5_new": 0,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
+     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Krepsinis.net",
+  "page1_links": 92,
+  "working": []
+ },
+ {
+  "site": "15min 24sek",
+  "page1_links": 101,
+  "working": []
+ },
+ {
+  "site": "PianetaBasket",
+  "page1_links": 1033,
+  "working": []
+ },
+ {
+  "site": "Israel Hayom",
+  "page1_links": 0,
+  "working": []
+ },
+ {
+  "site": "Sport5",
+  "page1_links": 11,
+  "working": []
+ },
+ {
+  "site": "Basketfaul",
+  "page1_links": 0,
+  "working": []
+ },
+ {
+  "site": "Basket Dergisi",
+  "page1_links": 50,
+  "working": [
+   {
+    "template": "https://basketdergisi.com/feed?paged={n}",
+    "page2_new": 6,
+    "page5_new": 8,
+    "page2_dates": [
+     "2026-11-06",
+     "2026-11-05"
+    ],
+    "page5_dates": [
+     "2026-11-02",
+     "2026-10-31"
+    ],
+    "page5_sample": [
+     "https://basketdergisi.com/doncic-bir-ilki-basardi-lakers-kazanmaya-devam-ediyor.html",
+     "https://basketdergisi.com/fenerbahce-evinde-galip-geldi.html"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "TrendBasket",
+  "page1_links": 25,
+  "working": [
+   {
+    "template": "https://trendbasket.net/feed/?paged={n}",
+    "page2_new": 10,
+    "page5_new": 10,
+    "page2_dates": [
+     "2026-10-27",
+     "2026-10-21"
+    ],
+    "page5_dates": [
+     "2026-07-17",
+     "2026-06-30"
+    ],
+    "page5_sample": [
+     "https://trendbasket.net/can-pelister-klutch-sports-groupun-avrupa-yapilanmasinda-onemli-goreve-getirildi/",
+     "https://trendbasket.net/marcus-bingham-fenerbahcede/"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Eurohoops EN",
+  "page1_links": 84,
+  "working": []
+ },
+ {
+  "site": "Eurohoops GR",
+  "page1_links": 98,
+  "working": [
+   {
+    "template": "https://www.eurohoops.net/el/feed/?paged={n}",
+    "page2_new": 7,
+    "page5_new": 18,
+    "page2_dates": [
+     "2026-11-06",
+     "2026-11-05"
+    ],
+    "page5_dates": [
+     "2026-11-04",
+     "2026-11-03"
+    ],
+    "page5_sample": [
+     "https://www.eurohoops.net/el/fiba-champions-league-el/2030569/aek-me-ouiliams-ke-nolei-kontra-stin-falko/",
+     "https://www.eurohoops.net/el/ellada/2030566/eok-episima-i-ekloges-stis-20-dekemvriou-apoklistika-dia-zosis/"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Eurohoops TR",
+  "page1_links": 87,
+  "working": [
+   {
+    "template": "https://www.eurohoops.net/tr/feed/?paged={n}",
+    "page2_new": 9,
+    "page5_new": 14,
+    "page2_dates": [
+     "2026-11-06",
+     "2026-11-05"
+    ],
+    "page5_dates": [
+     "2026-11-03",
+     "2026-11-02"
+    ],
+    "page5_sample": [
+     "https://www.eurohoops.net/tr/nba-news-tr/2030066/sakatliklar-indianayi-paramparca-etti-nbade-78-yil-sonra-bir-ilk/",
+     "https://www.eurohoops.net/tr/nba-news-tr/2030057/eski-nba-oyuncusundan-tuhaf-savunma-ilk-cinsel-iliskim-beyaz-bir-kizlaydi-neden-irkci-olayim/"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Athletiko",
+  "page1_links": 68,
+  "working": [
+   {
+    "template": "https://www.athletiko.gr/mpasket?page={n}",
+    "page2_new": 5,
+    "page5_new": 16,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://www.athletiko.gr/giannakopoylos-se-nan-re-kentrik-pos-toys-113903",
+     "https://www.athletiko.gr/i-alli-opsi-toy-diploy-toy-panathinaikoy-sti-madriti-kai-ta-panigyria-me-ton-kosmo-video-photos-113896"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "SDNA",
+  "page1_links": 335,
+  "working": []
+ },
+ {
+  "site": "Sport24",
+  "page1_links": 39,
+  "working": [
+   {
+    "template": "https://www.sport24.gr/basket/?page={n}",
+    "page2_new": 29,
+    "page5_new": 0,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://www.sport24.gr/basket/ntok-rivers-gia-antetokounmpo-den-diathetei-ipsilo-basketiko-iq",
+     "https://www.sport24.gr/basket/paok-oi-efxes-ton-paikton-tou-dikefalou-ston-osman-gia-taxeia-anarrosi"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Gazzetta.gr",
+  "page1_links": 84,
+  "working": [
+   {
+    "template": "https://www.gazzetta.gr/basketball?page={n}",
+    "page2_new": 28,
+    "page5_new": 30,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://www.gazzetta.gr/basketball/nba/live-ntitroit-pistons-filadelfeia-siksers-perigrafi-05-11-2026",
+     "https://www.gazzetta.gr/basketball/euroleague/2583763/real-madritis-panathinaikos-112-115-ta-highlights-tis-anametrisis"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Telesport",
+  "page1_links": 20,
+  "working": [
+   {
+    "template": "https://telesport.rs/category/kosarka/feed/?paged={n}",
+    "page2_new": 10,
+    "page5_new": 10,
+    "page2_dates": [
+     "2026-11-06",
+     "2026-11-05"
+    ],
+    "page5_dates": [
+     "2026-11-03",
+     "2026-11-02"
+    ],
+    "page5_sample": [
+     "https://telesport.rs/2026/11/03/janaj-najavio-bombu-i-pecnuo-zvezdu/",
+     "https://telesport.rs/2026/11/03/martinez-ima-jako-losu-i-dobru-vest-u-susret-zvezdi/"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Mozzart Sport",
+  "page1_links": 36,
+  "working": []
+ },
+ {
+  "site": "Meridian Sport",
+  "page1_links": 31,
+  "working": [
+   {
+    "template": "https://meridiansport.rs/kosarka/page/{n}/",
+    "page2_new": 19,
+    "page5_new": 19,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://meridiansport.rs/kosarka/dordevic-obradovic-prica-partizan",
+     "https://meridiansport.rs/kosarka/partizan-aba-liga-sut-evroliga"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Encestando",
+  "page1_links": 57,
+  "working": []
+ },
+ {
+  "site": "Marca",
+  "page1_links": 151,
+  "working": []
+ },
+ {
+  "site": "Mundo Deportivo",
+  "page1_links": 133,
+  "working": []
+ },
+ {
+  "site": "Sportacentrs",
+  "page1_links": 208,
+  "working": [
+   {
+    "template": "https://sportacentrs.com/basketbols/?page={n}",
+    "page2_new": 99,
+    "page5_new": 99,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://sportacentrs.com/basketbols/eirokausi/13102026-zalgiris_pec_kapuma_barselona_ielaiz_99_p",
+     "https://sportacentrs.com/basketbols/latvijas_turniri/13102026-vieni_no_galvenajiem_zelta_medalu_pretend"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Bild Basketball",
+  "page1_links": 213,
+  "working": []
+ },
+ {
+  "site": "Basketball Sphere",
+  "page1_links": 48,
+  "working": [
+   {
+    "template": "https://basketballsphere.com/en/feed/?paged={n}",
+    "page2_new": 8,
+    "page5_new": 9,
+    "page2_dates": [
+     "2026-11-06",
+     "2026-11-06"
+    ],
+    "page5_dates": [
+     "2026-11-06",
+     "2026-11-06"
+    ],
+    "page5_sample": [
+     "https://basketballsphere.com/en/nba-player-props-nov-06-2026/",
+     "https://basketballsphere.com/en/nba-acca-of-the-day-nov-06-2026/"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Basket.zoznam.sk",
+  "page1_links": 98,
+  "working": []
+ },
+ {
+  "site": "Dnevnik.si",
+  "page1_links": 43,
+  "working": []
+ },
+ {
+  "site": "Ekipa Svet24",
+  "page1_links": 25,
+  "working": []
+ },
+ {
+  "site": "Basketball.hr",
+  "page1_links": 19,
+  "working": [
+   {
+    "template": "https://basketball.hr/?page={n}",
+    "page2_new": 8,
+    "page5_new": 8,
+    "page2_dates": [
+     null,
+     null
+    ],
+    "page5_dates": [
+     null,
+     null
+    ],
+    "page5_sample": [
+     "https://basketball.hr/vijesti/cibona-u-petak-docekuje-igokeu-u-subotu-gostuje-u-splitu/20773",
+     "https://basketball.hr/vijesti/tomas-pozvao-navijace-ljudi-nisu-svjesni-koliko-igracima-znacajan-huk-s-tribina/20772"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "Z Krainy NBA",
+  "page1_links": 28,
+  "working": [
+   {
+    "template": "https://zkrainynba.com/feed/?paged={n}",
+    "page2_new": 11,
+    "page5_new": 12,
+    "page2_dates": [
+     "2026-11-02",
+     "2026-10-29"
+    ],
+    "page5_dates": [
+     "2026-10-10",
+     "2026-10-03"
+    ],
+    "page5_sample": [
+     "https://zkrainynba.com/trazarien-white-przedstawil-sie-73-punkty-w-jednym-tygodniu/",
+     "https://zkrainynba.com/najciekawsze-transfery-miedzy-klubami-plk/"
+    ]
+   }
+  ]
+ },
+ {
+  "site": "SportoweFakty",
+  "page1_links": 89,
+  "working": []
+ }
+]
