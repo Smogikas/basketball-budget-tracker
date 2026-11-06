@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Budget Article Finder</title>
+<meta name="theme-color" content="#0a1020">
+<style>
+  :root {
+    --bg: #0a1020; --panel: #121a2e; --panel-2: #18223a; --line: #26324f;
+    --text: #e6ebf5; --muted: #8f9bb6; --accent: #f28c28; --accent-2: #3b82f6;
+    --budget: #22c55e; --salary: #a78bfa; --warn: #f59e0b; --danger: #ef4444;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding: 20px 16px 8px; max-width: 1400px; margin: 0 auto; }
+  h1 { margin: 0 0 4px; font-size: 22px; }
+  h1 span { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; }
+  .bar { max-width: 1400px; margin: 12px auto; padding: 0 16px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .bar input[type=search], .bar select { background: var(--panel); color: var(--text); border: 1px solid var(--line);
+    border-radius: 8px; padding: 8px 10px; font: inherit; }
+  .bar input[type=search] { flex: 1 1 220px; min-width: 0; }
+  .bar label { color: var(--muted); font-size: 13px; display: flex; gap: 6px; align-items: center; }
+  .count { margin-left: auto; color: var(--muted); font-size: 13px; }
+  .notice { max-width: 1400px; margin: 0 auto 8px; padding: 0 16px; }
+  .notice div { background: #2a1f0a; border: 1px solid #5c4413; color: #f5d08a; border-radius: 8px; padding: 8px 12px; font-size: 13px; margin-bottom: 6px; }
+  main { max-width: 1400px; margin: 0 auto; padding: 0 16px 40px; }
+  table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  th, td { text-align: left; vertical-align: top; padding: 10px; border-bottom: 1px solid var(--line); }
+  th { background: var(--panel-2); color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
+  tr.rejected { opacity: .4; }
+  td.date { white-space: nowrap; color: var(--muted); font-size: 13px; }
+  .title { font-weight: 600; margin-bottom: 4px; }
+  .site { color: var(--muted); font-size: 12px; }
+  .snip { color: #c8d0e2; font-size: 13.5px; margin: 4px 0 0; padding-left: 10px; border-left: 2px solid var(--line); }
+  .amounts { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 4px; }
+  .chip { display: inline-block; border-radius: 999px; padding: 1px 8px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+  .amt { background: #2b2210; color: #ffcf8a; }
+  .t-Budget { background: #0f2e1c; color: var(--budget); }
+  .t-Salary { background: #241b3d; color: var(--salary); }
+  .nba { background: #3b1414; color: #fca5a5; }
+  .season { background: #10223f; color: #93c5fd; }
+  .team { font-weight: 600; }
+  .sheet { font-size: 12.5px; color: var(--muted); }
+  .sheet b { color: var(--text); font-weight: 600; }
+  .sheet ul { margin: 2px 0 6px; padding-left: 16px; }
+  .none { color: var(--warn); font-size: 12.5px; }
+  .btn { display: inline-block; border: 0; border-radius: 8px; padding: 7px 12px; font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; text-decoration: none; white-space: nowrap; }
+  .btn-src { background: var(--accent-2); color: #fff; }
+  .btn-rej { background: transparent; color: var(--danger); border: 1px solid #5b2323; margin-top: 6px; }
+  .btn-rej:hover { background: #2a1010; }
+  .actions { display: flex; flex-direction: column; align-items: stretch; }
+  .empty { text-align: center; color: var(--muted); padding: 40px 10px; }
+  footer { max-width: 1400px; margin: 0 auto; padding: 0 16px 30px; color: var(--muted); font-size: 12px; }
+  footer details { margin-top: 6px; }
+  @media (max-width: 860px) {
+    table, tbody, tr, td { display: block; width: 100%; }
+    thead { display: none; }
+    table { background: none; border: 0; }
+    tr { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; margin-bottom: 10px; padding: 6px 2px; }
+    td { border: 0; padding: 4px 10px; }
+    td[data-l]::before { content: attr(data-l); display: block; color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .04em; }
+    .actions { flex-direction: row; gap: 8px; }
+    .btn-rej { margin-top: 0; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Budget <span>Article Finder</span></h1>
+  <div class="sub" id="updated">Loading…</div>
+</header>
+<div class="notice" id="notice"></div>
+<div class="bar">
+  <input type="search" id="q" placeholder="Search title, team, player, text…">
+  <select id="country"><option value="">All countries</option></select>
+  <select id="type"><option value="">Budget + Salary</option><option>Budget</option><option>Salary</option></select>
+  <label><input type="checkbox" id="hidenba"> Hide NBA-flagged</label>
+  <label><input type="checkbox" id="showrej"> Show rejected</label>
+  <span class="count" id="count"></span>
+</div>
+<main>
+  <table>
+    <thead><tr>
+      <th>Date</th><th>Country</th><th>Team</th><th>What's mentioned</th><th>In your sheet</th><th></th>
+    </tr></thead>
+    <tbody id="rows"></tbody>
+  </table>
+</main>
+<footer>
+  Articles are found by keywords only, so some will not be relevant. "Reject" hides a row in this browser only.
+  <details><summary>Last scan details</summary><div id="run"></div></details>
+</footer>
+<script>
+const KEY = "bbt-rejected";
+let items = [], rejected = new Set();
+try { rejected = new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch (e) {}
+const saveRejected = () => { try { localStorage.setItem(KEY, JSON.stringify([...rejected])); } catch (e) {} };
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const $ = id => document.getElementById(id);
+
+function safeUrl(u) { try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : "#"; } catch (e) { return "#"; } }
+
+function sheetCell(it) {
+  let h = "";
+  for (const t of it.teams || []) h += `<div class="sheet"><b>${esc(t.name)}</b><ul>${t.sheet.map(l => `<li>${esc(l)}</li>`).join("")}</ul></div>`;
+  for (const p of it.players || []) h += `<div class="sheet"><b>${esc(p.name)}</b><ul>${p.sheet.map(l => `<li>${esc(l)}</li>`).join("")}</ul></div>`;
+  return h || `<span class="none">No team or player from your sheet found</span>`;
+}
+
+function row(it) {
+  const isRej = rejected.has(it.id);
+  const teams = (it.teams || []).map(t => `<div class="team">${esc(t.name)}</div>`).join("") || `<span class="sub">—</span>`;
+  const chips = (it.type || []).map(t => `<span class="chip t-${esc(t)}">${esc(t)}</span>`).join(" ")
+    + (it.seasons || []).map(s => ` <span class="chip season">${esc(s)}</span>`).join("")
+    + (it.nba ? ` <span class="chip nba">NBA mentioned</span>` : "");
+  const amounts = (it.amounts || []).length ? `<div class="amounts">${it.amounts.map(a => `<span class="chip amt">${esc(a)}</span>`).join("")}</div>` : "";
+  const snips = (it.snippets || []).map(s => `<p class="snip">${esc(s)}</p>`).join("");
+  return `<tr class="${isRej ? "rejected" : ""}">
+    <td class="date" data-l="Date">${esc(it.published || it.found)}</td>
+    <td data-l="Country">${esc(it.country || "—")}</td>
+    <td data-l="Team">${teams}</td>
+    <td data-l="What's mentioned">
+      <div class="title">${esc(it.title)}</div>
+      <div class="site">${esc(it.site)} · ${chips}</div>
+      ${amounts}${snips}
+    </td>
+    <td data-l="In your sheet">${sheetCell(it)}</td>
+    <td><div class="actions">
+      <a class="btn btn-src" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">Open source</a>
+      <button class="btn btn-rej" data-id="${esc(it.id)}">${isRej ? "Restore" : "Reject"}</button>
+    </div></td>
+  </tr>`;
+}
+
+function render() {
+  const q = $("q").value.trim().toLowerCase(), c = $("country").value, t = $("type").value;
+  const showRej = $("showrej").checked, hideNba = $("hidenba").checked;
+  const list = items.filter(it =>
+    (showRej || !rejected.has(it.id)) &&
+    (!c || it.country === c) &&
+    (!t || (it.type || []).includes(t)) &&
+    (!hideNba || !it.nba) &&
+    (!q || JSON.stringify([it.title, it.site, it.snippets, it.teams, it.players]).toLowerCase().includes(q)));
+  $("rows").innerHTML = list.map(row).join("") ||
+    `<tr><td colspan="6" class="empty">${items.length ? "Nothing matches these filters." : "No articles found yet. They will appear after the next daily scan."}</td></tr>`;
+  const open = items.filter(it => !rejected.has(it.id)).length;
+  $("count").textContent = `${list.length} shown · ${open} to review`;
+}
+
+$("rows").addEventListener("click", e => {
+  const b = e.target.closest(".btn-rej"); if (!b) return;
+  const id = b.dataset.id;
+  rejected.has(id) ? rejected.delete(id) : rejected.add(id);
+  saveRejected(); render();
+});
+["q", "country", "type", "showrej", "hidenba"].forEach(id => $(id).addEventListener("input", render));
+
+fetch("data/articles.json?" + Date.now()).then(r => r.json()).then(d => {
+  items = d.items || [];
+  $("updated").textContent = d.updated ? `Last scan: ${new Date(d.updated).toLocaleString()}` : "Not scanned yet";
+  const countries = [...new Set(items.map(i => i.country).filter(Boolean))].sort();
+  $("country").insertAdjacentHTML("beforeend", countries.map(x => `<option>${esc(x)}</option>`).join(""));
+  $("notice").innerHTML = (d.warnings || []).map(w => `<div>${esc(w)}</div>`).join("")
+    + (d.run || []).filter(r => r.error).map(r => `<div>${esc(r.site)}: ${esc(r.error)}</div>`).join("");
+  $("run").innerHTML = (d.run || []).map(r => `${esc(r.site)}: ${r.checked} articles checked, ${r.found} found${r.error ? " — error" : ""}`).join("<br>") || "No sites configured yet.";
+  render();
+}).catch(() => { $("updated").textContent = "Could not load data/articles.json"; render(); });
+</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "_help": "Add one entry per website. type: rss | sitemap | listing. For 'listing', link_pattern is a regular expression the article links must match. country is used when no team from your sheet is found in the article. Set enabled to false to pause a site.",
+  "max_articles_per_site": 40,
+  "max_age_days": 3,
+  "sites": [
+    {
+      "name": "Example (disabled)",
+      "country": "France",
+      "type": "rss",
+      "url": "https://www.example.com/rss.xml",
+      "link_pattern": "",
+      "enabled": false
+    }
+  ]
+}
