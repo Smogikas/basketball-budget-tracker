@@ -2,14 +2,14 @@ name: Daily scan
 
 on:
   schedule:
-    - cron: "23 4 * * *"   # every day 04:23 UTC (06:23 Vilnius in winter, 07:23 in summer)
-  workflow_dispatch:        # "Run workflow" button in the Actions tab
+    - cron: "17 */2 * * *"   # every 2 hours at :17 (only new articles)
+  workflow_dispatch:          # "Run workflow" button in the Actions tab
 
 permissions:
   contents: write
 
 concurrency:
-  group: scan
+  group: scan                 # never runs at the same time as a backfill
   cancel-in-progress: false
 
 jobs:
@@ -34,6 +34,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Daily scan $(date -u +%F)"
+            git commit -m "Scan $(date -u '+%F %H:%M')"
+            git pull --rebase -X theirs || true
             git push
           fi

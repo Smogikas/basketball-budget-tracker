@@ -1,0 +1,49 @@
+name: Backfill (one-off history)
+
+# Reads older articles back to a start date, in ~45-minute chunks that are
+# saved as they go. Progress is kept in data/backfill.json, so starting it
+# again continues where it stopped. Run it once; regular scans then read only
+# new articles.
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Start date (YYYY-MM-DD)"
+        default: "2026-10-01"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Read history in chunks
+        env:
+          BACKFILL_SINCE: ${{ inputs.since }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          for chunk in 1 2 3 4 5 6 7; do
+            echo "::group::Chunk $chunk"
+            timeout 50m python scanner/scan.py || true
+            echo "::endgroup::"
+            git add data
+            git diff --cached --quiet || git commit -m "Backfill since $BACKFILL_SINCE, chunk $chunk"
+            git pull --rebase -X theirs || true
+            git push || true
+            left=$(python -c "import json;print(len(json.load(open('data/backfill.json')).get('remaining',[1])))")
+            echo "Sites not finished: $left"
+            [ "$left" = "0" ] && break
+          done

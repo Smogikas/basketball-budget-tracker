@@ -467,37 +467,37 @@ def load_sheet(fetcher, warnings):
 
 # ---------------------------------------------------- finding new articles
 
-def discover(fetcher, site):
-    """Return a list of (url, published datetime or None)."""
-    kind = site.get("type", "rss")
-    r = fetcher.get(site["url"])
+def discover(fetcher, site, url=None):
+    """Article links on one page: a feed, a sitemap or an HTML section page
+    (detected from the content). Returns a list of (url, published or None)."""
+    r = fetcher.get(url or site["url"])
+    head = r.content[:800].lower()
     found = []
-    if kind == "rss":
+    if b"<rss" in head or b"<feed" in head or b"<rdf" in head:
         soup = BeautifulSoup(r.content, "xml")
         for item in soup.find_all(["item", "entry"]):
             link = item.find("link")
-            url = (link.get("href") or link.text).strip() if link else ""
+            u = (link.get("href") or link.text).strip() if link else ""
             date_tag = item.find(["pubDate", "published", "updated", "dc:date", "date"])
-            found.append((url, parse_date(date_tag.text) if date_tag else None))
-    elif kind == "sitemap":
+            found.append((u, parse_date(date_tag.text) if date_tag else None))
+    elif b"<urlset" in head or b"<sitemapindex" in head:
         soup = BeautifulSoup(r.content, "xml")
         children = soup.find_all("sitemap")
         if children:  # sitemap index: read the newest few sitemaps
-            children.sort(key=lambda s: s.find("lastmod").text if s.find("lastmod") else "", reverse=True)
+            children.sort(key=lambda c: c.find("lastmod").text if c.find("lastmod") else "", reverse=True)
             for child in children[:3]:
-                found += discover(fetcher, {**site, "url": child.find("loc").text.strip()})
+                found += discover(fetcher, site, child.find("loc").text.strip())
         for u in soup.find_all("url"):
             loc = u.find("loc")
             date_tag = u.find(["publication_date", "news:publication_date", "lastmod"])
             if loc:
                 found.append((loc.text.strip(), parse_date(date_tag.text) if date_tag else None))
-    else:  # listing page
+    else:  # HTML section page
         soup = BeautifulSoup(r.text, "lxml")
-        pattern = site.get("link_pattern")
         for a in soup.find_all("a", href=True):
-            url = urljoin(r.url, a["href"]).split("#")[0]
-            if article_like(url, r.url):
-                found.append((url.rstrip("/") + ("/" if url.endswith("/") else ""), None))
+            u = urljoin(r.url, a["href"]).split("#")[0]
+            if article_like(u, r.url):
+                found.append((u, None))
         # same article linked with and without a trailing slash -> keep one
         found = list({u.rstrip("/"): (u, d) for u, d in found}.values())
     pattern = site.get("link_pattern")
@@ -509,6 +509,19 @@ def discover(fetcher, site):
             seen.add(u)
             unique.append((u, d))
     return unique
+
+
+def page_urls(site, first_page=1):
+    """Page 1 is the site's feed/section; older pages use its next_page template."""
+    n = first_page
+    while True:
+        if n == 1:
+            yield 1, site["url"]
+        elif site.get("next_page"):
+            yield n, site["next_page"].format(n=n)
+        else:
+            return
+        n += 1
 
 
 def main_text(root):
@@ -617,8 +630,10 @@ def analyse(title, text, kw):
 
 # ------------------------------------------------------------------- main
 
-SITE_TIME_LIMIT = 300    # seconds per website
-RUN_TIME_LIMIT = 1200    # seconds for the whole scan (workflow limit is 30 min)
+SITE_TIME_LIMIT = 300        # seconds per website (regular run)
+RUN_TIME_LIMIT = 1200        # seconds for the whole regular run (workflow limit is 30 min)
+BACKFILL_SITE_TIME = 2400    # seconds per website in one backfill chunk
+BACKFILL_RUN_TIME = 2600     # seconds per backfill chunk
 
 
 class Rules:
@@ -638,86 +653,157 @@ class Rules:
         return bool(any_match(self.nba_names, n) or any_match(self.nba_team_words, n))
 
 
-def scan_site(site, rules, sheet, seen, settings):
-    """Check one website. Returns (new items, stats, URLs checked)."""
-    now, today = settings["now"], settings["today"]
+def process_article(site, url, listed_date, fetcher, rules, sheet, settings, stats):
+    """Read one article. Returns (item or None, published date or None)."""
+    try:
+        title, published, text = read_article(fetcher, url)
+    except Exception as e:
+        print(f"[{site['name']}] could not read {url}: {e}", file=sys.stderr, flush=True)
+        return None, None
+    stats["checked"] += 1
+    date = published or listed_date
+    if date and date < settings["since"]:
+        return None, date                     # older than the period we look at
+    if any_match(rules.skip_title, norm(title)):
+        return None, date
+    text_n = norm(title + "\n" + text)
+    # General news sites: the article must be about basketball.
+    if site.get("general") and not any_match(rules.basketball_words, text_n):
+        return None, date
+    result = analyse(title, text, rules.kw)
+    if not result:
+        return None, date
+    # Skip articles about NBA teams/contracts: an NBA team in the title
+    # and no team from your sheet in the title ("Lakers sign X").
+    # "Former NBA player joins Rytas" is kept.
+    title_teams = [t for t in sheet.match(title)[0] if not rules.is_nba_team(t)]
+    if any_match(rules.nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
+        stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
+        return None, date
+    context = result.pop("_context")
+    teams, players = sheet.match(title + "\n" + context)
+    # NBA salary story with no non-NBA club near the money words -> skip
+    # (e.g. "Porzingis could lose $16M"); "Former NBA player joins Rytas" stays.
+    nba = bool(any_match(rules.flags, text_n)) or any(rules.is_nba_team(t) for t in teams)
+    # Greek/Hebrew text can't match the Latin team names in the sheet,
+    # so for those articles only the NBA label is set.
+    if nba and latin_share(title) > 0.5 and not [t for t in teams if not rules.is_nba_team(t)]:
+        stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
+        return None, date
+    if not teams and not players:
+        teams, players = sheet.match(title + "\n" + text)
+        teams, players = teams[:3], players[:3]
+    team_info = [{"name": t, "country": sheet.team_country.get(t, ""),
+                  "sheet": sheet.team_summary(t)} for t in teams[:6]]
+    player_info = []
+    for p in players[:8]:
+        name, lines = sheet.player_summary(p)
+        player_info.append({"name": name, "sheet": lines})
+    country = next((t["country"] for t in team_info if t["country"]), "") or site.get("country", "")
+    item = {
+        "id": hashlib.sha1(url.encode()).hexdigest()[:12],
+        "url": url, "title": title, "site": site["name"], "country": country,
+        "published": date.date().isoformat() if date else "",
+        "found": settings["today"],
+        **result,
+        "teams": team_info, "players": player_info, "nba": nba,
+    }
+    return item, date
+
+
+def scan_site(site, rules, sheet, seen, settings, state=None):
+    """Check one website, newest page first.
+
+    Normal run: stop at the first page with nothing new (everything on it was
+    checked before) - so only new articles are read.
+    Backfill run: keep going to older pages until articles are older than the
+    start date, then mark the site done; the page reached is saved in `state`
+    so the next chunk continues there.
+    Returns (new items, stats, URLs checked)."""
     started = time.time()
+    backfill = settings["backfill"]
     fetcher = Fetcher()
-    stats = {"site": site["name"], "checked": 0, "found": 0, "error": ""}
-    items, checked_urls = [], []
+    stats = {"site": site["name"], "checked": 0, "found": 0, "error": "", "pages": 0,
+             "oldest": "", "stop": ""}
+    items, checked_urls, done_here = [], [], set()
+    first_page = state.get("page", 1) if (backfill and state) else 1
     try:
         if not fetcher.allowed(site["url"]):
             raise RuntimeError("robots.txt does not allow reading this page")
-        candidates = discover(fetcher, site)
     except Exception as e:
-        stats["error"] = str(e)[:200]
-        print(f"[{site['name']}] ERROR {e}", file=sys.stderr, flush=True)
+        stats["error"] = stats["stop"] = str(e)[:200]
+        if backfill and state is not None:
+            state.update(done=True, stop=stats["stop"])
         return items, stats, checked_urls
-    candidates = [(u, d) for u, d in candidates
-                  if u not in seen and (d is None or now - d <= settings["max_age"])]
-    stats["new_links"] = len(candidates)
-    for url, listed_date in candidates[:settings["max_per_site"]]:
-        if time.time() - started > SITE_TIME_LIMIT:
-            stats["error"] = "stopped early (time limit); the rest is checked next run"
+    oldest = None
+    for page_no, page_url in page_urls(site, first_page):
+        if page_no - first_page >= settings["max_pages"]:
+            stats["stop"] = "page limit"
             break
-        checked_urls.append(url)
-        if not fetcher.allowed(url):
-            continue
+        if time.time() - started > settings["site_time"]:
+            stats["stop"] = "time limit (continues next run)"
+            break
         try:
-            title, published, text = read_article(fetcher, url)
+            links = discover(fetcher, site, page_url)
         except Exception as e:
-            print(f"[{site['name']}] could not read {url}: {e}", file=sys.stderr, flush=True)
-            continue
-        stats["checked"] += 1
-        if any_match(rules.skip_title, norm(title)):
-            continue
-        text_n = norm(title + "\n" + text)
-        # General news sites: the article must be about basketball.
-        if site.get("general") and not any_match(rules.basketball_words, text_n):
-            continue
-        result = analyse(title, text, rules.kw)
-        if not result:
-            continue
-        # Skip articles about NBA teams/contracts: an NBA team in the title
-        # and no team from your sheet in the title ("Lakers sign X").
-        # "Former NBA player joins Rytas" is kept.
-        title_teams = [t for t in sheet.match(title)[0] if not rules.is_nba_team(t)]
-        if any_match(rules.nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
-            stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
-            continue
-        context = result.pop("_context")
-        teams, players = sheet.match(title + "\n" + context)
-        # NBA salary story with no non-NBA club near the money words -> skip
-        # (e.g. "Porzingis could lose $16M"); "Former NBA player joins Rytas" stays.
-        nba = bool(any_match(rules.flags, text_n)) or any(rules.is_nba_team(t) for t in teams)
-        # Greek/Hebrew text can't match the Latin team names in the sheet,
-        # so for those articles only the NBA label is set.
-        if nba and latin_share(title) > 0.5 and not [t for t in teams if not rules.is_nba_team(t)]:
-            stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
-            continue
-        if not teams and not players:
-            teams, players = sheet.match(title + "\n" + text)
-            teams, players = teams[:3], players[:3]
-        team_info = [{"name": t, "country": sheet.team_country.get(t, ""),
-                      "sheet": sheet.team_summary(t)} for t in teams[:6]]
-        player_info = []
-        for p in players[:8]:
-            name, lines = sheet.player_summary(p)
-            player_info.append({"name": name, "sheet": lines})
-        country = next((t["country"] for t in team_info if t["country"]), "") or site.get("country", "")
-        date = published or listed_date
-        items.append({
-            "id": hashlib.sha1(url.encode()).hexdigest()[:12],
-            "url": url, "title": title, "site": site["name"], "country": country,
-            "published": date.date().isoformat() if date else "",
-            "found": today,
-            **result,
-            "teams": team_info, "players": player_info,
-            "nba": nba,
-        })
-        stats["found"] += 1
-    print(f"[{site['name']}] {stats['checked']} checked, {stats['found']} found "
-          f"({time.time() - started:.0f}s)", flush=True)
+            if page_no == 1:
+                stats["error"] = str(e)[:200]
+            stats["stop"] = f"page {page_no} failed: {str(e)[:80]}"
+            break
+        stats["pages"] += 1
+        fresh = [(u, d) for u, d in links if u not in seen and u not in done_here
+                 and not (d and d < settings["since"])]
+        if not links or (page_no > 1 and not fresh and not backfill):
+            stats["stop"] = "no more pages" if not links else "reached articles checked before"
+            break
+        page_dates = [d for _, d in links if d]
+        stopped_by_time = False
+        for url, listed_date in fresh:
+            if stats["checked"] >= settings["max_per_site"]:
+                stats["stop"] = "article limit"
+                break
+            if time.time() - started > settings["site_time"]:
+                stopped_by_time = True
+                break
+            if listed_date and listed_date < settings["since"]:
+                continue
+            done_here.add(url)
+            checked_urls.append(url)
+            if not fetcher.allowed(url):
+                continue
+            item, date = process_article(site, url, listed_date, fetcher, rules, sheet, settings, stats)
+            if date:
+                page_dates.append(date)
+            if item:
+                items.append(item)
+                stats["found"] += 1
+        if page_dates:
+            page_oldest = min(page_dates)
+            oldest = page_oldest if not oldest else min(oldest, page_oldest)
+        if stopped_by_time:
+            stats["stop"] = "time limit (continues next run)"
+            break                              # this page is redone next chunk
+        if stats["stop"] == "article limit":
+            break
+        if backfill and state is not None:
+            state["page"] = page_no + 1
+        # whole page older than the start date -> nothing older is needed
+        if page_dates and sorted(page_dates)[len(page_dates) // 2] < settings["since"]:
+            stats["stop"] = "reached start date"
+            break
+        if not fresh and not backfill:
+            stats["stop"] = "reached articles checked before"
+            break
+    else:
+        stats["stop"] = stats["stop"] or "no older pages"
+    if not stats["stop"]:
+        stats["stop"] = "no older pages"
+    stats["oldest"] = oldest.date().isoformat() if oldest else ""
+    if backfill and state is not None:
+        state["done"] = not stats["stop"].startswith("time limit")
+        state["stop"], state["oldest"] = stats["stop"], stats["oldest"] or state.get("oldest", "")
+    print(f"[{site['name']}] pages {stats['pages']}, {stats['checked']} checked, {stats['found']} found, "
+          f"oldest {stats['oldest']}, stop: {stats['stop']} ({time.time() - started:.0f}s)", flush=True)
     return items, stats, checked_urls
 
 
@@ -731,9 +817,20 @@ def main():
     previous = load_json(out_path, {"items": []})
     seen = load_json(seen_path, {})
     now = now_utc()
-    settings = {"now": now, "today": now.date().isoformat(),
-                "max_per_site": sites_cfg.get("max_articles_per_site", 40),
-                "max_age": dt.timedelta(days=sites_cfg.get("max_age_days", 3))}
+    since_env = os.environ.get("BACKFILL_SINCE", "").strip()
+    backfill = bool(since_env)
+    settings = {"now": now, "today": now.date().isoformat(), "backfill": backfill}
+    if backfill:   # one-off history run, in chunks; progress in data/backfill.json
+        settings.update(since=dt.datetime.fromisoformat(since_env).replace(tzinfo=dt.timezone.utc),
+                        max_per_site=100000, max_pages=400, site_time=BACKFILL_SITE_TIME)
+    else:          # regular run: only new articles
+        settings.update(since=now - dt.timedelta(days=sites_cfg.get("max_age_days", 3)),
+                        max_per_site=sites_cfg.get("max_articles_per_site", 150),
+                        max_pages=sites_cfg.get("max_pages", 10), site_time=SITE_TIME_LIMIT)
+    state_path = os.path.join(DATA, "backfill.json")
+    bstate = load_json(state_path, {}) if backfill else {}
+    if backfill and bstate.get("since") != since_env:
+        bstate = {"since": since_env, "sites": {}}
 
     warnings = []
     sites = [s for s in sites_cfg.get("sites", []) if s.get("enabled", True)]
@@ -741,8 +838,13 @@ def main():
 
     # Different websites are read at the same time; each one slowly, one page at a time.
     pool = ThreadPoolExecutor(max_workers=8)
-    futures = [(s, pool.submit(scan_site, s, rules, sheet, seen, settings)) for s in sites]
-    wait([f for _, f in futures], timeout=RUN_TIME_LIMIT)
+    if backfill:
+        sites = [s for s in sites if not bstate["sites"].get(s["name"], {}).get("done")]
+        for s in sites:
+            bstate["sites"].setdefault(s["name"], {"page": 1})
+    futures = [(s, pool.submit(scan_site, s, rules, sheet, seen, settings,
+                               bstate["sites"][s["name"]] if backfill else None)) for s in sites]
+    wait([f for _, f in futures], timeout=BACKFILL_RUN_TIME if backfill else RUN_TIME_LIMIT)
     new_items, run = [], []
     for site, f in futures:
         if f.done() and not f.exception():
@@ -767,6 +869,11 @@ def main():
     save_json(out_path, {"updated": now.isoformat(timespec="minutes"), "warnings": warnings,
                          "run": run, "items": items})
     save_json(seen_path, dict(sorted(seen.items())))
+    if backfill:
+        remaining = [n for n, st in bstate["sites"].items() if not st.get("done")]
+        bstate["remaining"] = remaining
+        save_json(state_path, bstate)
+        print(f"Backfill: {len(remaining)} sites not finished yet: {remaining}", flush=True)
     print(f"Done: {len(new_items)} new, {len(items)} on the page", flush=True)
     os._exit(0)  # don't wait for a thread stuck on a hanging site
 
