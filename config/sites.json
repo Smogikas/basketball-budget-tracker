@@ -28,7 +28,7 @@
     {"name": "Marca", "country": "Spain", "type": "rss", "url": "https://www.marca.com/rss/googlenews/baloncesto.xml", "section": "https://www.marca.com/baloncesto.html"},
     {"name": "Mundo Deportivo", "country": "Spain", "type": "rss", "url": "https://www.mundodeportivo.com/feed/rss/baloncesto", "section": "https://www.mundodeportivo.com/baloncesto"},
     {"name": "Sportacentrs", "country": "Latvia", "type": "rss", "url": "https://sportacentrs.com/static/non-publish/rss/sc/basketbols/rss.xml", "section": "https://sportacentrs.com/basketbols/"},
-    {"name": "Bild Basketball", "country": "Germany", "type": "listing", "url": "https://www.bild.de/sport/mehr-sport/basketball/startseite-sport-sport-mix-basketball-26394584.bild.html", "link_pattern": "/sport/mehr-sport/basketball/"},
+    {"name": "Bild Basketball", "country": "Germany", "type": "rss", "url": "https://www.bild.de/feed/sport-mix.xml", "section": "https://www.bild.de/sport/mehr-sport/basketball/startseite-sport-sport-mix-basketball-26394584.bild.html", "general": true},
     {"name": "Basketball Sphere", "country": "", "type": "rss", "url": "https://basketballsphere.com/en/feed/", "section": "https://basketballsphere.com/en/"},
     {"name": "Basket.zoznam.sk", "country": "Slovakia", "type": "rss", "url": "https://basket.zoznam.sk/feed/", "section": "https://basket.zoznam.sk/"},
     {"name": "Dnevnik.si", "country": "Slovenia", "type": "rss", "url": "https://www.dnevnik.si/sport/kosarka/rss.xml", "section": "https://www.dnevnik.si/sport/kosarka/"},

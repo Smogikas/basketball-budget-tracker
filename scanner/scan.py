@@ -65,6 +65,8 @@ ALIAS_STOPWORDS = {
     "lions", "bears", "united", "dragons", "giants", "eagles", "tigers", "sharks",
     "rockets", "kings", "warriors", "heroes", "titans", "energy", "capital",
     "telekom", "basketball", "baskets", "women", "juniors", "youth",
+    "latvijas", "lietuvos", "golden", "orange", "maccabi", "hapoel", "olympic",
+    "universitates", "universidad", "university", "school", "college",
 }
 
 SPECIAL_CHARS = str.maketrans({
@@ -352,13 +354,17 @@ class SheetIndex:
         self.team_country = {}
         self.player_rows = {}    # normalized name -> player rows
         self.player_count = {}   # (team norm, season) -> number of player rows
+        weak = {}               # single-word alias -> teams
         for b in budgets:
             canon = b["team"]
             self.team_rows.setdefault(canon, []).append(b)
             if b["country"]:
                 self.team_country.setdefault(canon, b["country"])
-            for alias in self.aliases(canon):
+            strong, single = self.aliases(canon)
+            for alias in strong:
                 self.team_alias.setdefault(alias, set()).add(canon)
+            for alias in single:
+                weak.setdefault(alias, set()).add(canon)
         for p in players:
             n = norm(p["name"])
             if len(n.split()) >= 2:
@@ -366,25 +372,32 @@ class SheetIndex:
             key = (norm(p["team"]), p["season"])
             self.player_count[key] = self.player_count.get(key, 0) + 1
             if p["team"] and p["team"] not in self.team_rows:
-                for alias in self.aliases(p["team"]):
+                strong, single = self.aliases(p["team"])
+                for alias in strong:
                     self.team_alias.setdefault(alias, set()).add(p["team"])
+                for alias in single:
+                    weak.setdefault(alias, set()).add(p["team"])
                 if p.get("country"):
                     self.team_country.setdefault(p["team"], p["country"])
+        # "Chalon" -> Elan Chalon is useful; "Bulls" -> 3 different clubs is not.
+        for alias, teams in weak.items():
+            if len(teams) == 1 and alias not in self.team_alias:
+                self.team_alias[alias] = teams
         self.max_words = max([len(a.split()) for a in self.team_alias] +
                              [len(a.split()) for a in self.player_rows] + [1])
 
     @staticmethod
     def aliases(team):
+        """(full-name aliases, single-word aliases) for a team name."""
         full = norm(team)
-        out = {full} if len(full) >= 4 else set()
+        strong = {full} if len(full) >= 4 else set()
         short = " ".join(w for w in full.split() if w not in GENERIC_TEAM_WORDS)
         if len(short) >= 5 and short not in ALIAS_STOPWORDS and not short.isdigit():
-            out.add(short)
+            strong.add(short)
         # single distinctive words, so "Chalon" finds "Elan Chalon"
-        for w in short.split():
-            if len(w) >= 5 and w not in ALIAS_STOPWORDS and not w.isdigit():
-                out.add(w)
-        return out
+        single = {w for w in short.split()
+                  if len(w) >= 5 and w not in ALIAS_STOPWORDS and not w.isdigit()} - strong
+        return strong, single
 
     def match(self, text):
         words = norm(text).split()
@@ -488,6 +501,21 @@ def discover(fetcher, site):
     return unique
 
 
+def main_text(root):
+    """Text of the element that holds the most paragraph text: the article
+    body, not sidebars or 'latest news' lists."""
+    scores = {}
+    for p in root.find_all("p"):
+        t = p.get_text(" ", strip=True)
+        if len(t) >= 40:
+            scores[id(p.parent)] = scores.get(id(p.parent), (p.parent, 0))
+            scores[id(p.parent)] = (p.parent, scores[id(p.parent)][1] + len(t))
+    if not scores:
+        return ""
+    best = max(scores.values(), key=lambda x: x[1])[0]
+    return "\n".join(p.get_text(" ", strip=True) for p in best.find_all(["p", "h2", "h3"]))
+
+
 def read_article(fetcher, url):
     r = fetcher.get(url)
     soup = BeautifulSoup(r.text, "lxml")
@@ -501,11 +529,9 @@ def read_article(fetcher, url):
         published = parse_date(soup.find("time", datetime=True)["datetime"])
     for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "figure"]):
         tag.decompose()
-    container = soup.find("article")
-    paragraphs = container.find_all(["p", "li", "h2", "h3"]) if container else []
-    text = "\n".join(p.get_text(" ", strip=True) for p in paragraphs)
-    if len(text) < 300:
-        text = "\n".join(p.get_text(" ", strip=True) for p in soup.find_all("p"))
+    text = main_text(soup.find("article") or soup)
+    if len(text) < 200 and soup.find("article"):
+        text = main_text(soup)
     description = meta("og:description", "description") or ""
     return title.strip(), published, (description + "\n" + text).replace("\xa0", " ")
 
@@ -535,7 +561,7 @@ def analyse(title, text, kw):
     """Return the keyword hits, snippets, amounts and seasons, or None."""
     sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+|\n+", text) if len(s.strip()) > 20]
     hits = {"Budget": set(), "Salary": set()}
-    snippets, amounts = [], []
+    snippets, amounts, context_parts = [], [], []
     for i, sentence in enumerate([title] + sentences):
         n = norm(sentence)
         matched = False
@@ -548,6 +574,7 @@ def analyse(title, text, kw):
             if i > 0 and len(snippets) < 3:
                 snippets.append(sentence if len(sentence) <= 300 else sentence[:297] + "…")
             context = sentence + " " + (sentences[i] if i < len(sentences) else "")
+            context_parts.append(context)
             for a in AMOUNT_RE.findall(context):
                 a = a.strip(" .,")
                 if a and a not in amounts and re.search(r"\d", a):
@@ -562,6 +589,7 @@ def analyse(title, text, kw):
         "type": [k for k in ("Budget", "Salary") if hits[k]],
         "keywords": sorted(hits["Budget"] | hits["Salary"]),
         "snippets": snippets, "amounts": amounts[:8], "seasons": seasons[:5],
+        "_context": "\n".join(context_parts),
     }
 
 
@@ -626,7 +654,11 @@ def scan_site(site, rules, sheet, seen, settings):
         if any_match(rules.nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
             stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
             continue
-        teams, players = sheet.match(title + "\n" + text)
+        context = result.pop("_context")
+        teams, players = sheet.match(title + "\n" + context)
+        if not teams and not players:
+            teams, players = sheet.match(title + "\n" + text)
+            teams, players = teams[:3], players[:3]
         team_info = [{"name": t, "country": sheet.team_country.get(t, ""),
                       "sheet": sheet.team_summary(t)} for t in teams[:6]]
         player_info = []
