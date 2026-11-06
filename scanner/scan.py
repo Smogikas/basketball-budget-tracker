@@ -511,8 +511,17 @@ def discover(fetcher, site, url=None):
     return unique
 
 
-def page_urls(site, first_page=1):
-    """Page 1 is the site's feed/section; older pages use its next_page template."""
+def page_urls(site, first_page=1, backfill=False):
+    """Page 1 is the site's feed/section; older pages use its next_page template.
+    In a backfill, a site's backfill_url (e.g. a big sitemap with dates, or a
+    list of monthly sitemaps) is used instead when it has one."""
+    if backfill and site.get("backfill_url"):
+        sources = site["backfill_url"]
+        sources = [sources] if isinstance(sources, str) else sources
+        for n, src in enumerate(sources, start=1):
+            if n >= first_page:
+                yield n, src
+        return
     n = first_page
     while True:
         if n == 1:
@@ -736,24 +745,34 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
             state.update(done=True, stop=stats["stop"])
         return items, stats, checked_urls
     oldest = None
-    for page_no, page_url in page_urls(site, first_page):
+    for page_no, page_url in page_urls(site, first_page, backfill):
         if page_no - first_page >= settings["max_pages"]:
             stats["stop"] = "page limit"
             break
         if time.time() - started > settings["site_time"]:
             stats["stop"] = "time limit (continues next run)"
             break
+        history_source = backfill and bool(site.get("backfill_url"))
         try:
             links = discover(fetcher, site, page_url)
         except Exception as e:
+            if history_source:                 # e.g. a monthly sitemap that doesn't exist
+                print(f"[{site['name']}] skipped {page_url}: {e}", file=sys.stderr, flush=True)
+                continue
             if page_no == 1:
                 stats["error"] = str(e)[:200]
             stats["stop"] = f"page {page_no} failed: {str(e)[:80]}"
             break
+        if history_source:
+            # sitemaps list the whole archive: only dated links in the period
+            links = [(u, d) for u, d in links if d and d >= settings["since"]]
         stats["pages"] += 1
         fresh = [(u, d) for u, d in links if u not in seen and u not in done_here
                  and not (d and d < settings["since"])]
-        if not links or (page_no > 1 and not fresh and not backfill):
+        if history_source:
+            if backfill and state is not None:
+                state["page"] = page_no        # resume at this sitemap next chunk
+        elif not links or (page_no > 1 and not fresh and not backfill):
             stats["stop"] = "no more pages" if not links else "reached articles checked before"
             break
         page_dates = [d for _, d in links if d]
@@ -787,6 +806,8 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
             break
         if backfill and state is not None:
             state["page"] = page_no + 1
+        if history_source:
+            continue                           # read every history sitemap listed
         # whole page older than the start date -> nothing older is needed
         if page_dates and sorted(page_dates)[len(page_dates) // 2] < settings["since"]:
             stats["stop"] = "reached start date"
@@ -796,6 +817,8 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
             break
     else:
         stats["stop"] = stats["stop"] or "no older pages"
+    if backfill and site.get("backfill_url") and stats["stop"] in ("", "no older pages"):
+        stats["stop"] = "all history sitemaps read"
     if not stats["stop"]:
         stats["stop"] = "no older pages"
     stats["oldest"] = oldest.date().isoformat() if oldest else ""

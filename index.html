@@ -93,6 +93,7 @@
 <footer>
   Articles are found by keywords only, so some will not be relevant. "Reject" hides a row in this browser only.
   <details><summary>Last scan details</summary><div id="run"></div></details>
+  <details id="bfbox" hidden><summary id="bfsum">History backfill</summary><div id="bf"></div></details>
 </footer>
 <script>
 const KEY = "bbt-rejected";
@@ -168,9 +169,19 @@ fetch("data/articles.json?" + Date.now()).then(r => r.json()).then(d => {
   $("country").insertAdjacentHTML("beforeend", countries.map(x => `<option>${esc(x)}</option>`).join(""));
   $("notice").innerHTML = (d.warnings || []).map(w => `<div>${esc(w)}</div>`).join("")
     + (d.run || []).filter(r => r.error).map(r => `<div>${esc(r.site)}: ${esc(r.error)}</div>`).join("");
-  $("run").innerHTML = (d.run || []).map(r => `${esc(r.site)}: ${r.checked} articles checked, ${r.found} found${r.error ? " — error" : ""}`).join("<br>") || "No sites configured yet.";
+  $("run").innerHTML = (d.run || []).map(r => `${esc(r.site)}: ${r.checked} articles checked, ${r.found} found` +
+    (r.pages ? `, ${r.pages} page(s)` : "") + (r.stop ? ` — ${esc(r.stop)}` : "") + (r.error ? " — error" : "")).join("<br>") || "No sites configured yet.";
   render();
 }).catch(() => { $("updated").textContent = "Could not load data/articles.json"; render(); });
+
+fetch("data/backfill.json?" + Date.now()).then(r => r.ok ? r.json() : null).then(b => {
+  if (!b || !b.sites) return;
+  const names = Object.keys(b.sites), left = names.filter(n => !b.sites[n].done);
+  $("bfbox").hidden = false;
+  $("bfsum").textContent = `History since ${b.since}: ${left.length ? left.length + " site(s) still running" : "finished"}`;
+  $("bf").innerHTML = names.map(n => { const s = b.sites[n];
+    return `${esc(n)}: ${s.done ? "done" : "in progress"}${s.oldest ? ", back to " + esc(s.oldest) : ""}${s.stop ? " — " + esc(s.stop) : ""}`; }).join("<br>");
+}).catch(() => {});
 </script>
 </body>
 </html>
