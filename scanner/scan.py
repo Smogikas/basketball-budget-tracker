@@ -226,7 +226,8 @@ def bounded_get(session, url, budget=20, max_bytes=5_000_000):
 class Fetcher:
     """requests session with robots.txt checks and a per-site delay."""
 
-    def __init__(self):
+    def __init__(self, delay=None):
+        self.delay = REQUEST_DELAY if delay is None else delay
         self.session = requests.Session()
         self.session.headers.update({
             "User-Agent": USER_AGENT,
@@ -249,7 +250,7 @@ class Fetcher:
 
     def get(self, url):
         host = urlparse(url).netloc
-        wait = REQUEST_DELAY - (time.time() - self.last_hit.get(host, 0))
+        wait = self.delay - (time.time() - self.last_hit.get(host, 0))
         if wait > 0:
             time.sleep(wait)
         self.last_hit[host] = time.time()
@@ -577,9 +578,12 @@ def latin_share(text):
 
 
 def compile_keywords(words):
-    """'word' = start of a word, 'word$' = whole word, '~word' = anywhere."""
+    """'word' = start of a word, 'word$' = whole word, '~word' = anywhere,
+    '+word' = counts only when the same sentence also has a sum of money."""
     out = []
     for w in words:
+        weak = w.startswith("+")
+        w = w.lstrip("+")
         anywhere, whole = w.startswith("~"), w.endswith("$")
         core = norm(w.strip("~$"))
         if not core:
@@ -587,12 +591,12 @@ def compile_keywords(words):
         rx = re.escape(core)
         if not anywhere:
             rx = r"(?<!\w)" + rx + (r"(?!\w)" if whole else "")
-        out.append((w.strip("~$"), re.compile(rx)))
+        out.append((w.strip("~$"), re.compile(rx), weak))
     return out
 
 
 def any_match(patterns, text_norm):
-    return [w for w, rx in patterns if rx.search(text_norm)]
+    return [w for w, rx, *_ in patterns if rx.search(text_norm)]
 
 
 def analyse(title, text, kw):
@@ -603,14 +607,17 @@ def analyse(title, text, kw):
     for i, sentence in enumerate([title] + sentences):
         n = norm(sentence)
         found = set()
-        for kind, key in (("Budget", "budget"), ("Salary", "salary"), ("Amount", "money")):
-            for word, rx in kw.get(key, []):
-                if rx.search(n):
+        money = [w for w, rx, _ in kw.get("money", []) if rx.search(n)]
+        if AMOUNT_RE.search(sentence):          # "€1.2M", "$300,000", "400 000 eurų"
+            money.append("sum of money")
+        if money:
+            hits["Amount"].update(money)
+            found.add("Amount")
+        for kind, key in (("Budget", "budget"), ("Salary", "salary")):
+            for word, rx, weak in kw.get(key, []):
+                if rx.search(n) and (money or not weak):
                     hits[kind].add(word)
                     found.add(kind)
-        if AMOUNT_RE.search(sentence):          # "€1.2M", "$300,000", "400 000 eurų"
-            hits["Amount"].add("sum of money")
-            found.add("Amount")
         if not found:
             continue
         if i > 0:
@@ -731,7 +738,7 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
     Returns (new items, stats, URLs checked)."""
     started = time.time()
     backfill = settings["backfill"]
-    fetcher = Fetcher()
+    fetcher = Fetcher(delay=site.get("delay", REQUEST_DELAY))
     stats = {"site": site["name"], "checked": 0, "found": 0, "error": "", "pages": 0,
              "oldest": "", "stop": ""}
     items, checked_urls, done_here = [], [], set()
@@ -761,7 +768,10 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
                 continue
             if page_no == 1:
                 stats["error"] = str(e)[:200]
-            stats["stop"] = f"page {page_no} failed: {str(e)[:80]}"
+            if re.search(r"HTTP (429|503)", str(e)):
+                stats["stop"] = f"site asked to slow down on page {page_no} (continues next run)"
+            else:
+                stats["stop"] = f"page {page_no} failed: {str(e)[:80]}"
             break
         if history_source:
             # sitemaps list the whole archive: only dated links in the period
@@ -823,7 +833,7 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
         stats["stop"] = "no older pages"
     stats["oldest"] = oldest.date().isoformat() if oldest else ""
     if backfill and state is not None:
-        state["done"] = not stats["stop"].startswith("time limit")
+        state["done"] = "continues next run" not in stats["stop"]
         state["stop"], state["oldest"] = stats["stop"], stats["oldest"] or state.get("oldest", "")
     print(f"[{site['name']}] pages {stats['pages']}, {stats['checked']} checked, {stats['found']} found, "
           f"oldest {stats['oldest']}, stop: {stats['stop']} ({time.time() - started:.0f}s)", flush=True)
