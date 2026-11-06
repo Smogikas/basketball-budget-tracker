@@ -120,7 +120,7 @@
   },
   "Encestando": {
    "page": 2,
-   "done": true,
+   "done": false,
    "stop": "page 2 failed: HTTP 429 for https://encestando.es/page/2/",
    "oldest": "2026-10-27"
   },
