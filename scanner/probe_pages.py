@@ -73,15 +73,41 @@ def candidates(site):
     return out
 
 
+def sitemaps_of(site):
+    """Sitemaps listed in robots.txt, with how many links and which dates they cover."""
+    from urllib.parse import urlparse
+    host = urlparse(site.get("section") if site.get("section", "").startswith("http") else site["url"])
+    out = []
+    try:
+        robots = bounded_get(S, f"{host.scheme}://{host.netloc}/robots.txt", budget=10).text
+    except Exception:
+        return out
+    for sm in re.findall(r"(?im)^sitemap:\s*(\S+)", robots)[:6]:
+        try:
+            r = bounded_get(S, sm, budget=20, max_bytes=8_000_000)
+            soup = BeautifulSoup(r.content, "xml")
+        except Exception:
+            continue
+        children = [c.find("loc").text.strip() for c in soup.find_all("sitemap") if c.find("loc")]
+        links, newest, oldest = links_on(sm, site.get("link_pattern", ""))
+        out.append({"sitemap": sm, "links": len(links), "dates": [newest, oldest],
+                    "children": children[:12], "children_total": len(children)})
+    return out
+
+
 def probe(site):
     pattern = site.get("link_pattern", "")
-    first = site.get("section") or site["url"]
-    p1, _, _ = links_on(site["url"] if site.get("type") != "listing" else first, pattern)
-    if site.get("type") != "listing" and first != site["url"] and " " not in first:
-        p1 += links_on(first, pattern)[0]
-    result = {"site": site["name"], "page1_links": len(p1), "working": []}
-    seen = set(u.rstrip("/") for u in p1)
+    section = site.get("section") or site["url"]
+    feed_links, f_new, f_old = links_on(site["url"], pattern)
+    if " " in section or section == site["url"]:
+        sec_links = feed_links
+    else:
+        sec_links = links_on(section, pattern)[0]
+    result = {"site": site["name"], "feed_links": len(feed_links), "feed_dates": [f_new, f_old],
+              "section_links": len(sec_links), "working": [], "sitemaps": sitemaps_of(site)}
     for tpl in candidates(site):
+        base = feed_links if tpl.startswith(site["url"]) else sec_links
+        seen = set(u.rstrip("/") for u in base)
         p2, new2, old2 = links_on(tpl.format(n=2), pattern)
         fresh2 = [u for u in p2 if u.rstrip("/") not in seen]
         if len(fresh2) < 5:
@@ -103,7 +129,7 @@ def main():
     sites = [s for s in cfg["sites"] if s.get("enabled", True)]
     pool = ThreadPoolExecutor(max_workers=8)
     futures = {s["name"]: pool.submit(probe, s) for s in sites}
-    wait(futures.values(), timeout=480)
+    wait(futures.values(), timeout=500)
     results = [f.result() if f.done() and not f.exception() else
                {"site": n, "error": "timed out" if not f.done() else str(f.exception())[:150]}
                for n, f in futures.items()]
