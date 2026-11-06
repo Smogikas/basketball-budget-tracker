@@ -106,7 +106,8 @@ def norm(text):
 
 NOT_ARTICLE = re.compile(
     r"/(tag|tags|category|categories|kategorija|author|autor|authors|page|search|login|"
-    r"register|video|videos|gallery|galerija|photo|foto|live|tv|wp-content|wp-admin)(/|$)|"
+    r"register|video|videos|gallery|galerija|photo|foto|live|tv|wp-content|wp-admin|"
+    r"komentari|comments|comentarios|kommentare|yorumlar)(/|$)|"
     r"\.(jpg|jpeg|png|gif|webp|svg|pdf|css|js|xml|mp4)$", re.I)
 
 
@@ -380,9 +381,11 @@ class SheetIndex:
                 if p.get("country"):
                     self.team_country.setdefault(p["team"], p["country"])
         # "Chalon" -> Elan Chalon is useful; "Bulls" -> 3 different clubs is not.
+        self.weak_aliases = set()
         for alias, teams in weak.items():
             if len(teams) == 1 and alias not in self.team_alias:
                 self.team_alias[alias] = teams
+                self.weak_aliases.add(alias)
         self.max_words = max([len(a.split()) for a in self.team_alias] +
                              [len(a.split()) for a in self.player_rows] + [1])
 
@@ -405,8 +408,15 @@ class SheetIndex:
         for n in range(1, self.max_words + 1):
             for i in range(len(words) - n + 1):
                 grams.add(" ".join(words[i:i + n]))
+        hits = grams & self.team_alias.keys()
+        weak_hits = hits & self.weak_aliases
+        if weak_hits:
+            # a one-word alias counts only when written with a capital letter
+            # ("Pazar" the club, not "pazar" = Sunday in Turkish)
+            capitalised = {norm(w) for w in re.findall(r"\w+", text) if w[:1].isupper()}
+            hits -= weak_hits - capitalised
         teams = set()
-        for g in grams & self.team_alias.keys():
+        for g in hits:
             teams |= self.team_alias[g]
         players = sorted(grams & self.player_rows.keys())
         return sorted(teams), players
@@ -607,6 +617,12 @@ class Rules:
                                                 for w in kw_cfg.get("nba_team_words", [])])
         self.flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
         self.basketball_words = compile_keywords(kw_cfg.get("basketball_words", []))
+        self.skip_title = compile_keywords(kw_cfg.get("skip_if_in_title", []))
+        self.nba_names = compile_keywords(kw_cfg.get("nba_team_names", []))
+
+    def is_nba_team(self, team):
+        n = norm(team)
+        return bool(any_match(self.nba_names, n) or any_match(self.nba_team_words, n))
 
 
 def scan_site(site, rules, sheet, seen, settings):
@@ -640,6 +656,8 @@ def scan_site(site, rules, sheet, seen, settings):
             print(f"[{site['name']}] could not read {url}: {e}", file=sys.stderr, flush=True)
             continue
         stats["checked"] += 1
+        if any_match(rules.skip_title, norm(title)):
+            continue
         text_n = norm(title + "\n" + text)
         # General news sites: the article must be about basketball.
         if site.get("general") and not any_match(rules.basketball_words, text_n):
@@ -650,12 +668,18 @@ def scan_site(site, rules, sheet, seen, settings):
         # Skip articles about NBA teams/contracts: an NBA team in the title
         # and no team from your sheet in the title ("Lakers sign X").
         # "Former NBA player joins Rytas" is kept.
-        title_teams, _ = sheet.match(title)
+        title_teams = [t for t in sheet.match(title)[0] if not rules.is_nba_team(t)]
         if any_match(rules.nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
             stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
             continue
         context = result.pop("_context")
         teams, players = sheet.match(title + "\n" + context)
+        # NBA salary story with no non-NBA club near the money words -> skip
+        # (e.g. "Porzingis could lose $16M"); "Former NBA player joins Rytas" stays.
+        nba = bool(any_match(rules.flags, text_n)) or any(rules.is_nba_team(t) for t in teams)
+        if nba and not [t for t in teams if not rules.is_nba_team(t)]:
+            stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
+            continue
         if not teams and not players:
             teams, players = sheet.match(title + "\n" + text)
             teams, players = teams[:3], players[:3]
@@ -674,7 +698,7 @@ def scan_site(site, rules, sheet, seen, settings):
             "found": today,
             **result,
             "teams": team_info, "players": player_info,
-            "nba": bool(any_match(rules.flags, text_n)),
+            "nba": nba,
         })
         stats["found"] += 1
     print(f"[{site['name']}] {stats['checked']} checked, {stats['found']} found "
