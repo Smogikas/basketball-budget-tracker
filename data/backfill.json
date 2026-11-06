@@ -2,10 +2,10 @@
  "since": "2026-10-01",
  "sites": {
   "Sportando": {
-   "page": 188,
-   "done": false,
-   "stop": "time limit (continues next run)",
-   "oldest": "2026-10-07"
+   "page": 228,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-30"
   },
   "BasketNews.lt": {
    "page": 2,
@@ -26,9 +26,9 @@
    "oldest": ""
   },
   "15min 24sek": {
-   "page": 4,
-   "done": false,
-   "stop": "time limit (continues next run)",
+   "page": 6,
+   "done": true,
+   "stop": "all history sitemaps read",
    "oldest": "2026-10-01"
   },
   "PianetaBasket": {
@@ -86,7 +86,10 @@
    "oldest": "2026-09-29"
   },
   "Athletiko": {
-   "page": 105
+   "page": 135,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-30"
   },
   "SDNA": {
    "page": 41,
@@ -101,7 +104,10 @@
    "oldest": "2026-11-06"
   },
   "Gazzetta.gr": {
-   "page": 17
+   "page": 50,
+   "done": false,
+   "stop": "time limit (continues next run)",
+   "oldest": "2026-10-19"
   },
   "Telesport": {
    "page": 56,
@@ -116,13 +122,16 @@
    "oldest": ""
   },
   "Meridian Sport": {
-   "page": 86
+   "page": 160,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-30"
   },
   "Encestando": {
-   "page": 2,
-   "done": false,
-   "stop": "page 2 failed: HTTP 429 for https://encestando.es/page/2/",
-   "oldest": "2026-10-27"
+   "page": 8,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2017-09-19"
   },
   "Marca": {
    "page": 2,
@@ -137,7 +146,10 @@
    "oldest": "2026-11-02"
   },
   "Sportacentrs": {
-   "page": 1
+   "page": 4,
+   "done": false,
+   "stop": "time limit (continues next run)",
+   "oldest": "2026-10-14"
   },
   "Bild Basketball": {
    "page": 2,
@@ -146,7 +158,10 @@
    "oldest": "2026-11-04"
   },
   "Basketball Sphere": {
-   "page": 31
+   "page": 149,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-30"
   },
   "Basket.zoznam.sk": {
    "page": 8,
@@ -167,7 +182,7 @@
    "oldest": ""
   },
   "Basketball.hr": {
-   "page": 21
+   "page": 231
   },
   "Z Krainy NBA": {
    "page": 8,
@@ -183,13 +198,8 @@
   }
  },
  "remaining": [
-  "Sportando",
-  "15min 24sek",
-  "Athletiko",
   "Gazzetta.gr",
-  "Meridian Sport",
   "Sportacentrs",
-  "Basketball Sphere",
   "Basketball.hr"
  ]
 }
