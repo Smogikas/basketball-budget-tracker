@@ -473,8 +473,10 @@ def discover(fetcher, site):
         pattern = site.get("link_pattern")
         for a in soup.find_all("a", href=True):
             url = urljoin(r.url, a["href"]).split("#")[0]
-            if pattern or article_like(url, r.url):
-                found.append((url, None))
+            if article_like(url, r.url):
+                found.append((url.rstrip("/") + ("/" if url.endswith("/") else ""), None))
+        # same article linked with and without a trailing slash -> keep one
+        found = list({u.rstrip("/"): (u, d) for u, d in found}.values())
     pattern = site.get("link_pattern")
     if pattern:
         found = [(u, d) for u, d in found if re.search(pattern, u)]
