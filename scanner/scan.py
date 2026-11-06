@@ -548,6 +548,12 @@ def read_article(fetcher, url):
 
 # ------------------------------------------------------ keyword matching
 
+def latin_share(text):
+    """Share of letters that are Latin after normalising (Cyrillic counts as Latin)."""
+    letters = [c for c in norm(text) if c.isalpha()]
+    return sum("a" <= c <= "z" for c in letters) / len(letters) if letters else 1.0
+
+
 def compile_keywords(words):
     """'word' = start of a word, 'word$' = whole word, '~word' = anywhere."""
     out = []
@@ -677,7 +683,9 @@ def scan_site(site, rules, sheet, seen, settings):
         # NBA salary story with no non-NBA club near the money words -> skip
         # (e.g. "Porzingis could lose $16M"); "Former NBA player joins Rytas" stays.
         nba = bool(any_match(rules.flags, text_n)) or any(rules.is_nba_team(t) for t in teams)
-        if nba and not [t for t in teams if not rules.is_nba_team(t)]:
+        # Greek/Hebrew text can't match the Latin team names in the sheet,
+        # so for those articles only the NBA label is set.
+        if nba and latin_share(title) > 0.5 and not [t for t in teams if not rules.is_nba_team(t)]:
             stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
             continue
         if not teams and not players:
