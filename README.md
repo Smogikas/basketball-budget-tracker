@@ -39,9 +39,14 @@ Edit `config/sites.json` on GitHub (pencil icon) and add an entry:
 
 ## Changing keywords
 
-Edit `config/keywords.json`. Words match the start of a word, ignoring case and accents
-(`salar` → salary, salaries, salario, salaire). Remove words that bring junk; add words you
-see in real articles.
+Edit `config/keywords.json`. Words match the start of a word, ignoring case and accents, so
+one entry covers every ending (`biudzet` → biudžetas, biudžetą, biudžeto, biudžetui…).
+`word$` = only that exact word (all forms listed), `~word` = anywhere in a word (Hebrew).
+
+- `budget` words → **Budget** label, `salary` words → **Salary** label
+- `money` words (euro, dollar, million, thousand in each language) and any € $ £ ₪ next to a
+  number → **Amount** label. Use the type filter "Budget or Salary" on the page to hide
+  articles that only mention a sum of money.
 
 ## Notes
 

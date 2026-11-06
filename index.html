@@ -40,6 +40,7 @@
   .amt { background: #2b2210; color: #ffcf8a; }
   .t-Budget { background: #0f2e1c; color: var(--budget); }
   .t-Salary { background: #241b3d; color: var(--salary); }
+  .t-Amount { background: #2b2210; color: #ffcf8a; }
   .nba { background: #3b1414; color: #fca5a5; }
   .season { background: #10223f; color: #93c5fd; }
   .team { font-weight: 600; }
@@ -76,7 +77,7 @@
 <div class="bar">
   <input type="search" id="q" placeholder="Search title, team, player, text…">
   <select id="country"><option value="">All countries</option></select>
-  <select id="type"><option value="">Budget + Salary</option><option>Budget</option><option>Salary</option></select>
+  <select id="type"><option value="">All types</option><option>Budget</option><option>Salary</option><option value="words">Budget or Salary</option><option value="Amount">Only a sum of money</option></select>
   <label><input type="checkbox" id="hidenba"> Hide NBA-flagged</label>
   <label><input type="checkbox" id="showrej"> Show rejected</label>
   <span class="count" id="count"></span>
@@ -141,7 +142,9 @@ function render() {
   const list = items.filter(it =>
     (showRej || !rejected.has(it.id)) &&
     (!c || it.country === c) &&
-    (!t || (it.type || []).includes(t)) &&
+    (!t || (t === "words" ? (it.type || []).some(x => x !== "Amount")
+           : t === "Amount" ? (it.type || []).every(x => x === "Amount")
+           : (it.type || []).includes(t))) &&
     (!hideNba || !it.nba) &&
     (!q || JSON.stringify([it.title, it.site, it.snippets, it.teams, it.players]).toLowerCase().includes(q)));
   $("rows").innerHTML = list.map(row).join("") ||

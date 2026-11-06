@@ -576,35 +576,41 @@ def any_match(patterns, text_norm):
 def analyse(title, text, kw):
     """Return the keyword hits, snippets, amounts and seasons, or None."""
     sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+|\n+", text) if len(s.strip()) > 20]
-    hits = {"Budget": set(), "Salary": set()}
-    snippets, amounts, context_parts = [], [], []
+    hits = {"Budget": set(), "Salary": set(), "Amount": set()}
+    word_snips, money_snips, amounts, context_parts = [], [], [], []
     for i, sentence in enumerate([title] + sentences):
         n = norm(sentence)
-        matched = False
-        for kind, patterns in (("Budget", kw["budget"]), ("Salary", kw["salary"])):
-            for word, rx in patterns:
+        found = set()
+        for kind, key in (("Budget", "budget"), ("Salary", "salary"), ("Amount", "money")):
+            for word, rx in kw.get(key, []):
                 if rx.search(n):
                     hits[kind].add(word)
-                    matched = True
-        if matched:
-            if i > 0 and len(snippets) < 3:
-                snippets.append(sentence if len(sentence) <= 300 else sentence[:297] + "…")
-            context = sentence + " " + (sentences[i] if i < len(sentences) else "")
-            context_parts.append(context)
-            for a in AMOUNT_RE.findall(context):
-                a = a.strip(" .,")
-                if a and a not in amounts and re.search(r"\d", a):
-                    amounts.append(a)
-    if not hits["Budget"] and not hits["Salary"]:
+                    found.add(kind)
+        if AMOUNT_RE.search(sentence):          # "€1.2M", "$300,000", "400 000 eurų"
+            hits["Amount"].add("sum of money")
+            found.add("Amount")
+        if not found:
+            continue
+        if i > 0:
+            snip = sentence if len(sentence) <= 300 else sentence[:297] + "…"
+            (word_snips if found - {"Amount"} else money_snips).append(snip)
+        context = sentence + " " + (sentences[i] if i < len(sentences) else "")
+        context_parts.append(context)
+        for a in AMOUNT_RE.findall(context):
+            a = a.strip(" .,")
+            if a and a not in amounts and re.search(r"\d", a):
+                amounts.append(a)
+    if not any(hits.values()):
         return None
     seasons = []
     for a, b in SEASON_RE.findall(title + " " + text):
         if (int(a) + 1) % 100 == int(b) and f"{a}/{b}" not in seasons:
             seasons.append(f"{a}/{b}")
     return {
-        "type": [k for k in ("Budget", "Salary") if hits[k]],
-        "keywords": sorted(hits["Budget"] | hits["Salary"]),
-        "snippets": snippets, "amounts": amounts[:8], "seasons": seasons[:5],
+        "type": [k for k in ("Budget", "Salary", "Amount") if hits[k]],
+        "keywords": sorted(hits["Budget"] | hits["Salary"] | hits["Amount"]),
+        # sentences with budget/salary words first, then sentences with only a sum
+        "snippets": (word_snips + money_snips)[:3], "amounts": amounts[:8], "seasons": seasons[:5],
         "_context": "\n".join(context_parts),
     }
 
@@ -618,7 +624,8 @@ RUN_TIME_LIMIT = 1200    # seconds for the whole scan (workflow limit is 30 min)
 class Rules:
     def __init__(self, kw_cfg):
         self.kw = {"budget": compile_keywords(kw_cfg.get("budget", [])),
-                   "salary": compile_keywords(kw_cfg.get("salary", []))}
+                   "salary": compile_keywords(kw_cfg.get("salary", [])),
+                   "money": compile_keywords(kw_cfg.get("money", []))}
         self.nba_team_words = compile_keywords([w if w.endswith("$") else w + "$"
                                                 for w in kw_cfg.get("nba_team_words", [])])
         self.flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
