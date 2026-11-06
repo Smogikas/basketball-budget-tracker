@@ -1,17 +1,35 @@
 {
-  "_help": "Words match at the start of a word, ignoring case and accents: 'salar' matches salary, salaries, salario, salaire. Write words lowercase without accents. 'budget' words and 'salary' words decide the Type column on the page. Remove words that bring too many wrong articles; add words you see in real articles.",
+  "_help": [
+    "Write words lowercase, without accents (Greek too: προυπολογισμ, not προϋπολογισμ). Serbian/Russian Cyrillic is turned into Latin before matching, so 'budzet' also finds 'буџет'.",
+    "A plain word matches the START of a word: 'salar' finds salary, salaries, salario, salariu.",
+    "'word$' matches only the whole word ('plat$' finds 'plat' but not 'platforma').",
+    "'~word' matches anywhere inside a word (used for Hebrew, where ה/ב/ל/ו/ש are glued to the front: 'התקציב').",
+    "budget and salary words decide the Budget / Salary label on the page."
+  ],
   "budget": [
-    "budget", "biudzet", "presupuest", "bilancio", "budzet", "butce", "proupologism",
-    "haushalt", "eelarv", "talousarvi", "begroting", "rozpocet", "proracun",
-    "masse salariale", "salary cap", "payroll", "wage bill", "monte ingaggi",
-    "tope salarial", "masa salarial", "gehaltsbudget", "spielerbudget", "spieleretat",
-    "algu fond", "darbo uzmokescio fond"
+    "budget", "biudzet", "presupuest", "bilancio", "budzet", "buget", "butce", "rozpocet",
+    "proracun", "eelarv", "talousarvi", "begroting", "haushalt", "spieleretat", "spielerbudget",
+    "gehaltsbudget", "masse salariale", "salary cap", "payroll", "wage bill", "monte ingaggi",
+    "tope salarial", "masa salarial", "algu fond", "darbo uzmokescio fond",
+    "προυπολογισμ", "μπατζετ", "~תקציב"
   ],
   "salary": [
-    "salar", "atlyginim", "uzdirb", "ingaggi", "stipendi", "sueldo", "gehalt",
-    "verdien", "palkk", "pensja", "zarobk", "earns", "earned", "earning",
-    "contract worth", "par mois", "net par", "per stagione", "por temporada"
+    "salar", "salaire", "atlyginim", "uzdirb", "alga$", "algos", "algas", "algu$", "atalgojum",
+    "ingaggi", "stipendi", "guadagn", "sueldo", "gehalt", "verdien", "maas$", "maasi", "ucret",
+    "plat$", "platu$", "platy$", "plata$", "plate$", "platom$", "zarad", "zarobk", "pensja",
+    "palkk", "earns", "earned", "earning", "contract worth", "per month", "par mois", "net par",
+    "per stagione", "por temporada", "pro saison",
+    "μισθ", "κασε", "αποδοχ", "~משכורת", "~שכר"
   ],
-  "exclude_if_in_title_or_url": ["nba", "wnba", "g league", "g-league", "summer league"],
-  "flag_if_in_text": ["nba"]
+  "basketball_words": [
+    "basket", "kosark", "krepsin", "basketbol", "euroleag", "eurolig", "eurocup", "korvpall",
+    "koripallo", "baschet", "μπασκετ", "ευρωλιγκ", "~כדורסל", "~יורוליג"
+  ],
+  "nba_team_words": [
+    "lakers", "celtics", "knicks", "bulls", "bucks", "76ers", "sixers", "raptors", "cavaliers",
+    "pistons", "pacers", "hornets", "wizards", "nuggets", "timberwolves", "blazers", "clippers",
+    "mavericks", "grizzlies", "pelicans", "spurs", "warriors", "nba draft", "nba contract",
+    "nba deal", "wnba", "g league", "summer league"
+  ],
+  "flag_if_in_text": ["nba", "νβα", "~אן בי איי"]
 }

@@ -69,10 +69,18 @@ SPECIAL_CHARS = str.maketrans({
     "ł": "l", "Ł": "l", "ø": "o", "Ø": "o", "đ": "d", "Đ": "d", "ß": "ss",
     "ı": "i", "æ": "ae", "œ": "oe", "þ": "th", "ð": "d", "’": "'", "\xa0": " ",
 })
+# Serbian / Russian Cyrillic -> Latin, so Latin keywords and team names match.
+CYRILLIC = dict(zip("абвгдежзиклмнопрстуфхцчшјћђ", "abvgdezziklmnoprstufhccsjcd"))
+CYRILLIC.update({"џ": "dz", "љ": "lj", "њ": "nj", "й": "j", "ы": "y", "э": "e", "ю": "ju",
+                 "я": "ja", "щ": "sc", "ъ": "", "ь": "", "ё": "e", "є": "e", "і": "i", "ї": "i"})
+CYRILLIC.update({k.upper(): v for k, v in list(CYRILLIC.items())})
+SPECIAL_CHARS.update(str.maketrans(CYRILLIC))
 
 AMOUNT_RE = re.compile(
     r"(?:[€$£]\s?\d[\d.,]*(?:\s\d{3})*(?:\s?(?:m|mln|million\w*|millones|milioni|milijon\w*|k|tūkst\.?|thousand|mil)\b)?"
-    r"|\d[\d.,]*(?:\s\d{3})*\s?(?:€|eur\b|euro\w*|eurų|\$|usd\b|dollars?\b|£|m€|k€|mln\.?|million\w*|millones|milioni|milijon\w*|tūkst\.?|thousand\b|mil\b))",
+    r"|\d[\d.,]*(?:\s\d{3})*\s?(?:€|eur\b|euro\w*|eurų|\$|usd\b|dollars?\b|£|m€|k€|mln\.?|million\w*|millones|milioni|milijon\w*|tūkst\.?|thousand\b|mil\b"
+    r"|milion\w*|miliard\w*|evra\b|evro\b|hiljad\w*|tisíc\w*|tis\.|tys\.|miljon\w*|miljoen\w*|bin\b|milyon\w*|lira\b|tl\b"
+    r"|ευρώ|εκατ\w*|χιλ\w*|евра|евро|милион\w*|хиљад\w*|מיליון|אלף|דולר|יורו|ש\"ח|₪))",
     re.IGNORECASE,
 )
 SEASON_RE = re.compile(r"\b(?:20)?(\d{2})\s?[/–-]\s?(?:20)?(\d{2})\b")
@@ -448,7 +456,22 @@ def read_article(fetcher, url):
 # ------------------------------------------------------ keyword matching
 
 def compile_keywords(words):
-    return [(w, re.compile(r"(?<![a-z0-9])" + re.escape(norm(w)))) for w in words if norm(w)]
+    """'word' = start of a word, 'word$' = whole word, '~word' = anywhere."""
+    out = []
+    for w in words:
+        anywhere, whole = w.startswith("~"), w.endswith("$")
+        core = norm(w.strip("~$"))
+        if not core:
+            continue
+        rx = re.escape(core)
+        if not anywhere:
+            rx = r"(?<!\w)" + rx + (r"(?!\w)" if whole else "")
+        out.append((w.strip("~$"), re.compile(rx)))
+    return out
+
+
+def any_match(patterns, text_norm):
+    return [w for w, rx in patterns if rx.search(text_norm)]
 
 
 def analyse(title, text, kw):
@@ -492,8 +515,10 @@ def main():
     kw_cfg = load_json(os.path.join(CONFIG, "keywords.json"), {})
     kw = {"budget": compile_keywords(kw_cfg.get("budget", [])),
           "salary": compile_keywords(kw_cfg.get("salary", []))}
-    exclude = [norm(w) for w in kw_cfg.get("exclude_if_in_title_or_url", [])]
-    flags = [norm(w) for w in kw_cfg.get("flag_if_in_text", [])]
+    nba_team_words = compile_keywords([w + "$" if not w.endswith("$") else w
+                                       for w in kw_cfg.get("nba_team_words", [])])
+    flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
+    basketball_words = compile_keywords(kw_cfg.get("basketball_words", []))
     max_per_site = sites_cfg.get("max_articles_per_site", 40)
     max_age = dt.timedelta(days=sites_cfg.get("max_age_days", 3))
 
@@ -525,8 +550,6 @@ def main():
                       if u not in seen and (d is None or now - d <= max_age)]
         for url, listed_date in candidates[:max_per_site]:
             seen[url] = today
-            if any(re.search(r"(?<![a-z0-9])" + re.escape(x) + r"(?![a-z0-9])", norm(url)) for x in exclude):
-                continue
             if not fetcher.allowed(url):
                 continue
             try:
@@ -535,11 +558,19 @@ def main():
                 print(f"[{site['name']}] could not read {url}: {e}", file=sys.stderr)
                 continue
             stats["checked"] += 1
-            title_n = norm(title)
-            if any(re.search(r"(?<![a-z0-9])" + re.escape(x) + r"(?![a-z0-9])", title_n) for x in exclude):
+            text_n = norm(title + "\n" + text)
+            # General news sites: the article must be about basketball.
+            if site.get("general") and not any_match(basketball_words, text_n):
                 continue
             result = analyse(title, text, kw)
             if not result:
+                continue
+            # Skip articles about NBA teams/contracts: an NBA team in the title
+            # and no team from your sheet in the title ("Lakers sign X").
+            # "Former NBA player joins Rytas" is kept.
+            title_teams, _ = sheet.match(title)
+            if any_match(nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
+                stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
                 continue
             teams, players = sheet.match(title + "\n" + text)
             team_info = [{"name": t, "country": sheet.team_country.get(t, ""),
@@ -550,7 +581,6 @@ def main():
                 player_info.append({"name": name, "sheet": lines})
             country = next((t["country"] for t in team_info if t["country"]), "") or site.get("country", "")
             date = published or listed_date
-            text_n = " " + norm(text) + " "
             new_items.append({
                 "id": hashlib.sha1(url.encode()).hexdigest()[:12],
                 "url": url, "title": title, "site": site["name"], "country": country,
@@ -558,7 +588,7 @@ def main():
                 "found": today,
                 **result,
                 "teams": team_info, "players": player_info,
-                "nba": any(f" {f} " in text_n for f in flags),
+                "nba": bool(any_match(flags, text_n)),
             })
             stats["found"] += 1
         print(f"[{site['name']}] checked {stats['checked']}, found {stats['found']}")
