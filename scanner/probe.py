@@ -13,7 +13,7 @@ import requests
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from scan import USER_AGENT, article_like  # noqa: E402
+from scan import USER_AGENT, article_like, bounded_get  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 S = requests.Session()
@@ -22,9 +22,8 @@ S.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en,*;q=0.5"})
 
 def get(url):
     try:
-        r = S.get(url, timeout=(5, 10), allow_redirects=True)
-        return r
-    except requests.RequestException as e:
+        return bounded_get(S, url, budget=15, max_bytes=4_000_000)
+    except Exception as e:
         return str(e)[:150]
 
 
@@ -99,16 +98,21 @@ def probe(url):
 def main():
     with open(os.path.join(ROOT, "config", "probe_urls.txt"), encoding="utf-8") as f:
         urls = [l.strip() for l in f if l.strip() and not l.startswith("#")]
-    from concurrent.futures import ThreadPoolExecutor
+    from concurrent.futures import ThreadPoolExecutor, wait
     urls = list(dict.fromkeys(urls))  # drop duplicates, keep order
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        results = list(pool.map(probe, urls))
+    pool = ThreadPoolExecutor(max_workers=8)
+    futures = {u: pool.submit(probe, u) for u in urls}
+    wait(futures.values(), timeout=420)  # 7 minutes for everything
+    results = [f.result() if f.done() and not f.exception() else
+               {"input": u, "error": "timed out" if not f.done() else str(f.exception())[:150]}
+               for u, f in futures.items()]
     for r in results:
         print(r["input"], r.get("status", r.get("error")), len(r.get("feeds", [])), "feeds",
               r.get("article_links", 0), "article links", flush=True)
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     with open(os.path.join(ROOT, "data", "probe.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=1)
+    os._exit(0)  # don't wait for threads stuck on a hanging site
 
 
 if __name__ == "__main__":

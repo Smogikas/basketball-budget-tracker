@@ -18,7 +18,9 @@ import io
 import json
 import os
 import re
+import socket
 import sys
+import threading
 import time
 import unicodedata
 import urllib.robotparser
@@ -163,6 +165,61 @@ def parse_date(value):
     return d
 
 
+class Page:
+    """Downloaded page: a small stand-in for requests.Response."""
+
+    def __init__(self, status_code, url, content, encoding):
+        self.status_code, self.url, self.content = status_code, url, content
+        self.encoding = encoding or "utf-8"
+
+    @property
+    def text(self):
+        return self.content.decode(self.encoding, errors="replace")
+
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            raise RuntimeError(f"HTTP {self.status_code} for {self.url}")
+
+
+def _cut_connection(response):
+    """Called by the watchdog: shut the socket so a blocked read returns."""
+    for path in (("raw", "_connection", "sock"), ("raw", "_fp", "fp", "raw", "_sock")):
+        obj = response
+        try:
+            for attr in path:
+                obj = getattr(obj, attr)
+            obj.shutdown(socket.SHUT_RDWR)
+            return
+        except Exception:
+            continue
+
+
+def bounded_get(session, url, budget=20, max_bytes=5_000_000):
+    """GET with a hard time and size limit, so a slow site can't hang the run."""
+    with session.get(url, timeout=(6, 10), stream=True, allow_redirects=True) as r:
+        watchdog = threading.Timer(budget, _cut_connection, args=(r,))
+        watchdog.daemon = True
+        watchdog.start()
+        chunks, size = [], 0
+        try:
+            for chunk in r.iter_content(16384):
+                chunks.append(chunk)
+                size += len(chunk)
+                if size > max_bytes:
+                    break
+        except Exception:
+            if not chunks:
+                raise RuntimeError(f"too slow, gave up after {budget}s: {url}")
+        finally:
+            watchdog.cancel()
+        content = b"".join(chunks)
+        encoding = r.encoding
+        if not encoding or encoding.lower() == "iso-8859-1":
+            m = re.search(rb"<meta[^>]+charset=[\"']?([\w-]+)", content[:4000], re.I)
+            encoding = m.group(1).decode() if m else "utf-8"
+        return Page(r.status_code, r.url, content, encoding)
+
+
 class Fetcher:
     """requests session with robots.txt checks and a per-site delay."""
 
@@ -180,9 +237,9 @@ class Fetcher:
         if host not in self.robots:
             rp = urllib.robotparser.RobotFileParser()
             try:
-                r = self.session.get(f"{urlparse(url).scheme}://{host}/robots.txt", timeout=15)
+                r = bounded_get(self.session, f"{urlparse(url).scheme}://{host}/robots.txt", budget=10)
                 rp.parse(r.text.splitlines() if r.status_code == 200 else [])
-            except requests.RequestException:
+            except Exception:
                 rp.parse([])
             self.robots[host] = rp
         return self.robots[host].can_fetch(USER_AGENT, url)
@@ -193,10 +250,8 @@ class Fetcher:
         if wait > 0:
             time.sleep(wait)
         self.last_hit[host] = time.time()
-        r = self.session.get(url, timeout=25)
+        r = bounded_get(self.session, url)
         r.raise_for_status()
-        if not r.encoding or r.encoding.lower() == "iso-8859-1":
-            r.encoding = r.apparent_encoding
         return r
 
 
@@ -510,88 +565,122 @@ def analyse(title, text, kw):
 
 # ------------------------------------------------------------------- main
 
-def main():
-    sites_cfg = load_json(os.path.join(CONFIG, "sites.json"), {})
-    kw_cfg = load_json(os.path.join(CONFIG, "keywords.json"), {})
-    kw = {"budget": compile_keywords(kw_cfg.get("budget", [])),
-          "salary": compile_keywords(kw_cfg.get("salary", []))}
-    nba_team_words = compile_keywords([w + "$" if not w.endswith("$") else w
-                                       for w in kw_cfg.get("nba_team_words", [])])
-    flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
-    basketball_words = compile_keywords(kw_cfg.get("basketball_words", []))
-    max_per_site = sites_cfg.get("max_articles_per_site", 40)
-    max_age = dt.timedelta(days=sites_cfg.get("max_age_days", 3))
+SITE_TIME_LIMIT = 300    # seconds per website
+RUN_TIME_LIMIT = 1200    # seconds for the whole scan (workflow limit is 30 min)
 
+
+class Rules:
+    def __init__(self, kw_cfg):
+        self.kw = {"budget": compile_keywords(kw_cfg.get("budget", [])),
+                   "salary": compile_keywords(kw_cfg.get("salary", []))}
+        self.nba_team_words = compile_keywords([w if w.endswith("$") else w + "$"
+                                                for w in kw_cfg.get("nba_team_words", [])])
+        self.flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
+        self.basketball_words = compile_keywords(kw_cfg.get("basketball_words", []))
+
+
+def scan_site(site, rules, sheet, seen, settings):
+    """Check one website. Returns (new items, stats, URLs checked)."""
+    now, today = settings["now"], settings["today"]
+    started = time.time()
+    fetcher = Fetcher()
+    stats = {"site": site["name"], "checked": 0, "found": 0, "error": ""}
+    items, checked_urls = [], []
+    try:
+        if not fetcher.allowed(site["url"]):
+            raise RuntimeError("robots.txt does not allow reading this page")
+        candidates = discover(fetcher, site)
+    except Exception as e:
+        stats["error"] = str(e)[:200]
+        print(f"[{site['name']}] ERROR {e}", file=sys.stderr, flush=True)
+        return items, stats, checked_urls
+    candidates = [(u, d) for u, d in candidates
+                  if u not in seen and (d is None or now - d <= settings["max_age"])]
+    stats["new_links"] = len(candidates)
+    for url, listed_date in candidates[:settings["max_per_site"]]:
+        if time.time() - started > SITE_TIME_LIMIT:
+            stats["error"] = "stopped early (time limit); the rest is checked next run"
+            break
+        checked_urls.append(url)
+        if not fetcher.allowed(url):
+            continue
+        try:
+            title, published, text = read_article(fetcher, url)
+        except Exception as e:
+            print(f"[{site['name']}] could not read {url}: {e}", file=sys.stderr, flush=True)
+            continue
+        stats["checked"] += 1
+        text_n = norm(title + "\n" + text)
+        # General news sites: the article must be about basketball.
+        if site.get("general") and not any_match(rules.basketball_words, text_n):
+            continue
+        result = analyse(title, text, rules.kw)
+        if not result:
+            continue
+        # Skip articles about NBA teams/contracts: an NBA team in the title
+        # and no team from your sheet in the title ("Lakers sign X").
+        # "Former NBA player joins Rytas" is kept.
+        title_teams, _ = sheet.match(title)
+        if any_match(rules.nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
+            stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
+            continue
+        teams, players = sheet.match(title + "\n" + text)
+        team_info = [{"name": t, "country": sheet.team_country.get(t, ""),
+                      "sheet": sheet.team_summary(t)} for t in teams[:6]]
+        player_info = []
+        for p in players[:8]:
+            name, lines = sheet.player_summary(p)
+            player_info.append({"name": name, "sheet": lines})
+        country = next((t["country"] for t in team_info if t["country"]), "") or site.get("country", "")
+        date = published or listed_date
+        items.append({
+            "id": hashlib.sha1(url.encode()).hexdigest()[:12],
+            "url": url, "title": title, "site": site["name"], "country": country,
+            "published": date.date().isoformat() if date else "",
+            "found": today,
+            **result,
+            "teams": team_info, "players": player_info,
+            "nba": bool(any_match(rules.flags, text_n)),
+        })
+        stats["found"] += 1
+    print(f"[{site['name']}] {stats['checked']} checked, {stats['found']} found "
+          f"({time.time() - started:.0f}s)", flush=True)
+    return items, stats, checked_urls
+
+
+def main():
+    from concurrent.futures import ThreadPoolExecutor, wait
+
+    sites_cfg = load_json(os.path.join(CONFIG, "sites.json"), {})
+    rules = Rules(load_json(os.path.join(CONFIG, "keywords.json"), {}))
     out_path = os.path.join(DATA, "articles.json")
     seen_path = os.path.join(DATA, "seen.json")
     previous = load_json(out_path, {"items": []})
     seen = load_json(seen_path, {})
     now = now_utc()
-    today = now.date().isoformat()
+    settings = {"now": now, "today": now.date().isoformat(),
+                "max_per_site": sites_cfg.get("max_articles_per_site", 40),
+                "max_age": dt.timedelta(days=sites_cfg.get("max_age_days", 3))}
 
-    fetcher = Fetcher()
-    warnings, run = [], []
+    warnings = []
     sites = [s for s in sites_cfg.get("sites", []) if s.get("enabled", True)]
-    sheet = load_sheet(fetcher, warnings) if sites else SheetIndex([], [])
-    new_items = []
+    sheet = load_sheet(Fetcher(), warnings) if sites else SheetIndex([], [])
 
-    for site in sites:
-        stats = {"site": site["name"], "checked": 0, "found": 0, "error": ""}
+    # Different websites are read at the same time; each one slowly, one page at a time.
+    pool = ThreadPoolExecutor(max_workers=8)
+    futures = [(s, pool.submit(scan_site, s, rules, sheet, seen, settings)) for s in sites]
+    wait([f for _, f in futures], timeout=RUN_TIME_LIMIT)
+    new_items, run = [], []
+    for site, f in futures:
+        if f.done() and not f.exception():
+            items, stats, checked = f.result()
+            new_items += items
+            for u in checked:
+                seen[u] = settings["today"]
+        else:
+            error = "did not finish in time" if not f.done() else str(f.exception())[:200]
+            stats = {"site": site["name"], "checked": 0, "found": 0, "error": error}
         run.append(stats)
-        try:
-            if not fetcher.allowed(site["url"]):
-                raise RuntimeError("robots.txt does not allow reading this page")
-            candidates = discover(fetcher, site)
-        except Exception as e:
-            stats["error"] = str(e)[:200]
-            print(f"[{site['name']}] ERROR {e}", file=sys.stderr)
-            continue
-        candidates = [(u, d) for u, d in candidates
-                      if u not in seen and (d is None or now - d <= max_age)]
-        for url, listed_date in candidates[:max_per_site]:
-            seen[url] = today
-            if not fetcher.allowed(url):
-                continue
-            try:
-                title, published, text = read_article(fetcher, url)
-            except Exception as e:
-                print(f"[{site['name']}] could not read {url}: {e}", file=sys.stderr)
-                continue
-            stats["checked"] += 1
-            text_n = norm(title + "\n" + text)
-            # General news sites: the article must be about basketball.
-            if site.get("general") and not any_match(basketball_words, text_n):
-                continue
-            result = analyse(title, text, kw)
-            if not result:
-                continue
-            # Skip articles about NBA teams/contracts: an NBA team in the title
-            # and no team from your sheet in the title ("Lakers sign X").
-            # "Former NBA player joins Rytas" is kept.
-            title_teams, _ = sheet.match(title)
-            if any_match(nba_team_words, norm(title) + " " + norm(url)) and not title_teams:
-                stats["skipped_nba"] = stats.get("skipped_nba", 0) + 1
-                continue
-            teams, players = sheet.match(title + "\n" + text)
-            team_info = [{"name": t, "country": sheet.team_country.get(t, ""),
-                          "sheet": sheet.team_summary(t)} for t in teams[:6]]
-            player_info = []
-            for p in players[:8]:
-                name, lines = sheet.player_summary(p)
-                player_info.append({"name": name, "sheet": lines})
-            country = next((t["country"] for t in team_info if t["country"]), "") or site.get("country", "")
-            date = published or listed_date
-            new_items.append({
-                "id": hashlib.sha1(url.encode()).hexdigest()[:12],
-                "url": url, "title": title, "site": site["name"], "country": country,
-                "published": date.date().isoformat() if date else "",
-                "found": today,
-                **result,
-                "teams": team_info, "players": player_info,
-                "nba": bool(any_match(flags, text_n)),
-            })
-            stats["found"] += 1
-        print(f"[{site['name']}] checked {stats['checked']}, found {stats['found']}")
 
     cutoff = (now - dt.timedelta(days=KEEP_ITEMS_DAYS)).date().isoformat()
     known = {i["id"] for i in new_items}
@@ -605,7 +694,8 @@ def main():
     save_json(out_path, {"updated": now.isoformat(timespec="minutes"), "warnings": warnings,
                          "run": run, "items": items})
     save_json(seen_path, dict(sorted(seen.items())))
-    print(f"Done: {len(new_items)} new, {len(items)} on the page")
+    print(f"Done: {len(new_items)} new, {len(items)} on the page", flush=True)
+    os._exit(0)  # don't wait for a thread stuck on a hanging site
 
 
 if __name__ == "__main__":

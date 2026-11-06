@@ -18,7 +18,9 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python scanner/probe.py
+        timeout-minutes: 10
       - name: Save results
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
