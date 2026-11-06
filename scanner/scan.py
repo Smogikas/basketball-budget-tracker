@@ -81,14 +81,37 @@ SEASON_RE = re.compile(r"\b(?:20)?(\d{2})\s?[/–-]\s?(?:20)?(\d{2})\b")
 # ----------------------------------------------------------------- helpers
 
 def norm(text):
-    """Lowercase, remove accents and punctuation, collapse spaces."""
+    """Lowercase, remove accents and punctuation, collapse spaces.
+    Greek, Cyrillic and Hebrew letters are kept (accents removed)."""
     if not text:
         return ""
     text = text.translate(SPECIAL_CHARS)
     text = unicodedata.normalize("NFKD", text)
     text = "".join(c for c in text if not unicodedata.combining(c))
-    text = re.sub(r"[^0-9a-zA-Z]+", " ", text.lower())
+    text = re.sub(r"[\W_]+", " ", text.lower().replace("ς", "σ"))
     return text.strip()
+
+
+NOT_ARTICLE = re.compile(
+    r"/(tag|tags|category|categories|kategorija|author|autor|authors|page|search|login|"
+    r"register|video|videos|gallery|galerija|photo|foto|live|tv|wp-content|wp-admin)(/|$)|"
+    r"\.(jpg|jpeg|png|gif|webp|svg|pdf|css|js|xml|mp4)$", re.I)
+
+
+def article_like(url, page_url):
+    """Guess whether a link on a news page points to an article."""
+    u, p = urlparse(url), urlparse(page_url)
+    if u.scheme not in ("http", "https"):
+        return False
+    if u.netloc.replace("www.", "") != p.netloc.replace("www.", ""):
+        return False
+    path = u.path.rstrip("/")
+    if not path or path == p.path.rstrip("/") or NOT_ARTICLE.search(path):
+        return False
+    last = path.rsplit("/", 1)[-1]
+    slug = last.count("-") >= 3 and len(last) >= 20
+    numbered = re.search(r"\d{4,}", path + "?" + u.query) and (len(path) >= 15 or u.query)
+    return bool(slug or numbered)
 
 
 def now_utc():
@@ -384,10 +407,10 @@ def discover(fetcher, site):
                 found.append((loc.text.strip(), parse_date(date_tag.text) if date_tag else None))
     else:  # listing page
         soup = BeautifulSoup(r.text, "lxml")
-        host = urlparse(site["url"]).netloc.replace("www.", "")
+        pattern = site.get("link_pattern")
         for a in soup.find_all("a", href=True):
-            url = urljoin(site["url"], a["href"]).split("#")[0]
-            if urlparse(url).netloc.replace("www.", "") == host:
+            url = urljoin(r.url, a["href"]).split("#")[0]
+            if pattern or article_like(url, r.url):
                 found.append((url, None))
     pattern = site.get("link_pattern")
     if pattern:
