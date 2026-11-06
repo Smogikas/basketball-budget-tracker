@@ -1,0 +1,2196 @@
+[
+ {
+  "input": "https://sportando.basketball/",
+  "status": 200,
+  "final": "https://sportando.basketball/",
+  "bytes": 291393,
+  "article_links": 45,
+  "article_sample": [
+   "https://sportando.basketball/olimpia-milano-poeta-al-capolinea-ufficiale-lesonero/",
+   "https://sportando.basketball/cedi-osman-operazione-menisco-paok-istanbul/",
+   "https://sportando.basketball/pallacanestro-cantu-ufficiale-la-rescissione-consensuale-con-semaj-christon/",
+   "https://sportando.basketball/euroleague-injury-report-5-novembre-2026-round-10/",
+   "https://sportando.basketball/olimpia-milano-mike-tobey-verona-mercato-buyout/",
+   "https://sportando.basketball/virtus-bologna-dubai-basketball-risultato-cronaca-euroleague-26-27/",
+   "https://sportando.basketball/urania-milano-aggiornamento-sulle-condizioni-di-tyreek-scott-grayson/",
+   "https://sportando.basketball/aquila-trento-bongi-contro-milano-servira-pazienza-e-grande-attenzione/"
+  ],
+  "robots_sitemaps": [
+   "https://sportando.basketball/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://sportando.basketball/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 20:55:40 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Virtus Bologna-Dubai Basketball | La diretta testuale: 53-76 al 30′",
+      "link": "https://sportando.basketball/virtus-bologna-dubai-basketball-risultato-cronaca-euroleague-26-27/"
+     },
+     {
+      "title": "Urania Milano: aggiornamento sulle condizioni di Tyreek Scott-Grayson",
+      "link": "https://sportando.basketball/urania-milano-aggiornamento-sulle-condizioni-di-tyreek-scott-grayson/"
+     },
+     {
+      "title": "Aquila Trento, Bongi: “Contro Milano servirà pazienza e grande attenzione”",
+      "link": "https://sportando.basketball/aquila-trento-bongi-contro-milano-servira-pazienza-e-grande-attenzione/"
+     },
+     {
+      "title": "Pallacanestro Trieste incontra la stampa a casa di BCC Venezia Giulia",
+      "link": "https://sportando.basketball/pallacanestro-trieste-incontra-la-stampa-a-casa-di-bcc-venezia-giulia/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.basketnews.lt/",
+  "status": 200,
+  "final": "https://www.basketnews.lt/",
+  "bytes": 658520,
+  "article_links": 138,
+  "article_sample": [
+   "https://www.basketnews.lt/isplestine-statistika/25-eurolyga/2026",
+   "https://www.basketnews.lt/lygos/51-lietuvos-krepsinio-lyga.html",
+   "https://www.basketnews.lt/lygos/59-nacionaline-krepsinio-asociacija.html",
+   "https://www.basketnews.lt/informacija/basketnewslt-app-privacy-policy.html",
+   "https://www.basketnews.lt/lygos/157-pasaulio-cempionato-atrankos-varzybos.html",
+   "https://www.basketnews.lt/lygos/148-fiba-cempionu-lyga.html",
+   "https://www.basketnews.lt/lygos/91-karaliaus-mindaugo-taure.html",
+   "https://www.basketnews.lt/lygos/50-7bet-nkl-nacionaline-krepsinio-lyga.html"
+  ],
+  "robots_sitemaps": [
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_index.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_news.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_google_news.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_players.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_teams.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_leagues.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_games.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_persons.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_podcasts.xml",
+   "https://www.basketnews.lt/cache/sitemaps/sitemaps_podcast_episodes.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.basketnews.lt/naujienos/rss",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "\n\t\t\t\t\tFri, 06 Nov 2026 22:39:00 +0200\n\t\t\t"
+    ],
+    "sample": [
+     {
+      "title": "Šėlsmas „Žalgirio“ rūbinėje – lojimai, juokeliai apie atlyginimą ir linkėjimas kapitonui ",
+      "link": "https://www.basketnews.lt/news-258967-selsmas-zalgirio-rubineje-lojimai-juokeliai-apie-atlyginima-ir-linkejimas-kapitonui.html#utm_medium=rss&utm_content=news"
+     },
+     {
+      "title": "„Žalgiris“ ruošia naują sutartį talentingam gynėjui",
+      "link": "https://www.basketnews.lt/news-258962-zalgiris-ruosia-nauja-sutarti-talentingam-gynejui.html#utm_medium=rss&utm_content=news"
+     },
+     {
+      "title": "„Žalgirio“ progresą įvertinęs Grigonis: „Dabar jau kažkiek gaudomės“",
+      "link": "https://www.basketnews.lt/news-258965-zalgirio-progresa-ivertines-grigonis-dabar-jau-kazkiek-gaudomes.html#utm_medium=rss&utm_content=news"
+     },
+     {
+      "title": "Masiulis – apie Jankūno pastabą, „Žalgirio“ rezervą ir minučių paieškas Slevai",
+      "link": "https://www.basketnews.lt/news-258964-masiulis-apie-jankuno-pastaba-zalgirio-rezerva-ir-minuciu-paieskas-slevai.html#utm_medium=rss&utm_content=news"
+     }
+    ]
+   },
+   {
+    "url": "https://www.basketnews.lt/cache/sitemaps/sitemaps_index.xml",
+    "kind": "sitemap",
+    "urls": 0,
+    "children": [
+     "https://www.basketnews.lt/cache/sitemaps/sitemaps_general.xml",
+     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news.xml",
+     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_1.xml",
+     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_2.xml",
+     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_3.xml"
+    ],
+    "sample": []
+   },
+   {
+    "url": "https://www.basketnews.lt/cache/sitemaps/sitemaps_news.xml",
+    "kind": "sitemap",
+    "urls": 13331,
+    "children": [],
+    "sample": [
+     "https://www.basketnews.lt/news-258964-masiulis-apie-jankuno-pastaba-zalgirio-rezerva-ir-minuciu-paieskas-slevai.html",
+     "https://www.basketnews.lt/news-258958-griezta-bausme-atenuose-pao-vadovas-ilgam-ismestas-is-graikijos-arenu.html",
+     "https://www.basketnews.lt/news-258956-busimi-zalgirio-varzovai-eurolygoje-atsisveikino-su-treneriu.html",
+     "https://www.basketnews.lt/news-258949-rubstavicius-issirinko-nauja-karjeros-stotele.html"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://basketnews.com/",
+  "status": 200,
+  "final": "https://basketnews.com/us",
+  "bytes": 626918,
+  "article_links": 134,
+  "article_sample": [
+   "https://basketnews.com/news-241058-basketnews-preferred-news-source-google.html",
+   "https://basketnews.com/team-357-los-angeles-lakers.html",
+   "https://basketnews.com/team-142-denver-nuggets.html",
+   "https://basketnews.com/team-534-san-antonio-spurs.html",
+   "https://basketnews.com/team-410-new-york-knicks.html",
+   "https://basketnews.com/team-251-team-usa.html",
+   "https://basketnews.com/news-258968-brandon-ingram-gives-positive-injury-update.html",
+   "https://basketnews.com/news-258963-bulls-starter-expected-to-make-season-debut-vs-76ers.html"
+  ],
+  "robots_sitemaps": [
+   "https://basketnews.com/cache/sitemaps/sitemaps_index_com.xml",
+   "https://basketnews.com/cache/sitemaps/sitemaps_com_news.xml",
+   "https://basketnews.com/cache/sitemaps/sitemaps_com_google_news.xml",
+   "https://basketnews.com/rs/sitemaps/sitemaps_index_rs.xml",
+   "https://basketnews.com/rs/sitemaps/sitemaps_rs_news.xml",
+   "https://basketnews.com/rs/sitemaps/sitemaps_rs_google_news.xml",
+   "https://basketnews.com/cache/sitemaps/sitemaps_com_players.xml",
+   "https://basketnews.com/cache/sitemaps/sitemaps_com_teams.xml",
+   "https://basketnews.com/cache/sitemaps/sitemaps_com_leagues.xml",
+   "https://basketnews.com/cache/sitemaps/sitemaps_com_games.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://basketnews.com/news/rss",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "\n\t\t\t\t\tFri, 06 Nov 2026 20:49:05 +0000\n\t\t\t"
+    ],
+    "sample": [
+     {
+      "title": "Clippers star gives positive injury update",
+      "link": "https://basketnews.com/news-258968-brandon-ingram-gives-positive-injury-update.html#utm_medium=rss&utm_content=news"
+     },
+     {
+      "title": "Zalgiris make long-term move for former player",
+      "link": "https://basketnews.com/news-258959-zalgiris-make-long-term-move-for-former-player.html#utm_medium=rss&utm_content=news"
+     },
+     {
+      "title": "Dusan Alimpijevic fumes after Zalgiris loss: 'It's absolutely not acceptable'",
+      "link": "https://basketnews.com/news-258966-dusan-alimpijevic-fumes-after-zalgiris-loss-its-absolutely-not-acceptable.html#utm_medium=rss&utm_content=news"
+     },
+     {
+      "title": "Bulls starter expected to make season debut vs. 76ers",
+      "link": "https://basketnews.com/news-258963-bulls-starter-expected-to-make-season-debut-vs-76ers.html#utm_medium=rss&utm_content=news"
+     }
+    ]
+   },
+   {
+    "url": "https://basketnews.com/cache/sitemaps/sitemaps_index_com.xml",
+    "kind": "sitemap",
+    "urls": 0,
+    "children": [
+     "https://basketnews.com/cache/sitemaps/sitemaps_com_general.xml",
+     "https://basketnews.com/cache/sitemaps/sitemaps_com_news.xml",
+     "https://basketnews.com/cache/sitemaps/sitemaps_com_news_1.xml",
+     "https://basketnews.com/cache/sitemaps/sitemaps_com_google_news.xml",
+     "https://basketnews.com/cache/sitemaps/sitemaps_com_podcasts.xml"
+    ],
+    "sample": []
+   },
+   {
+    "url": "https://basketnews.com/cache/sitemaps/sitemaps_com_news.xml",
+    "kind": "sitemap",
+    "urls": 13897,
+    "children": [],
+    "sample": [
+     "https://basketnews.com/news-258966-dusan-alimpijevic-fumes-after-zalgiris-loss-its-absolutely-not-acceptable.html",
+     "https://basketnews.com/news-258963-bulls-starter-expected-to-make-season-debut-vs-76ers.html",
+     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+     "https://basketnews.com/news-258957-giannis-makes-rare-postgame-decision-vs-warriors-miami-heat-frustration-grows.html"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.krepsinis.net/",
+  "status": 200,
+  "final": "https://www.krepsinis.net/",
+  "bytes": 312063,
+  "article_links": 73,
+  "article_sample": [
+   "https://www.krepsinis.net/naujiena/ketvirta-pergale-paeiliui-zalgiris-seimininkavo-stambule/354201",
+   "https://www.krepsinis.net/naujiena/gynyba-pasidziauges-t-masiulis-ivertino-e-ulanovo-skambu-pasiekima/354208",
+   "https://www.krepsinis.net/naujiena/m-rubstavicius-rado-nauja-kluba-europoje/354203",
+   "https://www.krepsinis.net/naujiena/po-maco-su-zalgiriu-d-alimpijeviciaus-nepasitenkinimas-zurnalistu/354209",
+   "https://www.krepsinis.net/naujiena/karjera-baige-eurolygoje-zaides-gynejas/354206",
+   "https://www.krepsinis.net/tvarkarastis/kedainiu-nevezis-paskolu-klubas",
+   "https://www.krepsinis.net/naujiena/permainos-pribrendo-milano-ekipa-atleido-vyr-treneri/354205",
+   "https://www.krepsinis.net/naujiena/panathinaikos-savininkui-dviguba-bausme-graikijoje/354204"
+  ],
+  "robots_sitemaps": [
+   "https://www.krepsinis.net/sitemaps_krepsinis.net.xml",
+   "https://www.krepsinis.net/sitemap_news.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.krepsinis.net/rss",
+    "kind": "rss",
+    "items": 18,
+    "newest": [
+     "Friday, 06 Nov 2026 18:30:00 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Ketvirta pergalė paeiliui – „Žalgiris“ šeimininkavo Stambule",
+      "link": "https://www.krepsinis.net/naujiena/ketvirta-pergale-paeiliui-zalgiris-seimininkavo-stambule/354201"
+     },
+     {
+      "title": "Gynyba pasidžiaugęs T.Masiulis įvertino E.Ulanovo skambų pasiekimą",
+      "link": "https://www.krepsinis.net/naujiena/gynyba-pasidziauges-t-masiulis-ivertino-e-ulanovo-skambu-pasiekima/354208"
+     },
+     {
+      "title": "M.Rubštavičius rado naują klubą Europoje",
+      "link": "https://www.krepsinis.net/naujiena/m-rubstavicius-rado-nauja-kluba-europoje/354203"
+     },
+     {
+      "title": "Po mačo su „Žalgiriu“ – D.Alimpijevičiaus nepasitenkinimas žurnalistu",
+      "link": "https://www.krepsinis.net/naujiena/po-maco-su-zalgiriu-d-alimpijeviciaus-nepasitenkinimas-zurnalistu/354209"
+     }
+    ]
+   },
+   {
+    "url": "https://www.krepsinis.net/sitemap_news.xml",
+    "kind": "sitemap",
+    "urls": 43,
+    "children": [],
+    "sample": [
+     "https://www.krepsinis.net/naujiena/traumos-uzgrudintas-m-pacevicius-tikisi-spindeti-dar-ryskiau-bandysiu-vel-kazka-is-naujo-irodyti/352572",
+     "https://www.krepsinis.net/naujiena/vilniuje-intriguojantis-draugiskas-turnyras/352614",
+     "https://www.krepsinis.net/naujiena/oficialu-baskonia-sukirto-rankomis-su-k-fariedu/352607",
+     "https://www.krepsinis.net/naujiena/aukstaugis-nusprende-baigti-karjera-vokietijos-rinktineje/352613"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.pianetabasket.com/",
+  "status": 200,
+  "final": "https://www.pianetabasket.com/",
+  "bytes": 439088,
+  "article_links": 33,
+  "article_sample": [
+   "https://www.pianetabasket.com/legabasket-serie-a/olimpia-milano-luca-banchi-pronto-al-ritorno-dopo-lesonero-di-peppe-poeta-il-club-attende-la-risposta",
+   "https://www.pianetabasket.com/euroleague/live-virtus-bologna-vs-dubai-basketball-diretta",
+   "https://www.pianetabasket.com/legabasket-serie-a/olimpia-milano-esonero-peppe-poeta-il-saluto-emozionante-di-ricci-e-diop",
+   "https://www.pianetabasket.com/legabasket-serie-a/il-derby-della-campania-sul-parquet-del-palamangano-scafati-ospita-napoli-per-la-settima-di-serie-a",
+   "https://www.pianetabasket.com/femminile/a2-f-as-techmed-usmate-sfida-tra-squadre-in-serie-positiva-al-palafaidate-arriva-alperia-bolzano",
+   "https://www.pianetabasket.com/euroleague/euroleague-2026-2027-decima-giornata-calendario-risultati-venerdi-classifica",
+   "https://www.pianetabasket.com/euroleague/zalgiris-sempre-piu-convincente-besiktas-travolto-valanciunas-guida-il-successo-lituano",
+   "https://www.pianetabasket.com/nba/utah-jazz-jusuf-nurkic-ha-cominciato-la-preparazione-per-il-rientro-in-campo"
+  ],
+  "robots_sitemaps": [
+   "https://pianetabasket.com/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.pianetabasket.com/sitemap/news.xml",
+    "kind": "rss",
+    "items": 1000,
+    "newest": [
+     "Fri, 06 Nov 2026 21:54:00 +0100"
+    ],
+    "sample": [
+     {
+      "title": "LIVE Virtus Bologna vs Dubai Basketball: diretta (53 - 71 al 29’)",
+      "link": "https://www.pianetabasket.com/euroleague/live-virtus-bologna-vs-dubai-basketball-diretta"
+     },
+     {
+      "title": "Olimpia Milano, esonero Peppe Poeta: il saluto emozionante di Ricci e Diop",
+      "link": "https://www.pianetabasket.com/legabasket-serie-a/olimpia-milano-esonero-peppe-poeta-il-saluto-emozionante-di-ricci-e-diop"
+     },
+     {
+      "title": "Il derby della Campania sul parquet del PalaMangano: Scafati ospita Napoli per la settima ",
+      "link": "https://www.pianetabasket.com/legabasket-serie-a/il-derby-della-campania-sul-parquet-del-palamangano-scafati-ospita-napoli-per-la-settima-di-serie-a"
+     },
+     {
+      "title": "A2 F - AS TechMed Usmate, sfida tra squadre in serie positiva: al Palafaidate arriva Alper",
+      "link": "https://www.pianetabasket.com/femminile/a2-f-as-techmed-usmate-sfida-tra-squadre-in-serie-positiva-al-palafaidate-arriva-alperia-bolzano"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.israelhayom.co.il/sport/israeli-basketball",
+  "status": 403,
+  "final": "https://www.israelhayom.co.il/sport/israeli-basketball",
+  "bytes": 411,
+  "robots_sitemaps": [
+   "https://www.israelhayom.co.il/sitemaps/sitemap.xml",
+   "https://www.israelhayom.co.il/sitemaps/googlenews.xml"
+  ],
+  "feeds": []
+ },
+ {
+  "input": "https://www.israelhayom.co.il/sport/world-basketball",
+  "status": 403,
+  "final": "https://www.israelhayom.co.il/sport/world-basketball",
+  "bytes": 407,
+  "robots_sitemaps": [
+   "https://www.israelhayom.co.il/sitemaps/sitemap.xml",
+   "https://www.israelhayom.co.il/sitemaps/googlenews.xml"
+  ],
+  "feeds": []
+ },
+ {
+  "input": "https://www.sport5.co.il/world.aspx?FolderId=4467",
+  "status": 200,
+  "final": "https://www.sport5.co.il/world.aspx?FolderId=4467",
+  "bytes": 110911,
+  "article_links": 122,
+  "article_sample": [
+   "https://www.sport5.co.il/liga.aspx?FolderID=10913",
+   "https://www.sport5.co.il/liga.aspx?FolderID=8641",
+   "https://www.sport5.co.il/liga.aspx?FolderID=2790",
+   "https://www.sport5.co.il/liga.aspx?FolderID=1503",
+   "https://www.sport5.co.il/liga.aspx?FolderID=4177",
+   "https://www.sport5.co.il/liga.aspx?FolderID=1498",
+   "https://www.sport5.co.il/liga.aspx?FolderID=7489",
+   "https://www.sport5.co.il/liga.aspx?FolderID=8637"
+  ],
+  "robots_sitemaps": [
+   "https://www.sport5.co.il/sitemap/articles/news-sitemap.xml",
+   "https://www.sport5.co.il/sitemap/nba/news-sitemap.xml",
+   "https://www.sport5.co.il/sitemap/games/news-sitemap.xml",
+   "https://www.sport5.co.il/sitemap/video/news-sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.sport5.co.il/sitemap/articles/news-sitemap.xml",
+    "kind": "sitemap",
+    "urls": 137,
+    "children": [],
+    "sample": [
+     "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=566704",
+     "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=566703",
+     "https://www.sport5.co.il/articles.aspx?FolderID=378&docID=566702",
+     "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=566700"
+    ]
+   },
+   {
+    "url": "https://www.sport5.co.il/sitemap/nba/news-sitemap.xml",
+    "kind": "sitemap",
+    "urls": 23,
+    "children": [],
+    "sample": [
+     "https://nba.sport5.co.il/articles.aspx?FolderID=8166&docID=566682",
+     "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=566624",
+     "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=566623",
+     "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=566621"
+    ]
+   },
+   {
+    "url": "https://www.sport5.co.il/sitemap/games/news-sitemap.xml",
+    "kind": "sitemap",
+    "urls": 4,
+    "children": [],
+    "sample": [
+     "https://playbyplay.sport5.co.il/?GameID=150269&FLNum=16",
+     "https://playbasket.sport5.co.il/?GameID=155840&FLNum=21",
+     "https://playbyplay.sport5.co.il/?GameID=155735&FLNum=35",
+     "https://playbasket.sport5.co.il/?GameID=153801&FLNum=24"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://basketfaul.com.tr/",
+  "status": 403,
+  "final": "https://basketfaul.com.tr/",
+  "bytes": 5524,
+  "robots_sitemaps": [
+   "https://basketfaul.com.tr/sitemap_index.xml",
+   "https://basketfaul.com.tr/sitemap-news.xml"
+  ],
+  "feeds": []
+ },
+ {
+  "input": "https://www.eurohoops.net/en/",
+  "status": 200,
+  "final": "https://www.eurohoops.net/en/",
+  "bytes": 413507,
+  "article_links": 63,
+  "article_sample": [
+   "https://www.eurohoops.net/en/euroleague/2031432/euroleague-roundup-zalgiris-dominates-besiktas-wins-fourth-in-a-row/",
+   "https://www.eurohoops.net/en/euroleague/2031461/olimpia-milano-relieves-giuseppe-poeta-luca-banchi-is-taking-over/",
+   "https://www.eurohoops.net/en/nba-news/2031411/luka-doncic-leads-the-race-to-the-mvp-ahead-of-victor-wembanyama/",
+   "https://www.eurohoops.net/en/proa/2031363/nadir-hifi-is-reportedly-the-only-player-in-the-french-league-with-a-1m-euros-salary/",
+   "https://www.eurohoops.net/en/euroleague/2031467/james-feldeine-announces-retirement-basketball-was-always-my-safe-place/",
+   "https://www.eurohoops.net/en/fiba-champions-league/2031555/neftali-difuidi-named-bcl-player-of-the-week/",
+   "https://www.eurohoops.net/en/heba/2031452/giannakopoulos-handed-10-month-venue-ban-and-e60000-fine/",
+   "https://www.eurohoops.net/en/euroleague/2031401/kevarrius-hayes-is-reportedly-set-to-miss-the-clash-against-maccabi/"
+  ],
+  "robots_sitemaps": [],
+  "feeds": [
+   {
+    "url": "https://www.eurohoops.net/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 20:28:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Neftali Difuidi named BCL Player of the Week",
+      "link": "https://www.eurohoops.net/en/fiba-champions-league/2031555/neftali-difuidi-named-bcl-player-of-the-week/"
+     },
+     {
+      "title": "Dimitris Diamantidis: “Saras Jasikevicius’a 13 Numarayı Vermedim Çünkü…”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031537/dimitris-diamantidis-saras-jasikeviciusa-13-numarayi-vermedim-cunku/"
+     },
+     {
+      "title": "Ολυμπιακός: Εφιαλτικό πρώτο ημίχρονο με 22 πόντους και 1/16 τρίποντα!",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031540/olimpiakos-efialtiko-proto-imichrono-me-22-pontous-ke-1-16-triponta/"
+     },
+     {
+      "title": "Dusan Alimpijevic: “Taraftarımız Pes Etmiyorken Biz Nasıl Pes Edebiliriz?”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031498/dusan-alimpijevic-taraftarimiz-pes-etmiyorken-biz-nasil-pes-edebiliriz/"
+     }
+    ]
+   },
+   {
+    "url": "https://www.eurohoops.net/comments/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 27 Apr 2018 14:42:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Kyriakos",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358314"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Nikos Markou",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358313"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Παναγιώτης Λιακοπουλος",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358312"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Γιάννης",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358309"
+     }
+    ]
+   },
+   {
+    "url": "https://www.eurohoops.net/en/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 20:28:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Neftali Difuidi named BCL Player of the Week",
+      "link": "https://www.eurohoops.net/en/fiba-champions-league/2031555/neftali-difuidi-named-bcl-player-of-the-week/"
+     },
+     {
+      "title": "EuroLeague roundup: Zalgiris dominates Besiktas, wins fourth in a row",
+      "link": "https://www.eurohoops.net/en/euroleague/2031432/euroleague-roundup-zalgiris-dominates-besiktas-wins-fourth-in-a-row/"
+     },
+     {
+      "title": "James Feldeine announces retirement: “Basketball was always my safe place”",
+      "link": "https://www.eurohoops.net/en/euroleague/2031467/james-feldeine-announces-retirement-basketball-was-always-my-safe-place/"
+     },
+     {
+      "title": "Olimpia Milano relieves Giuseppe Poeta, Luca Banchi is taking over",
+      "link": "https://www.eurohoops.net/en/euroleague/2031461/olimpia-milano-relieves-giuseppe-poeta-luca-banchi-is-taking-over/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.eurohoops.net/el/",
+  "status": 200,
+  "final": "https://www.eurohoops.net/el/",
+  "bytes": 442376,
+  "article_links": 76,
+  "article_sample": [
+   "https://www.eurohoops.net/el/fiba-champions-league-el/",
+   "https://www.eurohoops.net/el/fiba-el/fiba-intercontinental-cup-el/",
+   "https://www.eurohoops.net/el/ao-leonteiou-by-eurohoops-academy/",
+   "https://www.eurohoops.net/el/euroleague-el-2/2031540/olimpiakos-efialtiko-proto-imichrono-me-22-pontous-ke-1-16-triponta/",
+   "https://www.eurohoops.net/el/heba-el/2031435/giannakopoulos-timorithike-me-10-mines-apagorefsis-isodou-sta-gipeda/",
+   "https://www.eurohoops.net/el/heba-el/2031355/tsenti-osman-to-savvato-7-11-stin-poli-i-epemvasi-i-efches-tou-paok-pic/",
+   "https://www.eurohoops.net/el/euroleague-el-2/2031475/olimpiakos-me-fournie-kontsar-i-12ada-me-erithro-astera/",
+   "https://www.eurohoops.net/el/euroleague-el-2/2031502/tzokovits-xana-sto-gipedo-gia-to-olimpiakos-erithros-asteras/"
+  ],
+  "robots_sitemaps": [],
+  "feeds": [
+   {
+    "url": "https://www.eurohoops.net/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 20:28:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Neftali Difuidi named BCL Player of the Week",
+      "link": "https://www.eurohoops.net/en/fiba-champions-league/2031555/neftali-difuidi-named-bcl-player-of-the-week/"
+     },
+     {
+      "title": "Dimitris Diamantidis: “Saras Jasikevicius’a 13 Numarayı Vermedim Çünkü…”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031537/dimitris-diamantidis-saras-jasikeviciusa-13-numarayi-vermedim-cunku/"
+     },
+     {
+      "title": "Ολυμπιακός: Εφιαλτικό πρώτο ημίχρονο με 22 πόντους και 1/16 τρίποντα!",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031540/olimpiakos-efialtiko-proto-imichrono-me-22-pontous-ke-1-16-triponta/"
+     },
+     {
+      "title": "Dusan Alimpijevic: “Taraftarımız Pes Etmiyorken Biz Nasıl Pes Edebiliriz?”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031498/dusan-alimpijevic-taraftarimiz-pes-etmiyorken-biz-nasil-pes-edebiliriz/"
+     }
+    ]
+   },
+   {
+    "url": "https://www.eurohoops.net/comments/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 27 Apr 2018 14:42:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Kyriakos",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358314"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Nikos Markou",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358313"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Παναγιώτης Λιακοπουλος",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358312"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Γιάννης",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358309"
+     }
+    ]
+   },
+   {
+    "url": "https://www.eurohoops.net/el/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 20:15:21 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Ολυμπιακός: Εφιαλτικό πρώτο ημίχρονο με 22 πόντους και 1/16 τρίποντα!",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031540/olimpiakos-efialtiko-proto-imichrono-me-22-pontous-ke-1-16-triponta/"
+     },
+     {
+      "title": "Τζόκοβιτς: Ξανά στο γήπεδο για το “Ολυμπιακός – Ερυθρός Αστέρας”",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031502/tzokovits-xana-sto-gipedo-gia-to-olimpiakos-erithros-asteras/"
+     },
+     {
+      "title": "Διαμαντίδης: “Υπήρχε ενδιαφέρον από τον Ολυμπιακό – Σάρας, το 13 είναι δικό μου”",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031482/diamantidis-ipirche-endiaferon-apo-ton-olimpiako-saras-to-13-ine-diko-mou/"
+     },
+     {
+      "title": "Μπεσίκτας – Ζαλγκίρις 67-83: Με Γκριγκόνις και… διπλό Βαλαντσιούνας πέρασε από την Πόλη",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031456/besiktas-zalgkiris-67-83-me-gkrigkonis-ke-diplo-valantsiounas-perase-apo-tin-poli/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.eurohoops.net/tr/",
+  "status": 200,
+  "final": "https://www.eurohoops.net/tr/",
+  "bytes": 413647,
+  "article_links": 68,
+  "article_sample": [
+   "https://www.eurohoops.net/tr/fiba-champions-league-tr/",
+   "https://www.eurohoops.net/tr/the-magnifying-glass-tr-2/",
+   "https://www.eurohoops.net/tr/battle-of-the-decades-tr/",
+   "https://www.eurohoops.net/tr/euroleague-tr/2031434/eugene-omoruyinin-performansi-yeterli-olmadi-besiktas-evinde-zalgirise-dis-geciremedi/",
+   "https://www.eurohoops.net/tr/nba-news-tr/2031407/nba-sezonun-ilk-mvp-yarisi-listesini-yayinladi-alperen-sengun-listede/",
+   "https://www.eurohoops.net/tr/nba-news-tr/2031323/her-turk-oyuncunun-nbadeki-en-iyi-sezonlari/",
+   "https://www.eurohoops.net/tr/euroleague-tr/2031498/dusan-alimpijevic-taraftarimiz-pes-etmiyorken-biz-nasil-pes-edebiliriz/",
+   "https://www.eurohoops.net/tr/euroleague-tr/2031537/dimitris-diamantidis-saras-jasikeviciusa-13-numarayi-vermedim-cunku/"
+  ],
+  "robots_sitemaps": [],
+  "feeds": [
+   {
+    "url": "https://www.eurohoops.net/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 20:28:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Neftali Difuidi named BCL Player of the Week",
+      "link": "https://www.eurohoops.net/en/fiba-champions-league/2031555/neftali-difuidi-named-bcl-player-of-the-week/"
+     },
+     {
+      "title": "Dimitris Diamantidis: “Saras Jasikevicius’a 13 Numarayı Vermedim Çünkü…”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031537/dimitris-diamantidis-saras-jasikeviciusa-13-numarayi-vermedim-cunku/"
+     },
+     {
+      "title": "Ολυμπιακός: Εφιαλτικό πρώτο ημίχρονο με 22 πόντους και 1/16 τρίποντα!",
+      "link": "https://www.eurohoops.net/el/euroleague-el-2/2031540/olimpiakos-efialtiko-proto-imichrono-me-22-pontous-ke-1-16-triponta/"
+     },
+     {
+      "title": "Dusan Alimpijevic: “Taraftarımız Pes Etmiyorken Biz Nasıl Pes Edebiliriz?”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031498/dusan-alimpijevic-taraftarimiz-pes-etmiyorken-biz-nasil-pes-edebiliriz/"
+     }
+    ]
+   },
+   {
+    "url": "https://www.eurohoops.net/comments/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 27 Apr 2018 14:42:50 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Kyriakos",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358314"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Nikos Markou",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358313"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Παναγιώτης Λιακοπουλος",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358312"
+     },
+     {
+      "title": "Comment on LIVE Chat για τον Ολυμπιακό με τον Νίκο Βαρλά by Γιάννης",
+      "link": "https://www.eurohoops.net/liveblog-post-r/live-chat-gia-ton-olimpiako-me-ton-niko-varla/#comment-358309"
+     }
+    ]
+   },
+   {
+    "url": "https://www.eurohoops.net/tr/feed/",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 20:23:57 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Dimitris Diamantidis: “Saras Jasikevicius’a 13 Numarayı Vermedim Çünkü…”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031537/dimitris-diamantidis-saras-jasikeviciusa-13-numarayi-vermedim-cunku/"
+     },
+     {
+      "title": "Dusan Alimpijevic: “Taraftarımız Pes Etmiyorken Biz Nasıl Pes Edebiliriz?”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031498/dusan-alimpijevic-taraftarimiz-pes-etmiyorken-biz-nasil-pes-edebiliriz/"
+     },
+     {
+      "title": "Dusan Alimpijevic: “Bu Yüzdelerle Kimseyi Yenemeyiz!”",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031495/dusan-alimpijevic-bu-yuzdelerle-kimseyi-yenemeyiz/"
+     },
+     {
+      "title": "Eugene Omoruyi’nin Performansı Yeterli Olmadı; Beşiktaş, Evinde Zalgiris’e Diş Geçiremedi",
+      "link": "https://www.eurohoops.net/tr/euroleague-tr/2031434/eugene-omoruyinin-performansi-yeterli-olmadi-besiktas-evinde-zalgirise-dis-geciremedi/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.bebasket.fr/",
+  "status": 403,
+  "final": "https://www.bebasket.fr/",
+  "bytes": 5659,
+  "feeds": []
+ },
+ {
+  "input": "https://baschet.ro/",
+  "status": 200,
+  "final": "https://baschet.ro/",
+  "bytes": 1936,
+  "article_links": 0,
+  "article_sample": [],
+  "robots_sitemaps": [
+   "https://baschet.ro/sitemap.xml"
+  ],
+  "feeds": []
+ },
+ {
+  "input": "https://www.idnes.cz/sport/basket",
+  "status": 200,
+  "final": "https://www.idnes.cz/nastaveni-souhlasu?url=https%3A%2F%2Fwww.idnes.cz%2Fsport%2Fbasket",
+  "bytes": 18432,
+  "article_links": 0,
+  "article_sample": [],
+  "robots_sitemaps": [
+   "https://www.idnes.cz/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://servis.idnes.cz/rss.aspx",
+    "kind": "rss",
+    "items": 29,
+    "newest": [
+     "Fri, 06 Nov 2026 20:56:27 GMT"
+    ],
+    "sample": [
+     {
+      "title": "Utekli z Krymu a otevřeli si pekárnu v Praze. Češi jsou vděční zákazníci, říkají",
+      "link": "https://www.idnes.cz/zpravy/zahranicni/krym-krymsti-tatari-zarema-arsen-sirazidinov-pekarstvi-panev-praha-nusle.A261106_110134_zahranicni_aha#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main"
+     },
+     {
+      "title": "Pro mladé jsem idiot. No a? Říha o strachu komunistů i životě bez chytrého telefonu",
+      "link": "https://www.idnes.cz/kultura/hudba/komunisti-meli-hruzu-ze-ovladam-lidi-katapult-se-nezaprodal-rika-riha.A261020_977952_veda_ichuc#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main"
+     },
+     {
+      "title": "Cukrovku musíme léčit dřív, proděláváme miliardy. Diabetolog o hrozbě 21. století",
+      "link": "https://www.idnes.cz/zdravi/cukrovku-musime-lecit-driv-prodelavame-miliardy-diabetolog-o-hrozbe-21-stoleti.A261008_971847_zdravi_bury#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main"
+     },
+     {
+      "title": "Olovo ve vodě pily na škole stovky lidí. O rizikovém potrubí věděli, vyčítají vedení",
+      "link": "https://www.idnes.cz/olomouc/zpravy/olovo-potrubi-zdravotni-riziko-univerzita-palackeho-zamestnanci-kritika.A261106_150101_olomouc-zpravy_zunt#utm_source=rss&utm_medium=feed&utm_campaign=idnes&utm_content=main"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://leonkerstenbasketbal.nl/",
+  "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+ },
+ {
+  "input": "https://basketballsphere.com/en/",
+  "status": 200,
+  "final": "https://basketballsphere.com/en/",
+  "bytes": 211727,
+  "article_links": 38,
+  "article_sample": [
+   "https://basketballsphere.com/en/picks/olympics-2024/",
+   "https://basketballsphere.com/en/sportsbooks/best-basketball-betting-apps/",
+   "https://basketballsphere.com/en/sportsbooks/new-zealand-betting-sites/",
+   "https://basketballsphere.com/en/payment-methods-online-betting/",
+   "https://basketballsphere.com/en/betting-bonuses/latest-sports-betting-bonuses/",
+   "https://basketballsphere.com/en/euroleague-fantasy-round-tips/",
+   "https://basketballsphere.com/en/euroleague-fantasy-player-prices/",
+   "https://basketballsphere.com/en/euroleague-fantasy-head-coach-picks/"
+  ],
+  "robots_sitemaps": [
+   "https://basketballsphere.com/sitemap_index.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://basketballsphere.com/en/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 19:20:00 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Dimitris Giannakopoulos receives 10-month arena ban in Greece",
+      "link": "https://basketballsphere.com/en/dimitris-giannakopoulos-10-month-arena-ban/"
+     },
+     {
+      "title": "Milano part ways with head coach Giuseppe Poeta",
+      "link": "https://basketballsphere.com/en/milano-peppe-poeta-part-ways/"
+     },
+     {
+      "title": "Same-Game Combo of the Day: Saturday, Nov. 07, 2026",
+      "link": "https://basketballsphere.com/en/same-game-combo-of-the-day-saturday-nov-07-2026/"
+     },
+     {
+      "title": "Dog of the Day – Saturday, Nov. 07, 2026",
+      "link": "https://basketballsphere.com/en/dog-of-the-day-saturday-nov-07-2026/"
+     }
+    ]
+   },
+   {
+    "url": "https://basketballsphere.com/en/comments/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 03 Jul 2026 21:02:23 +0000"
+    ],
+    "sample": [
+     {
+      "title": "\n\t\tComment on Trey Lyles returns to NBA after Real Madrid season, signs with Timberwolves ",
+      "link": "https://basketballsphere.com/en/trey-lyles-nba-return-timberwolves-real-madrid/#comment-10360"
+     },
+     {
+      "title": "\n\t\tComment on Qatar vs Saudi Arabia: Preview and Prediction (Jun. 29, 2026) by Bet Henry\t\t",
+      "link": "https://basketballsphere.com/en/qatar-vs-saudi-arabia-preview-and-prediction-jun-29-2026/#comment-10354"
+     },
+     {
+      "title": "\n\t\tComment on (VIDEO) Milano crushes Venezia to take 1-0 lead in Serie A final by Levelupa",
+      "link": "https://basketballsphere.com/en/video-milano-crushes-venezia-to-take-1-0-lead-in-serie-a-final/#comment-10320"
+     },
+     {
+      "title": "\n\t\tComment on Monaco in turmoil: €30M plan, EuroLeague future and key court decision ahead",
+      "link": "https://basketballsphere.com/en/monaco-in-turmoil-e30m-plan-euroleague-future-and-key-court-decision-ahead/#comment-10307"
+     }
+    ]
+   },
+   {
+    "url": "https://basketballsphere.com/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 19:11:03 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Dimitris Diamantidis o tome zašto je Željko Obradović genijalan",
+      "link": "https://basketballsphere.com/dimitris-diamantidis-zeljko-obradovic/"
+     },
+     {
+      "title": "Dušan Alimpijević ističe jedan detalj: Ovako ne možemo da pobedimo nikoga",
+      "link": "https://basketballsphere.com/dusan-alimpijevic-besiktas-zalgiris-konferencija-za-medije/"
+     },
+     {
+      "title": "(VIDEO) Besiktas svaki put gubi iz istog razloga, tako je bilo i protiv Zalgirisa u Istanb",
+      "link": "https://basketballsphere.com/video-besiktas-zalgiris-evroliga-dusan-alimpijevic-lonnie-walker/"
+     },
+     {
+      "title": "Vlade Đurović: Crvena zvezda ne može da prestigne Partizan, nije igrač za velike ekipe",
+      "link": "https://basketballsphere.com/crvena-zvezda-partizan-evroliga-vlade-djurovic/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://telesport.rs/category/kosarka/",
+  "status": 200,
+  "final": "https://telesport.rs/category/kosarka/",
+  "bytes": 114943,
+  "article_links": 10,
+  "article_sample": [
+   "https://telesport.rs/2026/11/06/uzivo-partizan-makabi-4/",
+   "https://telesport.rs/2026/11/06/uzivo-olimpijakos-crvena-zvezda-4/",
+   "https://telesport.rs/2026/11/06/olimpija-smenila-poetu/",
+   "https://telesport.rs/2026/11/06/jokic-daleko-od-vrha-krenula-mvp-trka/",
+   "https://telesport.rs/2026/11/06/micic-7/",
+   "https://telesport.rs/2026/11/06/olimpija-3/",
+   "https://telesport.rs/2026/11/06/partizan-nema-megazvezdu-poput-mirotica-na-primer/",
+   "https://telesport.rs/2026/11/06/partizan-ne-odustaje-od-fransize-mijailovic-daje-garancije/"
+  ],
+  "robots_sitemaps": [
+   "https://telesport.rs/sitemap_index.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://telesport.rs/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 19:40:56 +0000"
+    ],
+    "sample": [
+     {
+      "title": "UŽIVO: Partizan – Makabi 53:38",
+      "link": "https://telesport.rs/2026/11/06/uzivo-partizan-makabi-4/"
+     },
+     {
+      "title": "UŽIVO: Olimpijakos – Crvena zvezda 41:51",
+      "link": "https://telesport.rs/2026/11/06/uzivo-olimpijakos-crvena-zvezda-4/"
+     },
+     {
+      "title": "Olimpija smenila Poetu!",
+      "link": "https://telesport.rs/2026/11/06/olimpija-smenila-poetu/"
+     },
+     {
+      "title": "Jokić daleko od vrha, krenula MVP trka!",
+      "link": "https://telesport.rs/2026/11/06/jokic-daleko-od-vrha-krenula-mvp-trka/"
+     }
+    ]
+   },
+   {
+    "url": "https://telesport.rs/comments/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Sun, 01 Nov 2026 13:48:20 +0000"
+    ],
+    "sample": [
+     {
+      "title": "\n\t\tComment on Golac želi da postane predsednik Partizana: „Cilj je da stabilizujemo klub z",
+      "link": "https://telesport.rs/2026/11/01/golac-zeli-da-postane-predsednik-partizana-cilj-je-da-stabilizujemo-klub-za-godinu-dana/#comment-13731"
+     },
+     {
+      "title": "\n\t\tComment on Marinković se vraća u tim: Stigle i nove informacije oko Vilisa i Džekirija?",
+      "link": "https://telesport.rs/2026/10/31/marinkovic-se-vraca-u-tim-stigle-i-nove-informacije-oko-vilisa-i-dzekirija/#comment-13727"
+     },
+     {
+      "title": "\n\t\tComment on Tajson Etijen za TELESPORT: Partizan je bio jedan od timova koji su bili zai",
+      "link": "https://telesport.rs/2026/10/30/etijen-za-telesport-partizan-je-bio-jedan-od-timova-koji-su-bili-zainteresovani-za-mene/#comment-13724"
+     },
+     {
+      "title": "\n\t\tComment on Partizan tone, Đoković i Čarapić zaledili Humsku! by zdenko\t\t",
+      "link": "https://telesport.rs/2026/10/24/uzivo-partizan-cukaricki-4/#comment-13699"
+     }
+    ]
+   },
+   {
+    "url": "https://telesport.rs/category/kosarka/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 19:40:56 +0000"
+    ],
+    "sample": [
+     {
+      "title": "UŽIVO: Partizan – Makabi 53:38",
+      "link": "https://telesport.rs/2026/11/06/uzivo-partizan-makabi-4/"
+     },
+     {
+      "title": "UŽIVO: Olimpijakos – Crvena zvezda 41:51",
+      "link": "https://telesport.rs/2026/11/06/uzivo-olimpijakos-crvena-zvezda-4/"
+     },
+     {
+      "title": "Olimpija smenila Poetu!",
+      "link": "https://telesport.rs/2026/11/06/olimpija-smenila-poetu/"
+     },
+     {
+      "title": "Jokić daleko od vrha, krenula MVP trka!",
+      "link": "https://telesport.rs/2026/11/06/jokic-daleko-od-vrha-krenula-mvp-trka/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.mozzartsport.com/sve-vesti?id=2",
+  "status": 200,
+  "final": "https://www.mozzartsport.com/sve-vesti?id=2",
+  "bytes": 273894,
+  "article_links": 70,
+  "article_sample": [
+   "https://www.mozzartsport.com/kosarka/vesti/uzivo-olimpijakos-crvena-zvezda-napeto-u-atini/558206",
+   "https://www.mozzartsport.com/kosarka/vesti/brze-nego-ikad-relax-vecitih-protiv-olimpijakosa-i-makabija/558223",
+   "https://www.mozzartsport.com/kosarka/vesti/brze-nego-ikad-relax-vecitih-protiv-olimpijakosa-i-makabija/558223/komentari",
+   "https://www.mozzartsport.com/kosarka/vesti/uzivo-partizan-mozzart-bet-makabi-tel-aviv/558219",
+   "https://www.mozzartsport.com/kosarka/vesti/zalgiris-razbio-besiktas-alimpijevicev-tim-nikad-gori-ove-sezone/558217",
+   "https://www.mozzartsport.com/kosarka/vesti/zalgiris-razbio-besiktas-alimpijevicev-tim-nikad-gori-ove-sezone/558217/komentari",
+   "https://www.mozzartsport.com/kosarka/vesti/nije-moglo-drugacije-olimpija-milano-otpustila-trenera/558216",
+   "https://www.mozzartsport.com/kosarka/vesti/nije-moglo-drugacije-olimpija-milano-otpustila-trenera/558216/komentari"
+  ],
+  "robots_sitemaps": [
+   "https://www.mozzartsport.com/sitemap_index.xml"
+  ],
+  "feeds": []
+ },
+ {
+  "input": "https://basketdergisi.com/",
+  "status": 200,
+  "final": "https://basketdergisi.com/",
+  "bytes": 720279,
+  "article_links": 41,
+  "article_sample": [
+   "https://basketdergisi.com/kategori/ligler/kadinlar-basketbol-super-lig",
+   "https://basketdergisi.com/a-milli-kadin-takiminda-kadro-aciklandi.html",
+   "https://basketdergisi.com/galatasarayin-kocu-kadin-milli-takiminin-basina-gecti.html",
+   "https://basketdergisi.com/a-milli-kadin-takiminda-ayrilik.html",
+   "https://basketdergisi.com/luca-banchi-olimpia-milanonun-yeni-basantrenoru-oluyor.html",
+   "https://basketdergisi.com/alimpijevic-bu-yuzdelerle-kimseyi-yenemeyiz.html",
+   "https://basketdergisi.com/fener-evinde-kral-gokhan-ture.html",
+   "https://basketdergisi.com/dwight-powell-ilk-macina-cikti.html"
+  ],
+  "robots_sitemaps": [
+   "https://basketdergisi.com/wp-sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://basketdergisi.com/feed",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 19:42:58 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Luca Banchi, Olimpia Milano’nun yeni başantrenörü oluyor",
+      "link": "https://basketdergisi.com/luca-banchi-olimpia-milanonun-yeni-basantrenoru-oluyor.html"
+     },
+     {
+      "title": "Ömer Faruk Yurtseven, Rio Grande Valley Vipers ile anlaştı",
+      "link": "https://basketdergisi.com/omer-faruk-yurtseven-rio-grande-valley-vipers-ile-anlasti.html"
+     },
+     {
+      "title": "Alimpijevic: Bu yüzdelerle kimseyi yenemeyiz",
+      "link": "https://basketdergisi.com/alimpijevic-bu-yuzdelerle-kimseyi-yenemeyiz.html"
+     },
+     {
+      "title": "Beşiktaş, Zalgiris’e direnemedi",
+      "link": "https://basketdergisi.com/besiktas-zalgirise-direnemedi.html"
+     }
+    ]
+   },
+   {
+    "url": "https://basketdergisi.com/comments/feed",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 11:56:14 +0000"
+    ],
+    "sample": [
+     {
+      "title": "\n\t\tCameron Payne direndi, Paris kazandı yazısına Can tarafından yapılan yorumlar\t\t",
+      "link": "https://basketdergisi.com/cameron-payne-direndi-paris-kazandi.html#comment-38829"
+     },
+     {
+      "title": "\n\t\tCameron Payne direndi, Paris kazandı yazısına Mertbaba tarafından yapılan yorumlar\t\t",
+      "link": "https://basketdergisi.com/cameron-payne-direndi-paris-kazandi.html#comment-38828"
+     },
+     {
+      "title": "\n\t\tAnadolu Efes, Panathinaikos karşısında farka koştu yazısına başkan tarafından yapılan y",
+      "link": "https://basketdergisi.com/anadolu-efes-panathinaikos-karsisinda-farka-kostu.html#comment-38827"
+     },
+     {
+      "title": "\n\t\tLaso: Reaksiyondan dolayı çok mutluyum yazısına Pablo tarafından yapılan yorumlar\t\t",
+      "link": "https://basketdergisi.com/laso-reaksiyondan-dolayi-cok-mutluyum.html#comment-38826"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.athletiko.gr/mpasket",
+  "status": 200,
+  "final": "https://www.athletiko.gr/mpasket",
+  "bytes": 481938,
+  "article_links": 17,
+  "article_sample": [
+   "https://www.athletiko.gr/water-polo-champions-league",
+   "https://www.athletiko.gr/water-polo-champions-league-ginaikon",
+   "https://www.athletiko.gr/o-olympiakos-eiche-to-cheirotero-toy-imichrono-epithetika-sti-fetini-euroleague-kontra-ston-erythro-astera-114116",
+   "https://www.athletiko.gr/provlimata-gia-tin-amyna-toy-olympiakoy-stin-proti-periodo-o-erythros-asteras-etrexe-seri-13-0-114114",
+   "https://www.athletiko.gr/paron-o-tzokovits-sto-mats-toy-olympiakoy-me-ton-erythro-astera-photo-114107",
+   "https://www.athletiko.gr/ti-einai-to-prostateytiko-poy-topothetise-o-foyrnie-ston-omo-toy-gia-to-mats-me-ton-erythro-astera-114108",
+   "https://www.athletiko.gr/prosfeygei-sto-asead-o-panathinaikos-gia-tin-apofasi-toy-athlitikoy-dikasti-114109",
+   "https://www.athletiko.gr/pro-ton-pylon-tis-armani-milano-o-loyka-mpanki-114104"
+  ],
+  "robots_sitemaps": [
+   "https://www.athletiko.gr/sitemap.xml",
+   "https://www.athletiko.gr/sitemaps/googlenews.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.athletiko.gr/feed",
+    "kind": "rss",
+    "items": 50,
+    "newest": [
+     "Fri, 06 Nov 2026 22:32:00 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Ο Νίκολιτς «προσαρμόστηκε» και ωφελήθηκε – Τι «κέρδισε» η ΑΕΚ",
+      "link": "https://www.athletiko.gr/o-nikolits-prosarmostike-kai-ofelithike-ti-kerdise-iaek-113991"
+     },
+     {
+      "title": "Η Ζάκυνθος «απειλεί» με αποχώρηση από τη Superbet League 2",
+      "link": "https://www.athletiko.gr/tzolis-114105"
+     },
+     {
+      "title": "«Blackout» στη Sunel Arena: Ο Ολυμπιακός είχε το χειρότερό του ημίχρονο στη φετινή EuroLea",
+      "link": "https://www.athletiko.gr/o-olympiakos-eiche-to-cheirotero-toy-imichrono-epithetika-sti-fetini-euroleague-kontra-ston-erythro-astera-114116"
+     },
+     {
+      "title": "Η Ολυμπιονίκης Ιμάν Κελίφ επιστρέφει στη δράση μετά το 2024 - «Ήρθε η ώρα να γίνω επαγγελμ",
+      "link": "https://www.athletiko.gr/i-olympionikis-iman-kelif-epistrefei-sti-drasi-meta-to-2024-irthe-i-ora-na-gino-epaggelmatias-114112"
+     }
+    ]
+   },
+   {
+    "url": "https://www.athletiko.gr/sitemaps/googlenews.xml",
+    "kind": "sitemap",
+    "urls": 364,
+    "children": [],
+    "sample": [
+     "https://www.athletiko.gr/o-nikolits-prosarmostike-kai-ofelithike-ti-kerdise-iaek-113991",
+     "https://www.athletiko.gr/tzolis-114105",
+     "https://www.athletiko.gr/o-olympiakos-eiche-to-cheirotero-toy-imichrono-epithetika-sti-fetini-euroleague-kontra-ston-erythro-astera-114116",
+     "https://www.athletiko.gr/i-olympionikis-iman-kelif-epistrefei-sti-drasi-meta-to-2024-irthe-i-ora-na-gino-epaggelmatias-114112"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.sdna.gr/mpasket",
+  "status": 200,
+  "final": "https://www.sdna.gr/mpasket",
+  "bytes": 152045,
+  "article_links": 60,
+  "article_sample": [
+   "https://www.sdna.gr/podosfairo/mundial/fifa-world-cup-2026",
+   "https://www.sdna.gr/podosfairo/fifa-womens-world-cup",
+   "https://www.sdna.gr/mpasket/eurobasket/eurobasket-2025",
+   "https://www.sdna.gr/tenis/billie-jean-king-cup",
+   "https://www.sdna.gr/politiki-aporritoy-sto-website-wwwsdnagr",
+   "https://www.sdna.gr/mpasket/european-north-basketball-league",
+   "https://www.sdna.gr/mpasket/1484218_olympiakos-heirotero-toy-proto-imihrono-entos-edras-stin-eyroligka-pic",
+   "https://www.sdna.gr/mpasket/1484140_oi-tileoptikes-kai-diadiktyakes-metadoseis-ton-epomenon-imeron"
+  ],
+  "robots_sitemaps": [
+   "https://www.sdna.gr/googlenews.xml",
+   "https://www.sdna.gr/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.sdna.gr/rss.xml",
+    "kind": "rss",
+    "items": 1,
+    "newest": [
+     "Fri, 02 Apr 2021 05:15:52 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Παναθηναϊκός Α.Ο. - Π.Α.Ο.Κ.",
+      "link": "https://www.sdna.gr/node/825272"
+     }
+    ]
+   },
+   {
+    "url": "https://www.sdna.gr/googlenews.xml",
+    "kind": "sitemap",
+    "urls": 300,
+    "children": [],
+    "sample": [
+     "https://www.sdna.gr/mpasket/1484218_olympiakos-heirotero-toy-proto-imihrono-entos-edras-stin-eyroligka-pic",
+     "https://www.sdna.gr/stoihima/1462452_esy-xereis-ti-einai-supersocial",
+     "https://www.sdna.gr/politiko-deltio/koinonia/1484157_me-apeilisan-ithela-na-aytoktoniso-oi-apokalypseis-tis-elenas",
+     "https://www.sdna.gr/mpasket/1484140_oi-tileoptikes-kai-diadiktyakes-metadoseis-ton-epomenon-imeron"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.sport24.gr/basket/",
+  "status": 200,
+  "final": "https://www.sport24.gr/basket/",
+  "bytes": 302307,
+  "article_links": 40,
+  "article_sample": [
+   "https://www.sport24.gr/future-of-sports-journalism-3/",
+   "https://www.sport24.gr/basket/giannakopoulos-apantise-me-story-sto-instagram-kai-voles-stin-kae-olimpiakos-gia-tous-29-mines-timorias/",
+   "https://www.sport24.gr/basket/euroleague-basketball/ta-espase-sto-proto-meros-o-olimpiakos-petixe-molis-22-pontous-se-20-lepta/",
+   "https://www.sport24.gr/basket/thanou-i-kae-olimpiakos-psevdetai-stin-enimerosi-pros-ta-mme-otan-dilonei-oti-den-krithike-kai-i-frasi-mou-peri-stimenon-diaititon-pou-isodinamoun-me-stimena-protathlimata/",
+   "https://www.sport24.gr/basket/euroleague-basketball/sti-sunel-arena-gia-na-parakolouthisei-tin-anametrisi-tou-erithrou-astera-me-ton-olimpiako-o-tzokovits/",
+   "https://www.sport24.gr/basket/olimpiakos-erithros-asteras-oi-froiler-kai-popovits-stin-sunel-arena-gia-to-mats-ton-protathliton-evropis/",
+   "https://www.sport24.gr/basket/skoti-pipen-i-proin-sizigos-tou-larsa-apokalipse-oti-diagnostike-me-anevrisma-ston-egkefalo/",
+   "https://www.sport24.gr/basket/euroleague-basketball/diamantidis-o-naitzel-xeiz-nteivis-mou-thimizei-se-orismena-stoixeia-ton-tropo-me-ton-opoio-agonizomoun/"
+  ],
+  "robots_sitemaps": [
+   "https://www.sport24.gr/sitemap_index.xml",
+   "https://www.sport24.gr/news-sitemap.xml"
+  ],
+  "feeds": []
+ },
+ {
+  "input": "https://sportacentrs.com/basketbols/",
+  "status": 200,
+  "final": "https://sportacentrs.com/basketbols/",
+  "bytes": 227756,
+  "article_links": 108,
+  "article_sample": [
+   "https://sportacentrs.com/loginRedirect?go=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fauth%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fsportacentrs.com%252Flogin%252Fsocials%252Fgoogle%252Fredirect%26client_id%3D988609442972-fgslg263aiccnaqij4h458nomsdbjd5i.apps.googleusercontent.com%26scope%3Dhttps%253A%252F%252Fwww.googleapis.com%252Fauth%252Fuserinfo.email%2Bhttps%253A%252F%252Fwww.googleapis.com%252Fauth%252Fuserinfo.profile%2Bopenid%26access_type%3Donline%26approval_prompt%3Dauto",
+   "https://sportacentrs.com/basketbols/eirokausi/06112026-kaunas_zalgiris_turpina_uzvaru_gajienu",
+   "https://sportacentrs.com/basketbols/damas/06112026-saga_diksone_iemet_40_punktus_tacu_liepaj",
+   "https://sportacentrs.com/basketbols/eirokausi/06112026-banki_kluvis_par_sev_labi_pazistama_eirol",
+   "https://sportacentrs.com/basketbols/nba/06112026-apskatnieks_porzinga_aizmainisana_varetu_",
+   "https://sportacentrs.com/basketbols/damas/05112026-aigars_nerips_paraksim_dzilak_esam_loti_m",
+   "https://sportacentrs.com/basketbols/damas/05112026-treso_vietu_rangs_ttt_labakas_izredzes_ne",
+   "https://sportacentrs.com/basketbols/eirokausi/05112026-kohs_par_sniegumu_fiba_eiropas_kausa_atde"
+  ],
+  "robots_sitemaps": [
+   "https://sportacentrs.com/static/non-publish/sitemap/esports/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://sportacentrs.com/static/non-publish/rss/sc/rss.xml",
+    "kind": "rss",
+    "items": 46,
+    "newest": [
+     "Fri, 06 Nov 2026 22:49:00 +0200"
+    ],
+    "sample": [
+     {
+      "title": "\"Panathinaikos\" īpašnieks par sociālo tīklu izgājienu saņem desmit mēnešu sodu",
+      "link": "http://sportacentrs.com/basketbols/eirokausi/06112026-panathinaikos_ipasnieks_par_socialo_tiklu"
+     },
+     {
+      "title": "Rainai Tomašickai 16 punkti un izrauta uzvara pēdējās sekundēs",
+      "link": "http://sportacentrs.com/basketbols/damas/06112026-rainai_tomasickai_16_punkti_un_izrauta_uz"
+     },
+     {
+      "title": "Klausītava | LV basketbols: kā ''Valmiera'' dabūja centru, kas trenējās ''Unicaja''?",
+      "link": "http://sportacentrs.com/klausitava/06112026-klausitava_lv_basketbols_ka_valmiera_dabu"
+     },
+     {
+      "title": "Elvi līgā uzvar \"Rubene\" un \"Masters Ulbroka/LU\"",
+      "link": "http://sportacentrs.com/florbols/virsliga_viriesiem/06112026-elvi_liga_uzvar_rubene_un_masters_ulbroka"
+     }
+    ]
+   },
+   {
+    "url": "https://sportacentrs.com/static/non-publish/rss/sc/basketbols/rss.xml",
+    "kind": "rss",
+    "items": 100,
+    "newest": [
+     "Fri, 06 Nov 2026 22:14:44 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Klausītava | LV basketbols: kā ''Valmiera'' dabūja centru, kas trenējās ''Unicaja''?",
+      "link": "http://sportacentrs.com/klausitava/06112026-klausitava_lv_basketbols_ka_valmiera_dabu"
+     },
+     {
+      "title": "Kauņas \"Žalgiris\" turpina uzvaru gājienu",
+      "link": "http://sportacentrs.com/basketbols/eirokausi/06112026-kaunas_zalgiris_turpina_uzvaru_gajienu"
+     },
+     {
+      "title": "Trofimenko lielais vakars nodrošina RSU uzvaru Baltās rozes pilsētā",
+      "link": "http://sportacentrs.com/basketbols/damas/06112026-trofimenko_lielais_vakars_nodrosina_rsu_u"
+     },
+     {
+      "title": "Bijušais Latvijas izlases treneris Banki atgriežas pie Eirolīgas kluba stūres",
+      "link": "http://sportacentrs.com/basketbols/eirokausi/06112026-banki_kluvis_par_sev_labi_pazistama_eirol"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.bild.de/sport/mehr-sport/basketball/startseite-sport-sport-mix-basketball-26394584.bild.html",
+  "status": 200,
+  "final": "https://www.bild.de/sport/mehr-sport/basketball/startseite-sport-sport-mix-basketball-26394584.bild.html",
+  "bytes": 343604,
+  "article_links": 163,
+  "article_sample": [
+   "https://www.bild.de/bildplus/aboseite/bild-abonnement/bildplus-abo-seite-81057138.bild.html",
+   "https://www.bild.de/bild-plus/bildplus-startseite/bildplus/home-30723544,la=de.bild.html",
+   "https://www.bild.de/schlagzeilen-des-tages/ateaserseite/der-tag-bei-bild/ateaserseite-15480098.bild.html",
+   "https://www.bild.de/news/startseite/news/news-16804530.bild.html",
+   "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
+   "https://www.bild.de/ratgeber/gesundheit/gesundheit/home-15734752.bild.html",
+   "https://www.bild.de/sport/startseite/sport/sport-home-15479124.bild.html",
+   "https://www.bild.de/sport/fussball/fussball/home-15769054.bild.html"
+  ],
+  "robots_sitemaps": [
+   "https://www.bild.de/sitemap-news.xml",
+   "https://www.bild.de/sitemap-video.xml",
+   "https://www.bild.de/sitemap-index.xml",
+   "https://www.bild.de/sitemap-category.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.bild.de/feed/sport-mix.xml",
+    "kind": "rss",
+    "items": 50,
+    "newest": [
+     "Fri, 06 Nov 2026 21:49:58 CET"
+    ],
+    "sample": [
+     {
+      "title": "Sein Audi bewegt sich keinen Meter - Trainings-Debakel für Hülkenberg",
+      "link": "https://www.bild.de/sport/mehr-sport/trainings-debakel-fuer-nico-huelkenberg-im-audi-6aee3aa9df1cc9b29830da14"
+     },
+     {
+      "title": "Beim Uni-Start von Sohn Charlie - Hier feiert Tiger Woods neben seiner Ex-Frau",
+      "link": "https://www.bild.de/sport/mehr-sport/golf-tiger-woods-feiert-bei-uni-start-von-sohn-charlie-neben-seiner-ex-frau-elin-nordegren-6aee29029a8c816aafecdb09"
+     },
+     {
+      "title": "„Hat hier nichts zu suchen“ - Knallhart-Urteil gegen neues Formel-1-Gesicht",
+      "link": "https://www.bild.de/sport/mehr-sport/schumachers-knallhart-urteil-gegen-neues-formel-1-gesicht-herta-6aee1e84a389bc337cfc869d"
+     },
+     {
+      "title": "Kurzer Schreck im Training - Formel-1-Pilot fährt mit Wackel-Sitz",
+      "link": "https://www.bild.de/sport/mehr-sport/formel-1-kurzer-schreck-im-training-pilot-faehrt-mit-wackel-sitz-6aee03f547b5fce02f87a8d5"
+     }
+    ]
+   },
+   {
+    "url": "https://www.bild.de/sitemap-news.xml",
+    "kind": "sitemap",
+    "urls": 670,
+    "children": [],
+    "sample": [
+     "https://www.bild.de/unterhaltung/bildgg/rene-redo-dost-seine-neue-freundin-celine-ist-33-jahre-juenger-6aeded87320931eb80f5c7e6",
+     "https://www.bild.de/politik/putins-omas-fordern-melania-for-president-6aee339fa389bc337cfc879e",
+     "https://www.bild.de/sport/mehr-sport/trainings-debakel-fuer-nico-huelkenberg-im-audi-6aee3aa9df1cc9b29830da14",
+     "https://www.bild.de/news/ausland/moerder-33-stellt-weltrekord-im-knast-auf-6aee1554a389bc337cfc861f"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.basketball-world.news/",
+  "status": 403,
+  "final": "https://www.basketball-world.news/",
+  "bytes": 919,
+  "robots_sitemaps": [],
+  "feeds": []
+ },
+ {
+  "input": "https://www.gazzetta.gr/basketball",
+  "status": 200,
+  "final": "https://www.gazzetta.gr/basketball",
+  "bytes": 229851,
+  "article_links": 33,
+  "article_sample": [
+   "https://www.gazzetta.gr/gazzetta-magazino-post-game",
+   "https://www.gazzetta.gr/basketball/basketaki-erasitehniko-protathlima-mpasket",
+   "https://www.gazzetta.gr/basketball/euroleague/2584328/olympiakos-erythros-asteras-deyteri-heiroteri-epidosi-stin-istoria",
+   "https://www.gazzetta.gr/basketball/ax-armani-exchange-olimpia-milan",
+   "https://www.gazzetta.gr/basketball/euroleague/2584325/i-armani-anazita-protagonistes-apo-toys-lathos-paiktes-i-pagida-ton",
+   "https://www.gazzetta.gr/basketball/euroleague/2584323/olympiakos-erythros-asteras-astoho-proto-dekalepto-ton-peiraioton",
+   "https://www.gazzetta.gr/basketball/euroleague/live-partizan-makampi-tel-aviv-perigrafi-06-11-2026",
+   "https://www.gazzetta.gr/basketball/euroleague/2584320/olympiakos-erythros-asteras-sti-sunel-arena-o-nobak-tzokobits"
+  ],
+  "robots_sitemaps": [
+   "https://www.gazzetta.gr/news.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.gazzetta.gr/basketball/rss",
+    "kind": "rss",
+    "items": 48,
+    "newest": [
+     "Fri, 6 Nov 2026 22:21:31 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Ολυμπιακός - Ερυθρός Αστέρας: Δεύτερη χειρότερη επίδοση στην ιστορία των Πειραιωτών",
+      "link": "https://www.gazzetta.gr/basketball/euroleague/2584328/olympiakos-erythros-asteras-deyteri-heiroteri-epidosi-stin-istoria"
+     },
+     {
+      "title": "Η Αρμάνι αναζητά πρωταγωνιστές από τους λάθος παίκτες: Η παγίδα των Πίτερς, Γκούντουριτς κ",
+      "link": "https://www.gazzetta.gr/basketball/euroleague/2584325/i-armani-anazita-protagonistes-apo-toys-lathos-paiktes-i-pagida-ton"
+     },
+     {
+      "title": "Ολυμπιακός - Ερυθρός Αστέρας: Το άστοχο πρώτο δεκάλεπτο των Πειραιωτών",
+      "link": "https://www.gazzetta.gr/basketball/euroleague/2584323/olympiakos-erythros-asteras-astoho-proto-dekalepto-ton-peiraioton"
+     },
+     {
+      "title": "Ολυμπιακός - Ερυθρός Αστέρας: Στη Sunel Arena ο Νόβακ Τζόκοβιτς! ",
+      "link": "https://www.gazzetta.gr/basketball/euroleague/2584320/olympiakos-erythros-asteras-sti-sunel-arena-o-nobak-tzokobits"
+     }
+    ]
+   },
+   {
+    "url": "https://www.gazzetta.gr/rss",
+    "kind": "rss",
+    "items": 50,
+    "newest": [
+     "Fri, 6 Nov 2026 22:50:02 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Ηλεκτρική διασύνδεση Ελλάδας - Κύπρου: Νέα τουρκική πρόκληση με φόντο το γαλλικό πλοίο στη",
+      "link": "https://www.gazzetta.gr/plus/2584330/ilektriki-diasyndesi-elladas-kyproy-nea-toyrkiki-proklisi-me-fonto-galliko-ploio-stin"
+     },
+     {
+      "title": "Ο Πανιώνιος με άνεση και την Μπόχουμ για το Conference Cup",
+      "link": "https://www.gazzetta.gr/polo/2584329/o-panionios-me-anesi-kai-tin-mpohoym-gia-conference-cup"
+     },
+     {
+      "title": "Ολυμπιακός - Ερυθρός Αστέρας: Δεύτερη χειρότερη επίδοση στην ιστορία των Πειραιωτών",
+      "link": "https://www.gazzetta.gr/basketball/euroleague/2584328/olympiakos-erythros-asteras-deyteri-heiroteri-epidosi-stin-istoria"
+     },
+     {
+      "title": "Αντρίγια Ζίβκοβιτς: Η συμφωνία ζωής, η υπόσχεση Σαββίδη και το νέο «χρυσό» συμβόλαιο",
+      "link": "https://www.gazzetta.gr/football/superleague/2584327/antrigia-zibkobits-i-symfonia-zois-i-yposhesi-sabbidi-kai-neo-hryso"
+     }
+    ]
+   },
+   {
+    "url": "https://www.gazzetta.gr/news.xml",
+    "kind": "sitemap",
+    "urls": 497,
+    "children": [],
+    "sample": [
+     "https://www.gazzetta.gr/plus/2584330/ilektriki-diasyndesi-elladas-kyproy-nea-toyrkiki-proklisi-me-fonto-galliko-ploio-stin",
+     "https://www.gazzetta.gr/polo/2584329/o-panionios-me-anesi-kai-tin-mpohoym-gia-conference-cup",
+     "https://www.gazzetta.gr/basketball/euroleague/2584328/olympiakos-erythros-asteras-deyteri-heiroteri-epidosi-stin-istoria",
+     "https://www.gazzetta.gr/football/superleague/2584327/antrigia-zibkobits-i-symfonia-zois-i-yposhesi-sabbidi-kai-neo-hryso"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://meridiansport.rs/kosarka/",
+  "status": 200,
+  "final": "https://meridiansport.rs/kosarka/",
+  "bytes": 226375,
+  "article_links": 34,
+  "article_sample": [
+   "https://meridiansport.rs/fudbal/superliga-srbije-domaci-fudbal/",
+   "https://meridiansport.rs/fudbal/evro-2024/",
+   "https://meridiansport.rs/fudbal/mundijal-2026/",
+   "https://meridiansport.rs/kosarka/alimpijevic-besan-apsolutno-neprihvatljivo/",
+   "https://meridiansport.rs/kosarka/olman-ne-igra-protiv-makabija/",
+   "https://meridiansport.rs/kosarka/dokovic-ponovo-uz-zvezdu-u-atini-navaro-dao-prednost-durisicu-video/",
+   "https://meridiansport.rs/kosarka/alimpijevic-crveneo-sila-iz-kaunasa-se-razmahala-zalgiris-oduvao-besiktas-u-istanbulu/",
+   "https://meridiansport.rs/kosarka/pao-drugi-otkaz-u-evroligi-poeta-out-banki-in/"
+  ],
+  "robots_sitemaps": [
+   "https://meridiansport.rs/sitemap_index.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://meridiansport.rs/kosarka/feed/",
+    "kind": "rss",
+    "items": 5,
+    "newest": [
+     "Fri, 06 Nov 2026 20:27:37 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Alimpijević besan: Apsolutno neprihvatljivo!",
+      "link": "https://meridiansport.rs/kosarka/alimpijevic-besan-apsolutno-neprihvatljivo/"
+     },
+     {
+      "title": "Olman ne igra protiv Makabija",
+      "link": "https://meridiansport.rs/kosarka/olman-ne-igra-protiv-makabija/"
+     },
+     {
+      "title": "Đoković ponovo uz Zvezdu u Atini, Navaro dao prednost Đurišiću (VIDEO)",
+      "link": "https://meridiansport.rs/kosarka/dokovic-ponovo-uz-zvezdu-u-atini-navaro-dao-prednost-durisicu-video/"
+     },
+     {
+      "title": "Alimpijević crveneo, sila iz Kaunasa se razmahala: Žalgiris oduvao Bešiktaš u Istanbulu",
+      "link": "https://meridiansport.rs/kosarka/alimpijevic-crveneo-sila-iz-kaunasa-se-razmahala-zalgiris-oduvao-besiktas-u-istanbulu/"
+     }
+    ]
+   },
+   {
+    "url": "https://meridiansport.rs/feed/",
+    "kind": "rss",
+    "items": 5,
+    "newest": [
+     "Fri, 06 Nov 2026 20:40:55 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Pomoćnik obradovao navijače: Oporavak Kompanija ide u dobrom smeru, čuli smo se telefonom",
+      "link": "https://meridiansport.rs/fudbal/pomocnik-obradovao-navijace-oporavak-kompanija-ide-u-dobrom-smeru-culi-smo-se-telefonom/"
+     },
+     {
+      "title": "Alimpijević besan: Apsolutno neprihvatljivo!",
+      "link": "https://meridiansport.rs/kosarka/alimpijevic-besan-apsolutno-neprihvatljivo/"
+     },
+     {
+      "title": "PAOK učinio sve da zadrži Andriju: Živković još najmanje četiri godine u Solunu",
+      "link": "https://meridiansport.rs/fudbal/paok-ucinio-sve-da-zadrzi-andriju-zivkovic-jos-najmanje-cetiri-godine-u-solunu/"
+     },
+     {
+      "title": "Olman ne igra protiv Makabija",
+      "link": "https://meridiansport.rs/kosarka/olman-ne-igra-protiv-makabija/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://encestando.es/",
+  "status": 200,
+  "final": "https://encestando.es/",
+  "bytes": 86912,
+  "article_links": 27,
+  "article_sample": [
+   "https://encestando.es/luca-banchi-nuevo-entrenador-del-armani-milano-tras-el-despido-de-poeta/",
+   "https://encestando.es/doncic-brilla-con-numeros-jordanescos/",
+   "https://encestando.es/el-valencia-basket-machaco-al-armani-milan-en-el-ultimo-cuarto-73-84/",
+   "https://encestando.es/victorias-del-unicaja-el-joventut/",
+   "https://encestando.es/horarios-duras-salidas-manana-para-el-baskonia-el-barca-y-el-valencia-basket/",
+   "https://encestando.es/con-las-bajas-de-campazzo-y-maledon-el-real-madrid-tendra-que-jugar-algo-diferente-contra-el-panathinaikos/",
+   "https://encestando.es/doncic-y-gilgeous-alexander-brillan-en-una-jornada-maratoniana-y-cae-el-ultimo-invicto-los-grizzlies/",
+   "https://encestando.es/doce-equipos-de-la-euroliga-deseando-refuerzos-en-un-mercado-seco-y-con-pocas-opciones-de-pescar-entre-los-descartes-de-la-nba/"
+  ],
+  "robots_sitemaps": [
+   "https://encestando.es/sitemaps.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://encestando.es/feed/",
+    "kind": "rss",
+    "items": 30,
+    "newest": [
+     "Fri, 06 Nov 2026 19:17:00 GMT"
+    ],
+    "sample": [
+     {
+      "title": "Luca Banchi, nuevo entrenador del Armani Milano tras el despido de Poeta",
+      "link": "https://encestando.es/luca-banchi-nuevo-entrenador-del-armani-milano-tras-el-despido-de-poeta/"
+     },
+     {
+      "title": "El Barcelona crece a base de victorias y Brizuela vuelve a ser clave ante el Hapoel (90-93",
+      "link": "https://encestando.es/el-b-1004760/"
+     },
+     {
+      "title": "Doncic brilla con números 'jordanescos'",
+      "link": "https://encestando.es/doncic-brilla-con-numeros-jordanescos/"
+     },
+     {
+      "title": "El Baskonia no hizo ni cosquillas al Fenerbahce (84-65)",
+      "link": "https://encestando.es/el-ba/"
+     }
+    ]
+   },
+   {
+    "url": "https://encestando.es/comments/feed/",
+    "kind": "rss",
+    "items": 40,
+    "newest": [
+     "Fri, 06 Nov 2026 20:22:47 GMT"
+    ],
+    "sample": [
+     {
+      "title": "Comentario en El Real Madrid, pese a las bajas, llevó al límite al Panathinaikos, que se i",
+      "link": "https://encestando.es/el-r-1004758/#comment-677124"
+     },
+     {
+      "title": "Comentario en El Barcelona crece a base de victorias y Brizuela vuelve a ser clave ante el",
+      "link": "https://encestando.es/el-b-1004760/#comment-677123"
+     },
+     {
+      "title": "Comentario en El Barcelona crece a base de victorias y Brizuela vuelve a ser clave ante el",
+      "link": "https://encestando.es/el-b-1004760/#comment-677122"
+     },
+     {
+      "title": "Comentario en El Barcelona crece a base de victorias y Brizuela vuelve a ser clave ante el",
+      "link": "https://encestando.es/el-b-1004760/#comment-677121"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.marca.com/baloncesto.html",
+  "status": 200,
+  "final": "https://www.marca.com/baloncesto.html",
+  "bytes": 524363,
+  "article_links": 87,
+  "article_sample": [
+   "https://www.marca.com/tenis/masters-1000-paris/taylor-harry-fritz-carlos-alcaraz/2026/11/06/04_0413_20261106_60-directo.html",
+   "https://www.marca.com/motor/formula1/2026/11/06/05_0501_20261106_20_5-directo.html",
+   "https://www.marca.com/futbol/real-madrid/2026/11/06/abismo-mourinho-xabi-alonso-intrahistoria-dos-noches-valdebebas.html",
+   "https://www.marca.com/motor/formula1/gp-brasil/2026/11/06/alonso-reanima-aston-martin-estreno-brasil-maxima-igualdad.html",
+   "https://www.marca.com/futbol/primera-division/2026/11/06/laliga-adelanta-2-diciembre-barca-atletico-real-sociedad-real-madrid.html",
+   "https://www.marca.com/tenis/masters-1000-paris/2026/11/06/hora-alcaraz-fritz-horario-ver-hoy-tv-cuartos-masters-1000-paris.html",
+   "https://www.marca.com/futbol/primera-division/2026/11/04/a-que-hora-es-el-sevilla-alaves-horario-donde-ver-hoy-en-tv-y-canal-del-partido-de-laliga-ea-sports.html",
+   "https://www.marca.com/motor/motogp/gp-qatar/2026/11/06/libres-practice-gp-qatar-motogp-horario-ver-hoy-tv-marc-marquez.html"
+  ],
+  "robots_sitemaps": [
+   "https://www.marca.com/mx/sitemaps/xlk/noticia_news_0301af606295ed1d45435e8d92ce4ff8.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.marca.com/rss/googlenews/portada.xml",
+    "kind": "rss",
+    "items": 65,
+    "newest": [
+     "Fri, 06 Nov 2026 21:32:11 +0100"
+    ],
+    "sample": [
+     {
+      "title": " Zidane: &quot;¿Mbappé? Puede que le ponga en su posición favorita...&quot; ",
+      "link": "https://www.marca.com/futbol/nations-league/2026/11/06/zidane-mbappe-le-ponga-posicion-favorita.html"
+     },
+     {
+      "title": " El Sánchez-Pizjuán rinde homenaje a Jesús de Miguel ",
+      "link": "https://www.marca.com/futbol/primera-division/2026/11/06/sanchez-pizjuan-rinde-homenaje-jesus-miguel.html"
+     },
+     {
+      "title": " España supera el examen ante Portugal y se cita con Argentina por el título mundial ",
+      "link": "https://www.marca.com/padel/2026/11/06/espana-supera-examen-portugal-cita-argentina-titulo-mundial.html"
+     },
+     {
+      "title": " Jorge Martín: &quot;El hueso sigue roto, pero puedo pilotar&quot; ",
+      "link": "https://www.marca.com/motor/motogp/gp-qatar/2026/11/06/jorge-martin-arma-moral-orgulloso-optimista.html"
+     }
+    ]
+   },
+   {
+    "url": "https://www.marca.com/rss/googlenews/baloncesto.xml",
+    "kind": "rss",
+    "items": 65,
+    "newest": [
+     "Fri, 06 Nov 2026 14:38:45 +0100"
+    ],
+    "sample": [
+     {
+      "title": " Las cifras que confirman a Doncic como uno de los mejores anotadores de la historia ",
+      "link": "https://www.marca.com/baloncesto/nba/2026/11/06/bestiales-cifras-confirman-doncic-mejores-anotadores-historia.html"
+     },
+     {
+      "title": " La primera canasta en la Universidad de Bryce James, el hijo pequeño de LeBron ",
+      "link": "https://www.marca.com/baloncesto/nba/2026/11/06/primera-canasta-universidad-bryce-james-hijo-pequeno-lebron-video.html"
+     },
+     {
+      "title": " La frustración de Hezonja acaba con un &quot;¡joder! ",
+      "link": "https://www.marca.com/baloncesto/nba/2026/11/06/frustracion-hezonja-acaba-joder-video.html"
+     },
+     {
+      "title": " Lorena Torres, la &#039;gurú&#039; española de las Valkyries: el equipo de 1.000 millones",
+      "link": "https://www.marca.com/baloncesto/nba/2026/11/06/valkyries-1-000-millones-triunfo-revoluciona-baloncesto-femenino.html"
+     }
+    ]
+   },
+   {
+    "url": "https://www.marca.com/mx/sitemaps/xlk/noticia_news_0301af606295ed1d45435e8d92ce4ff8.xml",
+    "kind": "sitemap",
+    "urls": 131,
+    "children": [],
+    "sample": [
+     "https://www.marca.com/mx/futbol/liga-mx/2026/11/06/vuelve-arturo-elias-ayub-pumas-keylor-navas-seria-gran-objetivo.html",
+     "https://www.marca.com/mx/motor/formula-1/2026/11/06/lluvia-respeta-antonelli-cadillac-rezaga-checo-perez-resultados-practica-2-gp-brasil.html",
+     "https://www.marca.com/mx/futbol/liga-mx/2026/11/06/keylor-navas-sacrifica-seleccion-costa-rica-pumas.html",
+     "https://www.marca.com/mx/boxeo/2026/11/06/supernova-boxing-presenta-eclipse-boletos-sede.html"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.mundodeportivo.com/baloncesto",
+  "status": 200,
+  "final": "https://www.mundodeportivo.com/baloncesto",
+  "bytes": 189959,
+  "article_links": 35,
+  "article_sample": [
+   "https://www.mundodeportivo.com/tenis/20261106/1004247728/alcaraz-fritz-directo-masters-1000-paris-tenis-cuartos.html",
+   "https://www.mundodeportivo.com/futbol/laliga/20261106/1004245998/sevilla-alaves-directo-laliga-ea-sports-primera-division-futbol.html",
+   "https://www.mundodeportivo.com/motor/f1/20261106/1004248002/norris-lidera-inicio-apretado-interlagos-alonso-cumple-inicio.html",
+   "https://www.mundodeportivo.com/seleccion-espanola/20261106/1004247855/convocatoria-luis-fuente-cuatro-estrenos-cuatro-porteros.html",
+   "https://www.mundodeportivo.com/futbol/andorra/20261106/1004247873/jesus-owono-destrozado-culpa-plantea-dejar-futbol.html",
+   "https://www.mundodeportivo.com/futbol/atletico-madrid/20261106/1004248038/julian-jugar-meter-goles-atletico-madrid.html",
+   "https://www.mundodeportivo.com/motor/motogp/20261106/1004248021/di-giannantonio-destroza-record-practica-marc-marquez-le-revienta-cadena.html",
+   "https://www.mundodeportivo.com/horarios/motociclismo/20261104/1004247360/horario-canal-ver-tv-gran-premio-qatar-2026-motogp.html"
+  ],
+  "robots_sitemaps": [
+   "https://www.mundodeportivo.com/guia-tv/sitemap.xml",
+   "https://www.mundodeportivo.com/sitemap-news-v7.xml",
+   "https://www.mundodeportivo.com/sitemap-noticias-202609.xml.gz",
+   "https://www.mundodeportivo.com/sitemap-noticias-202608.xml.gz",
+   "https://www.mundodeportivo.com/sitemap-noticias-202610.xml.gz",
+   "https://www.mundodeportivo.com/guias-de-juego/news-sitemap.xml",
+   "https://www.mundodeportivo.com/guias-de-juego/sitemap_index.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.mundodeportivo.com/feed/rss/baloncesto",
+    "kind": "rss",
+    "items": 100,
+    "newest": [
+     "06 Nov 2026 21:25:22 +0100"
+    ],
+    "sample": [
+     {
+      "title": "\n        78-80: Otro golpe moral: el Spar Girona no recibe premio a su partidazo    ",
+      "link": "https://www.mundodeportivo.com/baloncesto/basket-feb/20261106/1004248088/78-80-golpe-moral-spar-girona-no-recibe-premio-partidazo.html"
+     },
+     {
+      "title": "\n        Giannakopoulos recibe una dura sanción: 10 meses fuera en liga griega    ",
+      "link": "https://www.mundodeportivo.com/baloncesto/euroliga/20261106/1004248082/giannakopoulos-recibe-dura-sancion-10-meses-fuera-liga-griega.html"
+     },
+     {
+      "title": "\n        Montenegro, rival de España, anuncia su lista de convocados para la Ventana    ",
+      "link": "https://www.mundodeportivo.com/baloncesto/basket-feb/20261106/1004248060/montenegro-rival-espana-anuncia-lista-convocados-ventana.html"
+     },
+     {
+      "title": "\n        El Armani Milan despide a Poeta    ",
+      "link": "https://www.mundodeportivo.com/baloncesto/euroliga/20261106/1004248058/armani-milan-despide-poeta.html"
+     }
+    ]
+   },
+   {
+    "url": "https://www.mundodeportivo.com/sitemap-news-v7.xml",
+    "kind": "sitemap",
+    "urls": 709,
+    "children": [],
+    "sample": [
+     "https://www.mundodeportivo.com/futbol/bundesliga/20261106/1004245994/hamburger-sv-borussia-m-gladbach-directo-bundesliga.html",
+     "https://www.mundodeportivo.com/futbol/ligue-1/20261106/1004246002/toulouse-strasbourg-directo-ligue-1.html",
+     "https://www.mundodeportivo.com/tenis/20261106/1004247728/alcaraz-fritz-directo-masters-1000-paris-tenis-cuartos.html",
+     "https://www.mundodeportivo.com/futbol/serie-a/20261106/1004246012/venezia-udinese-directo-serie.html"
+    ]
+   },
+   {
+    "url": "https://www.mundodeportivo.com/guias-de-juego/news-sitemap.xml",
+    "kind": "sitemap",
+    "urls": 5,
+    "children": [],
+    "sample": [
+     "https://www.mundodeportivo.com/guias-de-juego/pronosticos/elche-vs-betis-pronostico-cuotas-y-alineaciones-posibles-laliga-08-11-26/",
+     "https://www.mundodeportivo.com/guias-de-juego/pronosticos/valencia-vs-real-madrid-pronostico-cuotas-y-alineaciones-posibles-laliga-07-11-26/",
+     "https://www.mundodeportivo.com/guias-de-juego/pronosticos/osasuna-vs-athletic-club-pronostico-cuotas-y-alineaciones-posibles-laliga-07-11-26/",
+     "https://www.mundodeportivo.com/guias-de-juego/apuestas-deportivas/deposito-minimo-5-euros/"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.15min.lt/24sek",
+  "status": 200,
+  "final": "https://www.15min.lt/24sek",
+  "bytes": 424069,
+  "article_links": 81,
+  "article_sample": [
+   "https://www.15min.lt/m/id/verslas/mokslas-it/hostingas-1290-2494966",
+   "https://www.15min.lt/tema/kino-pavasaris-3738",
+   "https://www.15min.lt/tema/verta-zinoti-102464",
+   "https://www.15min.lt/24sek/naujiena/eurolyga/ulanovui-linkejima-perdaves-masiulis-gyre-zalgirio-lyderi-dominuojanti-figura-1362-2800892",
+   "https://www.15min.lt/24sek/naujiena/eurolyga/rakta-i-saldzia-pergale-ivardije-zalgirieciai-gyre-vienas-kita-zaidzianti-legenda-1362-2800858",
+   "https://www.15min.lt/24sek/naujiena/eurolyga/pergales-medziokle-stambule-besiktas-zalgiris-1362-2800784",
+   "https://www.15min.lt/24sek/naujiena/eurolyga/po-pralaimejimo-zalgiriui-besiktas-treneris-liejo-apmauda-nepriimtina-1362-2800898",
+   "https://www.15min.lt/24sek/naujiena/eurolyga/kantrybe-baigesi-tragiskai-eurolygos-sezona-pradejusi-komanda-atleido-treneri-1362-2800862"
+  ],
+  "robots_sitemaps": [
+   "https://www.15min.lt/static/sitemaps/articles_live_index.xml",
+   "https://www.15min.lt/static/sitemaps/articles_index.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.15min.lt/24sek/rss",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 22:51:14 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Ulanovui linkėjimą perdavęs Masiulis liaupsino „Žalgirio“ lyderį: „Dominuojanti figūra“",
+      "link": "https://www.15min.lt/24sek/naujiena/eurolyga/ulanovui-linkejima-perdaves-masiulis-gyre-zalgirio-lyderi-dominuojanti-figura-1362-2800892?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed"
+     },
+     {
+      "title": "Po pralaimėjimo „Žalgiriui“ „Bešiktaš“ treneris liejo apmaudą: „Nepriimtina“",
+      "link": "https://www.15min.lt/24sek/naujiena/eurolyga/po-pralaimejimo-zalgiriui-besiktas-treneris-liejo-apmauda-nepriimtina-1362-2800898?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed"
+     },
+     {
+      "title": "Raktą į saldžią pergalę įvardiję žalgiriečiai gyrė vienas kitą: „Žaidžianti legenda“",
+      "link": "https://www.15min.lt/24sek/naujiena/eurolyga/rakta-i-saldzia-pergale-ivardije-zalgirieciai-gyre-vienas-kita-zaidzianti-legenda-1362-2800858?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed"
+     },
+     {
+      "title": "Kantrybė baigėsi: tragiškai Eurolygos sezoną pradėjusi komanda atleido trenerį",
+      "link": "https://www.15min.lt/24sek/naujiena/eurolyga/kantrybe-baigesi-tragiskai-eurolygos-sezona-pradejusi-komanda-atleido-treneri-1362-2800862?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed"
+     }
+    ]
+   },
+   {
+    "url": "https://www.15min.lt/rss",
+    "kind": "rss",
+    "items": 20,
+    "newest": [
+     "Fri, 06 Nov 2026 22:56:00 +0200"
+    ],
+    "sample": [
+     {
+      "title": "Volodymyras Zelenskis įspėja apie naujus Rusijos smūgius Ukrainos energetikos sektoriui",
+      "link": "https://www.15min.lt/naujiena/aktualu/pasaulis/volodymyras-zelenskis-ispeja-apie-naujus-rusijos-smugius-ukrainos-energetikos-sektoriui-57-2800896?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+     },
+     {
+      "title": "Popiežius Leonas XIV atvyko į Urugvajų, pradėdamas 12 dienų kelionę po Pietų Ameriką",
+      "link": "https://www.15min.lt/naujiena/aktualu/pasaulis/popiezius-leonas-xiv-atvyko-i-urugvaju-pradedamas-12-dienu-kelione-po-pietu-amerika-57-2800890?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+     },
+     {
+      "title": "Ramūs ir monotoniški orai užsitęs",
+      "link": "https://www.15min.lt/naujiena/aktualu/orai/ramus-ir-monotoniski-orai-uzsites-60-2800884?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+     },
+     {
+      "title": "Donaldas Trumpas naujuoju savo administracijos vadovu paskyrė lojalistą Stepheną Millerį",
+      "link": "https://www.15min.lt/naujiena/aktualu/pasaulis/donaldas-trumpas-naujuoju-savo-administracijos-vadovu-paskyre-lojalista-stephena-milleri-57-2800882?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://trendbasket.net/",
+  "status": 200,
+  "final": "https://trendbasket.net/",
+  "bytes": 157560,
+  "article_links": 15,
+  "article_sample": [
+   "https://trendbasket.net/alperen-sengunden-bu-sezonki-ilk-triple-double/",
+   "https://trendbasket.net/la-clippers-son-saniyede-yikildi-nba/",
+   "https://trendbasket.net/victor-wembanyamadan-50-yillik-nba-rekoru/",
+   "https://trendbasket.net/kawhi-leonard-sakatliktan-cikmaya-hazirlaniyor/",
+   "https://trendbasket.net/la-clippersta-kotu-gidisat-suruyor-nba/",
+   "https://trendbasket.net/nba-cup-2026-sahalarinin-tasarimlari-aciklandi-parkeler-sosyal-medyada-gundem-oldu/",
+   "https://trendbasket.net/tarihi-hamlenin-gerceklestigi-takas-donemi-sona-erdi-nba-galeri/",
+   "https://trendbasket.net/nbade-son-25-yilin-en-iyi-15-smaci-galeri/"
+  ],
+  "robots_sitemaps": [
+   "http://www.trendbasket.net/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://trendbasket.net/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Thu, 05 Nov 2026 13:31:00 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Alperen Şengün’den bu sezonki ilk triple-double!",
+      "link": "https://trendbasket.net/alperen-sengunden-bu-sezonki-ilk-triple-double/"
+     },
+     {
+      "title": "LA Clippers, son saniyede yıkıldı! #NBA",
+      "link": "https://trendbasket.net/la-clippers-son-saniyede-yikildi-nba/"
+     },
+     {
+      "title": "Victor Wembanyama’dan 50 yıllık NBA rekoru!",
+      "link": "https://trendbasket.net/victor-wembanyamadan-50-yillik-nba-rekoru/"
+     },
+     {
+      "title": "Kawhi Leonard, sakatlıktan çıkmaya hazırlanıyor!",
+      "link": "https://trendbasket.net/kawhi-leonard-sakatliktan-cikmaya-hazirlaniyor/"
+     }
+    ]
+   },
+   {
+    "url": "https://trendbasket.net/comments/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Mon, 19 Aug 2024 13:46:10 +0000"
+    ],
+    "sample": [
+     {
+      "title": "\n\t\tFenerbahçe Beko, Wade Baldwin IV transferini duyurdu yazısına MATTİAS LESSORT tarafında",
+      "link": "https://trendbasket.net/fenerbahce-beko-wade-baldwin-iv-transferini-duyurdu/#comment-429429"
+     },
+     {
+      "title": "\n\t\tFenerbahçe Beko, iddiaya göre Malik Williams’ı istiyor! yazısına turner tarafından yapı",
+      "link": "https://trendbasket.net/fenerbahce-beko-iddiaya-gore-malik-williamsi-istiyor/#comment-429090"
+     },
+     {
+      "title": "\n\t\tKevin Pangos, rotasını tekrar İtalya’ya çevirdi yazısına Ezgi Ali’ye Kuroğlu tarafından",
+      "link": "https://trendbasket.net/kevin-pangos-rotasini-tekrar-italyaya-cevirdi/#comment-429014"
+     },
+     {
+      "title": "\n\t\tEuroLeague’de 2024-25 sezonunun şampiyonluk oranları belli oldu yazısına Kadir Denir ta",
+      "link": "https://trendbasket.net/euroleaguede-2024-25-sezonunun-sampiyonluk-oranlari-belli-oldu/#comment-428838"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://basket.zoznam.sk/",
+  "status": 200,
+  "final": "https://basket.zoznam.sk/",
+  "bytes": 241959,
+  "article_links": 88,
+  "article_sample": [
+   "https://basket.zoznam.sk/cl/reprezentant-ihring-spat-v-treningu-s-interom-navrat-po-zraneni-otvara-nove-moznosti/",
+   "https://basket.zoznam.sk/cl/nitra-v-napinavom-suboji-s-viednou-opat-tesne-prehrala-tazke-obdobie-pokracuje/",
+   "https://basket.zoznam.sk/cl/zla-forma-z-uvodu-zabudnuta-golden-state-prisilo-siesty-vitazny-gombik-po-sebe/",
+   "https://basket.zoznam.sk/cl/zomrel-clen-zlateho-timu-usa-z-olympijskeho-pekingu-i-svetoveho-istanbulu/",
+   "https://basket.zoznam.sk/cl/striedacka-petra-tordu-polcas-v-lucenci-bol-pre-slovan-vystrahou-pred-premierou-v-aba-lige/",
+   "https://basket.zoznam.sk/cl/manazer-levic-vysvetluje-ako-sa-im-podarilo-dohodnut-zapas-s-euroligovym-bayernom-mnichov/",
+   "https://basket.zoznam.sk/cl/wembanyama-ohuril-kariernym-maximom-no-tvrdi-stale-mam-rezervy/",
+   "https://basket.zoznam.sk/cl/ruzomberok-v-europskom-pohari-fiba-nezvladol-duel-so-salamankou-po-zlom-druhom-polcase-klesol-v-tabulke/"
+  ],
+  "robots_sitemaps": [
+   "https://basket.zoznam.sk/sitemap_index.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://basket.zoznam.sk/feed/",
+    "kind": "rss",
+    "items": 10,
+    "newest": [
+     "Fri, 06 Nov 2026 08:48:20 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Zlá forma z úvodu zabudnutá, Golden State prišilo šiesty víťazný gombík po sebe",
+      "link": "https://basket.zoznam.sk/cl/zla-forma-z-uvodu-zabudnuta-golden-state-prisilo-siesty-vitazny-gombik-po-sebe/"
+     },
+     {
+      "title": "Wembanyama ohúril kariérnym maximom, Dončič siaha na Bryantov rekord",
+      "link": "https://basket.zoznam.sk/cl/wembanyama-ohuril-kariernym-maximom-no-tvrdi-stale-mam-rezervy/"
+     },
+     {
+      "title": "Nitra v napínavom súboji s Viedňou opäť tesne prehrala, ťažké obdobie pokračuje",
+      "link": "https://basket.zoznam.sk/cl/nitra-v-napinavom-suboji-s-viednou-opat-tesne-prehrala-tazke-obdobie-pokracuje/"
+     },
+     {
+      "title": "Ružomberok v Európskom pohári FIBA nezvládol duel so Salamankou, po zlom druhom polčase kl",
+      "link": "https://basket.zoznam.sk/cl/ruzomberok-v-europskom-pohari-fiba-nezvladol-duel-so-salamankou-po-zlom-druhom-polcase-klesol-v-tabulke/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.dnevnik.si/sport/kosarka/",
+  "status": 200,
+  "final": "https://www.dnevnik.si/sport/kosarka/",
+  "bytes": 42485,
+  "article_links": 22,
+  "article_sample": [
+   "https://www.dnevnik.si/sport/kosarka/luka-doncic-v-vodstvu-2838851/",
+   "https://www.dnevnik.si/sport/kosarka/po-lebronu-lakerse-zapusca-se-bronny-2838738/",
+   "https://www.dnevnik.si/sport/kosarka/dobila-posebno-sporocilo-najboljsega-na-svetu-2838618/",
+   "https://www.dnevnik.si/sport/kosarka/pri-cedeviti-olimpiji-realni-ne-smemo-se-slepiti-2837954/",
+   "https://www.dnevnik.si/sport/kosarka/wembanyama-odgovoril-doncicu-cesa-taksnega-nismo-videli-ze-vec-kot-pol-stoletja-2838505/",
+   "https://www.dnevnik.si/sport/kosarka/doncic-s-40-tockami-popeljal-lakerse-do-nove-zmage-2838475/",
+   "https://www.dnevnik.si/sport/kosarka/cedevita-olimpija-prekinila-crni-niz-2838447/",
+   "https://www.dnevnik.si/sport/kosarka/v-ligi-nba-ponoci-brez-tekem-razlog-pa-trump-in-kolegi-2838201/"
+  ],
+  "robots_sitemaps": [],
+  "feeds": [
+   {
+    "url": "https://www.dnevnik.si/sport/kosarka/rss.xml",
+    "kind": "rss",
+    "items": 21,
+    "newest": [
+     "Fri, 06 Nov 2026 19:38:00 +0100"
+    ],
+    "sample": [
+     {
+      "title": "Luka Dončić v vodstvu",
+      "link": "https://www.dnevnik.si/sport/kosarka/luka-doncic-v-vodstvu-2838851/"
+     },
+     {
+      "title": "Po LeBronu Lakerse zapušča še Bronny",
+      "link": "https://www.dnevnik.si/sport/kosarka/po-lebronu-lakerse-zapusca-se-bronny-2838738/"
+     },
+     {
+      "title": "Dobila posebno sporočilo najboljšega na svetu",
+      "link": "https://www.dnevnik.si/sport/kosarka/dobila-posebno-sporocilo-najboljsega-na-svetu-2838618/"
+     },
+     {
+      "title": "Pri Cedeviti Olimpiji realni: »Ne smemo se slepiti«",
+      "link": "https://www.dnevnik.si/sport/kosarka/pri-cedeviti-olimpiji-realni-ne-smemo-se-slepiti-2837954/"
+     }
+    ]
+   },
+   {
+    "url": "https://www.dnevnik.si/rss.xml",
+    "kind": "rss",
+    "items": 174,
+    "newest": [
+     "Fri, 06 Nov 2026 21:53:12 +0100"
+    ],
+    "sample": [
+     {
+      "title": "(VIDEO) Saab razvil umetno inteligenco, ki pilotira bojna letala: operativna že v nekaj me",
+      "link": "https://www.dnevnik.si/novice/svet/svedski-saab-razvil-umetno-inteligenco-ki-pilotira-bojna-letala-operativna-ze-v-nekaj-mesecih-2838838/"
+     },
+     {
+      "title": "Veliki špici nad Kamnikom grozi večletno zaprtje. Kdo je odgovoren?",
+      "link": "https://www.dnevnik.si/novice/lokalno/veliki-spici-nad-kamnikom-grozi-vecletno-zaprtje-kdo-je-odgovoren-2838762/"
+     },
+     {
+      "title": "Polarni vrtinec se nenavadno zgodaj maje, el niño pa se spogleduje z rekordom",
+      "link": "https://www.dnevnik.si/novice/slovenija/polarni-vrtinec-se-nenavadno-zgodaj-maje-el-nino-pa-se-spogleduje-z-rekordom-2838856/"
+     },
+     {
+      "title": "Po porazu Vučića lastnik Pinka napovedal množična odpuščanja",
+      "link": "https://www.dnevnik.si/nedeljski/zakulisje/estrada/po-porazu-vucica-lastnik-pinka-napovedal-mnozicna-odpuscanja-2838291/"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://ekipa.svet24.si/sport/kosarka",
+  "status": 200,
+  "final": "https://ekipa.svet24.si/sport/kosarka",
+  "bytes": 175178,
+  "article_links": 35,
+  "article_sample": [
+   "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka",
+   "https://ekipa.svet24.si/varstvo-osebnih-podatkov-piskotki",
+   "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/luka-doncic-lepa-sodnica-chelisa-lakers-sacramento-1938787",
+   "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/aleksander-sekulic-barcelona-1938671",
+   "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/doncicu-se-smeji-liga-nba-je-sporocila-kaj-se-dogaja-v-boju-za-mvp-in-1938853",
+   "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/jason-kidd-luka-doncic-los-angeles-lakers-1938771",
+   "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/jaka-lakovic-tenerife-1938695",
+   "https://ekipa.svet24.si/sport/kosarka/liga-aba/slovan-bratislava-krka-liga-aba-poraz-1937532"
+  ],
+  "robots_sitemaps": [],
+  "feeds": []
+ },
+ {
+  "input": "https://basketball.hr/",
+  "status": 200,
+  "final": "https://basketball.hr/",
+  "bytes": 58030,
+  "article_links": 20,
+  "article_sample": [
+   "https://basketball.hr/vijesti/pobjeda-pred-praznim-tribinama-postoji-u-zapisniku-pobjeda-pred-punom-dvoranom-postaje-uspomena/20686",
+   "https://basketball.hr/vijesti/publika-ne-dolazi-samo-gledati-kosarku-dolazi-gledati-svoje-ljude-kako-igraju/20680",
+   "https://basketball.hr/vijesti/za-koga-se-igra-kosarka-u-hrvatskoj/20670",
+   "https://basketball.hr/vijesti/ovo-su-svi-hrvatski-kosarkaski-izbornici-znate-li-koliko-ih-je-bilo-i-koji-su-najuspjesniji/20590",
+   "https://basketball.hr/vijesti/od-kanadske-bronce-do-visnjika-hrvatska-ponovno-sanja-svjetsko-prvenstvo/20424",
+   "https://basketball.hr/vijesti/modric-nakon-poraza-u-subotici-losa-utakmica-raspali-smo-se/20802",
+   "https://basketball.hr/vijesti/raspored-i-najava-7kola-premijer-lige-evo-gdje-i-kada-mozete-gledati-utakmice/20803",
+   "https://basketball.hr/vijesti/split-za-10-minuta-razbio-gruzijce-i-ostao-u-igri-za-prolaz-dalje/20801"
+  ],
+  "robots_sitemaps": [],
+  "feeds": []
+ },
+ {
+  "input": "https://zkrainynba.com/",
+  "status": 200,
+  "final": "https://zkrainynba.com/",
+  "bytes": 108624,
+  "article_links": 16,
+  "article_sample": [
+   "https://zkrainynba.com/transmisje-nba-na-zywo-gdzie-ogladac-za-darmo/",
+   "https://zkrainynba.com/polska-koszykowka-typy-plk/",
+   "https://zkrainynba.com/egbunu-wypada-z-gry-slask-robi-transfer/",
+   "https://zkrainynba.com/6-kolejka-pge-basket-ligi-zapowiedz-i-typy/",
+   "https://zkrainynba.com/debiut-sochana-w-texas-legends-efektowne-wsady-i-13-punktow/",
+   "https://zkrainynba.com/od-0-3-do-6-3-golden-state-warriors-wrocili-na-odpowiednie-tory/",
+   "https://zkrainynba.com/sochan-o-zwolnieniu-z-nba-g-league-ma-byc-poczatkiem-powrotu/",
+   "https://zkrainynba.com/kosmiczne-rekordy-wembanyamy-lakers-i-76ers-znow-wygrywaja/"
+  ],
+  "robots_sitemaps": [
+   "https://zkrainynba.com/sitemap.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://zkrainynba.com/feed/",
+    "kind": "rss",
+    "items": 12,
+    "newest": [
+     "Fri, 06 Nov 2026 14:16:36 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Egbunu wypada z gry – Śląsk robi transfer",
+      "link": "https://zkrainynba.com/egbunu-wypada-z-gry-slask-robi-transfer/"
+     },
+     {
+      "title": "6. kolejka PGE Basket Ligi – zapowiedź i typy",
+      "link": "https://zkrainynba.com/6-kolejka-pge-basket-ligi-zapowiedz-i-typy/"
+     },
+     {
+      "title": "Od 0-3 do 6-3. Golden State Warriors wrócili na odpowiednie tory",
+      "link": "https://zkrainynba.com/od-0-3-do-6-3-golden-state-warriors-wrocili-na-odpowiednie-tory/"
+     },
+     {
+      "title": "Debiut Sochana w Texas Legends. Efektowne wsady i 13 punktów",
+      "link": "https://zkrainynba.com/debiut-sochana-w-texas-legends-efektowne-wsady-i-13-punktow/"
+     }
+    ]
+   },
+   {
+    "url": "https://zkrainynba.com/comments/feed/",
+    "kind": "rss",
+    "items": 12,
+    "newest": [
+     "Fri, 06 Nov 2026 20:24:20 +0000"
+    ],
+    "sample": [
+     {
+      "title": "\n\t\tSkomentuj Egbunu wypada z gry – Śląsk robi transfer, którego autorem jest P\t\t",
+      "link": "https://zkrainynba.com/egbunu-wypada-z-gry-slask-robi-transfer/#comment-51812"
+     },
+     {
+      "title": "\n\t\tSkomentuj Egbunu wypada z gry – Śląsk robi transfer, którego autorem jest Tomek_WKS\t\t",
+      "link": "https://zkrainynba.com/egbunu-wypada-z-gry-slask-robi-transfer/#comment-51811"
+     },
+     {
+      "title": "\n\t\tSkomentuj Egbunu wypada z gry – Śląsk robi transfer, którego autorem jest Tomek_WKS\t\t",
+      "link": "https://zkrainynba.com/egbunu-wypada-z-gry-slask-robi-transfer/#comment-51810"
+     },
+     {
+      "title": "\n\t\tSkomentuj Egbunu wypada z gry – Śląsk robi transfer, którego autorem jest To\t\t",
+      "link": "https://zkrainynba.com/egbunu-wypada-z-gry-slask-robi-transfer/#comment-51809"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://sportowefakty.wp.pl/koszykowka",
+  "status": 200,
+  "final": "https://sportowefakty.wp.pl/koszykowka",
+  "bytes": 297183,
+  "article_links": 59,
+  "article_sample": [
+   "https://sportowefakty.wp.pl/tenis/relacja-na-zywo/185317/mai-hontama-magda-linette-live",
+   "https://sportowefakty.wp.pl/formula-1/relacja-na-zywo/176507/gp-sao-paulo-1-trening-live",
+   "https://sportowefakty.wp.pl/formula-1/relacja-na-zywo/176508/gp-sao-paulo-2-trening-live",
+   "https://sportowefakty.wp.pl/pilka-nozna/relacja-na-zywo/178538/wisla-krakow-cracovia-live",
+   "https://sportowefakty.wp.pl/pilka-nozna/relacja-na-zywo/178532/korona-kielce-radomiak-radom-live",
+   "https://sportowefakty.wp.pl/koszykowka/1282933/ryzykowny-ruch-lebrona-jamesa-tak-wyglada-jego-nowy-rozdzial-w-nba",
+   "https://sportowefakty.wp.pl/koszykowka/1282873/warriors-sie-nie-zatrzymuja-nie-zatrzymal-ich-nawet-stary-znajomy",
+   "https://sportowefakty.wp.pl/koszykowka/isands-wichos-jelenia-gora"
+  ],
+  "robots_sitemaps": [],
+  "feeds": [
+   {
+    "url": "https://sportowefakty.wp.pl/koszykowka/rss.xml",
+    "kind": "rss",
+    "items": 30,
+    "newest": [
+     "Fri, 06 Nov 2026 20:56:58 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Ryzykowny ruch LeBrona Jamesa. Tak wygląda jego nowy rozdział w NBA",
+      "link": "https://sportowefakty.wp.pl/koszykowka/1282933/ryzykowny-ruch-lebrona-jamesa-tak-wyglada-jego-nowy-rozdzial-w-nba"
+     },
+     {
+      "title": "Ważna decyzja Lakers. Chodzi o syna LeBrona Jamesa",
+      "link": "https://sportowefakty.wp.pl/koszykowka/1282894/wazna-decyzja-lakers-chodzi-o-syna-lebrona-jamesa"
+     },
+     {
+      "title": "Warriors się nie zatrzymują. Nie dał rady nawet stary znajomy",
+      "link": "https://sportowefakty.wp.pl/koszykowka/1282873/warriors-sie-nie-zatrzymuja-nie-zatrzymal-ich-nawet-stary-znajomy"
+     },
+     {
+      "title": "\"Wciąż uczymy się, jak funkcjonować\". Derby były przełomowe?",
+      "link": "https://sportowefakty.wp.pl/koszykowka/1282818/wciaz-uczymy-sie-jak-funkcjonowac-derby-byly-przelomowe"
+     }
+    ]
+   },
+   {
+    "url": "https://sportowefakty.wp.pl/rss.xml",
+    "kind": "rss",
+    "items": 30,
+    "newest": [
+     "Fri, 06 Nov 2026 20:56:58 +0000"
+    ],
+    "sample": [
+     {
+      "title": "Gwiazda USA zapytana o wybory. Tak zareagowała",
+      "link": "https://sportowefakty.wp.pl/tenis/1283000/gwiazda-usa-zapytana-o-wybory-tak-zareagowala"
+     },
+     {
+      "title": "Kierowca Mercedesa ukarany. To już jest katastrofa",
+      "link": "https://sportowefakty.wp.pl/formula-1/1283003/kierowca-mercedesa-ukarany-to-juz-jest-katastrofa"
+     },
+     {
+      "title": "Kryzys Sabalenki. Ujawniła, co teraz zmieniła",
+      "link": "https://sportowefakty.wp.pl/tenis/1283001/kryzys-sabalenki-ujawnila-co-teraz-zmienila"
+     },
+     {
+      "title": "Była 24. minuta. Sędzia przerwał derby. Po chwili zrobił to znowu",
+      "link": "https://sportowefakty.wp.pl/pilka-nozna/1282999/byla-24-minuta-sedzia-przerwal-derby-po-chwili-zrobil-to-znowu"
+     }
+    ]
+   }
+  ]
+ }
+]
