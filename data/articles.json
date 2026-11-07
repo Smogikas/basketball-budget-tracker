@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-07T13:08+00:00",
+ "updated": "2026-11-07T14:54+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 3,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -13,12 +13,12 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
@@ -27,11 +27,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,12 +86,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-26",
-   "stop": "page 2 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Read timed out. (read t"
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -103,6 +104,15 @@
   },
   {
    "site": "Eurohoops EN",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops GR",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -111,22 +121,14 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
@@ -139,16 +141,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 12,
+   "checked": 9,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +159,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
+   "checked": 9,
    "found": 1,
    "error": "",
    "pages": 3,
@@ -166,16 +168,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +186,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -211,8 +213,8 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-02",
@@ -220,13 +222,12 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-01",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
@@ -234,13 +235,13 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
+   "oldest": "2026-11-05",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -257,22 +258,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-01",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -303,6 +303,219 @@
   }
  ],
  "items": [
+  {
+   "id": "1d40a87581bb",
+   "url": "https://sportando.basketball/olimpia-milano-seravalli-contro-trento-servira-attenzione-e-usare-la-nostra-fisicita/",
+   "title": "Olimpia Milano, Seravalli: \"Contro Trento servirà attenzione e usare la nostra fisicità\" - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Di queste 53 gare, 48 appartengono al campionato di Serie A, due alle coppe europee (stagione 2015-16, Eurocup, 2-0 Trento nei quarti di finale), due alla Coppa Italia (campo neutro di Torino, 2023-24 quarti di finale, vittoria Olimpia, 80-57; 2024-25 finale, vittoria di Trento 79-63) e una alla …"
+   ],
+   "amounts": [
+    "16, Eurocup"
+   ],
+   "seasons": [
+    "14/15",
+    "15/16",
+    "23/24",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Aquila Trento",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,000,000 €",
+      "25/26: budget 5,900,000 €, salary budget 2,900,000 €",
+      "24/25: budget 5,910,000 €, salary budget 2,870,000 €",
+      "player rows: 25/26 (1), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Andrew Goudelock",
+     "sheet": [
+      "20/21 Rytas Vilnius: 150,000 €",
+      "16/17 Maccabi Tel Aviv: 900,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "0c68c449f9bd",
+   "url": "https://www.basketnews.lt/news-258933-linksmai-ir-rimtai-su-kedainiu-prezidentu-mikaiciu-planai-su-tiskeviciumi-bei-norimas-zaidejas.html#utm_medium=rss&utm_content=news",
+   "title": "Linksmai ir rimtai su „Kėdainių“ prezidentu Mikaičiu: planai su Tiškevičiumi bei norimas žaidėjas",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "biudzet",
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "Nors vadovo pareigas eina dar tik kelias dienas, gimtojo miesto komandos gerove Mikaitis rūpinasi jau ne vienerius metus – reklamuoja rungtynes, remia savomis lėšomis ir prie klubo biudžeto skatina prisidėti bičiulius.",
+    "Nusprendėme, kad po kiekvienos pergalės geriausiai pasirodžiusiam krepšininkui kažką dovanosime, iki 30 ar 50 eurų vertės."
+   ],
+   "amounts": [
+    "50 eurų"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "17dd336bebf1",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2584467/poio-einai-poso-tis-symfonias-kai-symbolaio-toy-mpanki-me-tin-armani",
+   "title": "Οι λεπτομέρειες του deal της Αρμάνι με τον Λούκα Μπάνκι",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ο Ιταλός προπονητής αναμένεται να ανακοινωθεί άμεσα από την ιταλική ομάδα, με τις συνολικές απολαβές του, σύμφωνα με πληροφορίες του Gazzetta, για τη διάρκεια της συνεργασίας τους να φτάνουν τα 2 εκατομμύρια ευρώ."
+   ],
+   "amounts": [
+    "2 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b01167d3e6a3",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261107/1004248235/mejor-escudero-james-harden-donovan-mitchell.html",
+   "title": "El mejor escudero de James Harden y Donovan Mitchell",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "El alero balcánico firmó por una temporada a cambio de 2,8 millones ."
+   ],
+   "amounts": [
+    "2,8 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 55,000,000 €, salary budget 45,000,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "a5c309b2edd1",
+   "url": "https://basketballsphere.com/en/pierria-henry-maccabi-tel-aviv-euroleague-return/",
+   "title": "Would Pierria Henry be the right gamble for Maccabi Tel Aviv?",
+   "site": "Basketball Sphere",
+   "country": "Israel",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "In 34 EuroLeague appearances, Henry averaged 10.5 points, 7.3 assists and 1.7 steals per game.",
+    "During his return to Baskonia in 2022/23, he averaged 6.2 assists in 13 EuroLeague appearances before his suspension interrupted his career.",
+    "He shot 32.9% from three-point range during his outstanding 2020/21 EuroLeague campaign, while his career mark in the competition stands at approximately 31.5%."
+   ],
+   "amounts": [
+    "34 EuroLeague",
+    "13 EuroLeague",
+    "21 EuroLeague"
+   ],
+   "seasons": [
+    "20/21",
+    "22/23",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (16), 25/26 (16), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Pierria Henry",
+     "sheet": [
+      "21/22 Fenerbahce Istanbul: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "ed14fb65301f",
    "url": "https://www.gazzetta.gr/basketball/nba/2584432/lentemporgk-o-entyposiakos-rookie-ton-goyoriors-agorase-spiti-sti-mitera-toy",
