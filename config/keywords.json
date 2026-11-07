@@ -5,6 +5,7 @@
     "'word$' matches only that exact word; used for short words that would otherwise hit other words ('alga$' must not find 'algoritmas'), so every form is listed.",
     "'~word' matches anywhere inside a word (Hebrew, where ה/ב/ל/ו/ש are glued to the front).",
     "'+word' counts only when the same sentence also has a sum of money - for words that often mean something else ('bilancio' = win/loss record, 'uždirbo 20 taškų' = scored 20 points, 'earned the win').",
+    "'salary_ignore_phrases' are cut out of a sentence before salary words are looked for: 'l'ingaggio di Kevin Knox' (= the signing of) is ignored, 'un ingaggio importante' (= a big salary) still counts.",
     "budget -> Budget label, salary -> Salary label, money -> Amount label (sums of money: currencies, million/thousand words, and € $ £ ₪ next to a number are found automatically)."
   ],
   "budget": [
@@ -58,7 +59,8 @@
     "valor del contrato",
     "stipendi",
     "stipendio",
-    "+ingaggi",
+    "ingaggio$",
+    "ingaggi$",
     "+guadagn",
     "per stagione",
     "valore del contratto",
@@ -105,7 +107,7 @@
     "placami$",
     "placah$",
     "zarada$",
-    "+zarade$",
+    "zarade$",
     "zaradu$",
     "zaradom$",
     "+zaradio",
@@ -290,5 +292,23 @@
     "hiljad",
     "χιλιαδ",
     "אלף$"
+  ],
+  "salary_ignore_phrases": [
+    "ingaggio di",
+    "ingaggio del",
+    "ingaggio della",
+    "ingaggio dello",
+    "ingaggio dell",
+    "ingaggio dei",
+    "ingaggio degli",
+    "ingaggio fino",
+    "ingaggi di",
+    "ingaggi del",
+    "ingaggi della",
+    "ingaggi dello",
+    "ingaggi dell",
+    "ingaggi dei",
+    "ingaggi degli",
+    "ingaggi fino"
   ]
 }

@@ -613,9 +613,12 @@ def analyse(title, text, kw):
         if money:
             hits["Amount"].update(money)
             found.add("Amount")
+        n_salary = n
+        for rx in kw.get("salary_ignore", []):  # "l'ingaggio di X" = the signing of X
+            n_salary = rx.sub(" ", n_salary)
         for kind, key in (("Budget", "budget"), ("Salary", "salary")):
             for word, rx, weak in kw.get(key, []):
-                if rx.search(n) and (money or not weak):
+                if rx.search(n_salary if key == "salary" else n) and (money or not weak):
                     hits[kind].add(word)
                     found.add(kind)
         if not found:
@@ -656,7 +659,9 @@ class Rules:
     def __init__(self, kw_cfg):
         self.kw = {"budget": compile_keywords(kw_cfg.get("budget", [])),
                    "salary": compile_keywords(kw_cfg.get("salary", [])),
-                   "money": compile_keywords(kw_cfg.get("money", []))}
+                   "money": compile_keywords(kw_cfg.get("money", [])),
+                   "salary_ignore": [re.compile(r"(?<!\w)" + re.escape(norm(p)) + r"(?!\w)")
+                                     for p in kw_cfg.get("salary_ignore_phrases", []) if norm(p)]}
         self.nba_team_words = compile_keywords([w if w.endswith("$") else w + "$"
                                                 for w in kw_cfg.get("nba_team_words", [])])
         self.flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
