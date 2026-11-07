@@ -1,42 +1,42 @@
 {
- "updated": "2026-11-07T14:54+00:00",
+ "updated": "2026-11-07T16:54+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
+   "checked": 2,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
    "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-06",
    "stop": "no older pages"
   },
   {
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,34 +86,34 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "oldest": "2026-10-26",
+   "stop": "page 2 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Read timed out. (read t"
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-10-29",
-   "stop": "reached start date"
+   "pages": 2,
+   "oldest": "2026-10-30",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,17 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 16,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -141,10 +140,10 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -159,17 +158,17 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 1,
+   "checked": 12,
+   "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -177,8 +176,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -186,10 +185,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -214,15 +213,15 @@
   {
    "site": "Mundo Deportivo",
    "checked": 3,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-02",
+   "oldest": "2026-11-03",
    "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -231,7 +230,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 28,
    "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 4,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -267,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -285,10 +284,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-03",
    "stop": "reached articles checked before"
   },
@@ -303,6 +302,129 @@
   }
  ],
  "items": [
+  {
+   "id": "67e1d5d3669f",
+   "url": "https://basketnews.com/news-259021-details-of-luca-banchis-move-to-olimpia-milano-revealed.html#utm_medium=rss&utm_content=news",
+   "title": "Details of Luca Banchi's move to Olimpia Milano revealed",
+   "site": "BasketNews.com",
+   "country": "Italy",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "The estimated sum of Banchi's contract is valued around the €2 million mark for the whole duration of Banchi's deal with Milanese powerhouse."
+   ],
+   "amounts": [
+    "€2 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "23e2fe1f6ce3",
+   "url": "https://telesport.rs/2026/11/07/makabi-vraca-u-zivot-poznato-i-zaboravljeno-ime/",
+   "title": "Makabi vraća u život poznato i zaboravljeno ime? - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "U tom trenutku Žuti su najavili značajno povećanje budžeta i ambiciozan projekat."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8ef7d45aaaa5",
+   "url": "https://basketballsphere.com/en/scafati-vs-napoli-prediction-odds-serie-a-november-8-2026/",
+   "title": "Scafati vs Napoli Prediction & Odds: Serie A, November 8, 2026",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Scafati entered the season with the smallest budget in the league, so their record of one win and five losses comes as no surprise.",
+    "Scafati have the smallest budget in the entire league, and that is clearly reflected in their performances and results."
+   ],
+   "amounts": [],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Aquila Trento",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,000,000 €",
+      "25/26: budget 5,900,000 €, salary budget 2,900,000 €",
+      "24/25: budget 5,910,000 €, salary budget 2,870,000 €",
+      "player rows: 25/26 (1), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Scafati Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "1d40a87581bb",
    "url": "https://sportando.basketball/olimpia-milano-seravalli-contro-trento-servira-attenzione-e-usare-la-nostra-fisicita/",
@@ -2776,6 +2898,38 @@
       "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
       "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
       "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e58fa1922818",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/operisan-dzedi-osman/558283",
+   "title": "Operisan Džedi Osman | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "milion"
+   ],
+   "snippets": [
+    "Govorilo se o Tajleru Dorsiju za koga je Olimpijakos tražio basnoslovno obeštećenje od pet miliona evra."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Vikos Falcons Ioannina B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 2,250,000 €, salary budget 1,500,000 €"
      ]
     }
    ],
