@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T03:02+00:00",
+ "updated": "2026-11-07T05:03+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,12 +13,12 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
@@ -26,9 +26,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
@@ -68,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -104,13 +103,12 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
@@ -141,11 +139,11 @@
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
@@ -177,12 +175,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -240,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
