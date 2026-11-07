@@ -25,12 +25,17 @@
   .bar label { color: var(--muted); font-size: 13px; display: flex; gap: 6px; align-items: center; }
   .count { margin-left: auto; color: var(--muted); font-size: 13px; }
   .notice { max-width: 1400px; margin: 0 auto 8px; padding: 0 16px; }
-  .notice div { background: #2a1f0a; border: 1px solid #5c4413; color: #f5d08a; border-radius: 8px; padding: 8px 12px; font-size: 13px; margin-bottom: 6px; }
+  .notice div { overflow-wrap: anywhere; background: #2a1f0a; border: 1px solid #5c4413; color: #f5d08a; border-radius: 8px; padding: 8px 12px; font-size: 13px; margin-bottom: 6px; }
   main { max-width: 1400px; margin: 0 auto; padding: 0 16px 40px; }
   table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
   th, td { text-align: left; vertical-align: top; padding: 10px; border-bottom: 1px solid var(--line); }
   th { background: var(--panel-2); color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
-  tr.rejected { opacity: .4; }
+  tr.rejected { opacity: .45; }
+  .toast { position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%); max-width: calc(100% - 32px); box-sizing: border-box;
+    background: var(--panel-2); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; display: flex; gap: 12px;
+    align-items: center; font-size: 13.5px; box-shadow: 0 6px 24px rgba(0,0,0,.4); z-index: 10; }
+  .toast span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+  .toast button { background: var(--accent-2); color: #fff; }
   td.date { white-space: nowrap; color: var(--muted); font-size: 13px; }
   .title { font-weight: 600; margin-bottom: 4px; }
   .site { color: var(--muted); font-size: 12px; }
@@ -86,12 +91,12 @@
   <select id="country"><option value="">All countries</option></select>
   <select id="type"><option value="words" selected>Budget or Salary</option><option>Budget</option><option>Salary</option><option value="Amount">Only a sum of money</option><option value="">Everything</option></select>
   <label><input type="checkbox" id="hidenba"> Hide NBA-flagged</label>
-  <label><input type="checkbox" id="showrej"> Show rejected</label>
+  <label><input type="checkbox" id="showrej"> <span id="showrejlbl">Show hidden rows</span></label>
   <button class="btn btn-del" id="delbtn" hidden></button>
   <span class="count" id="count"></span>
 </div>
 <div class="delbox" id="delbox" hidden><div>
-  <b>Delete rejected rows for good</b> (from the page on every device). The codes of your rejected rows are copied:
+  <b>Delete hidden rows for good</b> (from the page on every device). The codes of your hidden rows are copied:
   <textarea id="delids" readonly></textarea>
   <ol>
     <li>Open <a href="https://github.com/Smogikas/basketball-budget-tracker/actions/workflows/remove.yml" target="_blank" rel="noopener noreferrer">Delete rejected rows on GitHub</a> (you need to be signed in).</li>
@@ -109,7 +114,7 @@
   </table>
 </main>
 <footer>
-  Articles are found by keywords only, so some will not be relevant. "Reject" hides a row in this browser only; "Delete rejected rows for good" removes them from the page everywhere.
+  Articles are found by keywords only, so some will not be relevant. "Hide" hides a row in this browser only (tick "Show hidden rows" and press "Unhide" to bring it back); "Delete hidden rows for good" removes them from the page everywhere.
   <details><summary>Last scan details</summary><div id="run"></div></details>
   <details id="bfbox" hidden><summary id="bfsum">History backfill</summary><div id="bf"></div></details>
 </footer>
@@ -150,7 +155,7 @@ function row(it) {
     <td data-l="In your sheet">${sheetCell(it)}</td>
     <td><div class="actions">
       <a class="btn btn-src" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener noreferrer">Open source</a>
-      <button class="btn btn-rej" data-id="${esc(it.id)}">${isRej ? "Restore" : "Reject"}</button>
+      <button class="btn btn-rej" data-id="${esc(it.id)}">${isRej ? "Unhide" : "Hide"}</button>
     </div></td>
   </tr>`;
 }
@@ -172,15 +177,27 @@ function render() {
   $("count").textContent = `${list.length} shown · ${open} to review`;
   const rej = items.filter(it => rejected.has(it.id)).length;
   $("delbtn").hidden = !rej;
-  $("delbtn").textContent = `Delete rejected rows for good (${rej})`;
+  $("delbtn").textContent = `Delete hidden rows for good (${rej})`;
+  $("showrejlbl").textContent = rej ? `Show hidden rows (${rej})` : "Show hidden rows";
 }
 
 $("rows").addEventListener("click", e => {
   const b = e.target.closest(".btn-rej"); if (!b) return;
   const id = b.dataset.id;
-  rejected.has(id) ? rejected.delete(id) : rejected.add(id);
+  const hiding = !rejected.has(id);
+  hiding ? rejected.add(id) : rejected.delete(id);
   saveRejected(); render();
+  if (hiding) toast(id);
 });
+let toastTimer;
+function toast(id) {
+  document.querySelector(".toast")?.remove(); clearTimeout(toastTimer);
+  const it = items.find(x => x.id === id) || {};
+  document.body.insertAdjacentHTML("beforeend",
+    `<div class="toast"><span>Hidden: ${esc(it.title || "")}</span><button class="btn" id="undo">Undo</button></div>`);
+  $("undo").onclick = () => { rejected.delete(id); saveRejected(); render(); document.querySelector(".toast")?.remove(); };
+  toastTimer = setTimeout(() => document.querySelector(".toast")?.remove(), 10000);
+}
 $("delbtn").addEventListener("click", () => {
   const ids = items.filter(it => rejected.has(it.id)).map(it => it.id).join(" ");
   $("delids").value = ids; $("delbox").hidden = false;
