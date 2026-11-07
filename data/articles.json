@@ -1,91 +1,36 @@
 {
- "updated": "2026-11-06T22:51+00:00",
+ "updated": "2026-11-06T23:34+00:00",
  "warnings": [],
  "run": [
   {
-   "site": "Sportando",
-   "checked": 385,
-   "found": 39,
-   "error": "",
-   "pages": 40,
-   "oldest": "2026-09-30",
-   "stop": "reached start date",
-   "skipped_nba": 21
-  },
-  {
-   "site": "15min 24sek",
-   "checked": 433,
-   "found": 43,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-10-01",
-   "stop": "all history sitemaps read",
-   "skipped_nba": 21
-  },
-  {
-   "site": "Athletiko",
-   "checked": 481,
-   "found": 40,
-   "error": "",
-   "pages": 30,
-   "oldest": "2026-09-30",
-   "stop": "reached start date"
-  },
-  {
    "site": "Gazzetta.gr",
-   "checked": 987,
-   "found": 69,
+   "checked": 1116,
+   "found": 62,
    "error": "",
-   "pages": 34,
-   "oldest": "2026-10-19",
+   "pages": 39,
+   "oldest": "2026-10-03",
    "stop": "time limit (continues next run)",
    "skipped_nba": 1
   },
   {
-   "site": "Meridian Sport",
-   "checked": 364,
-   "found": 21,
-   "error": "",
-   "pages": 74,
-   "oldest": "2026-09-30",
-   "stop": "reached start date",
-   "skipped_nba": 10
-  },
-  {
-   "site": "Encestando",
-   "checked": 56,
-   "found": 9,
-   "error": "",
-   "pages": 6,
-   "oldest": "2017-09-19",
-   "stop": "reached start date",
-   "skipped_nba": 2
-  },
-  {
    "site": "Sportacentrs",
-   "checked": 396,
-   "found": 20,
+   "checked": 329,
+   "found": 13,
    "error": "",
    "pages": 4,
-   "oldest": "2026-10-14",
-   "stop": "time limit (continues next run)",
-   "skipped_nba": 33
-  },
-  {
-   "site": "Basketball Sphere",
-   "checked": 1167,
-   "found": 123,
-   "error": "",
-   "pages": 118,
-   "oldest": "2026-09-30",
+   "oldest": "2026-09-25",
    "stop": "reached start date",
-   "skipped_nba": 40
+   "skipped_nba": 16
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
-   "error": "did not finish in time"
+   "checked": 593,
+   "found": 36,
+   "error": "",
+   "pages": 73,
+   "oldest": "",
+   "stop": "page 304 failed: HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeo",
+   "skipped_nba": 7
   }
  ],
  "items": [
@@ -22066,6 +22011,67 @@
    "nba": true
   },
   {
+   "id": "4eea1c55ea3b",
+   "url": "https://www.gazzetta.gr/basketball/nba/2578693/thanter-ananeosan-ton-goyalas-me-139-ekat-dolaria",
+   "title": "Ανανέωσαν τον Γουάλας οι Θάντερ με 139 εκατ. δολάρια",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-19",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο Κέισον Γουάλας συμφώνησε για επέκταση με τους Θάντερ με 139 εκατ.",
+    "Ο μετρ της άμυνας συμφώνησε σε επέκταση συμβολαίου πενταετούς διάρκειας αξίας 139 εκατομμυρίων δολαρίων με τους Θάντερ σύμφωνα με τα όσα αναφέρει το ESPN.",
+    "Just in: Oklahoma City Thunder All-Defensive guard Cason Wallace has agreed to a five-year, $139 million rookie-scale contract extension, agents Jeff Schwartz, Max Lipsett and Marcus Monk of Excel Sports Management tell ESPN."
+   ],
+   "amounts": [
+    "139 εκατ",
+    "139 εκατομμυρίων",
+    "$139 million"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "b912b339badc",
+   "url": "https://www.gazzetta.gr/basketball/nba/2578676/goyoriors-traymatismos-ston-astragalo-o-kari-kathisyhastikos-o-ker",
+   "title": "Τραυματισμός στον αστράγαλο για Κάρι, καθησυχαστικός ο Κερ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-19",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο 38χρονος διανύει τη 18η σεζόν του με το Γκόλντεν Στέιτ, με το συμβόλαιό του, αξίας 62 εκατομμυρίων δολαρίων, να πλησιάζει στη λήξη του."
+   ],
+   "amounts": [
+    "62 εκατομμυρίων"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
    "id": "83bf16823989",
    "url": "https://basketballsphere.com/en/jean-montero-euroleague-pir-record-before-24/",
    "title": "Jean Montero sets historic EuroLeague pace before age 24",
@@ -23064,6 +23070,91 @@
    "nba": false
   },
   {
+   "id": "c64ebaabe495",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2578530/kae-amaroysioy-me-poion-tropo-diasfalizetai-oti-oles-oi-kae",
+   "title": "ΚΑΕ Αμαρουσίου: «Με ποιον τρόπο διασφαλίζεται ότι όλες οι ΚΑΕ αντιμετωπίζονται με τα ίδια ακριβώς κριτήρια;»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-18",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ο σεβασμός αυτός, όμως, δεν συνεπάγεται αποδοχή της έλλειψης λογοδοσίας ούτε παραίτηση από το δικαίωμα της θεσμικής κριτικής."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "278ead610d4f",
+   "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2578518/aek-ston-aera-ta-eisitiria-gia-mats-me-antberp",
+   "title": "Στον «αέρα» τα εισιτήρια για το ματς της ΑΕΚ κόντρα στην Αντβέρπ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-18",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1ac34d3235d5",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578425/erythros-asteras-anakoinose-ton-kristian-koloko",
+   "title": "Ο Κρίστιαν Κολόκο και με τη... βούλα στον Ερυθρό Αστέρα",
+   "site": "Gazzetta.gr",
+   "country": "Serbia",
+   "published": "2026-10-18",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ο 26χρονος Καμερουνέζος αθλητής, που βλέπει τον κόσμο από τα 211 εκατοστά, ανακοινώθηκε από τον Ερυθρό Αστέρα, ο οποίος βρήκε εντέλει παίκτη για να ενισχύσει τη ρακέτα του."
+   ],
+   "amounts": [
+    "211 εκατοστά"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
    "id": "4ee0482965e8",
    "url": "https://encestando.es/valencia-basket-barca-y-baskonia-atentos-al-mercado-de-jugadores-liberados-estos-dias-en-la-nba/",
    "title": "Valencia Basket, Barça y Baskonia, atentos al mercado de jugadores liberados estos días en la NBA",
@@ -23614,6 +23705,220 @@
    ],
    "players": [],
    "nba": true
+  },
+  {
+   "id": "a28a9a53376f",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578241/euroleague-giati-o-panathinaikos-tha-ehei-78-entos-kai-o-olympiakos",
+   "title": "Γιατί ο Παναθηναϊκός θα έχει 7/8 εντός και ο Ολυμπιακός 6/8 εκτός - Ο λόγος της απόφασης της EuroLeague",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-17",
+   "found": "2026-11-06",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Η κατανομή αυτή συνδέεται με την αποδοχή του αιτήματος του Ολυμπιακού στη EuroLeague , τις ανάγκες που προέκυψαν από τη μεταβατική χρήση της Sunel Arena (και τη χρήση της βάσει διαθεσιμότητας) και τον σχεδιασμό των τηλεοπτικών μεταδόσεων.",
+    "Είναι χαρακτηριστικό μάλιστα ότι από τις 4 Σεπτεμβρίου, όταν άρχισαν τα ταξίδια των Πειραιωτών με πρώτο προορισμό το Ηράκλειο Κρήτης, μέχρι και την επιστροφή από τη Θεσσαλονίκη στις 4 Οκτωβρίου λόγω των υποχρεώσεών του στη GBL απέναντι στον Ηρακλή, ο Ολυμπιακός είχε ολοκληρώσει συνολικά 13 αεροπο…"
+   ],
+   "amounts": [
+    "18.884 χιλιόμετρα"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9d875e8c1263",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578123/euroleague-paok-balenthia-ntoympai-bc-kai-pari-oi-protes-4-poy-tha",
+   "title": "ΠΑΟΚ, Βαλένθια, Ντουμπάι BC και Παρί, οι πρώτες 4 ομάδες που θα αποκτήσουν franchise, σύμφωνα με ισπανικό δημοσίευμα",
+   "site": "Gazzetta.gr",
+   "country": "United Arab Emirates",
+   "published": "2026-10-17",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "millon",
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Σύμφωνα με όσα αναφέρει ο δημοσιογράφος Χαβιέρ Μαέστρο , οι σχετικές αποφάσεις αναμένονται στις αρχές Νοεμβρίου, ενώ το συνολικό ποσό που προβλέπεται να καταβάλουν οι τέσσερις σύλλογοι ανέρχεται στα 300 εκατομμύρια ευρώ .",
+    "Όπως επισημαίνεται στο δημοσίευμα, η EuroLeague έχει παρουσιάσει το οικονομικό της πλάνο για τα επόμενα δέκα χρόνια, το οποίο προβλέπει τη διανομή συνολικά 3,4 δισεκατομμυρίων ευρώ στις συμμετέχουσες ομάδες.",
+    "Συγκεκριμένα, η Βαλένθια και η Παρί φέρονται να καλούνται να καταβάλουν από 50 εκατομμύρια ευρώ , με δυνατότητα αποπληρωμής σε δόσεις και την πρώτη καταβολή να προγραμματίζεται για τον Δεκέμβριο."
+   ],
+   "amounts": [
+    "300 εκατομμύρια",
+    "50 εκατομμύρια",
+    "70 εκατομμύρια",
+    "130 εκατομμύρια",
+    "300 million",
+    "300 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 27,500,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5feaf9712ff5",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578112/markoys-haoyarnt-i-gennaia-meiosi-ton-apodohon-toy-sti-zenit",
+   "title": "Από πρώτος σκόρερ της EuroLeague, σε γενναία μείωση των αποδοχών του στη Ζενίτ του Ιβάνοβιτς",
+   "site": "Gazzetta.gr",
+   "country": "Spain",
+   "published": "2026-10-17",
+   "found": "2026-11-06",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "pay cut",
+    "sum of money",
+    "αμειβ",
+    "αποδοχ",
+    "δολαρι",
+    "εισπραττ",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ο Μάρκους Χάουαρντ δέχθηκε αισθητή μείωσε των αποδοχών του για να πάει στη Ζενίτ του Ιβάνοβιτς, υπό τις οδηγίες του οποίου έπαιξε το καλύτερο μπάσκετ της καριέρας του.",
+    "Σύμφωνα με το ρωσικό «Sport-Express» μάλιστα, ο 27χρονος γκαρντ δέχθηκε αισθητή μείωση στις αποδοχές του για να γίνει και πάλι παίκτης του Ιβάνοβιτς .",
+    "Πιο συγκεκριμένα, ο ίδιος ήταν ο πιο καλά αμειβόμενος παίκτης της Μπασκόνια , με ετήσιες απολαβές που άγγιζαν τα 2,1 εκατομμύρια δολάρια, έχοντας υπογράψει τετραετές συμβόλαιο το καλοκαίρι του 2024, με ισχύ έως το 2028."
+   ],
+   "amounts": [
+    "2,1 εκατομμύρια",
+    "1 εκατ",
+    "$80,000"
+   ],
+   "seasons": [
+    "23/24"
+   ],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    },
+    {
+     "name": "Zenit Saint Petersburg",
+     "country": "Russia",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (2), 25/26 (1), 23/24 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "134a73a04388",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578048/mpartselona-olympiakos-100-105-apotheosi-ton-erythroleykon-ston",
+   "title": "Εκδήλωση αγάπης στον Εντζάι και αποθέωση από τους φίλους του Ολυμπιακού στα social media - Τι έκανε κόντρα στην Μπαρτσελόνα",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-17",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Στα social media του Ολυμπιακού , υπάρχουν χιλιάδες σχόλια που αποθεώνουν τον Εντζάι , ο οποίος έδειξε ότι και στα δύσκολα, μπορεί να βγει μπροστά."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e89f0b7b779a",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578045/gianai-gia-giannakopoylo-lene-oti-o-dimitris-einai-trelos-alla-den",
+   "title": "Ύμνοι Γιανάι για Γιαννακόπουλο: «Λένε ότι ο Δημήτρης είναι τρελός, αλλά δεν είναι - Η μητέρα του μπορεί να γίνει εξαιρετική GM»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-17",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Νομίζω ότι αυτή τη στιγμή τα φαβορί για τα franchise είναι η Χάποελ, η Παρί, η Ντουμπάι, έχουν το μπάτζετ και παίζουν σε ανταγωνιστικές λίγκες.",
+    "δολάρια και είμαστε μαζί, αλλά δεν θα το κάνουν."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
   },
   {
    "id": "4a81d6919ae7",
@@ -24560,6 +24865,37 @@
    ],
    "players": [],
    "nba": true
+  },
+  {
+   "id": "f7b2dc9d6e1c",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2577888/euroleague-10etes-epiheirimatiko-shedio-tis-ta-trela-posa-poy-tha",
+   "title": "Το 10ετές επιχειρηματικό πλάνο της Euroleague, τα τρελά ποσά που θα πάρουν οι ομάδες",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-16",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Οι διοργανωτές προβλέπουν συνολικές καταβολές 3,4 δισεκατομμυρίων ευρώ στις ομάδες που συμμετέχουν κατά τη διάρκεια της 10ετίας, εκ των οποίων 2,2 δισεκατομμύρια ευρώ από έσοδα και 1,2 δισεκατομμύρια ευρώ από franchise.",
+    "Η συνολική εκτιμώμενη αξία της Εuroleague και των συλλόγων της αναμένεται να ξεπεράσει τα 13 δισεκατομμύρια ευρώ μέσα στην επόμενη δεκαετία.",
+    "Κατά τη διάρκεια ολόκληρης της 10ετίας, η Λίγκα προβλέπει συνολικές καταβολές 3,4 δισεκατομμυρίων ευρώ στις ομάδες που συμμετέχουν κατά τη διάρκεια της 10ετίας, εκ των οποίων 2,2 δισεκατομμύρια ευρώ από έσοδα και 1,2 δισεκατομμύρια ευρώ από franchise fees."
+   ],
+   "amounts": [
+    "648 εκατομμυρίων"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
   },
   {
    "id": "3169c417d7ea",
@@ -25727,6 +26063,74 @@
    "nba": false
   },
   {
+   "id": "01d841a0968e",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2577632/olympiakos-anakoinosi-gia-ta-eisitiria-toy-agona-me-ti-fenermpahtse",
+   "title": "Επιστροφή στη Sunel Arena για τον Ολυμπιακό - Τα εισιτήρια ενόψει Φενέρμπαχτσε",
+   "site": "Gazzetta.gr",
+   "country": "Turkey",
+   "published": "2026-10-15",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Για αγορά εισιτηρίου για τους μεμονωμένους αγώνες της ομάδας μας, οι φίλαθλοι θα πρέπει να έχουν τη «Συλλεκτική Κάρτα Φιλάθλου Ολυμπιακού ή την Κάρτα Φιλάθλου Ολυμπιακού» για την αγωνιστική περίοδο 2026-27, την οποία ο φίλαθλος θα προμηθεύεται καταβάλλοντας 20€ ή 15€ ετησίως."
+   ],
+   "amounts": [
+    "20€",
+    "15€"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8383c8724bbe",
+   "url": "https://www.gazzetta.gr/basketball/nba/2577631/aiberson-epina-dyo-mpoykalia-tekila-kathe-deyteri-mera",
+   "title": "Συγκλονίζει ο Άιβερσον: «Έπινα δύο μπουκάλια τεκίλα κάθε δεύτερη μέρα»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-15",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι"
+   ],
+   "snippets": [
+    "Κοστίζουν 150 δολάρια το καθένα στο κατάστημα, οπότε ξεκινούσες κατευθείαν με 300 δολάρια.",
+    "Allen Iverson reveals he spent around $300 on alcohol every other day, admitting that his heavy drinking hit differently after he retired from the NBA.",
+    "Iverson describes buying two bottles of Don Julio every other day, spending roughly $300 per occasion or about $4,500 over 15 days."
+   ],
+   "amounts": [
+    "$300",
+    "$4,500"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
    "id": "b5bbafbc2456",
    "url": "https://www.15min.lt/24sek/naujiena/europa/lietuva-skriaudes-legendinis-ispanijos-snaiperis-prisimine-tris-isskirtinius-lietuvius-874-2785504",
    "title": "Lietuvą skriaudusi Ispanijos legenda prisiminė tris mūsų žvaigždes – vieno geidė „Real“",
@@ -26538,6 +26942,164 @@
     }
    ],
    "nba": true
+  },
+  {
+   "id": "0b3e82c335f4",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2577392/mpaskonia-anakoinose-tin-apolysi-toy-gkalmpiati",
+   "title": "Παρελθόν από την Μπασκόνια και επίσημα ο Γκαλμπιάτι",
+   "site": "Gazzetta.gr",
+   "country": "Spain",
+   "published": "2026-10-14",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο Ιταλός τεχνικός που στη συνέντευξη Τύπου μετά την ήττα από την ομάδα των Ηνωμένων Αραβικών Εμιράτων όταν ρωτήθηκε για το τι απαιτείται για να επιστρέψει στις νίκες η Μπασκόνια είπε «εκατομμύρια» κάνοντας χιούμορ, βλέπει την έξοδο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bb260ce2c70a",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2577361/mpaskonia-poso-realistiko-einai-ekatommyria-toy-gkalmpiati",
+   "title": "Η ατάκα του Γκαλμπιάτι που δίνει λύση στις νίκες για τη Μπασκόνια είναι το «εκατομμύρια»!",
+   "site": "Gazzetta.gr",
+   "country": "Spain",
+   "published": "2026-10-14",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω",
+    "μισθ",
+    "μπατζετ",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "ευρώ για τη μισθοδοσία παικτών και προπονητικού επιτελείου και ρεκόρ 1-4 στο ξεκίνημα της διοργάνωσης, η Μπασκόνια καλείται να καλύψει την απόσταση από τους οικονομικά ισχυρότερους αντιπάλους της.",
+    "Η διαφορά ανάμεσα στον προϋπολογισμό και το αγωνιστικό μπάτζετ",
+    "Ο συνολικός προϋπολογισμός του συλλόγου υπολογίζεται περίπου στα 22 εκατ."
+   ],
+   "amounts": [
+    "22 εκατ",
+    "10 εκατ"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a5d936e9f9bf",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2577268/blahopoylos-sto-gazz-floor-me-entyposiase-o-panathinaikos-ehei",
+   "title": "Βλαχόπουλος στο Gazz Floor: «Ο Παναθηναϊκός είχε εντυπωσιάσει από το Super Cup, όταν δεν έπαιζαν τα 35 από τα 50 εκατ.»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-14",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "50 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "461f76818913",
+   "url": "https://sportacentrs.com/basketbols/eirokausi/13102026-valmieras_pirmaja_fiba_kausa_majas_spele_",
+   "title": "Valmieras pirmajā FIBA kausa mājas spēlē viesosies Mālmanis un igauņi, VEF izbraukums Azerbaidžānā",
+   "site": "Sportacentrs",
+   "country": "Estonia",
+   "published": "2026-10-14",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Spēles tiešraidi ar latviešu komentētājiem Valmieras komanda piedāvā iegādāties savā mājas lapā par 3,33€."
+   ],
+   "amounts": [
+    "3,33€"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Kalev/Cramo",
+     "country": "Estonia",
+     "sheet": [
+      "26/27: budget 1,200,000 €, salary budget 696,000 €",
+      "25/26: budget 1,200,000 €, salary budget 720,000 €",
+      "24/25: budget 1,200,000 €"
+     ]
+    },
+    {
+     "name": "BK VEF Riga",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,000,000 €",
+      "25/26: budget 1,700,000 €, salary budget 750,000 €",
+      "24/25: budget 1,700,000 €"
+     ]
+    },
+    {
+     "name": "Korfez Basket (Manisa)",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 2,100,000 €",
+      "24/25: budget 4,200,000 €, salary budget 2,900,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
   },
   {
    "id": "4dc588f3f68b",
@@ -27649,6 +28211,255 @@
    "teams": [],
    "players": [],
    "nba": true
+  },
+  {
+   "id": "76d557c5c75a",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2577102/mitroy-longk-einai-marathonios-ohi-sprint",
+   "title": "Μήτρου-Λονγκ: «Είναι μαραθώνιος, όχι σπριντ...»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Υπάρχουν ένα εκατομμύριο πράγματα που μπορούμε να πούμε."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "af90cf51e932",
+   "url": "https://www.gazzetta.gr/basketball/nba/2577050/nba-mpekam-kai-giao-mingk-opos-leme-dabid-kai-goliath",
+   "title": "Μπέκαμ και Γιάο Μινγκ όπως λέμε Δαβίδ και Γολιάθ!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Με διαφορά ύψους 49 εκατοστών, ο Ντέιβιντ Μπέκαμ και ο Γιαο Μινγκ έγιναν viral στο Μακάου, με τη φωτογραφία τους δίπλα δίπλα να προκαλεί χιουμοριστικά σχόλια στα social media και να φέρνει μέχρι και τον παραλληλισμό με τον Δαβίδ και τον Γολιάθ.",
+    "Η διαφορά των 49 εκατοστών ανάμεσά τους δεν θα μπορούσε να περάσει απαρατήρητη, με τις αντιδράσεις στο διαδίκτυο να διαδέχονται η μία την άλλη."
+   ],
+   "amounts": [
+    "49 εκατοστών"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "88c6cc904317",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576995/olympiakos-anakoinose-tis-leptomereies-toy-taxidioy-together-we-fly",
+   "title": "Ο Ολυμπιακός ανακοίνωσε τις λεπτομέρειες του ταξιδιού «Together we fly» στη Λυών",
+   "site": "Gazzetta.gr",
+   "country": "France",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "ΠΑΚΕΤΟ Α | 590€ ανά άτομο",
+    "ΠΑΚΕΤΟ Β – MARINE TOURS | 825€ ανά άτομο σε δίκλινο δωμάτιο",
+    "ΠΑΚΕΤΟ C – MARINE TOURS | 895€ ανά άτομο σε μονόκλινο δωμάτιο"
+   ],
+   "amounts": [
+    "590€",
+    "825€",
+    "895€"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Tours Metropole Basket",
+     "country": "France",
+     "sheet": [
+      "21/22: budget 1,973,000 €, salary budget 752,000 €",
+      "player rows: 21/22 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9128021ad5a6",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2576926/spanoylis-na-diatirisoyme-tin-idia-entasi",
+   "title": "Σπανούλης: «Να διατηρήσουμε την ίδια ένταση»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Έχει πολλά παιδιά με σκορ και ένα από τα μεγαλύτερα μπάτζετ στην Ιταλία."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "208e24da14db",
+   "url": "https://www.gazzetta.gr/basketball/nba/2576909/nba-espase-neo-rekor-i-polisi-tis-fanelas-toy-tzorntan",
+   "title": "Τίναξε την... μπάνκα η πώληση της φανέλας του Τζόρνταν από τους τελικούς του 1998 - Το ποσό που δαπανήθηκε",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Νέο ρεκόρ έσπασε η φανέλα του Μάικλ Τζόρνταν από τους τελικούς του 1998, που βγήκε σε δημοπρασία, αφού πουλήθηκε έναντι 14 εκατ.",
+    "Η φανέλα του Μάικλ Τζόρνταν από τους τελικούς του 1998, ανάμεσα σε Σικάγο Μπουλς και Γιούτα Τζαζ , που βγήκε σε δημοπρασία έσπασε νέο ρεκόρ, καθώς πουλήθηκε για 14 εκατομμύρια δολάρια.",
+    "δολαρίων αποτελεί τη δεύτερη υψηλότερη τιμή και βρίσκεται πίσω από τη φανέλα του θρύλου του μπέιζμπολ Μπέιμπ Ρουθ των Νιου Γιορκ Γιάνκις, που έφτασε τα 24,12 εκατ."
+   ],
+   "amounts": [
+    "14 εκατ",
+    "14 εκατομμύρια",
+    "24,12 εκατ",
+    "$14 million"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f2fc29a757a5",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576901/koytloyai-i-fenermpahtse-den-mporei-na-plisiasei-mpatzet-toy",
+   "title": "Κουτλουάι: «Ο Παναθηναϊκός είναι ο μεγάλος αντίπαλος της Φενέρμπαχτσε στον δρόμο προς την Ευρωλίγκα»",
+   "site": "Gazzetta.gr",
+   "country": "Turkey",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "butce",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Ο πάλαι ποτέ χαρισματικός σουτέρ αναφέρθηκε στο μπάτζετ των δύο συλλόγων, στο βάθος των δύο πάγκων και έκανε ειδική μνεία στους Φρανσίσκο , Λεσόρ , Χέιζ-Ντέιβις και Μπόνγκα , που κατά τη γνώμη του, δημιουργούν μια απίστευτη υπεροχή για τους επτάκις πρωταθλητές Ευρώπης.",
+    "« Μετά από αυτούς τους αγώνες, πάντα υπάρχει αυτή η κουβέντα, ότι ‘η Παναθηναϊκός έχει πολύ μεγάλο μπάτζετ, η Φενέρμπαχτσε δεν μπορεί να πλησιάσει εκεί’.",
+    "Είναι λάθος να συγκρίνουμε με βάση τα μπάτζετ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "cf90dbd79e40",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576845/omprantobits-panathinaikos-den-einai-aplos-prosopo-tis-partizan-einai",
+   "title": "Ο Ομπράντοβιτς δεν είναι το πρόσωπο της Παρτίζαν, είναι η Παρτίζαν",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "αποδοχ",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Η κάμερα τον έπιασε «μαρμαρωμένο» να κάθεται χωρίς καμία αντίδραση, άνευρος, βλέποντας το τέλος του αγώνα με καμία από τις συνηθισμένες εκρήξεις του, μόνο σιωπή και πλήρης αποδοχή της αδυναμίας να κάνει κάτι.",
+    "Περίπου 18 χιλιάδες φωτογραφίες με το πρόσωπο του Ζοτς (καθώς η χωρητικότητα ανέρχεται στους 18.386 θεατές) θα γεμίσουν το γήπεδο, όπως ακριβώς είχαν κάνει οι φίλαθλοι της Παρτίζαν στο πρώτο εντός έδρας ματς μετά την αποχώρησή του πέρυσι, απέναντι στην Μπάγερν."
+   ],
+   "amounts": [
+    "18 χιλιάδες"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5d7a1b06b160",
+   "url": "https://sportacentrs.com/efektivie_trenini/13102026-helmuts_rodke_nepieklajigi_augstas_maksas",
+   "title": "Helmuts Rodke: nepieklājīgi augstas maksas sports",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-13",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eiro",
+    "eur",
+    "miljon",
+    "sum of money"
+   ],
+   "snippets": [
+    "120 EUR kādam trenerim par augstas kvalitātes individuālu fizisko treniņu 15-gadīgam pusaudzim?",
+    "Trīs miljoni gadā par menisku, Ahilleju, krustenisko saišu un līdzīgām operācijām visu vecumu sportotājiem labi baro klīnikas.",
+    "Bet, ja par ārstēšanos nākas izdot patīkami maz, 120 eiro treniņš jau izklausās teju nepieklājīgi lēti un gandrīz izdevīgi."
+   ],
+   "amounts": [
+    "120 EUR"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
   },
   {
    "id": "c39f73220fe5",
@@ -28764,6 +29575,124 @@
    "nba": true
   },
   {
+   "id": "54d646a97217",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576779/partizan-panathinaikos-ti-etoimazoyn-oi-opadoi-gia-tin-ypodohi-toy",
+   "title": "Αν η Παρτίζαν είχε ένα πρόσωπο, θα ήταν ο Ομπράντοβιτς! Αν είχε 18.000, πάλι θα ήταν ο Ομπράντοβιτς: Τι ετοιμάζουν οι οπαδοί για την υποδοχή του Ζοτς",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-12",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Ουσιαστικά περίπου 18 χιλιάδες φωτογραφίες με το πρόσωπο του Ζοτς (καθώς η χωρητικότητα του γηπέδου ανέρχεται στους 18.386 θεατές) θα γεμίσουν τη Beogradska Arena."
+   ],
+   "amounts": [
+    "18 χιλιάδες"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "06cfebbb6c2f",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2576768/aek-stin-kykloforia-ta-eisitiria-gia-mykono",
+   "title": "Στην κυκλοφορία τα εισιτήρια της ΑΕΚ για το παιχνίδι με τη Μύκονο",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-12",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a6a0b3a6213d",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576739/tzozef-i-balenthia-paizei-ena-idiaitero-stil-mpasket-na-eimaste",
+   "title": "Τζόζεφ: «Η Βαλένθια παίζει ένα ιδιαίτερο στιλ μπάσκετ - Να είμαστε συγκεντρωμένοι και να παίξουμε καλή άμυνα»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-12",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Η Βαλένθια διαθέτει την καλύτερη επίθεση σε αυτές τις πρώτες αγωνιστικές στη Euro League, παίζει ένα ιδιαίτερο στιλ μπάσκετ και είναι πολύ γρήγορη στους αιφνιδιαμσούς."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8260e0adfd50",
+   "url": "https://sportacentrs.com/basketbols/legionari/12102026-igaunu_basketbolists_krisa_atzist_vainu_k",
+   "title": "Igauņu basketbolists Krīsa atzīst vainu krāpšanā – draud cietumsods",
+   "site": "Sportacentrs",
+   "country": "Lithuania",
+   "published": "2026-10-12",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "miljon",
+    "sum of money",
+    "tukstos"
+   ],
+   "snippets": [
+    "Krīsa uzdevies par izdomātu personu vārdā Irēna un pieprasījis vienam no cietušajiem samaksāt deviņus tūkstošus dolāru",
+    "Saskaņā ar ''BasketNews'' apkopoto informāciju vienošanās dokumentos cietušo zaudējumi novērtēti no 750 tūkstošiem līdz diviem miljoniem ASV dolāru.",
+    "Krīsa e-pastā uzdevies par izdomātu personu vārdā Irēna un pieprasījis vienam no cietušajiem samaksāt deviņus tūkstošus dolāru, lai izvairītos no tiesvedības un publicitātes saistībā ar it kā pastāvošu finansiālu strīdu."
+   ],
+   "amounts": [
+    "750 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "ee82c1678b66",
    "url": "https://www.15min.lt/24sek/naujiena/lietuva/11-teziu-rolandas-skaisgirys-pristate-laukiancius-darbus-lietuvos-krepsinyje-875-2782976",
    "title": "11 punktų: Rolandas Skaisgirys pristatė laukiančius darbus Lietuvos krepšinyje",
@@ -29866,6 +30795,56 @@
    "nba": true
   },
   {
+   "id": "b04413768ba7",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576255/o-mpraxton-ki-sto-gazzetta-polloi-opadoi-toy-panathinaikoy-me-elegan",
+   "title": "Ο Μπράξτον Κι στο Gazzetta: «Αν είχα πρόταση από Ολυμπιακό; Ουδέν σχόλιο... »",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-11",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "μισθ",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Έκανες μια δήλωση πριν από λίγους μήνες σχετικά με τους μισθούς στη EuroLeague και το ότι θα ήθελες να δημοσιοποιούνται, όπως συμβαίνει στο NBA.",
+    "Μου έθεσε ένα πολύ σωστό επιχείρημα: ότι η ευρωπαϊκή κουλτούρα προτάσσει να μην δημοσιοποιούνται οι μισθοί, πράγμα που σέβομαι και δεν το γνώριζα.",
+    "Αυτό είναι κάτι με το οποίο ερχόμαστε αντιμέτωποι κι εμείς οι δημοσιογράφοι, όταν πρέπει να αρθρογραφήσουμε για τους μισθούς και τα μπάτζετ των ομάδων και ψάχνουμε παντού να βρούμε στοιχεία χωρίς αποτέλεσμα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "606e9c5ba6cc",
+   "url": "https://sportacentrs.com/basketbols/latvijas_turniri/11102026-vecmeistars_visnevics_keras_pie_ragiem_pa",
+   "title": "Vecmeistars Višņēvics ķeras pie ragiem pagājušās sezonas debitantiem",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-11",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tukstos"
+   ],
+   "snippets": [
+    "Šīs tūkstošgades pirmajā desmitgadē speciālists trenēja Viestura Koziola atbalstīto “Avantis/Turība” sieviešu komandu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "e0e2f95bfa6e",
    "url": "https://encestando.es/estudiantes-palencia-alega-cantabria-y-el-alicante-que-gano-al-granca-los-unicos-invictos/",
    "title": "Estudiantes, Palencia, Alega Cantabria y el Alicante, que ganó al Granca, los únicos invictos",
@@ -30480,6 +31459,104 @@
      ]
     }
    ],
+   "nba": false
+  },
+  {
+   "id": "d0c82b8a8d4e",
+   "url": "https://www.gazzetta.gr/basketball/nba/2576087/nba-sta-199-disekatommyria-dolaria-i-apotimisi-ton-omadon-tis-ligkas",
+   "title": "Είναι πολλά τα... λεφτά: «Ίλιγγο» προκαλεί το ποσό της αποτίμησης των ομάδων του NBA - Γουόριορς, Νικς και Λέικερς στην πρώτη τριάδα",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-10",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι"
+   ],
+   "snippets": [
+    "Ξέχωρα από το πλούσιο θέαμα, στην άλλη πλευρά του Ατλαντικού τα ποσά που έχουν βρεθεί στο τραπέζι είναι υπέρογκα και σύμφωνα με το «Sportico», η μέση αποτίμηση μιας ομάδας στο κορυφαίο μπασκετικό προϊόν του πλανήτη ανέρχεται στα 6,64 δισεκατομμύρια δολάρια.",
+    "Αξίζει να αναφερθεί το γεγονός πως η τιμή ενός συλλόγου έχει ανέβει κατά 183% σε σχέση με το 2020, ενώ αν δει κανείς τη συνολική αποτίμηση και των 30 οργανισμών, τότε το ποσό είναι εξωπραγματικό, αφού εκτινάσσεται στα 199 δισεκατομμύρια δολάρια."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "1f229d6d53b1",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576068/mesina-i-optiki-toy-gia-ta-tektainomena-sti-euroleague",
+   "title": "Μεσίνα: «Αν το NBA δημιουργήσει τη δική του λίγκα στην Ευρώπη χωρίς να συμφωνήσει με τη EuroLeague, ενώ συνεχίζεται και το BCL, ο κατακερματισμός θα γίνει ακόμη μεγαλύτερο πρόβλημα»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-10",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "salar",
+    "salary cap"
+   ],
+   "snippets": [
+    "Δεν μπορούμε απλώς να μιλάμε για salary cap στην Ευρώπη»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "5c545779e5f5",
+   "url": "https://sportacentrs.com/basketbols/damas/10102026-ttt_uznems_eiroligas_klubu_no_teiksmainas",
+   "title": "TTT uzņems Eirolīgas klubu no teiksmainās Dzelzs vilka pilsētas",
+   "site": "Sportacentrs",
+   "country": "Lithuania",
+   "published": "2026-10-10",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "algam",
+    "budzet"
+   ],
+   "snippets": [
+    "Pieredze, vecums, sastāva dziļums, kodola kopā pavadītais laiks un saspēlētība, privātā sektora atbalsts, komandas budžets – Viļņas klubam šobrīd ir pārsvars vairākumā rādītāju.",
+    "Lietuvas otrais spēcīgākais klubs, Klaipēdas “Neptūnas”, pēc pagājušajā gadā iekrātajiem parādiem un spēlētājām neizmaksātajām algām veica sastāva pārbūvi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Šiauliai",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,200,000 €",
+      "25/26: budget 2,000,000 €, salary budget 1,100,000 €",
+      "24/25: budget 1,500,000 €",
+      "player rows: 26/27 (1), 25/26 (2), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
    "nba": false
   },
   {
@@ -31165,6 +32242,94 @@
    "seasons": [
     "63/64"
    ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "570e1fbec21d",
+   "url": "https://www.gazzetta.gr/basketball/nba/2575834/nba-europe-o-antam-silber-aisiodoxei-gia-symfonia-me-ti-euroleague",
+   "title": "Ο Άνταμ Σίλβερ αισιοδοξεί για συμφωνία με τη EuroLeague",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-09",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο Άνταμ Σίλβερ εμφανίστηκε αισιόδοξος για την επίτευξη συμφωνίας με τη EuroLeague σχετικά με τη δημιουργία του NBA Europe, αποκαλύπτοντας παράλληλα ότι το κόστος για την απόκτηση ενός franchise θα ανέρχεται σε εκατοντάδες εκατομμύρια δολάρια.",
+    "Αναφερόμενος στο οικονομικό αντίτιμο για την απόκτηση ενός franchise, ο κομισάριος του NBA αποκάλυψε ότι τα ποσά θα ανέρχονται σε εκατοντάδες εκατομμύρια δολάρια.",
+    "«Πολλά εκατοντάδες εκατομμύρια δολάρια."
+   ],
+   "amounts": [],
+   "seasons": [
+    "09/10"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "8aa7f5e01434",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2575745/olympiakos-pos-mporei-kapoios-na-paei-apo-peiraia-sti-sunel-arena",
+   "title": "Πώς μπορούν οι φίλαθλοι του Ολυμπιακού να μετακινηθούν στη SUNEL Arena",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-09",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Από εκείνο το σημείο μέχρι το γήπεδο είναι 1,8 χιλιόμετρα, σχεδόν 4 λεπτά οδήγηση."
+   ],
+   "amounts": [
+    "1,8 χιλιόμετρα"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5bc61904ddb4",
+   "url": "https://sportacentrs.com/basketbols/damas/09102026-valkyries_pirma_sieviesu_komanda_kuras_ga",
+   "title": "\"Valkyries\" – pirmā sieviešu komanda, kuras gada ienākumi sasniedz 100 miljonus",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-09",
+   "found": "2026-11-06",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "algas",
+    "dolar",
+    "miljon",
+    "sum of money"
+   ],
+   "snippets": [
+    "WNBA sezona turpināsies līdz novembra beigām WNBA vienojas par vēsturisku līgumu: spēlētāju algas palielināsies vairākas reizes",
+    "“Valkyries” kļuvusi par pirmo sieviešu komandu, kuras ienākumi gada laikā sasnieguši 100 miljonus ASV dolāru.",
+    "Pirmajā sezonā “Valkyries” ienākumi sasniedza 78 miljonus ASV dolāru, sasniedzot sieviešu rekordu."
+   ],
+   "amounts": [
+    "100 miljonus",
+    "78 miljonus",
+    "50 miljoniem",
+    "130 miljonu",
+    "$100m"
+   ],
+   "seasons": [],
    "teams": [],
    "players": [],
    "nba": false
@@ -32571,6 +33736,103 @@
    ],
    "players": [],
    "nba": true
+  },
+  {
+   "id": "dec16d9dc8dc",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2575513/aris-anoihti-prosklisi-tis-kae-ston-mark-kioympan",
+   "title": "Ανοιχτή πρόσκληση της ΚΑΕ Άρης στον Μαρκ Κιούμπαν",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-08",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Είχε αναφέρει στη διαφορετική ευρωπαϊκή κουλτούρα, λέγοντας ότι… «αν δώσω 500 εκατομμύρια δολάρια ή ακόμη ένα δισεκατομμύρια δολάρια για να μπω σε μια αγορά, μπορεί αυτή να με μισήσει από την πρώτη μέρα και να με απορρίψουν αν αλλάξω τον τρόπο λειτουργίας» ."
+   ],
+   "amounts": [
+    "500 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "e9f65b2133d7",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2575450/monako-dyo-hamenoi-eyropaikoi-telikoi-dyo-final-four-euroleague-kai",
+   "title": "Πώς η Μονακό οδηγήθηκε από την απόλυτη δόξα στον αφανισμό",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-08",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η Μονακό επιβαρυνόταν με χρέη 24 εκατομμυρίων ευρώ που συσσωρεύτηκαν κατά τη διάρκεια της θητείας του μεγιστάνα Αλεξέι Φεντορίτσεφ και οδήγησαν σύμφωνα με τα δημοσιεύματα σε αθέτηση πληρωμών , απειλές απεργιών , αποχωρήσεις παικτών , ακόμη και στην παραίτηση του προπονητή Βασίλη Σπανούλη, όπως αν…"
+   ],
+   "amounts": [
+    "24 εκατομμυρίων"
+   ],
+   "seasons": [
+    "17/18",
+    "24/25",
+    "25/26"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d8d051b6a50e",
+   "url": "https://sportacentrs.com/(bez)maksas_sports/08102026-kapec_ventspils_nestarte_arpus_latvijas_i",
+   "title": "Kāpēc ″Ventspils″ nestartē ārpus Latvijas-Igaunijas līgas robežām?",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-08",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "sum of money",
+    "tukstos"
+   ],
+   "snippets": [
+    "Mediju atbalsta fonda ieguldījums no Latvijas valsts budžeta līdzekļiem.",
+    "Mēs lēšam, ka nepieciešami vēl 100 tūkstoši, lai ENBL piedalītos tā, kā mēs gribētu, nevis tikai piedalīšanās pēc,″ sacīja Pleinics."
+   ],
+   "amounts": [
+    "100 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK Ventspils",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 700,000 €",
+      "25/26: budget 650,000 €, salary budget 420,000 €",
+      "24/25: budget 650,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
   },
   {
    "id": "384bba0ea674",
@@ -34236,6 +35498,278 @@
       "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
       "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
       "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ada30e3125a5",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2575352/i-ektoxeysi-ton-tileoptikon-tis-gbl-apo-ta-537-ekat-eyro-sta-85",
+   "title": "Η εκτόξευση των τηλεοπτικών της GBL: Από τα 5,37 εκατ. ευρώ μεικτά στα 8,5 εκατ. ευρώ καθαρά!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η νέα πενταετής συμφωνία με τον ΣΚΑΙ ανεβάζει κατακόρυφα την τηλεοπτική αξία της Greek Basketball League - 49 εκατ.",
+    "ευρώ η μεικτή αξία του συμβολαίου και περίπου 39 εκατ.",
+    "Η νέα πενταετής συμφωνία με τον ΣΚΑΪ, συνολικής μεικτής αξίας 49 εκατ."
+   ],
+   "amounts": [
+    "5,37 εκατ",
+    "8,5 εκατ",
+    "49 εκατ",
+    "39 εκατ",
+    "5.370.000 ευρώ",
+    "5.500.000 ευρώ",
+    "6.350.000 ευρώ",
+    "7.350.000 ευρώ"
+   ],
+   "seasons": [
+    "22/23",
+    "30/31",
+    "23/24",
+    "24/25",
+    "25/26"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8bf41d8216d1",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2575347/aris-tromeri-atmosfaira-sto-alexandreio-plimmyrise-parke-me-hartakia-kai",
+   "title": "Τρομερή ατμόσφαιρα στο «Αλεξάνδρειο», πλημμύρισε το παρκέ με χαρτάκια και κορδέλες",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "προσφιλή τους συνήθεια, «γέμισαν» το παρκέ του «Αλεξάνδρειου» με χιλιάδες χαρτάκια."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0927eb9a53e0",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2575309/apo-ta-30-ekatommyria-drahmes-1990-sta-49-ekatommyria-eyro-2026-i",
+   "title": "Τα τηλεοπτικά του μπάσκετ: Από τη «χρυσή» εποχή στα τέλη της δεκαετίας του '90, μέχρι το 5ετές συμβόλαιο των 49 εκατ. ευρώ του ΣΚΑΙ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Τα 30 εκατομμύρια δραχμές (αξία τηλεοπτικών) των αρχών της δεκαετίας του ’90, τα 11,5 δισεκατομμύρια δραχμές της μεγάλης συμφωνίας του 1998 και σήμερα, τα 49 εκατομμύρια ευρώ του νέου πενταετούς τηλεοπτικού συμβολαίου αποτελούν τρεις διαφορετικούς σταθμούς στην πορεία του ελληνικού μπάσκετ",
+    "Όταν ανέλαβε την ΕΣΑΚ, στις αρχές της δεκαετίας του ’90, ο Θοδωρής Καρατζάς η τηλεοπτική αξία του πρωταθλήματος βρισκόταν σε πολύ χαμηλά επίπεδα, συγκεκριμένα, στα 30 εκατομμύρια δραχμές, ένα ποσό που σήμερα μοιάζει συμβολικό αν συγκριθεί με τα χρήματα που επενδύθηκαν (τηλεοπτικά) στο μπάσκετ λίγ…",
+    "Το τίμημα της συμφωνίας έφτασε περίπου στα 11,5 δισεκατομμύρια δραχμές για τρία χρόνια, ποσό που με την επίσημη ισοτιμία μετατροπής αντιστοιχεί σε περίπου 33,75 εκατομμύρια ευρώ!"
+   ],
+   "amounts": [
+    "49 εκατ",
+    "30 εκατομμύρια",
+    "49 εκατομμύρια",
+    "33,75 εκατομμύρια",
+    "821 εκατομμύρια",
+    "2,4 εκατομμύρια",
+    "49 εκατομμυρίων",
+    "11,25 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "455aaf7390ac",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2575307/olympiakos-ligotera-apo-2-hiliades-diathesima-eisitiria-gia-efes",
+   "title": "Λιγότερα από 2000 χιλιάδες εισιτήρια διαθέσιμα για το Ολυμπιακός - Εφές",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Λιγότερα από δύο χιλιάδες εισιτήρια έχουν απομείνει για το παιχνίδι του Ολυμπιακού με την Εφές στη Sunel Arena."
+   ],
+   "amounts": [
+    "2000 χιλιάδες"
+   ],
+   "seasons": [
+    "09/10"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c016f0530cf9",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2575241/monako-kiryxe-kai-episima-ptoheysi",
+   "title": "Τέλος εποχής για τη Μονακό: Κήρυξε και επίσημα πτώχευση",
+   "site": "Gazzetta.gr",
+   "country": "France",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Εκείνες οι χιλιάδες φωνές, εκείνες οι σημαίες και οι φανέλες, εκείνα τα ταξίδια, εκείνη η πίστη.",
+    "Ο απώτερος στόχος παραμένει να δούμε τη Μονακό να ανακτά τη θέση που της αξίζει, και ελπίζουμε πως, το συντομότερο δυνατό, η ομάδα Roca θα λάμψει ξανά στο γήπεδο Gaston Médecin, ότι η τεράστια σημαία της ομάδας Roca θα κυματίσει και πάλι πάνω από τις κερκίδες και ότι χιλιάδες φωνές θα αντηχήσουν …"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d7e24c8c9a9b",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2575232/gbl-ston-skai-kai-ston-spor-fm-tv-gia-ta-epomena-pente-hronia",
+   "title": "Στον ΣΚΑΪ και στον ΣΠΟΡ FM TV για τα επόμενα πέντε χρόνια η GBL",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Πέρασε ομόφωνα από το ΔΣ της GBL η πρόταση του ΣΚΑΪ , για την οποία είχατε ενημερωθεί από το Gazzetta , που θα έχει τα τηλεοπτικά δικαιώματα της Λίγκας για τα επόμενα πέντε χρόνια έναντι 50 εκατ.",
+    "ευρώ, ενώ θα γίνουν επιπλέον διαπραγματεύσεις προκειμένου να αυξηθούν περαιτέρω τα έσοδα μέσω της διαφημιστικής προβολής των videos."
+   ],
+   "amounts": [
+    "50 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5e2eaafa3327",
+   "url": "https://sportacentrs.com/(bez)maksas_sports/07102026-bez_maksas_sports_vieteja_basketbola_fina",
+   "title": "Video: \"(Bez)maksas sports\": vietējā basketbola finansiālais uzplaukums – cik tas stabils?",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eiro",
+    "miljon"
+   ],
+   "snippets": [
+    "Ja aizvadītajā sezonā visu Latvijas klubu kopējā budžetu summa tika lēsta nedaudz virs pieciem miljoniem eiro, tad šosezon tiek plānots ap astoņiem"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fe2573e8b971",
+   "url": "https://sportacentrs.com/basketbols/damas/07102026-rozlapas_komanda_iesniedz_protestu_par_ne",
+   "title": "Rožlapas komanda iesniedz protestu par nepareizi pieskaitītiem punktiem",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eiro"
+   ],
+   "snippets": [
+    "Skatītājiem būs iespēja sacensties par balvu – kempera nomu uz nedēļu apmēram 1000 eiro vērtībā."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2046689be1fc",
+   "url": "https://sportacentrs.com/basketbols/eirokausi/07102026-vef_celu_eiropas_kausa_saks_majas_valmier",
+   "title": "VEF ceļu Eiropas kausā sāks mājās, Valmiera dodas izbraukumā uz Kosovu",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-07",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eiro"
+   ],
+   "snippets": [
+    "Valmieras mačs būs vērojams kluba mājaslapā par 3,33 eiro ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valmiera Glass/ViA",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 1,100,000 €",
+      "25/26: budget 1,100,000 €, salary budget 650,000 €",
+      "24/25: budget 1,000,000 €"
      ]
     }
    ],
@@ -36292,6 +37826,194 @@
    "nba": false
   },
   {
+   "id": "83602b803517",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2575139/heiz-nteibis-alloi-pernoyn-pragmatika-dyskola-emena-o-omprantobits",
+   "title": "Χέιζ-Ντέιβις: «Άλλοι περνούν πραγματικά δύσκολα, εμένα ο Ομπράντοβιτς μου φωνάζει δύο ώρες και μετά πάω σπίτι»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Και τότε του λέω: \"Αν σου δώσω 100 ευρώ, μπορώ να παρακάμψω την ουρά;\" και μου απαντάει: \"Φυσικά\"."
+   ],
+   "amounts": [
+    "100 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6bde80fe14c9",
+   "url": "https://www.gazzetta.gr/basketball/nba/2575022/tzorntan-ekane-dorea-10-ekatommyrion-dolarion-sto-unc-pros-timin-tis-miteras",
+   "title": "Ο Τζόρνταν έκανε δωρεά 10 εκατομμυρίων δολαρίων στο UNC προς τιμήν της μητέρας του",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Τα 10 εκατομμύρια δολάρια που αποφάσισε να δωρίσει ισοδυναμούν με τη μεγαλύτερη μεμονωμένη δωρεά στην ιστορία της Σχολής Κοινωνικής Εργασίας, η οποία θα διευρύνει την εμβέλεια και την επίδραση του Κέντρου Παγκόσμιων Καινοτομιών Κοινωνικής Ανάπτυξης σύμφωνα με την επίσημη ανακοίνωση."
+   ],
+   "amounts": [
+    "10 εκατομμυρίων",
+    "10 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "88b2d6fa75b7",
+   "url": "https://www.gazzetta.gr/basketball/nba/2574985/nba-oi-goyizarnts-einai-arnitikoi-me-antoni-nteibis",
+   "title": "Αρνητικοί οι Γουίζαρντς για επέκταση συμβολαίου στον Άντονι Ντέιβις",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι"
+   ],
+   "snippets": [
+    "Ο «AD» απέκτησε το δικαίωμα το καλοκαίρι να υπογράψει τετραετή επέκταση συμβολαίου με απολαβές που θα αγγίζουν τα 275 εκατ.",
+    "δολάρια (max contract)."
+   ],
+   "amounts": [
+    "275 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ca4292aa3e0f",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2574965/paok-i-euroleague-apofasise-o-dikefalos-toy-borra-synehizei-na-tirei",
+   "title": "Η EuroLeague αποφάσισε, ο ΠΑΟΚ συνεχίζει να τηρεί στάση αναμονής",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Ο φάκελος που έχει κατατεθεί καλύπτει όλες τις προϋποθέσεις, περιλαμβάνοντας αναλυτικά στοιχεία για το οικονομικό πλάνο, τον προϋπολογισμό (μπάτζετ), τις γηπεδικές υποδομές, καθώς και τη συνολική προοπτική του project που τρέχει ο σύλλογος."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9eca04518241",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2574854/mposna-paok-i-istoria-piso-apo-gipedo-toy-agona",
+   "title": "Η φρικιαστική ιστορία πίσω από τη «Zetra Arena» που παίζει απόψε ο ΠΑΟΚ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Πάντως, μετά το τέλος του πολέμου, παρά τις σοβαρές που είχε υποστεί το κτίριο, τα θεμέλια του παράμεναν σταθερά και τον Σεπτέμβριο του 1997 , ξεκίνησε ανακατασκευή, με τη Διεθνή Ολυμπιακή Επιτροπή να συνεισφέρει 11.5 εκατομμύρια δολάρια, ενώ το συνολικό κόστος μετά το τέλος των εργασιών, δύο χρό…"
+   ],
+   "amounts": [
+    "11.5 εκατομμύρια",
+    "16.5 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a106560ad760",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2574849/synedriasi-tis-euroleague-ola-ta-dedomena-poy-syzitioyntai-ayti-tin",
+   "title": "Συνεδρίαση της Euroleague: Όλα τα δεδομένα που συζητιούνται αυτή την ώρα στο Κόμο",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "αποδοχ",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Πάντως, το σενάριο της αποδοχής της πρότασης φαίνεται ότι συγκεντρώνει τις λιγότερες πιθανότητες.",
+    "Η ζήτηση είναι πολύ μεγάλη και η προέγκριση 13 ομάδων ( με τον ΠΑΟΚ και τον Άρη να βρίσκονται μεσα σε αυτές ) που έχουν ήδη καταθέσει φάκελο υποψηφιότητας και εγγυητικές επιταγές με διόλου δεσμευμένες καταθέσεις εκατοντάδων εκατομμυρίων Ευρώ (πλησιάζουν στο ένα δις), δείχνει την προοδευτική ανταπ…",
+    "Κι όλα αυτά με δεκαετή συμβόλαια που περιλαμβάνουν αποζημιώσεις που κυμαίνονται μεταξύ των 100 και των 200 εκατομμυρίων Ευρώ ανά ομάδα, ανάλογα με την εμπορική και χρηματιστηριακή τους αξία και την αγορά που εκπροσωπούν."
+   ],
+   "amounts": [
+    "200 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9cf9271e6040",
+   "url": "https://www.gazzetta.gr/football/2574868/athlitikes-metadoseis-simera-gazz-floor-oi-galacticos-kai-i-prokrisi-tis-ethnikis",
+   "title": "Αθλητικές μεταδόσεις σήμερα: Το Gazz Floor, οι Galacticos και η πρόκριση της Εθνικής Ελπίδων",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-06",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Η ομάδα του Γιάννη Ταουσιάνη ταξίδεψε στο Λέργκαν, γνωρίζοντας πως χρειάζεται τη νίκη για να κάνει ένα σημαντικό βήμα προς την πρόκριση στο Euro U21 του 2027."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "4a47cfdd3177",
    "url": "https://sportando.basketball/adelaide-36ers-firmato-corey-webster/",
    "title": "Adelaide 36ers: firmato Corey Webster - Sportando",
@@ -37687,6 +39409,233 @@
    "nba": false
   },
   {
+   "id": "2b19ce1c7fbf",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2574808/ntialo-poio-itan-poso-poy-pire-gia-na-apodesmeytei-apo-ton",
+   "title": "Ντιαλό: «Πήρα αποζημίωση από τον Παναθηναϊκό που δεν έπαιξα ποτέ» - Ποιο ήταν το ποσό",
+   "site": "Gazzetta.gr",
+   "country": "USA",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Σύμφωνα με πληροφορίες το ποσό της αποζημίωσης για τη λύση του συμβολαίου του ήταν 50.000 ευρώ και ως ελεύθερος επέλεξε στη συνέχεια τη Μονακό με την οποία έκανε εξαιρετικές σεζόν και έφτασε πλέον στο ΝΒΑ με τους Ντένβερ Νάγκετς.",
+    "Μάλιστα, επισήμανε πως του έγινε πρόταση για να παραχωρηθεί ως δανεικός, κάτι που δεν αποδέχθηκε και γι' αυτό αποχώρησε λαμβάνοντας την αποζημίωση των 50.000 ευρώ."
+   ],
+   "amounts": [
+    "50.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Denver Nuggets",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1), 08/09 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "e35a0e4500f6",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2574800/haido-den-poylao-ton-irakli-moy-akoma-kai-na-moy-dosoyn",
+   "title": "Χάιδω: «Δεν πουλάω τον Ηρακλή μου ακόμα και να μου δώσουν εκατομμύρια, τον αγαπώ πολύ»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Να πεινάω και να μου δώσουν εκατομμύρια, δεν πουλάω τον Ηρακλή μου, τον αγαπάω πολύ», ανέφερε."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a0bc173dae9d",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2574697/paok-sti-diathesi-ton-filathlon-ta-eisitiria-gia-oylm-kai-aek",
+   "title": "Κυκλοφόρησαν τα εισιτήρια του ΠΑΟΚ για τις αναμετρήσεις με Ουλμ και ΑΕΚ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Τα εισιτήρια και για τους δύο αγώνες αφορούν αποκλειστικά την κατηγορία WHITE και η τιμή τους είναι 30€."
+   ],
+   "amounts": [
+    "30€"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5e0f263d5027",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2574661/olympiakos-se-kykloforia-ta-eisitiria-gia-ton-agona-me-tin-efes",
+   "title": "Κυκλοφόρησαν τα εισιτήρια για τον αγώνα του Ολυμπιακού με την Αναντολού Εφές",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Για αγορά εισιτηρίου για τους μεμονωμένους αγώνες της ομάδας μας, οι φίλαθλοι θα πρέπει να έχουν τη «Συλλεκτική Κάρτα Φιλάθλου Ολυμπιακού ή την Κάρτα Φιλάθλου Ολυμπιακού», την οποία ο φίλαθλος θα προμηθεύεται καταβάλλοντας 20€ ή 15€ ετησίως."
+   ],
+   "amounts": [
+    "20€",
+    "15€"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "df648c5ca015",
+   "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2574638/aek-ta-eisitiria-gia-tin-premiera-me-salon-sto-bcl",
+   "title": "ΑΕΚ: Τα εισιτήρια για την πρεμιέρα με Σαλόν στο BCL και το βλέμμα στη νέα εποχή",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ»."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fdee52a0f386",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2574610/loni-goyoker-sto-stohastro-tis-mpesiktas-o-amerikanos",
+   "title": "Στο... ραντάρ της Μπεσίκτας ο Λόνι Γουόκερ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "👀👀 ➡️ Lonnie Walker, Maccabi'de yaklaşık 2.2 milyon dolar kazanıyor."
+   ],
+   "amounts": [
+    "2.2 milyon"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Lonnie Walker",
+     "sheet": [
+      "25/26 Maccabi Tel Aviv: 1,870,000 €",
+      "24/25 Žalgiris Kaunas: 300,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "27bf8c4ca49c",
+   "url": "https://sportacentrs.com/basketbols/eirokausi/04102026-rostoka_seawolves",
+   "title": "\"Zeļļi\" dodas vilku alā: pretī vācu muskuļi un pēc pirmās Eirokausa uzvaras izsalkusi Rostoka",
+   "site": "Sportacentrs",
+   "country": "Italy",
+   "published": "2026-10-05",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "algam",
+    "budzet",
+    "eiro",
+    "miljon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Rostokai ir arī solīds budžets.",
+    "No šīs summas aptuveni divi miljoni paredzēti spēlētāju algām.",
+    "Salīdzinājumā ar Tortonas \"Derthona\" cipars gan ir krietni mazāks — itāļu vienības budžets šosezon sasniedz 14,5 miljonus eiro."
+   ],
+   "amounts": [
+    "14,5 miljonus",
+    "2,5 miljoni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Derthona Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 14,500,000 €, salary budget 7,000,000 €",
+      "25/26: budget 13,100,000 €, salary budget 6,000,000 €",
+      "24/25: budget 13,100,000 €, salary budget 8,450,000 €"
+     ]
+    },
+    {
+     "name": "Rigas Zelli",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,500,000 €, salary budget 1,200,000 €",
+      "25/26: budget 950,000 €, salary budget 560,000 €",
+      "24/25: budget 750,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "3166c5e81db0",
    "url": "https://sportando.basketball/lebron-james-elicottero-fanatics-a-disposizione-per-i-viaggi-tra-philadelphia-e-new-york-i-costi/",
    "title": "LeBron James, elicottero Fanatics a disposizione per i viaggi tra Philadelphia e New York: i costi - Sportando",
@@ -38872,6 +40821,68 @@
    ],
    "players": [],
    "nba": true
+  },
+  {
+   "id": "15da81bfbde1",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2574418/o-mvp-tis-karditsas-tzabier-fransis-sto-gazzetta-simainei-polla-i",
+   "title": "Ο MVP της Καρδίτσας, Τζα'Βίερ Φράνσις στο Gazzetta: «Σημαίνει πολλά η νίκη κόντρα στον Άρη, πράγματα που στην Αμερική είναι φάουλ εδώ δεν τα σφυρίζουν»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-04",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Πριν το τζάμπολ της αναμέτρησης της Καρδίτσας με τον Άρη , υπήρχε ξεκάθαρο φαβορί και αυτό ήταν ο Άρης λόγω του ρόστερ του και του μεγαλύτερου μπάτζετ που διαθέτει."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ee06e39f91da",
+   "url": "https://sportacentrs.com/basketbols/nba/kristaps_porzingis/04102026-porzinga_neskaidra_veselibas_situacija_ra",
+   "title": "Porziņģa neskaidrā veselības situācija raisa runas par iespējamu maiņu",
+   "site": "Sportacentrs",
+   "country": "Australia",
+   "published": "2026-10-04",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "miljon",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"Viņa līgums būtībā ir 20 miljonus dolāru vērts maiņas resurss.",
+    "31 gadu vecais Porziņģis vasarā ar Goldensteitas klubu noslēdza divu gadu līgumu par 40 miljoniem dolāru."
+   ],
+   "amounts": [
+    "20 miljonus",
+    "40 miljoniem"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Illawarra Hawks",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,700,000 €, salary budget 1,732,994 €",
+      "24/25: budget 3,600,000 €, salary budget 1,695,651 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
   },
   {
    "id": "11a583fe6085",
@@ -42005,6 +44016,34 @@
    "nba": true
   },
   {
+   "id": "e43dc6897bd1",
+   "url": "https://sportacentrs.com/citi/01102026-ar_vienbalsigu_balsojumu_pienemts_jaunais",
+   "title": "Piecus miljonus vērts ieguvums gadā: apstiprināts sporta fonda likums",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-10-01",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eiro",
+    "miljon"
+   ],
+   "snippets": [
+    "Īpašs paldies E.Siliņas vadītajai valdībai, kas šo procesu sekmīgi uzsāka, Izglītības un zinātnes ministrijai un Edgaram Pukinskam, kas to cītīgi virzīja, un Mārim Kučinskim, Harijam Rokpelnim un Saeimas Budžeta un finansu (nodokļu) komisijai, kas iesākto tik pat sekmīgi pabeiguši.”",
+    "septembrī, kad Saeimas Budžeta un finanšu (nodokļu) komisija vienbalsīgi atbalstīja Valsts sporta fonda likumprojekta virzīšanu uz galīgo lasījumu, kas vainagojās ar šodienas vēsturisko Saeimas balsojumu, kurā vienbalsīgi tika atbalstīts Valsts sporta fonda likums.",
+    "Likums paredz, ka Ministru kabinetam, gatavojot ikgadējo valsts budžeta likumprojektu, fonda darbības mērķu īstenošanai būs jāparedz papildu finansējums vismaz piecu miljonu eiro apmērā gadā."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "9303c0be5b02",
    "url": "https://sportando.basketball/mike-brown-su-miles-mcbride-vuole-restare-e-noi-vogliamo-tenerlo/",
    "title": "Mike Brown su Miles McBride: «Vuole restare, e noi vogliamo tenerlo» - Sportando",
@@ -44038,6 +46077,1470 @@
       "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
       "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
       "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4f2bc93228cb",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2578505/poios-thymatai-ton-gkali-toy-paok",
+   "title": "Ποιος θυμάται τον Γκάλη του... ΠΑΟΚ;",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "• Η ΑΕΚ των Φιλίππου, Γρανίτσα κατέθεσε πρόταση 150 εκατομμυρίων δραχμών στον Γκάλη αλλά εκείνος αρνήθηκε."
+   ],
+   "amounts": [
+    "150 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0073eb4d94d7",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2578035/ta-mathate-o-panathinaikos-einai-thnitos",
+   "title": "Τα μάθατε; Ο Παναθηναϊκός είναι θνητός",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "«Να γιατί του δίνω 5 εκατομμύρια το χρόνο», έμοιαζε να λέει ο Όφερ Γιανάι όταν πανηγύριζεε το εκκωφαντικό τρίποντο με το οποίο ο Βάσα Μίτσιτς έδωσε χαριστική βολή στον Παναθηναϊκό στο «έμπα» του τελευταίου λεπτού."
+   ],
+   "amounts": [
+    "5 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6510e2567559",
+   "url": "https://www.gazzetta.gr/gwomen/basketball/2577044/ziakas-kleidi-o-rythmos-me-ferol-stohos-na-ftasoyme-psila-sto-eurocup",
+   "title": "Ζιάκας: «”Κλειδί” ο ρυθμός με Φερόλ, στόχος να φτάσουμε ψηλά στο EuroCup»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Πέρυσι ο Αθηναϊκός, με ένα από τα μεγαλύτερα μπάτζετ, έφτασε στον τελικό και έχασε όπως έχασε… Τα στάνταρ είναι πάρα πολύ υψηλά και δεν είναι εύκολο να προσεγγίσεις το ψηλότερο επίπεδο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "19a089f86026",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2576063/olympiakos-panathinaikos-epithetiko-rimpaoynt-agapi-moy-kai-zeliko",
+   "title": "Το «επιθετικό ριμπάουντ... αγάπη μου» και το «Ζέλικο, είσαι... πρόβλημα»!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Σύμφωνοι, υπάρχουν και άλλες ποιοτικοί σύλλογοι που παίζουν μπάσκετ στην κορυφαία διασυλλογική διοργάνωση, οι οποίοι προοδευτικά θα γίνουν περισσότερο επικίνδυνοι, ωστόσο, λίγο τα budget και τα πληρέστατα ρόστερ των δύο «αιωνίων», λίγο οι προπονητές που έχουν την ευθύνη ( Μπαρτζώκας & Ομπράντοβιτ…"
+   ],
+   "amounts": [],
+   "seasons": [
+    "17/18",
+    "07/08"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ba1c3e98eadf",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2575327/erhetai-super-beltiomeni-protasi-ton-amerikanon-sti-euroleeague",
+   "title": "Έρχεται super βελτιωμένη πρόταση των Αμερικανών στην Euroleague; Αν αποφασίσει κάτι το NBA, δύσκολα κάνει πίσω!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Και σαν να μην έφτανε αυτό, το πλάνο του δεν απευθυνεται/απευθυνόταν σε όλες τις ομάδες, αλλά σε λιγότερες από τις 13 και επιπλέον, αξιώνει και ένα fee συμμετοχής που αγγίζει τα 500 εκατομμύρια Ευρώ.",
+    "Τα σημεία-κλειδιά τα οποία η Euroleague δεν συζητάει καν, είναι: πρώτον , η μη απορρόφηση όλων των εταίρων της (από την στιγμή που το ΝΒΑ θέλει να ξεκινήσει με 16 ομάδες εκ των οποίων οι 4-5 θα είναι νεοσύστατα brands με ποδοσφαιρικό παρελθόν), δεύτερον , το fee των 500 εκατομμυρίων που ζητάει το…"
+   ],
+   "amounts": [
+    "500 εκατομμύρια",
+    "500 εκατομμυρίων"
+   ],
+   "seasons": [
+    "20/21"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "49b86ed1f77f",
+   "url": "https://www.gazzetta.gr/gwomen/basketball/2574673/banloy-einai-yperoho-na-blepeis-gynaikeio-mpasket-na-exaplonetai",
+   "title": "Βανλού: «Είναι υπέροχο να βλέπεις το γυναικείο μπάσκετ να εξαπλώνεται παγκοσμίως, οι Έλληνες είναι πολύ παθιασμένοι»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Στις ΗΠΑ , στο TNT , ο αγώνας των ομίλων μεταξύ των ΗΠΑ και της Ιταλίας είχε τις περισσότερες προβολές στην ιστορία του δικτύου TNT, με 1,3 εκατομμύρια μέσους θεατές σε αγώνα μπάσκετ γυναικών.",
+    "Εν τω μεταξύ, ο τελικός είχε ένα μέσο κοινό 1,2 εκατομμυρίων θεατών, φτάνοντας στο 1,5 εκατομμύριο , παρά τη σύγκρουση με την έναρξη της σεζόν του NFL και τον τελικό του τένις του US Open .",
+    "Η συνολική κάλυψη τουρνουά στο γραμμικό δίκτυο και το HBO Max έφτασε τους εντυπωσιακούς 12,3 εκατομμύρια θεατές."
+   ],
+   "amounts": [
+    "1,3 εκατομμύρια",
+    "1,2 εκατομμυρίων",
+    "1,5 εκατομμύριο",
+    "12,3 εκατομμύρια",
+    "14,1 εκατομμύρια",
+    "60 εκατομμύρια",
+    "4,9 εκατομμύρια",
+    "20 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "960c94219848",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2574584/i-love-karditsa-i-love-gbl",
+   "title": "I love Karditsa, I love GBL!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "sum of money",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Και αυτό γιατί μία εντελώς καινούρια ομάδα με 12 νέους παίκτες (μόνο ο Οκόρο έμεινε από το περυσινό ρόστερ, αλλά κι αυτός από τον περασμένο Νοέμβριο είχε τεθεί νοκ-άουτ) και με budget μόλις 770.000 Ευρώ, κατάφερε να κερδίσει στα ίσα τον πολύ ισχυρότερο και με τουλάχιστον 13 φορές ακριβότερο προϋπ…"
+   ],
+   "amounts": [
+    "770.000 Ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8ca18ca6300d",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2574343/i-premiera-tis-gbl-edeixe-pos-kaneis-den-mporei-na-koimatai-isyhos",
+   "title": "Η πρεμιέρα της GBL έδειξε πως κανείς δεν μπορεί να κοιμάται ήσυχος!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Από το ζόρι του ΠΑΟΚ στη Μύκονο και το στραβοπάτημα του Άρη στην Καρδίτσα μέχρι το διπλό του Περιστερίου και την κυριαρχική ΑΕΚ, η πρώτη αγωνιστική έστειλε το μήνυμα πως τα καλοκαιρινά μπάτζετ τελειώνουν στα αποδυτήρια και από εκεί και πέρα...",
+    "Αν η ιστορία μας διδάσκει κάτι είναι πως τα καλοκαιρινά μπάτζετ των ομάδων δεν παίζουν μπάσκετ και οι μεταγραφές, όσο ηχηρές κι αν είναι, δεν εγγυώνται (σχεδόν) τίποτα όταν αρχίσει το πρωτάθλημα !"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "35e48b6187df",
+   "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2574314/aek-paei-panta-apo-ton-dyskolo-dromo-horis",
+   "title": "Πάντα από τον δύσκολο δρόμο χωρίς τυμπανοκρουσίες και υπερβολές",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "salar",
+    "salary cap",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ο Αγγελόπουλος πολλές φορές στο παρελθόν μίλησε για το salary cap που θα πρέπει να υπάρχει για να είναι πιο ανταγωνιστικό και δίκαιο το πρωτάθλημα.",
+    "Προσπάθησε πολλές φορές η ΑΕΚ να κάνει λίγο πιο δίκαιο το πρωτάθλημα, αλλά salary cap στη λίγκα δεν είδαμε ποτέ.",
+    "Δεν έχει πάρει ούτε ευρώ για να φτιάξει το παλάτι της, τη Sunel Arena, η οποία πλέον έχει ομορφύνει επικίνδυνα μέσα και θα ομορφύνει σιγά σιγά και απ΄΄εξω."
+   ],
+   "amounts": [],
+   "seasons": [
+    "10/11"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "603133aa582b",
+   "url": "https://basketball.hr/vijesti/za-trofeje-nazovite-zganeca-ostajem-li-u-zadru-puno-toga-ovisi-o-tome-ostaje-li-jusup/18834",
+   "title": "Za trofeje nazovite Žganeca: Ostajem li u Zadru? Puno toga ovisi o tome ostaje li Jusup - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Slovenia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "- Pije svih sve zasluge treba preuzeti trener Danijel Jusup koji nas je spojio, pogotovo prve sezone, 2022./23., kada je bila jako teška financijska situacija, i bio je mali budžet i kasnile su plaće, iskreno možda ni ja čak nisam vjerovao da ta momčad može napraviti ono što je na kraju ostvarila…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cedevita Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 4,800,000 €",
+      "25/26: budget 9,700,000 €, salary budget 5,250,000 €",
+      "24/25: budget 7,100,000 €, salary budget 4,000,000 €"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "580b40454c22",
+   "url": "https://basketball.hr/vijesti/cibona-pred-kolapsom-dug-68-milijuna-eura-raskidi-ugovora-i-neizvjesna-natjecanja/18831",
+   "title": "Cibona pred kolapsom: Dug 6,8 milijuna eura, raskidi ugovora i neizvjesna natjecanja - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura",
+    "milijun"
+   ],
+   "snippets": [
+    "Cibona je u teškoj financijskoj situaciji – dug iznosi oko 6,8 milijuna eura , a Uprava je ponudila raskid ugovora svima."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a8297c080fb1",
+   "url": "https://basketball.hr/vijesti/uz-tradicionalni-kosarkaski-kamp-za-mladje-uzraste-kosarkaski-savez-grada-rijeke-ina-i-veliku-novost/18812",
+   "title": "Uz tradicionalni košarkaški kamp za mlađe uzraste Košarkaški savez grada Rijeke ima i veliku novost! - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura"
+   ],
+   "snippets": [
+    "Cijena kampa iznosi 140 eura."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "23d7e0734636",
+   "url": "https://basketball.hr/vijesti/sok-iz-sarajeva-bosna-odustala-od-aba-lige-i-prve-i-druge/18808",
+   "title": "Šok iz Sarajeva: Bosna odustala od ABA lige, i prve i druge - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Bosnia and Herzegovina",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Neizvjesnost oko budžeta – Potpuna neizvjesnost u vezi s konačnim budžetom za narednu sezonu, kao i nedostatak jasne javne i privatne podrške, onemogućili su klubu da sa sigurnošću garantira stabilnost potrebnu za natjecanje u elitnom regionalnom rangu."
+   ],
+   "amounts": [],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "KK Bosna Royal",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 4,000,000 €, salary budget 2,800,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,800,000 €",
+      "24/25: budget 850,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ab7153ff7871",
+   "url": "https://basketball.hr/vijesti/ustedite-na-aviokartama-kupujte-utorkom/18805",
+   "title": "Uštedite na aviokartama: Kupujte utorkom! - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Naprimjer, možete putovati iz jedne europske destinacije u drugu za svega 10€."
+   ],
+   "amounts": [
+    "10€"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d480c5cdfea2",
+   "url": "https://basketball.hr/vijesti/mikro-putovanja-kako-za-vikend-resetirati-mozak/18790",
+   "title": "Mikro-putovanja: kako za vikend resetirati mozak - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Budite realni oko budžeta, ali ne štedite na iskustvu: radije uzmite dobru hranu i udobnu sobu, nego da se odmah vratite kući umorni i gladni."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "231aea832a8b",
+   "url": "https://basketball.hr/vijesti/kk-dubrava-sklopila-sporazum-o-suradnji-s-agencijom-edu-sports-international/18777",
+   "title": "KK Dubrava sklopila sporazum o suradnji s agencijom Edu Sports International - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "stipendi"
+   ],
+   "snippets": [
+    "Ovaj sporazum od iznimne je važnosti za sve mlade igrače Dubrave jer im omogućuje školovanje i sportski razvoj kroz stipendije na američkim sveučilištima."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7fe06751fd1e",
+   "url": "https://basketball.hr/vijesti/bivsi-izbornik-drazen-anzulovic-o-povratku-iz-rusije-planovima-i-trenerskoj-edukaciju-u-mostaru/18774",
+   "title": "Bivši izbornik Dražen Anzulović o povratku iz Rusije, planovima i trenerskoj edukaciju u Mostaru - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eura",
+    "milijun"
+   ],
+   "snippets": [
+    "Stari gubernator, čovjek koji je bio jako vezan za klub, obećao nam je milijun i pol eura veći budžet nego sezonu prije."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "OKK Dunav Stari Banovci",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 182,449 €, salary budget 142,310 €",
+      "24/25: budget 215,205 €",
+      "23/24: budget 228,225 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e064cb4d9096",
+   "url": "https://basketball.hr/vijesti/hrvatska-3x3-muska-reprezentacija-preko-spanjolske-i-grcke-stigla-do-cetvrtfinala-kvalifikacija-za-ep/18762",
+   "title": "Hrvatska 3x3 muška reprezentacija preko Španjolske i Grčke stigla do četvrtfinala kvalifikacija za EP - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Za sve najnovije informacije i rezultate možete pratiti službenu FIBA stranicu turnira: FIBA 3×3 EuroCup Qualifier – Romania 2025"
+   ],
+   "amounts": [
+    "3 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "038e82a082c3",
+   "url": "https://basketball.hr/vijesti/doncic-uzivao-u-krahu-cibone-iliriju-ce-bogato-nagraditi/18743",
+   "title": "Dončić uživao u krahu Cibone, a Iliriju će bogato nagraditi - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "USA",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura"
+   ],
+   "snippets": [
+    "Prema informacijama iz slovenskih izvora, Luka Dončić je uoči kvalifikacija obećao Iliriji donaciju od 400.000 eura u slučaju da se klub plasira u prvu ABA ligu, što se sada i ostvarilo."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dallas Mavericks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4018cd4eb52d",
+   "url": "https://basketball.hr/vijesti/trofejni-hrvatski-strucnjak-dario-gjergja-na-meti-francuskog-velikana/18737",
+   "title": "Trofejni hrvatski stručnjak Dario Gjergja na meti francuskog velikana - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "U klubu ističu kako će se razgovori voditi tek nakon završetka play-offa, dok se u isto vrijeme rade planovi i za budžet sljedeće sezone."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Dario Gjergja",
+     "sheet": [
+      "25/26 Limoges CSP: 110,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8de3c86a484a",
+   "url": "https://basketball.hr/vijesti/vazne-informacije-iz-kk-zadar-o-ulaznicama-za-finalnu-seriju/18733",
+   "title": "Važne informacije iz KK Zadar o ulaznicama za finalnu seriju - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "Paket gornje tribine - 20 EUR",
+    "Paket \"uz parket\" - 30 EUR",
+    "Press tribina - 38 EUR"
+   ],
+   "amounts": [
+    "20 EUR",
+    "30 EUR",
+    "38 EUR",
+    "15 EUR",
+    "25 EUR",
+    "50 EUR"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "cad9fbb03234",
+   "url": "https://basketball.hr/vijesti/boris-dzidic-osnivac-i-organizator-sportiw-trenerske-klinike-mostar-nude-mi-preseljenje-u-vece-gradove-ali-ostajemo-tu/18730",
+   "title": "Boris Džidić, osnivač i organizator Sportiw trenerske klinike Mostar: Nude mi preseljenje u veće gradove, ali ostajemo tu - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Montenegro",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Drugu godinu za redom smo u play offu gdje iza sebe oatavljamo ekipe većih budžeta, a pogotovo ovu sezonu gdje je liga napredovala kvalitetom."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Studentski centar Derby",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,000,000 €, salary budget 700,000 €",
+      "24/25: row exists, no amounts"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f46124cbd658",
+   "url": "https://basketball.hr/vijesti/avramovic-se-vraca-u-aba-ligu-sto-u-njoj-mogu-hrvatski-klubovi-sa-skromnim-budzetima/18726",
+   "title": "Avramović se vraća u ABA ligu, što u njoj mogu hrvatski klubovi sa skromnim budžetima - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "United Arab Emirates",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Koliko konkurentni sa skromni budžetima u paklenom ritmu utakmica mogu biti hrvatski klubovi na regionalnoj sceni u vremenima kada se istovremeno ABA liga širi da bi se otvorio prostor bogatim klubovima, a NCAA liga uzima sve više mladih talenata ostaje nam za vidjeti."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Umana Reyer Venezia",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 11,000,000 €, salary budget 7,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 11,840,000 €, salary budget 8,160,000 €",
+      "player rows: 25/26 (2), 21/22 (1), 17/18 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Mfiondu Kabengele",
+     "sheet": [
+      "26/27 Dubai Basketball: 3,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1902cff8ae81",
+   "url": "https://basketball.hr/vijesti/crni-dani-osjecke-kosarke-upitan-je-i-nastup-u-prvoj-ligi/18718",
+   "title": "Crni dani osječke košarke, upitan je i nastup u Prvoj ligi - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura"
+   ],
+   "snippets": [
+    "Uslijedile su javne optužbe prema Gradu i HKS-u, nakon kojih su stigle suspenzije i novčane kazne, uključujući onu od 9500 eura."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bda4a4850446",
+   "url": "https://basketball.hr/vijesti/vigo-bart-zadranima-kapa-do-poda-imam-ponude-iz-ncaa-ligu-ali-ostao-bih-jos-jednu-sezonu-tu/18705",
+   "title": "Vigo Bart: Zadranima kapa do poda. Imam ponude iz NCAA lige, ali ostao bih još jednu sezonu tu - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ova sezona je bila adaptacijska, mislim da bi mi dobro došla još jedna te da bi mogao pružiti bolje igre, a onda bi imao i bolje izgleda za odlazak iz Hrvatske\", rekao je Bart te usput i najavio U20 Europsko prvenstvo B divizije: \"Imamo dobru selekciju, nadam se da ćemo se pod vodstvom Pere Babić…"
+   ],
+   "amounts": [
+    "20 Europsko"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7175ffc2e695",
+   "url": "https://basketball.hr/vijesti/sesar-nakon-poraza-na-visnjiku-zadar-je-favorit-u-ovoj-seriji-sto-se-tice-budzeta-rostera-i-zdravlja-kojeg-su-imali/18690",
+   "title": "Sesar nakon poraza na Višnjiku: Zadar je favorit u ovoj seriji što se tiče budžeta, rostera i zdravlja kojeg su imali - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Da je Zadar favorit u ovoj seriji što se tiče budžeta, rostera i zdravlja kojeg su imali kroz sezonu sigurno da jesu, međutim nećemo se predati, pokušat ćemo odigrati jednu dobru utakmicu i pobijediti.'"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "444a2eade27d",
+   "url": "https://basketball.hr/vijesti/vjekoslav-lokica-se-povukao-smjesta-predsjednika-ka-zana-lelas/18662",
+   "title": "Vjekoslav Lokica se povukao s mjesta predsjednika KA Žana Lelas - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "stipendi"
+   ],
+   "snippets": [
+    "Brojne medalje, reprezentativke, američke stipendije..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1428a26d7386",
+   "url": "https://basketball.hr/vijesti/talijanska-ekipa-bologna-campas-osvojila-prvi-turnir-na-ovogodisnjem-pro-3x3-touru-i-put-u-madrid/18660",
+   "title": "Talijanska ekipa Bologna Campas osvojila prvi turnir na ovogodišnjem PRO 3x3 Touru i put u Madrid - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Spain",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura"
+   ],
+   "snippets": [
+    "Osim FIBA bodova, prvoplasiranoj momčadi u seniorskoj Elite Men kategoriji pripala je i novčana nagrada od 2.000 eura, dok je drugoplasirana ekipa dobila iznos od 600 eura."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 55,000,000 €, salary budget 45,000,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8ab9752b3844",
+   "url": "https://basketball.hr/vijesti/trener-hit-kluba-arx-crikvenica-tajna-je-da-nema-tajne-sve-je-krenulo-zbog-jedne-djevojcice/18643",
+   "title": "Trener hit kluba Arx Crikvenica  Krešimir Kozlevčar: Tajna je da nema tajne, sve je krenulo 'zbog jedne djevojčice' - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura",
+    "sum of money"
+   ],
+   "snippets": [
+    "Cure same kažu da na žalost kada upišu fakultete i kada ih roditelji više ne financiraju dolaze do problema hoće li ići konobariti za 50 € cijelu noć ili putovati cijeli dan u Solin za nula eura."
+   ],
+   "amounts": [
+    "50 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "496c47ed4d9f",
+   "url": "https://basketball.hr/vijesti/novi-pocetak-za-kk-zadar-nakon-11-godina-pravomocni-izlazak-iz-predstecajne-nagodbe/18642",
+   "title": "Novi početak za KK Zadar: Nakon 11 godina pravomoćni izlazak iz predstečajne nagodbe - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Montenegro",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura"
+   ],
+   "snippets": [
+    "Karlović je naglasio da je Grad Zadar, kao većinski vlasnik kluba, uplatio dodatnih 400.000 eura u klupsku blagajnu, od čega je značajan dio bio namijenjen upravo za rješavanje predstečajne nagodbe."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 18/19 (10)"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9fe57eedd91d",
+   "url": "https://basketball.hr/vijesti/predstavljamo-skolu-kosarke-vucici-samo-igraj-zabavljaj-se-i-uzivaj/18633",
+   "title": "Predstavljamo Školu košarke Vučići: Samo igraj, zabavljaj se i uživaj! - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisuc"
+   ],
+   "snippets": [
+    "U najboljim danima, škola je imala više od dvije tisuće polaznika u sezoni."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d42d573924ae",
+   "url": "https://basketball.hr/vijesti/video-danijel-jusup-mislim-da-bi-se-s-malo-vise-ulaganja-puno-dobilo-na-kvaliteti-hrvatskih-klubova/18566",
+   "title": "VIDEO Danijel Jusup: Mislim da bi se s malo više ulaganja puno dobilo na kvaliteti hrvatskih klubova - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Nama je najplaćeniji igrač koji nosi 25 posto budžeta na poštedi, teško nam je izdržati s ovakvim financijama."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Spartak Subotica",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 3,500,000 €, salary budget 2,100,000 €",
+      "25/26: budget 4,026,058 €, salary budget 3,077,338 €",
+      "24/25: budget 2,802,278 €, salary budget 2,166,715 €"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "00939ac90ab2",
+   "url": "https://basketball.hr/vijesti/sportakl-3x3-gospic-2025-druga-po-redu-3x3-zenska-kosarka-u-hrvatskoj-uz-nocnu-kosarku/18500",
+   "title": "Sportakl 3x3 Gospić 2025. - Druga po redu 3x3 ženska košarka u Hrvatskoj uz 'noćnu košarku' - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Lokacija: centar Gospića Kotizacija (seniori): 50 € Prijave: play.fiba3x3.com",
+    "Nagradni fond za seniorke: 750€"
+   ],
+   "amounts": [
+    "50 €",
+    "750€"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d61be0fb103e",
+   "url": "https://basketball.hr/vijesti/vrijednosnice-raskinule-ugovor-sa-svim-igracima-i-trenerom-hrkac-porucio-nismo-vise-zainteresirani-igrati-premijer-ligu-niti-sudjelovati-u-kriminalu-koji-se-provodi-pod-pokroviteljstvom-kladionicarskog-kriminalnog-miljea-u-namjestanju-utakmica/18496",
+   "title": "Predsjednik Vrijednosnica: Nismo zainteresirani igrati Premijer ligu niti sudjelovati u kriminalu koji se provodi pod pokroviteljstvom kladioničarskog kriminalnog miljea u namještanju utakmica - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eura"
+   ],
+   "snippets": [
+    "Košarka je vjerojatno najskuplji sport poslije nogometa kod nas a u našem ukupnom budžetu grad Osijek i Županija učestvuju sa 10tak posto, dok su mnogim klubovima i sportovima sponzori sa 80 do 90% budžeta.",
+    "godine a u tom periodu su sponzorirale klub sa 200 do 350.000 eura po sezoni, sponzori su klubovima ŠK Vrijednosnice Osijek i KK Vrijednosnice Os Darda u kojima imamo konstantno od 200 do 250 djece, što govori o ogromnoj ljubavi i fanatizmu našeg sponzora prema ovom klubu i sportu.",
+    "Imamo jako puno problema sa kojima se susrećemo kao što su igranje na lošijim pomoćnim koševima dok se bolji čuvaju, makne nam se iz dvorane bolji košarkaški semafor i postavi se lošiji, često nas se dislocira u druge dvorane što je u košarci kao gubitak domaćeg terena, nedostatak termina za djec…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a860ebef4634",
+   "url": "https://basketball.hr/vijesti/bozan/18494",
+   "title": "Američki san Petre Božan: Djeco, trenirajte s osmijehom, želju i volju vam nitko ne može oduzeti - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Svoj sportski put u razgovoru za službene stranice Hrvatskog košarkaškog saveza približila je Petra Božan koja je prošla sve kategorije mlađedobnih reprezentacija Hrvatske, uz osvojenu brončanu medalju na U16 Europskom prvenstvu A divizije 2022.",
+    "“Imam ih mnogo dragih, ali ekipno bi možda izdvojila osvajanje bronce na U16 Europskom prvenstvu A divizije.”"
+   ],
+   "amounts": [
+    "16 Europskom"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "13cc0d3b1b8d",
+   "url": "https://basketball.hr/vijesti/luka-bujas/18490",
+   "title": "Luka Bujas: Kako da mali klub preživi ako se sponzorima ne daju olakšice, kako da odvede djecu na neki turnir? - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "placa",
+    "placu"
+   ],
+   "snippets": [
+    "Budimo realni, situacija je takva da konobar u lokalnom kafiću, ne podcjenjujući taj posao, jer sam i sam kao mlad momak konobario, ima veću plaću od pojedinih trenera koji rade u ženskoj, pa i u muškoj Premijer ligi.",
+    "Budimo realni, situacija je takva da konobar u lokalnom kafiću, ne podcjenjujući taj posao, jer sam i sam kao mlad momak konobario, ima veću plaću od pojedinih trenera koji rade u ženskoj, pa i u muškoj Premijer ligi.",
+    "Nažalost, puno je problema u toj tematici, do financiranja do trenera koji rade u Omladinskim pogonima, odnosno do njihovih plaća."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8bbcde93d7f0",
+   "url": "https://basketball.hr/vijesti/neven-perisa-nazalost-kad-kao-zenski-klub-trazite-sponzorstvo-dobijete-otprilike-u-omjeru-110-u-odnosu-na-muski-sport/18466",
+   "title": "Neven Periša: Nažalost, kad kao ženski klub tražite sponzorstvo, dobijete otprilike u omjeru 1:10 u odnosu na muški sport - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budzet",
+    "placa",
+    "stipendi"
+   ],
+   "snippets": [
+    "Dojam je da su i iz postojećeg budžeta izvukli maksimum.",
+    "Od plaća, licenciranja, stipendija, opreme, stanova, prehrane..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "01248a9c1c53",
+   "url": "https://basketball.hr/vijesti/te-noci-split-nije-spavao/18432",
+   "title": "Te noći Split nije spavao - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisuc"
+   ],
+   "snippets": [
+    "Bio je to jedan od onih splitskih \"ludih\" dana, kako u Münchenu u kojem su Žuti napravili čudo, tako i u Gradu koji te noći nije spavao, a na ulicama je preko 150 tisuća ljudi dočekalo prvake Europe."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Split",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,737,831 €, salary budget 1,700,000 €",
+      "24/25: budget 2,274,226 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7c6cf8b65c90",
+   "url": "https://basketball.hr/vijesti/zadar-ce-i-cetiri-tisuce-kilometar-daleko-od-kuce-imati-podrsku-s-tribina/18424",
+   "title": "Zadar će i četiri tisuće kilometar daleko od kuće imati podršku s tribina - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "United Arab Emirates",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisuc"
+   ],
+   "snippets": [
+    "kolu AdmiralBet ABA liga vodi Zadar na gostovanje udaljeno preko četiri tisuće kilometara, u glavni grad istoimenog emirata – Dubai."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "3ab64287857d",
+   "url": "https://basketball.hr/vijesti/jasmin-repesa-josip-sesar-je-napravio-odlican-posao/18367",
+   "title": "Jasmin Repeša: Josip Sesar je napravio odličan posao - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eura",
+    "milijun"
+   ],
+   "snippets": [
+    "Riječ je o klubovima koji imaju budžet od 20 do 30 milijuna eura, što je 5, 6 puta više od Trapanija."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Jasmin Repeša",
+     "sheet": [
+      "15/16 Olimpia Milano: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "07ed8e35f27f",
+   "url": "https://basketball.hr/vijesti/cedevita-junior-krenule-su-prijave-za-ljetni-kosarkaski-kamp-25-u-velom-losinju/18361",
+   "title": "Cedevita Junior: Krenule su prijave za Ljetni košarkaški kamp '25 u Velom Lošinju - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Slovenia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Cijena aranžmana u koji je uključen prijevoz, 7 punih pansiona s tri obroka dnevno, poklon paket te cjelodnevni izlet u Aquapark iznosi: 294 € (plativo u podružnici Agencije Vladimir Nazor u Zagrebu) + 236 € (plativo u Domu košarke Cedevita na Velesajmu) + 0.90 € / dan (turistička pristojba za dj…"
+   ],
+   "amounts": [
+    "294 €",
+    "236 €",
+    "0.90 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cedevita Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 4,800,000 €",
+      "25/26: budget 9,700,000 €, salary budget 5,250,000 €",
+      "24/25: budget 7,100,000 €, salary budget 4,000,000 €"
+     ]
+    },
+    {
+     "name": "OKK Junior",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 103,558 €, salary budget 80,775 €",
+      "24/25: budget 54,087 €",
+      "23/24: budget 23,908 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "981cedc5c3a0",
+   "url": "https://basketball.hr/vijesti/zadar-uvjerljiv-protiv-fmp-stotka-iscurila-iz-obruca/18343",
+   "title": "Zadar uvjerljiv protiv FMP-a, 'stotka' iscurila iz obruča - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura"
+   ],
+   "snippets": [
+    "Pod sloganom “Svijet je ljepši u šarenim čarapama”, svi igrači su nosili šarene čarape kao znak podrške i inkluzije, a za svaki postignuti poen AdmiralBet donirat će 8,5 eura udrugama koje okupljaju osobe s Downovim sindromom."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6ad67740fae5",
+   "url": "https://basketball.hr/vijesti/cedevita-olimpija-je-favorit-ali-zadar-je-pokazao-da-zna-igrati-protiv-slovenaca/18321",
+   "title": "Cedevita Olimpija je favorit, ali Zadar je pokazao da zna igrati protiv Slovenaca - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Slovenia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "proracun"
+   ],
+   "snippets": [
+    "S obzirom na proračun momčadi i plasmane u prethodnim sezonama Slovenci u susrete sa Zadrom uvijek ulaze kao favoriti, no nedavna povijest nudi zanimljiv pogled na taj status: od fuzije Olimpije i Cedevite ova dva kluba igrala su 11 puta, Zadar je slavio šest puta, od toga svaki put u posljednje …"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cedevita Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 4,800,000 €",
+      "25/26: budget 9,700,000 €, salary budget 5,250,000 €",
+      "24/25: budget 7,100,000 €, salary budget 4,000,000 €"
+     ]
+    },
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "22e87153e3dc",
+   "url": "https://basketball.hr/vijesti/hrvatica-s-pola-milijuna-pratitelja-na-instagramu-modna-ikona-koja-snima-reklame-i-ceka-povratak-na-parket-nakon-teske-ozljede/18261",
+   "title": "Hrvatica s pola milijuna pratitelja na Instagramu, modna ikona koja snima reklame i čeka povratak na parket nakon teške ozljede - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Turkey",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijun"
+   ],
+   "snippets": [
+    "Nika Mühl prava je košarkaška zvijezda u SAD-u , igra za najbolje klubove, snima reklame , a o popularnosti svjedoči i više od pola milijuna pratitelja na Instagramu .",
+    "Uvijek se naježim samo dok se prisjećam igranja na tako velikoj pozornici gdje ne možeš sakriti nijednu pogrešku, a milijuni ljudi koji gledaju žele da izgubiš i navijaju protiv tebe."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ae79150e9269",
+   "url": "https://basketball.hr/vijesti/jusup-najavio-zvezdu-izuzetno-teska-utakmica-u-jednom-teskom-trenutku-za-nas/18245",
+   "title": "Jusup najavio Zvezdu: Izuzetno teška utakmica u jednom teškom trenutku za nas - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-06",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Beogradska momčad svake godine je jedan od najvećih favorita za osvajanje natjecanja, ove godine imaju sastav koji je konkurentan u Euroligi, u kojoj trenutačno dijele peto mjesto, imaju vrhunske strance i domaće igrače, višemilijunski budžet i u svakom smislu veliki su favorit protiv Zadra."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
      ]
     }
    ],

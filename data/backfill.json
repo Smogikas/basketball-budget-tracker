@@ -104,10 +104,10 @@
    "oldest": "2026-11-06"
   },
   "Gazzetta.gr": {
-   "page": 50,
+   "page": 88,
    "done": false,
    "stop": "time limit (continues next run)",
-   "oldest": "2026-10-19"
+   "oldest": "2026-10-03"
   },
   "Telesport": {
    "page": 56,
@@ -146,10 +146,10 @@
    "oldest": "2026-11-02"
   },
   "Sportacentrs": {
-   "page": 4,
-   "done": false,
-   "stop": "time limit (continues next run)",
-   "oldest": "2026-10-14"
+   "page": 8,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-25"
   },
   "Bild Basketball": {
    "page": 2,
@@ -182,7 +182,10 @@
    "oldest": ""
   },
   "Basketball.hr": {
-   "page": 231
+   "page": 304,
+   "done": true,
+   "stop": "page 304 failed: HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeo",
+   "oldest": ""
   },
   "Z Krainy NBA": {
    "page": 8,
@@ -198,8 +201,6 @@
   }
  },
  "remaining": [
-  "Gazzetta.gr",
-  "Sportacentrs",
-  "Basketball.hr"
+  "Gazzetta.gr"
  ]
 }
