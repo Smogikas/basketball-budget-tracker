@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-07T05:03+00:00",
+ "updated": "2026-11-07T07:17+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,25 +31,25 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-06",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -112,28 +112,29 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 13,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -148,19 +149,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -175,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,10 +185,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -211,37 +212,37 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-02",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-01",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-10-31",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -256,16 +257,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-31",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -292,15 +293,180 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 2
   }
  ],
  "items": [
+  {
+   "id": "4f94c75b02d2",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-8-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 8, 2026",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 5 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    },
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    },
+    {
+     "name": "EWE Baskets Oldenburg",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,080,000 €, salary budget 3,170,000 €",
+      "24/25: budget 8,310,000 €, salary budget 2,860,000 €",
+      "player rows: 26/27 (1), 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8ca6558a288d",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-7-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 7, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 5 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Cholet Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 6,753,000 €, salary budget 1,738,000 €",
+      "25/26: budget 6,460,000 €, salary budget 1,631,000 €",
+      "24/25: budget 6,389,000 €, salary budget 1,612,000 €",
+      "player rows: 26/27 (11), 25/26 (12), 24/25 (13)"
+     ]
+    },
+    {
+     "name": "Elan Chalon",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,339,000 €, salary budget 1,893,000 €",
+      "25/26: budget 7,188,000 €, salary budget 2,034,000 €",
+      "24/25: budget 6,175,000 €, salary budget 1,806,000 €",
+      "player rows: 26/27 (12), 25/26 (13), 24/25 (10)"
+     ]
+    },
+    {
+     "name": "Forca Lleida CE",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 4,000,000 €",
+      "25/26: budget 6,000,000 €, salary budget 3,500,000 €",
+      "24/25: budget 4,800,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0ff5fe08c82f",
+   "url": "https://www.dnevnik.si/nedeljski/med-ljudmi/pernati-dirkaci-s-srcem-za-dom-skriti-svet-sportnih-golobov-pismonos-2836498/",
+   "title": "Pernati dirkači s srcem za dom: skriti svet športnih golobov pismonoš",
+   "site": "Dnevnik.si",
+   "country": "Serbia",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "Ptice dobijo elektronski čip, koordinatorji pa zjutraj preverijo vremenske razmere in meglo, preden jih na tisoče hkrati izpustijo na določeni lokaciji.",
+    "Zanimivo je, da ima človek nekaj tisoč brbončic, golob pa le sedemintrideset, zaradi česar ptice niso izbirčne pri hrani.",
+    "Ptice dobijo elektronski čip, koordinatorji pa zjutraj preverijo vremenske razmere in meglo, preden jih na tisoče hkrati izpustijo na določeni lokaciji."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "OKK Dunav Stari Banovci",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 182,449 €, salary budget 142,310 €",
+      "24/25: budget 215,205 €",
+      "23/24: budget 228,225 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e87d648dc03a",
+   "url": "https://www.dnevnik.si/nedeljski/zakulisje/estrada/kralj-karel-pokazal-svoje-luksuzno-letalo-2837978/",
+   "title": "Kralj Karel pokazal svoje luksuzno letalo",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [
+    "Notranjost je urejena v elegantnih sivih in kremnih odtenkih, opremljena s prostornimi sedeži, zavesami, ki potnikom zagotavljajo zasebnost, ter okrasnimi blazinami s tradicionalnim škotskim karirastim vzorcem, še zanimivejša pa je cena njegove uporabe, ki, kot navaja Daily Mail, znaša do 2000 br…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "7e8e7cb17690",
    "url": "https://www.athletiko.gr/to-apotelesma-toy-na-pigaineis-kontra-sti-filosofia-soy-114123",
