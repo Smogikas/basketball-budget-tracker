@@ -1,28 +1,29 @@
 {
- "updated": "2026-11-07T09:01+00:00",
+ "updated": "2026-11-07T10:55+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 0,
+   "checked": 12,
+   "found": 1,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-06",
+   "pages": 3,
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,16 +32,16 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-10-26",
+   "pages": 1,
+   "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
@@ -103,16 +104,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,17 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 12,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,8 +176,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -185,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,49 +203,47 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-02",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 13,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-10-31",
-   "stop": "reached articles checked before",
-   "skipped_nba": 2
-  },
-  {
-   "site": "Bild Basketball",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
+   "oldest": "2020-12-18",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Basketball Sphere",
-   "checked": 11,
+   "site": "Mundo Deportivo",
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-06",
+   "pages": 1,
+   "oldest": "2026-11-02",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-01",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-04",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
@@ -259,21 +257,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-31",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -295,15 +293,68 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   }
  ],
  "items": [
+  {
+   "id": "a11d5d71b0d5",
+   "url": "https://sportando.basketball/corriere-della-sera-un-giovane-allenatore-andava-protetto/",
+   "title": "Milano, Corriere della Sera: \"Un giovane allenatore andava protetto\" - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "stipendi",
+    "stipendio"
+   ],
+   "snippets": [
+    "A complicare ulteriormente il quadro sono stati gli ingaggi di Lorenzo Brown, fuori dal progetto, e Marko Guduric, il cui rendimento non sarebbe stato proporzionato allo stipendio."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Lorenzo Brown",
+     "sheet": [
+      "26/27 Hapoel Jerusalem: 1,144,000 €",
+      "25/26 Olimpia Milano: 1,500,000 €",
+      "24/25 Panathinaikos B.C.: 1,900,000 €",
+      "23/24 Maccabi Tel Aviv: 1,440,000 €"
+     ]
+    },
+    {
+     "name": "Marko Gudurič",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,700,000 €",
+      "25/26 Olimpia Milano: 2,700,000 €",
+      "18/19 Fenerbahce Istanbul: 400,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "4f94c75b02d2",
    "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-8-2026/",
@@ -2491,6 +2542,36 @@
      ]
     }
    ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c1e9cac13113",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/kodijev-krompir-protiv-zvezde/558255",
+   "title": "Kodijev “krompir“ protiv Zvezde | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-07",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "platu",
+    "sum of money"
+   ],
+   "snippets": [
+    "Letos je potpisao ugovor na tri godine, u popularnom formatu 2+1 i za prve dve sezone ima platu oko 2.500.000 evra godišnje.",
+    "Ako se aktivira klauzula za treću godinu, trebalo bi da ima oko 3.000.000 evra u poslednjoj sezoni, tako da se ozbiljno opario u Pireju."
+   ],
+   "amounts": [
+    "2.500.000 evra",
+    "3.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [],
    "players": [],
    "nba": false
   },
