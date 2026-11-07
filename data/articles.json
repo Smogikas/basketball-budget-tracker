@@ -1,39 +1,363 @@
 {
- "updated": "2026-11-06T23:34+00:00",
+ "updated": "2026-11-07T00:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Gazzetta.gr",
-   "checked": 1116,
-   "found": 62,
+   "checked": 228,
+   "found": 12,
    "error": "",
-   "pages": 39,
-   "oldest": "2026-10-03",
-   "stop": "time limit (continues next run)",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 329,
-   "found": 13,
-   "error": "",
-   "pages": 4,
-   "oldest": "2026-09-25",
+   "pages": 8,
+   "oldest": "2026-09-30",
    "stop": "reached start date",
-   "skipped_nba": 16
-  },
-  {
-   "site": "Basketball.hr",
-   "checked": 593,
-   "found": 36,
-   "error": "",
-   "pages": 73,
-   "oldest": "",
-   "stop": "page 304 failed: HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeo",
-   "skipped_nba": 7
+   "skipped_nba": 2
   }
  ],
  "items": [
+  {
+   "id": "e88691dd6112",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2574018/giannakopoylos-yparhei-heirodikia-kai-den-anoigei-oyte-kan-diadikasia",
+   "title": "Γιαννακόπουλος: «Υπάρχει χειροδικία και δεν ανοίγει ούτε καν διαδικασία;»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-02",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Εδώ οι παίκτες τρώνε πρόστιμα δεκάδες και εκατοντάδες χιλιάδες γιατί είπαν κάτι για έναν διαιτητή."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "879955515fc8",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2573982/giannakopoylos-anebase-binteo-me-mpartzoka-kai-toys-panigyrismoys-tis",
+   "title": "Ο Γιαννακόπουλος ανέβασε το βίντεο με Μπαρτζώκα και τους πανηγυρισμούς της Βίρτους και ζήτησε τιμωρία για τον... ίδιο",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-02",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "ίδιος γράφοντας: «10 μήνες και 2 εκατομμύρια πρόστιμο στον Γιαννακόπουλο»."
+   ],
+   "amounts": [
+    "2 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (2), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c6e121766b2e",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2573972/antetokoynmpo-polys-kosmos-tha-agapisei-ton-fetino-ari",
+   "title": "Αντετοκούνμπο: «Πολύς κόσμος θα αγαπήσει τον φετινό Άρη»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-02",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Βρείτε αυτό το ένα πράγμα που κάνετε καλά και κανείς άλλος δεν μπορεί να σας πλησιάσει… Μου έλεγαν πολλοί ότι πρέπει να γίνω σουτέρ για να βγάλω εκατομμύρια."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "1d9a5940cd56",
+   "url": "https://www.gazzetta.gr/basketball/2573732/fiba-sto-monaho-tha-diexahthei-2o-toyrnoya-masters-open",
+   "title": "Στο Μόναχο θα διεξαχθεί το 2ο Τουρνουά Μasters Open της FIBA",
+   "site": "Gazzetta.gr",
+   "country": "Germany",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "«Ανυπομονούμε να καλωσορίσουμε χιλιάδες παίκτες, προπονητές, εθελοντές και φίλους του μπάσκετ στο Μόναχο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0c5d20d5bf88",
+   "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2573730/aggelopoylos-pathei-kati-i-sunel-arena-tha-pame-sto",
+   "title": "Αγγελόπουλος: «Αν πάθει κάτι η Sunel Arena, θα πάμε στο ΣΕΦ!»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Βγήκαν και κάτι φήμες ότι πήραμε εκατομμύρια.",
+    "Πρόσθεσε πως : «Είναι το μοναδικό γήπεδο στην ιστορία του ελληνικού αθλητισμού που δεν έχει πάρει ένα ευρώ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "5db999c7a86b",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2573725/aggelopoylos-otan-mpika-stin-aek-oloi-moy-elegan-oti-tha",
+   "title": "Αγγελόπουλος: «Όταν μπήκα στην ΑΕΚ όλοι μου έλεγαν ότι θα καταστραφώ, αλλά δεν ήθελα να διαλυθεί η ομάδα»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Αναλυτικά όσα είπε για την εποχή που ανέλαβε την ΑΕΚ : «Όταν ξεκίνησα μου λέει ο Αλέξης (Αλεξίου) ότι έχουμε θέμα, έχουμε κάνει ένα μπάτζετ 800.000, έχουμε 200.000, ένα 500άρικο να βγει η χρονιά."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c5d34b48f957",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2573707/aggelopoylos-ef-olis-tis-ylis-den-poylisame-tin-istoria-epeidi",
+   "title": "Αγγελόπουλος εφ' όλης της ύλης: «Η αλήθεια για τη σύμβαση με Ολυμπιακό για το γήπεδο, με έπιασε σφίξιμο πρώτη φορά στα Λιόσια»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "αποδοχ",
+    "εκατομμυρ",
+    "ευρω",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Ούτε τα μνημόνια δεν πήραν την αποδοχή που είχε το γήπεδο της ΑΕΚ.",
+    "Υπήρχαν φορές που έπρεπε να καλύψω εγώ το 65-70% του συνολικού μπάτζετ.",
+    "συμπαίκτη στην ΑΕΚ : «Όταν ξεκίνησα μου λέει ο Αλέξης (Αλεξίου) ότι έχουμε θέμα, έχουμε κάνει ένα μπάτζετ 800.000, έχουμε 200.000, ένα 500άρικο να βγει η χρονιά."
+   ],
+   "amounts": [
+    "35.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "bb758fd4a911",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2573682/aris-kleista-hartia-alla-kai-antapokrisi-sta-kritiria-tis-euroleague",
+   "title": "Τα κλειστά χαρτιά του Άρη αλλά και απόλυτη ανταπόκριση στα κριτήρια της Euroleague",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Οικονομικά, ήδη έχει πετύχει συμφωνίες που καλύπτουν μέρος του αγωνιστικού προϋπολογισμού πέραν των εσόδων από τα εισιτήρια διαρκείας των οποίων οι τιμές αυξήθηκαν πέρυσι γι’ αυτόν ακριβώς τον λόγο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d16d90546808",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2573601/kaselakis-sto-gazzetta-paok-kai-aris-epanerhontai-gia-na",
+   "title": "Κασελάκης στο Gazzetta: «ΠΑΟΚ και Άρης επανέρχονται για να πρωταγωνιστήσουν, Ολυμπιακός και Παναθηναϊκός τα φαβορί για τη EuroLeague»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Βλέπουμε όλες τις ομάδες να ενισχύονται και τα μπάτζετ να μεγαλώνουν."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "770962c387ee",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2573588/makampi-problimatiki-eikona-sta-prota-paihnidia-gia-tin-omada-toy",
+   "title": "Από την αύξηση του μπάτζετ σε κρίση: Η προβληματική εικόνα της Μακάμπι Τελ Αβίβ που ψάχνει την ταυτότητά της",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Η Μακάμπι Τελ Αβίβ παρόλο που έχει αυξήσει σημαντικά το μπάτζετ της σε σχέση με την περασμένη σεζόν, ψάχνει να βρει τα πατήματά της, με την εικόνα της να προβληματίζει στα πρώτα δύο παιχνίδια της EuroLeague",
+    "Τι και αν αύξησε σημαντικά το μπάτζετ της σε σχέση με την περασμένη σεζόν, η Μακάμπι Τελ Αβίβ ψάχνει να βρει ακόμα τα πατήματά της."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "76905763807a",
+   "url": "https://www.gazzetta.gr/football/uefa-nations-league/2573409/athlitikes-metadoseis-simera-oi-galacticos-gazz-floor-ellada",
+   "title": "Οι Galacticos, το Gazz Floor, το Ελλάδα - Ολλανδία και το Βίρτους - Ολυμπιακός στις αθλητικές μεταδόσεις της ημέρας",
+   "site": "Gazzetta.gr",
+   "country": "Poland",
+   "published": "2026-10-01",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Αγωνιστικά, υπάρχει επίσης το ματς της Εθνικής μας Κ21 με τη Λετονία (18:00, ΕΡΤ2 Σπορ) για τα προκριματικά του Euro, ενώ εξίσου ενδιαφέρον είναι και το Γερμανία - Σερβία (21:45, Novasports 3) που ενδιαφέρει άμεσα το σύνολο του Ιβάν Γιοβάνοβιτς."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Start Lublin",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,194,243 €, salary budget 1,316,546 €",
+      "24/25: budget 1,792,122€"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4b2f119b55a9",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2573536/panathinaikos-toys-ehei-stamparei-oloys-sto-diko-toy-tefteri",
+   "title": "Τους έχει σταμπάρει όλους στο δικό του το τεφτέρι",
+   "site": "Gazzetta.gr",
+   "country": "Latvia",
+   "published": "",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Πιστεύετε ότι αν ο Σέρβος τεχνικός δεν έβλεπε προσπάθεια και δουλειά στις προπονήσεις σάμπως θα έπαιζαν; Ούτε μία στο εκατομμύριο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valmiera Glass/ViA",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 1,100,000 €",
+      "25/26: budget 1,100,000 €, salary budget 650,000 €",
+      "24/25: budget 1,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "eaff2be21743",
    "url": "http://sportacentrs.com/basketbols/eirokausi/06112026-panathinaikos_ipasnieks_par_socialo_tiklu",

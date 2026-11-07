@@ -104,10 +104,10 @@
    "oldest": "2026-11-06"
   },
   "Gazzetta.gr": {
-   "page": 88,
-   "done": false,
-   "stop": "time limit (continues next run)",
-   "oldest": "2026-10-03"
+   "page": 96,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-30"
   },
   "Telesport": {
    "page": 56,
@@ -200,7 +200,5 @@
    "oldest": "2026-11-03"
   }
  },
- "remaining": [
-  "Gazzetta.gr"
- ]
+ "remaining": []
 }
