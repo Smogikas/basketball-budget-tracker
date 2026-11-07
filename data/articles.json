@@ -1,20 +1,19 @@
 {
- "updated": "2026-11-07T16:54+00:00",
+ "updated": "2026-11-07T18:59+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -23,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -32,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-23",
@@ -86,12 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-10-26",
-   "stop": "page 2 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Read timed out. (read t"
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -99,13 +98,13 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-10-30",
+   "oldest": "2026-11-01",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-06",
@@ -113,25 +112,25 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 19,
+   "checked": 29,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 11,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
+   "checked": 31,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -167,8 +166,8 @@
   },
   {
    "site": "Telesport",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -176,8 +175,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 1,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -185,10 +184,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -203,30 +202,31 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-01",
-   "stop": "reached start date"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 28,
+   "checked": 3,
    "found": 1,
    "error": "",
-   "pages": 4,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -257,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-01",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-02",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -284,10 +284,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-03",
    "stop": "reached articles checked before"
   },
@@ -302,6 +302,442 @@
   }
  ],
  "items": [
+  {
+   "id": "e48f1c357168",
+   "url": "https://sportando.basketball/maccabi-tel-aviv-i-dettagli-dellaccordo-con-pierria-henry/",
+   "title": "Maccabi Tel Aviv: i dettagli dell'accordo con Pierria Henry - Sportando",
+   "site": "Sportando",
+   "country": "Israel",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "ingaggio"
+   ],
+   "snippets": [
+    "L'accordo tra Pierria Henry e il Maccabi Tel Aviv è stato raggiunto a settembre, ma il suo eventuale ingaggio sarà valutato negli allenamenti"
+   ],
+   "amounts": [],
+   "seasons": [
+    "16/17"
+   ],
+   "teams": [
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (16), 25/26 (16), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Pierria Henry",
+     "sheet": [
+      "21/22 Fenerbahce Istanbul: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "f0f9eb065e91",
+   "url": "https://basketnews.com/news-259023-kendrick-nunn-misses-important-greek-league-game-due-to-a-8-figure-incentive.html#utm_medium=rss&utm_content=news",
+   "title": "Kendrick Nunn misses important Greek League game due to a 8-figure incentive",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Reports from Greece say that Nunn received a 8-figure sum to play for Qatar for the next 5 years, with various sources mentioning sums in range of €10 million.",
+    "Averaging 23 minutes in 4 EuroLeague games that Nunn played so far, he scored 20.3 points, 3.3 assists and 1.8 rebounds."
+   ],
+   "amounts": [
+    "€10 million",
+    "4 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "45be09793b55",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/ryto-treneris-po-pralaimejimo-panevezyje-nulis-priekaistu-zaidejams-875-2801164?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "„Ryto“ treneris po pralaimėjimo Panevėžyje: „Nulis priekaištų žaidėjams“",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "biudzet",
+    "sum of money"
+   ],
+   "snippets": [
+    "Panevėžio „Lietkabelis“ turi bent porą kartų mažesnį biudžetą, bet šeštadienį 85:81 įveikė Vilniaus „Rytą“ savo 2 tūkst."
+   ],
+   "amounts": [
+    "2 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Lietkabelis Panevėžys",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 2,600,000 €, salary budget 1,200,000 €",
+      "25/26: budget 2,600,000 €, salary budget 1,200,000 €",
+      "24/25: budget 2,300,000 €",
+      "player rows: 26/27 (1), 23/24 (3), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9a192836670e",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/panevezyje-lietkabelio-kovingumo-pamoka-rytui-875-2801110?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Panevėžyje – „Lietkabelio“ kovingumo pamoka „Rytui“",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "biudzet",
+    "sum of money"
+   ],
+   "snippets": [
+    "„Lietkabelis“ lieka ketvirtas, bet jis darsyk įrodė, kad yra nepalanki komanda „Rytui“ – praėjusį sezoną tris kartus vilniečius įveikę Nenado Čanako auklėtiniai pamokė didesnio biudžeto varžovus.",
+    "Nukentėjęs dėl aukštaūgių traumų Panevėžio „Lietkabelis“ šeštadienį savo 2 tūkst."
+   ],
+   "amounts": [
+    "2 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Lietkabelis Panevėžys",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 2,600,000 €, salary budget 1,200,000 €",
+      "25/26: budget 2,600,000 €, salary budget 1,200,000 €",
+      "24/25: budget 2,300,000 €",
+      "player rows: 26/27 (1), 23/24 (3), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e3e4bcc55490",
+   "url": "https://www.pianetabasket.com/le-nazionali/panathinaikos-kendrick-nunn-giochera-per-il-qatar-accordo-da-15-milioni-a-torneo",
+   "title": "Panathinaikos, Kendrick Nunn giocherà per il Qatar: accordo da 1,5 milioni a torneo",
+   "site": "PianetaBasket",
+   "country": "Greece",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "1,5 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "68ab5d9dbdf5",
+   "url": "https://www.eurohoops.net/en/fibawc/2031989/kendrick-nunn-travels-to-qatar-to-resolve-passport-issue/",
+   "title": "Kendrick Nunn travels to Qatar to complete naturalization process",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "This will also activate a lucrative agreement that stands to earn him 1.5 million for every major tournament in which he participates as a naturalized Qatar player."
+   ],
+   "amounts": [
+    "1.5 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "47d09ea8741e",
+   "url": "https://www.eurohoops.net/el/heba-el/2031962/nan-den-pezi-me-aek-taxidevi-sto-katar-gia-na-teliosi-to-thema-tou-diavatiriou/",
+   "title": "Ναν: Στο Κατάρ για να τελειώσει το θέμα του διαβατηρίου, δεν παίζει με ΑΕΚ",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Και φυσικά να ενεργοποιήσει τη χρυσή συμφωνία, η οποία θα του αποφέρει 1.5 εκατομμύριο για κάθε μεγάλη διοργάνωση, στην οποία συμμετέχει."
+   ],
+   "amounts": [
+    "1.5 εκατομμύριο"
+   ],
+   "seasons": [
+    "10/11"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2517f454cf42",
+   "url": "https://www.eurohoops.net/tr/heba-tr/2031998/kendrick-nunn-katar-milli-takimi-icin-panathinaikos-macini-kaciracak/",
+   "title": "Kendrick Nunn, Katar Milli Takımı İçin Panathinaikos Maçını Kaçıracak!",
+   "site": "Eurohoops TR",
+   "country": "Greece",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "31 yaşındaki yıldız, Katar Milli Takımı ile katılacağı her turnuva için 1.5 milyon euro kazanacak."
+   ],
+   "amounts": [
+    "1.5 milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "98c08e118375",
+   "url": "https://basketballsphere.com/en/luca-banchi-milano-head-coach-euroleague/",
+   "title": "Luca Banchi cleared for Milano return - but under one specific condition",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "The estimated value of Banchi’s contract is around the €2 million mark for the entire duration of the deal."
+   ],
+   "amounts": [
+    "€2 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "04f80312a48f",
+   "url": "https://www.dnevnik.si/nedeljski/prosti-cas/za-steklenico-viskija-odsteli-2-5-milijona-evrov-zakaj-je-tako-posebna-2835798/",
+   "title": "Za steklenico viskija odšteli 2,5 milijona evrov. Zakaj je tako posebna?",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-07",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money",
+    "tisoc"
+   ],
+   "snippets": [
+    "Dve steklenici viskija Macallan so doslej na dražbah prodali za po več kot dva milijona funtov, eno prav prejšnji mesec.",
+    "V zadnjih stotih letih so se nekatere stvari na našem planetu spremenile bolj, kot so se prej v tisočih.",
+    "Ravno prejšnji mesec so namreč na posestvu Macallan na Škotskem na dražbi prodali steklenico viskija, ki je svojo pot na istem mestu začel pred natanko stotimi leti, za gromozanskih 2.125.000 britanskih funtov (2,53 milijona evrov)."
+   ],
+   "amounts": [
+    "2,5 milijona",
+    "2,53 milijona",
+    "2,6 milijona",
+    "1,5 milijona",
+    "2,2 milijona",
+    "27 milijonov",
+    "2 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "67e1d5d3669f",
    "url": "https://basketnews.com/news-259021-details-of-luca-banchis-move-to-olimpia-milano-revealed.html#utm_medium=rss&utm_content=news",
@@ -2902,6 +3338,75 @@
     }
    ],
    "players": [],
+   "nba": false
+  },
+  {
+   "id": "7c4453328fc3",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/micov-u-4x10-posle-zeljkovog-odlaska-klub-bio-ranjen-radimo-na-ozdravljenju-tim-nije-kompletiran/558291",
+   "title": "Micov u 4x10: Posle Željkovog odlaska klub bio ranjen, radimo na ozdravljenju; tim nije kompletiran | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-07",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "On je naveo da Partizan ostaje aktivan na tržištu, ali da izbor pojačanja zavisi od budžeta, povreda i mogućnosti registracije igrača."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e707706bec1f",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/nan-propusta-utakmicu-panatinaikosa-otputovao-u-katar-po-30000000-evra/558300",
+   "title": "Nan propušta utakmicu Panatinaikosa, otputovao u Katar po 30.000.000 evra | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-07",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Tada se takođe govorilo i da će as Panatinaikosa uz pasoš dobiti i sumu između deset i trideset miliona evra !"
+   ],
+   "amounts": [
+    "30.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €"
+     ]
+    }
+   ],
    "nba": false
   },
   {
