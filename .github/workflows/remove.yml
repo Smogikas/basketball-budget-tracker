@@ -1,0 +1,49 @@
+name: Delete rejected rows
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Row codes copied from the page (button 'Delete rejected rows for good')"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: remove
+  cancel-in-progress: false
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove rows
+        env:
+          IDS: ${{ inputs.ids }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re
+          ids = set(re.findall(r"\b[0-9a-f]{12}\b", os.environ["IDS"]))
+          rp = "data/removed.json"
+          removed = set(json.load(open(rp))) if os.path.exists(rp) else set()
+          removed |= ids
+          json.dump(sorted(removed), open(rp, "w"), indent=0)
+          ap = "data/articles.json"
+          d = json.load(open(ap, encoding="utf-8"))
+          before = len(d.get("items", []))
+          d["items"] = [i for i in d.get("items", []) if i["id"] not in removed]
+          json.dump(d, open(ap, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+          print(f"Codes received: {len(ids)}. Rows deleted: {before - len(d['items'])}. Rows left: {len(d['items'])}.")
+          PY
+      - name: Save
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -m "Deleted rejected rows"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 10; done
+          exit 1

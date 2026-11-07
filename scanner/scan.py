@@ -897,8 +897,10 @@ def main():
 
     cutoff = (now - dt.timedelta(days=KEEP_ITEMS_DAYS)).date().isoformat()
     known = {i["id"] for i in new_items}
+    removed = set(load_json(os.path.join(DATA, "removed.json"), []))   # deleted with the "Delete rejected rows" workflow
     items = new_items + [i for i in previous.get("items", [])
                          if i["id"] not in known and i.get("found", "") >= cutoff]
+    items = [i for i in items if i["id"] not in removed]
     items.sort(key=lambda i: (i.get("found", ""), i.get("published", "")), reverse=True)
 
     seen_cutoff = (now - dt.timedelta(days=KEEP_SEEN_DAYS)).date().isoformat()

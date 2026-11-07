@@ -53,6 +53,13 @@
   .btn-rej { background: transparent; color: var(--danger); border: 1px solid #5b2323; margin-top: 6px; }
   .btn-rej:hover { background: #2a1010; }
   .actions { display: flex; flex-direction: column; align-items: stretch; }
+  [hidden] { display: none !important; }
+  .btn-del { background: transparent; color: var(--danger); border: 1px solid #5b2323; }
+  .delbox { max-width: 1400px; margin: 0 auto 12px; padding: 0 16px; }
+  .delbox > div { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; font-size: 13.5px; }
+  .delbox ol { margin: 6px 0; padding-left: 20px; }
+  .delbox textarea { width: 100%; height: 70px; background: var(--panel-2); color: var(--text); border: 1px solid var(--line); border-radius: 8px; font: 12px monospace; padding: 6px; box-sizing: border-box; }
+  .delbox a { color: #93c5fd; }
   .empty { text-align: center; color: var(--muted); padding: 40px 10px; }
   footer { max-width: 1400px; margin: 0 auto; padding: 0 16px 30px; color: var(--muted); font-size: 12px; }
   footer details { margin-top: 6px; }
@@ -80,8 +87,19 @@
   <select id="type"><option value="words" selected>Budget or Salary</option><option>Budget</option><option>Salary</option><option value="Amount">Only a sum of money</option><option value="">Everything</option></select>
   <label><input type="checkbox" id="hidenba"> Hide NBA-flagged</label>
   <label><input type="checkbox" id="showrej"> Show rejected</label>
+  <button class="btn btn-del" id="delbtn" hidden></button>
   <span class="count" id="count"></span>
 </div>
+<div class="delbox" id="delbox" hidden><div>
+  <b>Delete rejected rows for good</b> (from the page on every device). The codes of your rejected rows are copied:
+  <textarea id="delids" readonly></textarea>
+  <ol>
+    <li>Open <a href="https://github.com/Smogikas/basketball-budget-tracker/actions/workflows/remove.yml" target="_blank" rel="noopener noreferrer">Delete rejected rows on GitHub</a> (you need to be signed in).</li>
+    <li>Click <b>Run workflow</b>, paste the codes into the box, click the green <b>Run workflow</b>.</li>
+    <li>About a minute later, reload this page — the rows are gone.</li>
+  </ol>
+  <button class="btn btn-del" id="delclose">Close</button>
+</div></div>
 <main>
   <table>
     <thead><tr>
@@ -91,13 +109,13 @@
   </table>
 </main>
 <footer>
-  Articles are found by keywords only, so some will not be relevant. "Reject" hides a row in this browser only.
+  Articles are found by keywords only, so some will not be relevant. "Reject" hides a row in this browser only; "Delete rejected rows for good" removes them from the page everywhere.
   <details><summary>Last scan details</summary><div id="run"></div></details>
   <details id="bfbox" hidden><summary id="bfsum">History backfill</summary><div id="bf"></div></details>
 </footer>
 <script>
 const KEY = "bbt-rejected";
-let items = [], rejected = new Set();
+let items = [], rejected = new Set(), removed = new Set();
 try { rejected = new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch (e) {}
 const saveRejected = () => { try { localStorage.setItem(KEY, JSON.stringify([...rejected])); } catch (e) {} };
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -152,6 +170,9 @@ function render() {
     `<tr><td colspan="6" class="empty">${items.length ? "Nothing matches these filters." : "No articles found yet. They will appear after the next daily scan."}</td></tr>`;
   const open = items.filter(it => !rejected.has(it.id)).length;
   $("count").textContent = `${list.length} shown · ${open} to review`;
+  const rej = items.filter(it => rejected.has(it.id)).length;
+  $("delbtn").hidden = !rej;
+  $("delbtn").textContent = `Delete rejected rows for good (${rej})`;
 }
 
 $("rows").addEventListener("click", e => {
@@ -160,10 +181,23 @@ $("rows").addEventListener("click", e => {
   rejected.has(id) ? rejected.delete(id) : rejected.add(id);
   saveRejected(); render();
 });
+$("delbtn").addEventListener("click", () => {
+  const ids = items.filter(it => rejected.has(it.id)).map(it => it.id).join(" ");
+  $("delids").value = ids; $("delbox").hidden = false;
+  $("delids").select();
+  try { navigator.clipboard.writeText(ids).catch(() => {}); } catch (e) {}
+});
+$("delclose").addEventListener("click", () => { $("delbox").hidden = true; });
 ["q", "country", "type", "showrej", "hidenba"].forEach(id => $(id).addEventListener("input", render));
 
-fetch("data/articles.json?" + Date.now()).then(r => r.json()).then(d => {
-  items = d.items || [];
+Promise.all([
+  fetch("data/articles.json?" + Date.now()).then(r => r.json()),
+  fetch("data/removed.json?" + Date.now()).then(r => r.ok ? r.json() : []).catch(() => [])
+]).then(([d, rm]) => {
+  removed = new Set(rm || []);
+  items = (d.items || []).filter(it => !removed.has(it.id));
+  const ids = new Set(items.map(it => it.id));
+  if ([...rejected].some(id => !ids.has(id))) { rejected = new Set([...rejected].filter(id => ids.has(id))); saveRejected(); }
   $("updated").textContent = d.updated ? `Last scan: ${new Date(d.updated).toLocaleString()}` : "Not scanned yet";
   const countries = [...new Set(items.map(i => i.country).filter(Boolean))].sort();
   $("country").insertAdjacentHTML("beforeend", countries.map(x => `<option>${esc(x)}</option>`).join(""));
