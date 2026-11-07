@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:18+00:00",
+ "updated": "2026-11-07T03:02+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -109,7 +109,8 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
@@ -140,7 +141,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -167,10 +168,10 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -221,28 +222,28 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 7,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-10-31",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Bild Basketball",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-04",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-01",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-04",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -266,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
