@@ -1,23 +1,23 @@
 {
- "updated": "2026-11-08T13:08+00:00",
+ "updated": "2026-11-08T14:52+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
-   "found": 0,
+   "checked": 7,
+   "found": 2,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "no older pages"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -94,7 +94,7 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -103,42 +103,15 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 20,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 6,
    "found": 0,
    "error": "",
@@ -147,8 +120,35 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 23,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 12,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,26 +157,26 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,35 +211,36 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 6,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-03",
+   "oldest": "2026-11-04",
    "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-02",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball Sphere",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -252,7 +253,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-02",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Dnevnik.si",
@@ -265,19 +266,19 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "",
    "stop": "reached articles checked before"
   },
@@ -292,15 +293,189 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "ba1d361225d7",
+   "url": "https://sportando.basketball/serie-a2-old-wild-west-la-preview-dell8-giornata/",
+   "title": "Serie A2 Old Wild West, la preview dell'8° giornata - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Biglietti in vendita a partire da €10 al New Basket Store, Corso Garibaldi 29 (orari 09:30-13:00; 16:45-20:15, domenica chiuso), online sul sito www.vivaticket.it , nei punti vendita Vivaticket abilitati sul territorio e al botteghino del palasport, con apertura 90 minuti prima della palla a due."
+   ],
+   "amounts": [
+    "€10"
+   ],
+   "seasons": [
+    "26/27",
+    "19/20",
+    "23/24",
+    "02/03",
+    "12/13"
+   ],
+   "teams": [
+    {
+     "name": "Dinamo Sassari",
+     "country": "Italy",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: row exists, no amounts",
+      "24/25: budget 7,830,000 €, salary budget 4,050,000 €",
+      "player rows: 22/23 (1), 21/22 (1)"
+     ]
+    },
+    {
+     "name": "FC Porto",
+     "country": "Portugal",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,300,000 €, salary budget 1,650,000 €",
+      "24/25: budget 3,100,000 €"
+     ]
+    },
+    {
+     "name": "Fortitudo Bologna",
+     "country": "Italy",
+     "sheet": [
+      "25/26: row exists, no amounts",
+      "24/25: budget 5,400,000 €, salary budget 2,390,000 €",
+      "23/24: budget 4,400,000 €, salary budget 1,630,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Bryce Nze",
+     "sheet": [
+      "25/26 Elan Bearnais Pau - Lacq - Orthez: 90,000 €",
+      "24/25 Hermine Nantes Basket: 50,000 €",
+      "23/24 Hermine Nantes Basket: 35,000 €"
+     ]
+    },
+    {
+     "name": "Kaza Kajami - Keane",
+     "sheet": [
+      "22/23 Le Mans Sarthe Basket: 125,000 €",
+      "21/22 Le Mans Sarthe Basket: 105,000 €",
+      "20/21 Le Mans Sarthe Basket: 80,000 €"
+     ]
+    },
+    {
+     "name": "Marcus Santos - Silva",
+     "sheet": [
+      "24/25 Saint - Quentin BB: 75,000 €",
+      "23/24 Lille Metropole BC: 21,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "a50d7e48d78f",
+   "url": "https://sportando.basketball/virtus-bologna-torna-la-promo-unibo-con-trieste-2-novembre-e-verona-9-novembre/",
+   "title": "Virtus Bologna: Torna la Promo Unibo con Trieste (2 novembre) e Verona (9 novembre) - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Torna per le partite di LBA contro Trieste e Verona la Promo Unibo per gli studenti e studentesse dell’Università di Bologna che potranno usufruire di una promozione speciale che prevede il costo del biglietto a 10 euro ."
+   ],
+   "amounts": [
+    "10 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Scaligera Basket Verona",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 3,270,000 €"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (2), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e5fb160b99fa",
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261108/1004248640/sekulic-no-pensamos-racha-proximo-partido.html",
+   "title": "Sekulic: \"No pensamos en rachas, sólo en el próximo partido\"",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "presupuest"
+   ],
+   "snippets": [
+    "\"Estamos contentos y siendo conscientes de que somos  el Breogán , con presupuesto humilde y que hemos mirado a los ojos al Barça ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Baloncesto Breogan",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 3,025,000 €",
+      "24/25: budget 4,170,000 €, salary budget 2,750,000 €",
+      "player rows: 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "6cd90ea79299",
    "url": "https://www.basketnews.lt/news-259055-juskeviciui-ir-jurbarko-klubo-treneriui-nkl-diskvalifikacijos.html#utm_medium=rss&utm_content=news",
@@ -877,6 +1052,40 @@
    ],
    "seasons": [],
    "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9062a538b079",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/nije-dugo-cekao-na-novi-posao-galbijati-kod-luke-bankija/558352",
+   "title": "Nije dugo čekao na novi posao: Galbijati kod Luke Bankija | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Croatia",
+   "published": "",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Iskusni stručnjak trebalo bi da stavi paraf na dvoipogodišnju saradnju sa Manekenima i inkasira 2.000.000 evra."
+   ],
+   "amounts": [
+    "2.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    }
+   ],
    "players": [],
    "nba": false
   },
