@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-08T07:19+00:00",
+ "updated": "2026-11-08T09:02+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 2,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
@@ -22,16 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,17 +31,26 @@
    "skipped_nba": 1
   },
   {
+   "site": "Krepsinis.net",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-08",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -86,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-06",
+   "pages": 2,
+   "oldest": "2026-10-26",
    "stop": "reached articles checked before"
   },
   {
@@ -113,16 +113,16 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 15,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 2,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -149,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -167,10 +167,10 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -185,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,16 +203,17 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,11 +240,11 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
+   "pages": 2,
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
@@ -271,7 +272,8 @@
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -284,24 +286,71 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-03",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   }
  ],
  "items": [
+  {
+   "id": "f68e36371a8e",
+   "url": "https://www.basketnews.lt/news-259037-i-kita-sali-isvykes-nunnas-praleis-rungtynes.html#utm_medium=rss&utm_content=news",
+   "title": "Į kitą šalį išvykusi PAO žvaigždė praleis rungtynes",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Graikijos žiniasklaidoje teigiama, kad Nunnas už atstovavimą Katarui per ateinančius 5-erius metus gaus aštuonženklę sumą – įvairūs šaltiniai mini maždaug 10 mln."
+   ],
+   "amounts": [
+    "10 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "68ec7a3750e9",
    "url": "https://www.basketnews.lt/news-259037-nunnas-praleis-artimiausia-maca.html#utm_medium=rss&utm_content=news",
