@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-08T10:56+00:00",
+ "updated": "2026-11-08T13:08+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -49,8 +49,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-24",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -94,25 +94,25 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-01",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 8,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,17 +157,17 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -175,8 +175,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,11 +193,11 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-27",
+   "oldest": "2026-10-28",
    "stop": "reached start date"
   },
   {
@@ -211,25 +211,25 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-02",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -261,16 +261,16 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-02",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -301,6 +301,153 @@
   }
  ],
  "items": [
+  {
+   "id": "6cd90ea79299",
+   "url": "https://www.basketnews.lt/news-259055-juskeviciui-ir-jurbarko-klubo-treneriui-nkl-diskvalifikacijos.html#utm_medium=rss&utm_content=news",
+   "title": "Juškevičiui ir Jurbarko klubo treneriui – NKL diskvalifikacijos",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "eurus",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bendra Jurbarko ekipai skirtų baudų suma siekia 605 eurus.",
+    "Jurbarko komandos vyriausiajam treneriui Povilui Valaičiui už rungtynių metu skirtą diskvalifikacinę pražangą skirta 115 eurų bauda ir vienerių rungtynių diskvalifikacija.",
+    "Papildoma 290 eurų bauda strategui skirta už po rungtynių vykusioje spaudos konferencijoje viešai išsakytą nepagrįstą kritiką lygos ir teisėjų atžvilgiu."
+   ],
+   "amounts": [
+    "115 eurų",
+    "290 eurų",
+    "200 eurų"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Adas Juškevičius",
+     "sheet": [
+      "23/24 Alytus - Vilnius Wolves: 200,000 €",
+      "21/22 Parma: 290,000 €",
+      "20/21 Parma: 270,000 €",
+      "17/18 Lietkabelis Panevėžys: 110,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "d078a78cced7",
+   "url": "https://www.krepsinis.net/naujiena/a-juskeviciaus-pykcio-protrukis-pries-arbitre-issauke-diskvalifikacija/354232",
+   "title": "A.Juškevičiaus pykčio protrūkis prieš arbitrę iššaukė diskvalifikaciją | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "eurus",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bendra Jurbarko ekipai skirtų baudų suma siekia 605 eurus.",
+    "Jurbarko komandos vyriausiajam treneriui P.Valaičiui už rungtynių metu skirtą diskvalifikacinę pražangą skirta 115 eurų bauda ir vienerių rungtynių diskvalifikacija.",
+    "Papildoma 290 eurų bauda strategui skirta už po rungtynių vykusioje spaudos konferencijoje viešai išsakytą nepagrįstą kritiką lygos ir teisėjų atžvilgiu."
+   ],
+   "amounts": [
+    "115 eurų",
+    "290 eurų",
+    "200 eurų"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Adas Juškevičius",
+     "sheet": [
+      "23/24 Alytus - Vilnius Wolves: 200,000 €",
+      "21/22 Parma: 290,000 €",
+      "20/21 Parma: 270,000 €",
+      "17/18 Lietkabelis Panevėžys: 110,000 €"
+     ]
+    },
+    {
+     "name": "Julius Kazakauskas",
+     "sheet": [
+      "21/22 ALM Evreux Basket: 40,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "f5dd0f055c74",
+   "url": "https://basketballsphere.com/en/milano-luca-banchi-head-coach/",
+   "title": "Milano officially appoints Luca Banchi as new head coach",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "The estimated value of Banchi’s contract is around €2 million over the entire duration of the contract."
+   ],
+   "amounts": [
+    "€2 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "ec5e852b5039",
    "url": "https://sportando.basketball/banchi-il-doppio-incarico-fa-risparmiare-alla-fip-stipendio-ridotto-rispetto-ai-600mila-euro-annui/",
