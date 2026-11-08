@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:51+00:00",
+ "updated": "2026-11-08T22:50+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,7 +13,16 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -21,18 +30,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
    "site": "Krepsinis.net",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,11 +49,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 14,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-24",
+   "oldest": "2026-10-25",
    "stop": "reached start date"
   },
   {
@@ -68,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-08",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -104,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,8 +130,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 21,
-   "found": 2,
+   "checked": 27,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -140,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,19 +157,19 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 10,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -185,16 +184,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,21 +202,21 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
@@ -226,12 +225,11 @@
    "error": "",
    "pages": 3,
    "oldest": "2026-11-02",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -258,25 +256,25 @@
   },
   {
    "site": "Dnevnik.si",
+   "checked": 4,
+   "found": 2,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-02",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-02",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -294,7 +292,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -303,6 +301,65 @@
   }
  ],
  "items": [
+  {
+   "id": "e5175098747f",
+   "url": "https://www.dnevnik.si/novice/svet/imate-android-tv-google-odkril-nevarnost-ki-se-je-skrivala-v-1-3-milijona-napravah-2839022/",
+   "title": "Imate Android TV? Google odkril nevarnost, ki se je skrivala v 1,3 milijona napravah",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Google je odkril botnet oziroma mrežo okuženih naprav, ki je zajela več kot 1,3 milijona naprav Android TV v več kot 200 državah."
+   ],
+   "amounts": [
+    "1,3 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7c96cd7b651b",
+   "url": "https://www.dnevnik.si/novice/slovenija/podelili-zoisove-in-puhove-nagrade-majhna-drzava-lahko-dosega-vrhunske-znanstvene-rezultate-2839018/",
+   "title": "Podelili Zoisove in Puhove nagrade: majhna država lahko dosega vrhunske znanstvene rezultate",
+   "site": "Dnevnik.si",
+   "country": "Poland",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [
+    "Dobitniki Zoisovih in Puhovih nagrad ter priznanja ambasador znanosti so prejeli po 30.000 evrov, dobitniki Zoisovih in Puhovih priznanj pa po 10.000 evrov."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Gornik Walbrzych",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,866,951 €, salary budget 1,120,171 €",
+      "24/25: budget 1,200,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "8d988f651566",
    "url": "https://www.athletiko.gr/to-bernabeu-egine-gia-mia-vradia-amerikaniko-114517",
