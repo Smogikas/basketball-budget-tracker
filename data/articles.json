@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T14:52+00:00",
+ "updated": "2026-11-08T16:52+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
    "checked": 7,
-   "found": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -13,15 +13,6 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -30,26 +21,36 @@
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 6,
+   "site": "BasketNews.com",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-08",
    "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -112,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 23,
+   "checked": 26,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 12,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 10,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,26 +158,26 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
+   "pages": 2,
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 7,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -184,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,8 +212,8 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -220,26 +221,25 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 1,
    "oldest": "2026-11-02",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -266,7 +266,7 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -275,10 +275,10 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "",
    "stop": "reached articles checked before"
   },
@@ -293,15 +293,75 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   }
  ],
  "items": [
+  {
+   "id": "86a422871267",
+   "url": "https://sportando.basketball/parente-fondamentale-recuperare-il-nostro-ritmo-di-gioco/",
+   "title": "Parente: \"Fondamentale recuperare il nostro ritmo di gioco\" - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Per la seguente partita è attiva la Promo Unibo per gli studenti e studentesse dell’Università di Bologna che potranno usufruire di una promozione speciale che prevede il costo del biglietto a 10 euro."
+   ],
+   "amounts": [
+    "10 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (2), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a9d30df33ac2",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2584774/aek-dose-moy-dynami-kai-stirixi-n-antexo",
+   "title": "Δώσε της δύναμη (και στήριξη) ν' αντέξει",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Η ΑΕΚ έκανε κατάθεση ψυχής κόντρα στον Παναθηναϊκό που έχει το μεγαλύτερο μπάτζετ στην Ευρώπη."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "ba1d361225d7",
    "url": "https://sportando.basketball/serie-a2-old-wild-west-la-preview-dell8-giornata/",
