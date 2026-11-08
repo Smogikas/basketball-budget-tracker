@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:59+00:00",
+ "updated": "2026-11-08T20:51+00:00",
  "warnings": [],
  "run": [
   {
@@ -7,13 +7,13 @@
    "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,16 +22,17 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 10,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-10-26",
+   "pages": 1,
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
@@ -112,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,18 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 46,
-   "found": 0,
+   "checked": 21,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,7 +158,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 16,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -167,16 +167,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,25 +185,25 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-28",
+   "oldest": "2026-10-29",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,7 +212,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,30 +221,31 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 9,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-02",
-   "stop": "reached start date"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -266,16 +267,16 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -284,25 +285,83 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-04",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "SportoweFakty",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
+   "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "8d988f651566",
+   "url": "https://www.athletiko.gr/to-bernabeu-egine-gia-mia-vradia-amerikaniko-114517",
+   "title": "Tο Bernabeu έγινε για μια βραδιά… αμερικάνικο | Athletiko",
+   "site": "Athletiko",
+   "country": "Spain",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι"
+   ],
+   "snippets": [
+    "Το Bernabeu που ανακατασκευάστηκε πρόσφατα και η διαδικασία αυτή κόστισε 2 δισεκατομμύρια δολάρια, χρειάστηκε για μια μέρα να αλλάξει πάλι."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 55,000,000 €, salary budget 45,000,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "29888e50d9d7",
+   "url": "https://www.athletiko.gr/kapote-sto-nba-epaizan-me-kolara-maskes-kai-prostateytika-pleon-i-injury-list-gemizei-me-adiathetoys-114492",
+   "title": "Κάποτε στο NBA έπαιζαν με κολάρα, μάσκες και προστατευτικά - Πλέον η injury list γεμίζει με… αδιάθετους | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Διότι, οι φίλαθλοι χρειάζεται να δαπανήσουν εκατοντάδες δολάρια για να δουν από κοντά τον αγαπημένο τους παίκτη, ο οποίος τελευταία στιγμή μπορεί να επικαλεστεί λόγους υγείας που στο παρελθόν θα ακούγονταν αστείοι ως δικαιολογία για να μην αγωνιστεί κάποιος.",
+    "Συνδέεται άμεσα με συμβόλαια εκατοντάδων εκατομμυρίων δολαρίων, επενδύσεις, εμπορικές συμφωνίες και τον μακροπρόθεσμο σχεδιασμό ενός οργανισμού."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "86a422871267",
    "url": "https://sportando.basketball/parente-fondamentale-recuperare-il-nostro-ritmo-di-gioco/",
