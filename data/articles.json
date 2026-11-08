@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-08T09:02+00:00",
+ "updated": "2026-11-08T10:56+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 9,
-   "found": 0,
+   "checked": 10,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -23,35 +23,34 @@
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-08",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-24",
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,7 +85,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -104,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-06",
+   "pages": 2,
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,16 +130,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 14,
+   "checked": 20,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -168,7 +167,7 @@
   {
    "site": "Telesport",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-07",
@@ -176,12 +175,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -189,7 +188,7 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
@@ -203,45 +202,44 @@
   },
   {
    "site": "Marca",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-03",
+   "oldest": "2020-12-18",
    "stop": "no older pages"
   },
   {
-   "site": "Sportacentrs",
+   "site": "Mundo Deportivo",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-02",
+   "oldest": "2026-11-03",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Sportacentrs",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-02",
+   "stop": "reached start date"
+  },
+  {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 10,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -272,8 +270,7 @@
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -286,25 +283,335 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-03",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   }
  ],
  "items": [
+  {
+   "id": "ec5e852b5039",
+   "url": "https://sportando.basketball/banchi-il-doppio-incarico-fa-risparmiare-alla-fip-stipendio-ridotto-rispetto-ai-600mila-euro-annui/",
+   "title": "Banchi, il doppio incarico fa risparmiare alla FIP: stipendio ridotto rispetto ai 600mila euro annui - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "stipendi",
+    "stipendio"
+   ],
+   "snippets": [
+    "L’intesa raggiunta, come riporta Matteo De Santis sulla Stampa , con la Federbasket prevede però una rimodulazione del suo contratto, che passerà da full time a part time, consentendo alla FIP di risparmiare sullo stipendio attuale, pari a circa 600mila euro lordi all’anno."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "13477b042880",
+   "url": "https://www.basketnews.lt/news-259049-milano-ekipos-vaira-oficialiai-pereme-banchi.html#utm_medium=rss&utm_content=news",
+   "title": "Milano ekipos vairą oficialiai perėmė Banchi",
+   "site": "BasketNews.lt",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "sutarties verte"
+   ],
+   "snippets": [
+    "61-erių italo sutarties vertė už visą laikotarpį klube siekia apie 2 mln."
+   ],
+   "amounts": [
+    "2 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "876c19ad46df",
+   "url": "https://basketnews.com/news-259048-olimpia-milan-officially-announce-new-head-coach.html#utm_medium=rss&utm_content=news",
+   "title": "Olimpia Milan officially announce new head coach",
+   "site": "BasketNews.com",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Banchi's contract is reportedly valued at around €2 million for the entire duration of his deal with the Milanese powerhouse."
+   ],
+   "amounts": [
+    "€2 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4dfba36a4d92",
+   "url": "https://www.krepsinis.net/naujiena/oficialiai-milano-kluba-peremusiam-l-banchi-mazes-atlyginimas-rinktineje/354247",
+   "title": "Oficialiai Milano klubą perėmusiam L.Banchi mažės atlyginimas rinktinėje | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "alga",
+    "atlyginim",
+    "sum of money"
+   ],
+   "snippets": [
+    "Tai reiškia, kad mažės jo atlyginimas rinktinėje, praneša „La Stampa“.",
+    "Šiuo metu jo alga per metus siekia 600 tūkst.",
+    "Neaišku, kiek mažesnę sumą jis uždirbs dabar, tačiau jo kontrakte yra nurodyta sąlyga, jog alga bus perskaičiuojama, susiradus darbą klube, nes taip jo darbas iš pilno etato taps tik daliniu."
+   ],
+   "amounts": [
+    "600 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "eb5ff4d3cca4",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/luca-banchi-allolimpia-che-risparmio-per-la-fip-si-riduce-lingaggio-da-600mila-euro",
+   "title": "Luca Banchi all'Olimpia, che risparmio per la FIP: si riduce l'ingaggio da 600mila euro",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "ingaggio",
+    "stipendi",
+    "stipendio"
+   ],
+   "snippets": [
+    "Luca Banchi all’Olimpia Milano: stipendio FIP ridotto per il doppio incarico, accordo fino al 2028 e impegno con Italbasket nelle qualificazioni ai Mondiali 2027."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "e7ac05fc5704",
+   "url": "https://telesport.rs/2026/11/08/partizan-zasluzuje-da-igra-plej-of-godinama-se-pokazuje-da-budzet-na-papiru-ne-igra-utakmice/",
+   "title": "„Partizan zaslužuje da igra plej-of; godinama se pokazuje da budžet na papiru ne igra utakmice“ - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Vladimir Micov smatra da Partizan može do plej-ofa Evrolige i ističe da budžet ne odlučuje utakmice, što se pokazalo prethodnih godina.",
+    "Micov je svestan da Partizan u Evroligi ima rivale koji raspolažu znatno većim budžetima.",
+    "Godinama se pokazuje da budžet na papiru ne igra utakmice, nego igrači.“"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vladimir Micov",
+     "sheet": [
+      "16/17 Galatasaray S.K.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4b338d94c6f0",
+   "url": "https://basketballsphere.com/en/besiktas-roster-defense-dusan-alimpijevic-euroleague/",
+   "title": "Besiktas' roster construction is failing Dusan Alimpijevic in EuroLeague",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-08",
+   "found": "2026-11-08",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Besiktas entered the 2026/27 EuroLeague season with lofty ambitions, aiming for a Play-In spot."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "f68e36371a8e",
    "url": "https://www.basketnews.lt/news-259037-i-kita-sali-isvykes-nunnas-praleis-rungtynes.html#utm_medium=rss&utm_content=news",
@@ -425,6 +732,72 @@
    "teams": [],
    "players": [],
    "nba": false
+  },
+  {
+   "id": "5d6782436317",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/intervju-vladimir-micov-plejof-realan-domet-postoji-bojazan-zbog-finansiranja-ne-znamo-sta-nas-ceka/558347",
+   "title": "INTERVJU - Vladimir Micov: Plej-of realan domet; postoji bojazan zbog finansiranja, ne znamo šta nas čeka | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Montenegro",
+   "published": "",
+   "found": "2026-11-08",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "evra",
+    "milion",
+    "sum of money",
+    "zarada"
+   ],
+   "snippets": [
+    "Ali ograničeni ste budžetom, a postoje i pravila o tome koliko igrača u određenom trenutku možete da registrujete.",
+    "Da li je slučaj Džabarija Parkera opteretio Partizan ili je budžet manji nego prošle godine?",
+    "Godinama se pokazuje da budžet na papiru ne igra utakmice, nego igrači."
+   ],
+   "amounts": [
+    "12,5 miliona",
+    "50 miliona",
+    "50.000.000 evra",
+    "70.000.000 evra",
+    "70 miliona",
+    "100.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 18/19 (10)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vladimir Micov",
+     "sheet": [
+      "16/17 Galatasaray S.K.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": true
   },
   {
    "id": "5460b073b1ce",
