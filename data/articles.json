@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:24+00:00",
+ "updated": "2026-11-08T03:03+00:00",
  "warnings": [],
  "run": [
   {
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -103,10 +103,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -130,16 +130,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,12 +175,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
@@ -274,10 +274,10 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "",
    "stop": "reached articles checked before"
   },
