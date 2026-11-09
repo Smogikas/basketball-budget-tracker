@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-09T11:12+00:00",
+ "updated": "2026-11-09T13:30+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "no older pages"
-  },
-  {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,8 +50,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-25",
@@ -68,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-09",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -104,10 +104,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -122,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 19,
+   "checked": 28,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 2,
+   "checked": 12,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,17 +185,18 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-29",
@@ -203,25 +204,25 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached start date"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -230,7 +231,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,7 +240,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -258,7 +259,7 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
@@ -266,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -293,7 +294,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -302,6 +303,160 @@
   }
  ],
  "items": [
+  {
+   "id": "bd8a68bcc628",
+   "url": "https://www.basketnews.lt/news-259126-ispanijos-ziniasklaida-43-eju-huertasas-keliasi-i-eurolyga.html#utm_medium=rss&utm_content=news",
+   "title": "Ispanijos žiniasklaida: 43-ejų Huertasas keliasi į Eurolygą",
+   "site": "BasketNews.lt",
+   "country": "United Arab Emirates",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Jungtinių Arabų Emyratų (JAE) komanda šiuo metu su 7 pergalėmis per 10 turų dalijasi 2-7 Eurolygos turnyro lentelės vietomis ."
+   ],
+   "amounts": [
+    "7 Eurolygos"
+   ],
+   "seasons": [
+    "18/19"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "22982ecb66f9",
+   "url": "https://www.krepsinis.net/naujiena/jae-investuotojai-nori-isigyti-virtus-kluba/354288",
+   "title": "JAE investuotojai nori įsigyti „Virtus“ klubą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Italy",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Buvo skelbiama, kad per 5 metus reikės susimokėti 50 mln."
+   ],
+   "amounts": [
+    "50 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c0b89b576b6d",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2032630/lamar-ontom-se-8-meres-kerdise-50-000-apo-to-onlyfans/",
+   "title": "Λαμάρ Όντομ: Σε 8 μέρες κέρδισε 50.000$ από το OnlyFans!",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι"
+   ],
+   "snippets": [
+    "Η νέα σταδιοδρομία του Λαμάρ Όντομ στην πλατφόρμα του OnlyFans του έχει ήδη αποφέρει κέρδη 50.000 δολαρίων σε διάστημα 8 ημερών!",
+    "Σύμφωνα με το τηλεοπτικό δίκτυο TMZ , ο δις πρωταθλητής του ΝΒΑ με τους Λος Άντζελες Λέικερς , κάτοχος του χρυσού μεταλλίου στο Παγκόσμιο Κύπελλο της Τουρκίας το 2010 και ο πρώτος ΝΒΑερ (νυν ή πρώην) που άνοιξε τη δική του σελίδα στο OnlyFans, χρεώνει μηνιαία συνδρομή 15 δολαρίων, προκειμένου να …",
+    "Σύμφωνα με το δημοσίευμα είναι θέμα χρόνου, ώστε να φτάσει σε κέρδη 200.000 δολαρίων."
+   ],
+   "amounts": [
+    "50.000$"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "e882cad0a834",
+   "url": "https://www.eurohoops.net/tr/nba-news-tr/2032612/milwaukee-serbest-birakti-4-nba-takimi-istiyor/",
+   "title": "Milwaukee Serbest Bıraktı; 4 NBA Takımı İstiyor",
+   "site": "Eurohoops TR",
+   "country": "Serbia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "maas"
+   ],
+   "snippets": [
+    "Sacramento Kings : Pazar günü Nique Clifford’ı takas ederek lüks vergisi sınırında maaş boşluğu yaratan Sacramento, çaylak yıldızı Darius Acuff Jr.’ı yedekleyecek tecrübeli bir oyun kurucu arıyor."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "OKK Novi Pazar",
+     "country": "Serbia",
+     "sheet": [
+      "24/25: budget 221,766 €",
+      "23/24: budget 149,795 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "75b743ba77e8",
    "url": "https://www.gazzetta.gr/basketball/euroleague/2585025/birtoys-mpolonia-endiaferon-apo-ependytiko-omilo-ton-iae",
