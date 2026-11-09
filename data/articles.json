@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T17:22+00:00",
+ "updated": "2026-11-09T19:12+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -18,21 +18,23 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -40,16 +42,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,12 +69,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -85,8 +87,8 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -103,7 +105,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -116,13 +118,13 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -130,8 +132,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 25,
-   "found": 2,
+   "checked": 14,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -139,8 +141,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
-   "found": 2,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -148,7 +150,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,17 +159,17 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 0,
+   "checked": 7,
+   "found": 2,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -175,7 +177,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -184,7 +186,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,7 +204,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -211,36 +213,35 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-05",
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-03",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 2,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -257,16 +258,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -275,33 +276,441 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "c1efcf15cf57",
+   "url": "https://sportando.basketball/chris-silva-verso-il-partizan-trattativa-in-corso-con-il-fenerbahce/",
+   "title": "Chris Silva verso il Partizan: trattativa in corso con il Fenerbahce - Sportando",
+   "site": "Sportando",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "Il costo dell’operazione sarebbe di circa 100.000 dollari al mese ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chris Silva",
+     "sheet": [
+      "25/26 AEK B.C.: 354,000 €",
+      "25/26 Fenerbahce Istanbul: 235,703 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "05a52b3d5df2",
+   "url": "https://www.eurohoops.net/en/euroleague/2032734/maxima-roma-reportedly-set-for-permanent-euroleague-spot-partizan-zvezda-virtus-and-napoli-in-line-for-licenses-through-2030/",
+   "title": "Valencia, Paris, Dubai, Maxima Roma, Hapoel Tel Aviv, and PAOK to become new EuroLeague franchises",
+   "site": "Eurohoops EN",
+   "country": "United Arab Emirates",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "According to Gazzetta dello Sport, six new franchises will be added to the 13 EuroLeague shareholders plus four more teams will get a three-year license"
+   ],
+   "amounts": [
+    "13 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 27,500,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "70cb6a616368",
+   "url": "https://www.sdna.gr/mpasket/1485125_i-zalgkiris-ananeose-me-ton-roympstabitsioys-kai-ton-stelnei-daneiko-stin-tofas",
+   "title": "Η Ζαλγκίρις ανανέωσε με τον Ρουμπσταβίτσιους και τον στέλνει δανεικό στην Τόφας",
+   "site": "SDNA",
+   "country": "USA",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ο 24χρονος γκαρντ ύψους 198 εκατοστών έχει ήδη ενταχθεί στην Τόφας Μπούρσα, μια ομάδα που αγωνίζεται τόσο στην Τουρκική Σούπερ Λίγκα Μπάσκετ όσο και στο BKT EuroCup."
+   ],
+   "amounts": [
+    "198 εκατοστών"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "NCAA Auburn Tigers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6c753dc83e78",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2585177/silba-afinei-ti-fenermpahtse-kai-odigeitai-stin-partizan",
+   "title": "«Ο Κρις Σίλβα αφήνει τη Φενέρμπαχτσε και οδηγείται στην Παρτίζαν»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι"
+   ],
+   "snippets": [
+    "Όπως αναφέρει το Basketball Sphere, το ποσό που θα χρειαστεί να καταβάλει η Παρτίζαν για την απόκτησή του ανέρχεται στις 100.000 δολάρια τον μήνα, με τις διαπραγματεύσεις να βρίσκονται σε εξέλιξη."
+   ],
+   "amounts": [],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7bb34ff70749",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2585169/paok-brisketai-sta-6-prota-franchise-tis-euroleague",
+   "title": "«Ο ΠΑΟΚ στα 6 πρώτα franchise της EuroLeague»",
+   "site": "Gazzetta.gr",
+   "country": "United Arab Emirates",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Για την είσοδο των νέων franchises προβλέπεται οικονομικό αντίτιμο που θα κυμαίνεται μεταξύ 50 και 90 εκατομμυρίων ευρώ, με τα συνολικά έσοδα να υπολογίζεται ότι θα φτάσουν τα 400 εκατομμύρια ευρώ για τους υφιστάμενους μετόχους."
+   ],
+   "amounts": [
+    "90 εκατομμυρίων",
+    "400 εκατομμύρια"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "73467fd7cfb8",
+   "url": "https://telesport.rs/2026/11/09/partizan-65/",
+   "title": "Partizan i Zvezda sa specijalnim statusom u Evroligi? - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Ovakva odluka bila bi posebno značajna za srpske klubove, koji bi dobili mogućnost da planiraju budžete, sastave i sportske projekte bez neizvesnosti oko godišnjeg učešća u Evroligi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f5b936965361",
+   "url": "https://www.marca.com/baloncesto/euroliga/2026/11/09/euroliga-blinda-consolidacion-europa-seis-franquicias-nuevas.html",
+   "title": "La Euroliga blinda su consolidación en Europa con seis franquicias nuevas",
+   "site": "Marca",
+   "country": "Italy",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Abonarán cuotas de acceso de entre 50 y 90 millones",
+    "El modelo elegido también representa un cambio estructural: las nuevas entidades accederán al estatus de franquicia mediante cuotas de entrada que oscilarán entre los 50 y los 90 millones de euros , integrándose en un proyecto que aspira a dotar de estabilidad y continuidad a sus participantes.",
+    "El Nápoles , volcado en su nuevo pabellón de 250 millones prefiere esperar dos o tres años, y la Virtus Bolonia , con el cambio de propietario, necesita primero estabilizar su situación financiera."
+   ],
+   "amounts": [
+    "90 millones",
+    "250 millones"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d079745ba40f",
+   "url": "https://www.mundodeportivo.com/baloncesto/basket-feb/20261109/1004249161/iyana-juntas-dos-cosas-importantes-mi-seleccion-mi-casa.html",
+   "title": "Iyana: \"Se juntas dos cosas muy importantes para mí: la Selección y mi casa\"",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "presupuest",
+    "sum of money"
+   ],
+   "snippets": [
+    "El Madrid tendría un presupuesto récord de 62,7 millones, el segundo más alto de Euroliga"
+   ],
+   "amounts": [
+    "62,7 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0977f8a5d96e",
+   "url": "https://basketballsphere.com/en/partizan-crvena-zvezda-euroleague-franchise/",
+   "title": "Partizan and Crvena Zvezda miss out, six new EuroLeague franchises revealed",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Partizan and Crvena Zvezda made it to the final round alongside 11 other teams, but they will have to wait for their next opportunity, as six other teams were selected to join the current 13 EuroLeague shareholders as permanent participants."
+   ],
+   "amounts": [
+    "13 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "88982fe1a060",
    "url": "https://www.krepsinis.net/naujiena/s-jasikeviciui-nereikalingas-centras-pakeliui-i-kita-eurolygos-ekipa/354297",
@@ -1784,6 +2193,49 @@
    ],
    "players": [],
    "nba": false
+  },
+  {
+   "id": "f9fa360215c7",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/veciti-ostali-bez-fransiza-specijalne-pozivnice-za-partizan-mozzart-bet-i-zvezdu/558503",
+   "title": "Večiti ostali bez franšiza! Specijalne pozivnice za Partizan Mozzart Bet i Zvezdu | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "plate",
+    "sum of money"
+   ],
+   "snippets": [
+    "Novi klubovi sa statusom franšize imaće ista prava kao dosadašnji vlasnici Evrolige, ali će za ulazak morati da plate između 50.000.000 i 90.000.000 evra.",
+    "Od tih uplata 13 trenutnih klubova vlasnika inkasiraće Evroliga ukupno 400.000.000 evra.",
+    "To znači da bi pomenutih 13 klubova dobili po 30.000.000 evra..."
+   ],
+   "amounts": [
+    "90.000.000 evra",
+    "400.000.000 evra",
+    "30.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
   },
   {
    "id": "9211d3fdf692",
