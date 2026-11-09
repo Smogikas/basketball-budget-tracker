@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:02+00:00",
+ "updated": "2026-11-09T05:22+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,16 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -30,22 +21,32 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
@@ -121,10 +122,10 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -148,12 +149,12 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-09",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
@@ -175,12 +176,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -211,12 +212,13 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
@@ -229,12 +231,12 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -265,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,6 +303,52 @@
   }
  ],
  "items": [
+  {
+   "id": "56dd5f5fab13",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/vienas-rodiklis-pagal-kuri-kauno-zalgiris-pirmas-visoje-eurolygoje-875-2801080?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Vienas rodiklis, pagal kurį Kauno „Žalgiris“ – pirmas visoje Eurolygoje",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "biudzet",
+    "sum of money"
+   ],
+   "snippets": [
+    "Nuo tada klubui nebereikia kasmet išsikovoti vietos, o ilgalaikis biudžetas leidžia planuoti sudėtį neatsižvelgiant į vietinę rinką.",
+    "Galima ginčytis, kiek tame pasirinkime yra strategijos, o kiek – ekonomikos: klubai, kurių biudžetai didžiausi, legionierių rinkoje gali nusipirkti tiesiog daugiau.",
+    "Paėmėme visų 20 Eurolygos komandų šio sezono oficialią statistiką iš euroleaguebasketball.net po dešimties turų: 292 žaidėjus ir 40 200 sužaistų minučių."
+   ],
+   "amounts": [
+    "20 Eurolygos"
+   ],
+   "seasons": [
+    "00/01",
+    "03/04",
+    "17/18",
+    "11/12",
+    "05/06"
+   ],
+   "teams": [
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "e5175098747f",
    "url": "https://www.dnevnik.si/novice/svet/imate-android-tv-google-odkril-nevarnost-ki-se-je-skrivala-v-1-3-milijona-napravah-2839022/",
