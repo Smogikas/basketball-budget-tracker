@@ -1,19 +1,20 @@
 {
- "updated": "2026-11-09T07:43+00:00",
+ "updated": "2026-11-09T09:27+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -23,7 +24,7 @@
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -31,7 +32,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-09",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -85,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-10-26",
+   "pages": 1,
+   "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
@@ -103,26 +104,26 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -130,8 +131,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 22,
-   "found": 0,
+   "checked": 18,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -139,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 4,
-   "found": 0,
+   "checked": 7,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -148,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -160,23 +161,23 @@
    "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -185,10 +186,10 @@
   {
    "site": "Meridian Sport",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
@@ -202,36 +203,34 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached start date"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 6,
+   "checked": 9,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-02",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "pages": 2,
+   "oldest": "2026-11-03",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,16 +239,16 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -258,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -285,7 +284,7 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -302,5 +301,552 @@
    "stop": "no older pages"
   }
  ],
- "items": []
+ "items": [
+  {
+   "id": "531e2cde2ee3",
+   "url": "https://www.basketnews.lt/news-259110-paaiskejo-rekordinio-real-biudzeto-dydis.html#utm_medium=rss&utm_content=news",
+   "title": "Paaiškėjo rekordinio „Real“ biudžeto dydis",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "atlyginim",
+    "biudzet",
+    "euru",
+    "sum of money",
+    "uzdirb"
+   ],
+   "snippets": [
+    "sezono krepšinio biudžetas pasieks rekordinę sumą – Ispanijos klubas planuoja sukaupti 67,2 mln.",
+    "sezono krepšinio biudžetas pasieks rekordinę sumą – Ispanijos klubas planuoja sukaupti 67,2 mln.",
+    "Kaip skelbia „2Playbook“, rekordinį biudžetą numatoma patvirtinti nepaisant to, kad praėjusį sezoną „Real“ krepšinio skyrius patyrė 33,2 mln."
+   ],
+   "amounts": [
+    "67,2 mln",
+    "33,2 mln",
+    "52,7 mln",
+    "44,4 mln",
+    "48,6 mln",
+    "10 mln",
+    "707,1 mln",
+    "27,4 mln"
+   ],
+   "seasons": [
+    "26/27",
+    "24/25"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "372b50744cd2",
+   "url": "https://basketnews.com/news-259114-partizan-executive-questions-euroleague-license-criteria-growing-financial-competition.html#utm_medium=rss&utm_content=news",
+   "title": "Partizan exec questions EuroLeague license criteria amid growing financial competition",
+   "site": "BasketNews.com",
+   "country": "Serbia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"Why would that person from Israel invest €70 million?",
+    "With some reports suggesting that clubs like PAOK could be willing to pay more than €100 million for a EuroLeague franchise, Micov questioned whether financial strength should be the main factor in awarding long-term licenses."
+   ],
+   "amounts": [
+    "€70 million",
+    "€100 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fdf46ef4b8c9",
+   "url": "https://basketnews.com/news-256534-euroleague-teams-budgets-2026-27-payrolls.html#utm_medium=rss&utm_content=news",
+   "title": "EuroLeague budgets 2026-27: Team payrolls and total budgets",
+   "site": "BasketNews.com",
+   "country": "Germany",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "million",
+    "payroll",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Budgets last updated: November 9, 2026.",
+    "That's why BasketNews has created the EuroLeague Budget Tracker.",
+    "Here is the first wave of budget and payroll figures for the 2026-27 season."
+   ],
+   "amounts": [
+    "27 EuroLeague",
+    "2026. EuroLeague",
+    "€19.7 million",
+    "€12 million",
+    "€48 million",
+    "€9.5 million",
+    "€8.2 million"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "af40ead208df",
+   "url": "https://basketnews.com/news-259107-real-madrid-record-budget-2026-27-season-revealed.html#utm_medium=rss&utm_content=news",
+   "title": "Real Madrid's record budget for 2026-27 season revealed",
+   "site": "BasketNews.com",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "million",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Real Madrid's basketball budget for the 2026-27 season has been revealed, with the Spanish powerhouse set to increase its spending to a record level.",
+    "Real Madrid 's basketball budget for the 2026-27 season has been revealed, with the Spanish powerhouse set to increase its spending to a record level.",
+    "According to 2Playbook , Real Madrid's basketball department is expected to operate with a record €67.2 million budget for the 2026-27 season."
+   ],
+   "amounts": [
+    "€67.2 million",
+    "€33.2 million",
+    "€52.7 million",
+    "€44.4 million",
+    "€48.6 million",
+    "€10 million",
+    "€707.1 million",
+    "€1.405"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 55,000,000 €, salary budget 45,000,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "75e602c72451",
+   "url": "https://www.eurohoops.net/en/euroleague/2032594/record-budget-revealed-for-real-madrid-in-the-2026-2027-season/",
+   "title": "Record budget revealed for Real Madrid in the 2026–2027 season",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Despite significant losses, Real Madrid's basketball section will have the largest budget in its history",
+    "Real Madrid ‘s basketball budget for the 2026-27 season has been disclosed, with the EuroLeague finalist poised to escalate their expenditure to an unprecedented level.",
+    "As reported by 2Playbook , Real Madrid ‘s basketball section will have a record-setting budget of €67.2 million for the 2026-27 season."
+   ],
+   "amounts": [
+    "€67.2 million",
+    "€33.2 million",
+    "€52.7 million",
+    "€44.4 million",
+    "€48.6 million",
+    "€10 million"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 55,000,000 €, salary budget 45,000,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f80ec2b868f8",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2032597/33-milyon-zarar-geri-adim-yok-real-madridin-dev-butcesi/",
+   "title": "33 Milyon Zarar, Geri Adım Yok: Real Madrid’in Dev Bütçesi!",
+   "site": "Eurohoops TR",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "euro",
+    "maas",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Real Madrid, rekor zarara uğramasına rağmen bütçeyi yükseltti.",
+    "Florentino Pérez başkanlığındaki efsanevi kulüp, basketbol şubesinin bütçesini 2026-2027 sezonu için 67,2 milyon euroya yükselterek bu alanda tarihi bir yatırıma imza atıyor.",
+    "Futbol şubesinden gelen dev gelirlerin finanse ettiği basketbol harcamalarının aslan payı oyuncu maaşlarına gidiyor."
+   ],
+   "amounts": [
+    "33 Milyon",
+    "33,2 milyon",
+    "67,2 milyon",
+    "48,6 milyon",
+    "52,7 milyon",
+    "27,4 milyon",
+    "17,5 milyon",
+    "7 milyon"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 55,000,000 €, salary budget 45,000,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "2216aee806d8",
+   "url": "https://www.athletiko.gr/prokalei-zali-to-mpatzet-tis-real-poso-rekor-sta-chronika-toy-syllogoy-114611",
+   "title": "Προκαλεί... ζάλη το μπάτζετ της Ρεάλ: Ποσό-ρεκόρ στα χρονικά του συλλόγου | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω",
+    "μισθ",
+    "μπατζετ",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Το μπάτζετ της Ρεάλ Μαδρίτης για τη φετινή σεζόν έγινε γνωστό, με τους Μαδριλένους να έχουν «εκτοξεύσει» τα ποσά.",
+    "έκρηξη στο μπάτζετ της ομάδας.",
+    "Αυτό γιατί όπως αναφέρει η ιστοσελίδα 2Playbook, από την Ισπανία, οι Μαδριλένοι έχουν ποσό-ρεκόρ για το μπάτζετ τους τη φετινή σεζόν, που φτάνει στα 67,2 εκατ."
+   ],
+   "amounts": [
+    "67,2 εκατ",
+    "33,2 εκατομμυρίων",
+    "52,7 εκατομμύρια",
+    "44,4 εκατομμύρια",
+    "48,6 εκατομμύρια",
+    "10 εκατομμύρια",
+    "707,1 εκατομμυρίων"
+   ],
+   "seasons": [
+    "25/26",
+    "24/25",
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "efeb2427b35d",
+   "url": "https://www.sdna.gr/mpasket/1484979_dimosieytikan-ta-mpatzet-ton-omadon-tis-euroleague-protos-o-panathinaikos",
+   "title": "Δημοσιεύτηκαν τα μπάτζετ των ομάδων της EuroLeague - Πρώτος ο Παναθηναϊκός",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budget",
+    "μισθ",
+    "μπατζετ",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Σύμφωνα με το budget tracker του BasketNews, ο Παναθηναϊκός έχει την μεγαλύτερη καθαρή μισθοδοσία στην φετινή EuroLeague.",
+    "Για να καλύψει αυτό το κενό, το BasketNews δημιούργησε το EuroLeague Budget Tracker.",
+    "Σύμφωνα με την σχετική αναφορά, ο Παναθηναϊκός, η Χάποελ, η Ρεάλ Μαδρίτης και ο Ολυμπιακός έχουν τους τέσσερις πιο υψηλούς προϋπολογισμούς στην φετινή διοργάνωση."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2b8d2c6b0086",
+   "url": "https://www.sdna.gr/mpasket/1484971_arabiko-endiaferon-gia-tin-birtoys-mpolonia",
+   "title": "«Αραβικό ενδιαφέρον για την Βίρτους Μπολόνια»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το κόστος της άδειας υπολογίζεται, σύμφωνα με την ίδια πηγή, στα 50 εκατομμύρια ευρώ σε βάθος πενταετίας."
+   ],
+   "amounts": [
+    "50 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c83e12fcf35b",
+   "url": "https://www.sport24.gr/basket/lamar-ontom-spaei-ta-tameia-o-proin-asteras-tou-nba-sto-onlyfans-posa-lefta-evgale-stis-protes-okto-meres/",
+   "title": "Λαμάρ Όντομ: Σπάει τα ταμεία ο πρώην αστέρας του NBA στο OnlyFans, πόσα λεφτά έβγαλε στις πρώτες οκτώ μέρες",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "μισθ"
+   ],
+   "snippets": [
+    "Σύμφωνα με το Forbes, ο Όντομ εισέπραξε συνολικά 110 εκατομμύρια δολάρια από τους μισθούς του κατά τη διάρκεια της καριέρας του στο NBA.",
+    "Ο Λαμάρ Όντομ δηλώνει ικανοποιημένος με την ανταπόκριση που έχει ο λογαριασμός του στο OnlyFans, καθώς μέσα στις πρώτες οκτώ ημέρες λειτουργίας του λογαριασμού του φέρεται να έβγαλε 50.000 δολάρια .",
+    "Πάντα ήμουν ανοιχτό βιβλίο, αλλά υπάρχουν ορισμένα κεφάλαια που ο κόσμος δεν έχει δει ακόμη”, ανέφερε στο TMZ, εξηγώντας παράλληλα τι μπορεί να περιμένει κάποιος που θα πληρώσει τη μηνιαία συνδρομή των 14,99 δολαρίων."
+   ],
+   "amounts": [
+    "110 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "549fcbc97264",
+   "url": "https://meridiansport.rs/kosarka/arapski-kapital-stize-u-virtus/",
+   "title": "Arapski kapital stiže u Virtus?",
+   "site": "Meridian Sport",
+   "country": "Italy",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ponuda bi mogla da bude dvostruka: ili preuzimanje celokupnog kluba ili, kao druga opcija, kupovina polovine vlasničkog udela, pri čemu bi taj novac bio namenjen plaćanju iznosa koji je Evroliga odredila za transformaciju Virtusa u franšizu – 50 miliona evra za period od pet godina."
+   ],
+   "amounts": [
+    "50 miliona"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0dd321f25263",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/mozda-ne-donosi-profit-ali-real-ne-stedi-na-kosarci-rekordna-ulaganja-u-novu-sezonu/558443",
+   "title": "Možda ne donosi profit, ali Real ne štedi na košarci: Rekordna ulaganja u novu sezonu | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "evra",
+    "plate",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ambicije Madriđana oduvek su bile visoke, a u konkurenciji u kojoj sve više klubova raspolaže ogromnim budžetima, i Real je morao da podigne lestvicu ...",
+    "Finansijski minus pokriva se prihodima fudbalske sekcije, dok će najveći deo budžeta ponovo otići na plate.",
+    "Real planira da tokom aktuelne sezone za plate sportista i amortizaciju transfera u svim sekcijama izdvoji rekordnih 707.100.000 evra, dok se očekuje da ukupni prihodi kluba dostignu čak 1.405.000.000 evra."
+   ],
+   "amounts": [
+    "33.200.000 evra",
+    "44.400.000 evra",
+    "707.100.000 evra",
+    "1.405.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  }
+ ]
 }
