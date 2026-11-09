@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09T05:22+00:00",
+ "updated": "2026-11-09T07:43+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
@@ -22,17 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
+   "pages": 2,
+   "oldest": "2026-10-26",
    "stop": "reached articles checked before"
   },
   {
@@ -104,10 +103,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
@@ -122,19 +121,19 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 22,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,10 +157,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -176,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,10 +184,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -203,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -222,16 +221,17 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-03",
-   "stop": "reached articles checked before"
+   "pages": 3,
+   "oldest": "2026-11-02",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,10 +240,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -258,16 +258,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-02",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-03",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -285,24 +285,178 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-04",
+   "pages": 2,
+   "oldest": "2026-11-05",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "b116c9fac9b6",
+   "url": "https://sportando.basketball/virtus-bologna-investitori-emirati-acquisizione-club/",
+   "title": "Virtus Bologna, investitori dagli Emirati: sul tavolo una doppia offerta - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "L’eventuale investimento sarebbe legato anche alla prospettiva di sostenere il costo richiesto dall’EuroLeague per trasformare la Virtus in una franchigia stabile: 50 milioni di euro in cinque anni ."
+   ],
+   "amounts": [
+    "50 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e77f73fadb03",
+   "url": "https://www.basketnews.lt/news-259105-sugriztantis-otr-podkastas-ir-kelione-pas-buvusius-grandu-zaidejus.html#utm_medium=rss&utm_content=news",
+   "title": "Sugrįžtantis OTR podkastas ir kelionė pas buvusius grandų žaidėjus",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Savaitės pradžioje mūsų bendruomenėje yra 9,9 tūkst."
+   ],
+   "amounts": [
+    "9,9 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Rytas Vilnius",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 10,535,000 €, salary budget 5,320,000 €",
+      "25/26: budget 7,078,706 €, salary budget 3,601,701 €",
+      "24/25: budget 5,908,327 €, salary budget 2,952,200 €",
+      "player rows: 26/27 (8), 25/26 (13), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "R.J. Cole",
+     "sheet": [
+      "26/27 Olimpia Milano: 750,000 €",
+      "24/25 Rytas Vilnius: 140,000 €",
+      "23/24 Rytas Vilnius: 130,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "73bd46a6d27a",
+   "url": "https://www.dnevnik.si/novice/ljubljana/potencialni-zupani-bi-vec-vlagali-v-neodvisno-kulturo-zunaj-sredisca-mesta-2838787/",
+   "title": "Anketa: Potencialni župani bi več vlagali v neodvisno kulturo zunaj središča mesta",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "NVO smo v zadnjih štirih letih namenili skoraj 850.000 evrov oziroma 26 odstotkov več kot v preteklem mandatu, projektno sofinanciramo več kot 130 nevladnih organizacij s področja kulture na letni ravni in 56 za obdobje štirih let.",
+    "Nevladnemu sektorju tako za sofinanciranje projektov in programov namenjamo skupno 4,1 milijona evrov na leto."
+   ],
+   "amounts": [
+    "4,1 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e8a0dd97e50d",
+   "url": "https://www.dnevnik.si/novice/svet/leon-xiv-na-obisku-v-argentini-gospodarstvo-mora-biti-v-sluzbi-ljudi-2839037/",
+   "title": "Leon XIV. na obisku v Argentini: Gospodarstvo mora biti v službi ljudi",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "milijon",
+    "proracun"
+   ],
+   "snippets": [
+    "Milei je decembra 2023 prišel na oblast z obljubo, da bo vzpostavil proračunsko ravnovesje in zmanjšal inflacijo.",
+    "Na različnih dogodkih po državi skupno pričakujejo okrog sedem milijonov vernikov."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "e5175098747f",
    "url": "https://www.dnevnik.si/novice/svet/imate-android-tv-google-odkril-nevarnost-ki-se-je-skrivala-v-1-3-milijona-napravah-2839022/",
