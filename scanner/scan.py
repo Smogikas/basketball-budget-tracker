@@ -606,10 +606,14 @@ def analyse(title, text, kw):
     word_snips, money_snips, amounts, context_parts = [], [], [], []
     for i, sentence in enumerate([title] + sentences):
         n = norm(sentence)
+        if any_match(kw.get("ignore_sentence", []), n):   # fantasy games
+            continue
         found = set()
         money = [w for w, rx, _ in kw.get("money", []) if rx.search(n)]
         if AMOUNT_RE.search(sentence):          # "€1.2M", "$300,000", "400 000 eurų"
             money.append("sum of money")
+        if money and any_match(kw.get("ignore_money", []), n):   # fines, ticket prices
+            money = []
         if money:
             hits["Amount"].update(money)
             found.add("Amount")
@@ -660,6 +664,8 @@ class Rules:
         self.kw = {"budget": compile_keywords(kw_cfg.get("budget", [])),
                    "salary": compile_keywords(kw_cfg.get("salary", [])),
                    "money": compile_keywords(kw_cfg.get("money", [])),
+                   "ignore_sentence": compile_keywords(kw_cfg.get("ignore_sentences_with", [])),
+                   "ignore_money": compile_keywords(kw_cfg.get("ignore_money_in_sentences_with", [])),
                    "salary_ignore": [re.compile(r"(?<!\w)" + re.escape(norm(p)) + r"(?!\w)")
                                      for p in kw_cfg.get("salary_ignore_phrases", []) if norm(p)]}
         self.nba_team_words = compile_keywords([w if w.endswith("$") else w + "$"

@@ -576,43 +576,6 @@
    "nba": false
   },
   {
-   "id": "6c81fa057496",
-   "url": "https://sportando.basketball/serie-a2-round-6-i-provvedimenti-disciplinari/",
-   "title": "Serie A2 Round 6: i provvedimenti disciplinari - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-27",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 2.250,00 per offese collettive e frequenti nei confronti degli arbitri, anche di tenore discriminatorio [art.",
-    "Ammenda di Euro 750,00 per offese collettive e frequenti nei confronti degli arbitri e, in un’occasione, da parte di un tifoso isolato, anche sporgendosi verso il tunnel al passaggio degli arbitri stessi [art.",
-    "Ammenda di Euro 2.250,00 per offese collettive e frequenti nei confronti degli arbitri, anche di tenore discriminatorio [art."
-   ],
-   "amounts": [],
-   "seasons": [
-    "24/25"
-   ],
-   "teams": [
-    {
-     "name": "Vanoli Cremona",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,770,000 €, salary budget 1,820,000 €",
-      "23/24: budget 3,160,000 €, salary budget 1,430,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "30d087aed315",
    "url": "https://sportando.basketball/fortitudo-bologna-e-macron-primo-traguardo-di-solidarieta-per-il-progetto-a-sostegno-di-bimbo-tu/",
    "title": "Fortitudo Bologna e Macron: primo traguardo di solidarietà per il progetto a sostegno di Bimbo Tu - Sportando",
@@ -1704,54 +1667,6 @@
      ]
     }
    ],
-   "nba": false
-  },
-  {
-   "id": "a26e9888cb24",
-   "url": "https://sportando.basketball/lba-round-5-i-provvedimenti-disciplinari-sanzionate-cinque-societa/",
-   "title": "LBA Round 5, i provvedimenti disciplinari: sanzionate cinque società - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-26",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 600,00 per offese collettive sporadiche del pubblico agli arbitri [art.",
-    "Ammenda di Euro 2.400,00 per offese collettive e frequenti del pubblico verso gli arbitri e nei confronti di un tesserato ben individuato [art.",
-    "Ammenda di Euro 400,00 per offese collettive sporadiche del pubblico agli arbitri [art."
-   ],
-   "amounts": [],
-   "seasons": [
-    "24/25"
-   ],
-   "teams": [
-    {
-     "name": "Pallacanestro Varese",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 10,000,000 €, salary budget 4,500,000 €",
-      "25/26: budget 7,000,000 €, salary budget 2,800,000 €",
-      "24/25: budget 6,880,000 €, salary budget 2,750,000 €",
-      "player rows: 26/27 (7), 25/26 (7), 24/25 (7)"
-     ]
-    },
-    {
-     "name": "Umana Reyer Venezia",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 11,000,000 €, salary budget 7,500,000 €",
-      "25/26: row exists, no amounts",
-      "24/25: budget 11,840,000 €, salary budget 8,160,000 €",
-      "player rows: 25/26 (2), 21/22 (1), 17/18 (1)"
-     ]
-    }
-   ],
-   "players": [],
    "nba": false
   },
   {
@@ -3024,61 +2939,6 @@
    "nba": false
   },
   {
-   "id": "00a14fd32e1f",
-   "url": "https://sportando.basketball/brienza-contro-una-squadra-dallelevata-qualita-come-avellino-occorrera-performare-per-quaranta-minuti/",
-   "title": "Brienza: \"Contro una squadra dall’elevata qualità come Avellino occorrerà performare per quaranta minuti\" - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-24",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Biglietti in vendita a partire da €14 al New Basket Store, Corso Garibaldi 29 (09:30-13:00; 16:45-20:15, domenica chiuso), online sul sito www.vivaticket.it, punti vendita Vivaticket abilitati sul territorio e al botteghino del palasport con apertura 90 minuti prima della palla a due."
-   ],
-   "amounts": [
-    "€14"
-   ],
-   "seasons": [
-    "11/12",
-    "19/20"
-   ],
-   "teams": [
-    {
-     "name": "New Basket Brindisi",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,600,000 €, salary budget 1,230,000 €",
-      "23/24: budget 4,050,000 €, salary budget 1,370,000 €"
-     ]
-    },
-    {
-     "name": "Real Rieti",
-     "country": "Italy",
-     "sheet": [
-      "not in budget tabs",
-      "player rows: 24/25 (1)"
-     ]
-    },
-    {
-     "name": "Victoria Libertas Pesaro",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,449,000 €, salary budget 1,750,000 €",
-      "23/24: budget 4,182,000 €, salary budget 2,490,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "5d370e2ed49f",
    "url": "https://www.basketnews.lt/news-258029-jaramazas-apie-sprendima-prisijungti-prie-lietkabelio-ir-ypatinga-tapusia-lietuva.html",
    "title": "Jaramazas – apie sprendimą prisijungti prie „Lietkabelio“ ir ypatinga tapusią Lietuvą",
@@ -4071,51 +3931,6 @@
    "nba": false
   },
   {
-   "id": "87933cf6a5da",
-   "url": "https://basketballsphere.com/en/scafati-vs-trento-preview-prediction-oct-24-2026/",
-   "title": "Scafati vs Trento - Preview & Prediction (Oct. 24, 2026)",
-   "site": "Basketball Sphere",
-   "country": "Italy",
-   "published": "2026-10-23",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "To make matters worse, the club was fined €50,000 for violating regulations concerning the number of domestic players on its roster."
-   ],
-   "amounts": [
-    "€50,000"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Aquila Trento",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 6,500,000 €, salary budget 3,000,000 €",
-      "25/26: budget 5,900,000 €, salary budget 2,900,000 €",
-      "24/25: budget 5,910,000 €, salary budget 2,870,000 €",
-      "player rows: 25/26 (1), 24/25 (2)"
-     ]
-    },
-    {
-     "name": "Scafati Basket",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
-      "25/26: row exists, no amounts",
-      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "1ea5b502565c",
    "url": "https://basketballsphere.com/en/greek-basketball-scandal-georgios-bogris-forced-out/",
    "title": "Greek basketball scandal deepens: Former national team player allegedly forced out by referee decisions",
@@ -4733,29 +4548,6 @@
     "10.000€",
     "10.000 ευρώ"
    ],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "8951d9cae9f4",
-   "url": "https://www.gazzetta.gr/basketball/basket-league/2579592/dimitrakopoylos-i-katigoria-einai-domimeni-se-grapta-minymata-ta",
-   "title": "Δημητρακόπουλος: «Η κατηγορία είναι δομημένη σε γραπτά μηνύματα τα οποία έχουν ανταλλαγεί»",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-22",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "χιλιαδ"
-   ],
-   "snippets": [
-    "Από τα σχολικά πρωταθλήματα, οι πρωταθλητές εισάγονται στα πανεπιστήμια χωρίς εξετάσεις και λέω ‘Θεέ μου, αν έχουμε φτάσει σε τέτοιο σημείο σαν κοινωνία να λέμε, γιατί εκεί συμμετέχουν και οι γονείς, ότι μην ανησυχείς θα στήσω ένα παιχνίδι και θα περάσεις εσύ στο πανεπιστήμιο χωρίς εξετάσεις και …"
-   ],
-   "amounts": [],
    "seasons": [],
    "teams": [],
    "players": [],
@@ -5769,30 +5561,6 @@
    "nba": false
   },
   {
-   "id": "961f478503a0",
-   "url": "https://www.gazzetta.gr/basketball/basket-league/2579337/nomiki-symboylos-tis-kae-panathinaikos-mas-dialysate-o-ti",
-   "title": "Νομική Σύμβουλος της ΚΑΕ Παναθηναϊκός: «Μας διαλύσατε ο, τι αγαπήσαμε τόσα χρόνια, αλλά...»",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-21",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "εκατομμυρ",
-    "ευρω"
-   ],
-   "snippets": [
-    "Δε θα πούμε κουβέντα για τους δεκάδες μήνες απαγόρευσης εισόδου, τα εκατομμύρια ευρώ πρόστιμα, την προσπάθεια εξουθένωσης του τρελού, όταν φώναζε και δεν άκουγε κανείς."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "b80f62f4fdff",
    "url": "https://www.gazzetta.gr/basketball/basket-league/2579323/giannakopoylos-se-poianoy-diaititi-spiti-brethikan-820000-eyro",
    "title": "Γιαννακόπουλος: «Σε ποιανού διαιτητή το σπίτι βρέθηκαν 820.000 ευρώ...»",
@@ -6762,40 +6530,6 @@
    "nba": true
   },
   {
-   "id": "f4deeefa8429",
-   "url": "https://www.eurohoops.net/tr/euroleague-tr/2023857/2023857/",
-   "title": "Panathinaikos’tan Bildiri: “Çürümüş Sisteme Karşı Onur Mücadelesi”",
-   "site": "Eurohoops TR",
-   "country": "Greece",
-   "published": "2026-10-21",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "“ PANATHINAIKOS , yıllardır yasa dışı bir şekilde sürekli atanan çok belirli kişiler tarafından korkunç hakem kararlarına maruz kalıyor; kendi parasıyla ödediği stadyumda seyircisiz oynuyor, şampiyonluklar kaybediyor ve yüz binlerce euro para cezası ödüyor."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Panathinaikos B.C.",
-     "country": "Greece",
-     "sheet": [
-      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
-      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
-      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
-      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": true
-  },
-  {
    "id": "b2cf48a2106f",
    "url": "https://www.eurohoops.net/tr/ncaa-tr/2023746/brice-desserte-ncaa-yolu-acildi-anadolu-efes-buy-out-alacak/",
    "title": "Brice Dessert’e NCAA Yolu Açıldı; Anadolu Efes Buy-out Alacak",
@@ -6890,41 +6624,6 @@
    ],
    "seasons": [],
    "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "80aa23b0756d",
-   "url": "https://basket.zoznam.sk/cl/komarnu-skontumovali-zapas-v-sbl-padli-aj-dalsie-tresty/",
-   "title": "Komárnu skontumovali zápas, v SBL padli aj ďalšie tresty | Basket.sk",
-   "site": "Basket.zoznam.sk",
-   "country": "Slovakia",
-   "published": "2026-10-21",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Iličovi Djordjemu zakazuje HK SBA výkon funkcie na 4 súťažné stretnutia nepodmienečne, na 4 súťažné stretnutia podmienečne do 30.06.2027, vo všetkých súťažiach SBA a zároveň udeľuje pokutu vo výške 3000 € nepodmienečne, a to v súlade s čl."
-   ],
-   "amounts": [
-    "3000 €"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "BC Slovan Bratislava",
-     "country": "Slovakia",
-     "sheet": [
-      "26/27: budget 2,000,000 €, salary budget 1,200,000 €",
-      "25/26: budget 1,459,451 €, salary budget 948,643 €",
-      "24/25: budget 610,000 €"
-     ]
-    }
-   ],
    "players": [],
    "nba": false
   },
@@ -7540,146 +7239,6 @@
    "nba": false
   },
   {
-   "id": "91d9d5efb5cb",
-   "url": "https://sportando.basketball/scafati-basket-multa-da-50-000-euro-per-il-mancato-rispetto-della-formula-66/",
-   "title": "Scafati Basket, multa da 50.000 euro per il mancato rispetto della formula 6+6 - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-19",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro",
-    "sum of money"
-   ],
-   "snippets": [
-    "Ammenda da 50.000 euro per la Longobardi Scafati: contro Bologna non è stato rispettato il numero minimo di italiani previsto dalla formula 6+6",
-    "La Longobardi Scafati è stata sanzionata con un’ammenda da 50.000 euro per il mancato rispetto delle norme relative alla formula 6+6 ."
-   ],
-   "amounts": [
-    "50.000 euro"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Scafati Basket",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
-      "25/26: row exists, no amounts",
-      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
-     ]
-    },
-    {
-     "name": "Virtus Bologna",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
-      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
-      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
-      "player rows: 26/27 (2), 25/26 (9), 24/25 (6)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "f62ef1ffb1d4",
-   "url": "https://sportando.basketball/quarta-giornata-di-serie-a2-i-provvedimenti-disciplinari/",
-   "title": "Quarta giornata di Serie A2: i provvedimenti disciplinari - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-19",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 833,00 per offese collettive e frequenti da parte della tifoseria nei confronti degli arbitri e, in una sola occasione, da parte di tifoso isolato, offese nei confronti dell’arbitro anche sporgendosi dalle transenne [art.",
-    "Ammenda di Euro 1.500,00 per offese, da parte della tifoseria, collettive e frequenti nei confronti degli arbitri e nei confronti di un atleta avversario ben individuato [art."
-   ],
-   "amounts": [],
-   "seasons": [
-    "17/18"
-   ],
-   "teams": [
-    {
-     "name": "Olimpia Milano",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
-      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
-      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
-      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
-     ]
-    },
-    {
-     "name": "Victoria Libertas Pesaro",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,449,000 €, salary budget 1,750,000 €",
-      "23/24: budget 4,182,000 €, salary budget 2,490,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "040b8b3226b6",
-   "url": "https://sportando.basketball/lba-round-4-i-provvedimenti-disciplinari/",
-   "title": "LBA Round 4: i provvedimenti disciplinari - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-19",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 50.000,00 perché, dopo avere comunicato alla FIP con mail dell’8 ottobre 2026 il passaggio dalla formula del 5+5 alla formula del 6+6, iscriveva a referto solo cinque giocatori di formazione italiana non rispettando il numero minimo di atleti di formazione italiana da iscrivere a …",
-    "Ammenda di Euro 600,00 per offese collettive e sporadiche del pubblico agli arbitri [art.",
-    "Ammenda di Euro 1.200,00 per offese e minacce collettive e sporadiche del pubblico verso gli arbitri [art."
-   ],
-   "amounts": [],
-   "seasons": [
-    "17/18"
-   ],
-   "teams": [
-    {
-     "name": "Scafati Basket",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
-      "25/26: row exists, no amounts",
-      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
-     ]
-    }
-   ],
-   "players": [
-    {
-     "name": "Nico Mannion",
-     "sheet": [
-      "26/27 BC Roma SPQR: 1,500,000 €",
-      "25/26 Olimpia Milano: 450,000 €",
-      "24/25 Pallacanestro Varese: 400,000 €",
-      "23/24 Pallacanestro Varese: 180,000 €"
-     ]
-    }
-   ],
-   "nba": false
-  },
-  {
    "id": "dd8e26dfe192",
    "url": "https://sportando.basketball/matt-rizzetta-napoli-pronto-per-leuroleague-abbiamo-fatto-la-nostra-offerta/",
    "title": "Matt Rizzetta: Napoli pronto per l’EuroLeague. Abbiamo fatto la nostra offerta - Sportando",
@@ -8151,32 +7710,6 @@
    ],
    "players": [],
    "nba": true
-  },
-  {
-   "id": "278ead610d4f",
-   "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2578518/aek-ston-aera-ta-eisitiria-gia-mats-me-antberp",
-   "title": "Στον «αέρα» τα εισιτήρια για το ματς της ΑΕΚ κόντρα στην Αντβέρπ",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-18",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money",
-    "ευρω"
-   ],
-   "snippets": [
-    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ."
-   ],
-   "amounts": [
-    "10 ευρώ"
-   ],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
   },
   {
    "id": "1ac34d3235d5",
@@ -10021,45 +9554,6 @@
    "nba": false
   },
   {
-   "id": "01d841a0968e",
-   "url": "https://www.gazzetta.gr/basketball/euroleague/2577632/olympiakos-anakoinosi-gia-ta-eisitiria-toy-agona-me-ti-fenermpahtse",
-   "title": "Επιστροφή στη Sunel Arena για τον Ολυμπιακό - Τα εισιτήρια ενόψει Φενέρμπαχτσε",
-   "site": "Gazzetta.gr",
-   "country": "Turkey",
-   "published": "2026-10-15",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Για αγορά εισιτηρίου για τους μεμονωμένους αγώνες της ομάδας μας, οι φίλαθλοι θα πρέπει να έχουν τη «Συλλεκτική Κάρτα Φιλάθλου Ολυμπιακού ή την Κάρτα Φιλάθλου Ολυμπιακού» για την αγωνιστική περίοδο 2026-27, την οποία ο φίλαθλος θα προμηθεύεται καταβάλλοντας 20€ ή 15€ ετησίως."
-   ],
-   "amounts": [
-    "20€",
-    "15€"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "Fenerbahce Istanbul",
-     "country": "Turkey",
-     "sheet": [
-      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
-      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
-      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
-      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "8383c8724bbe",
    "url": "https://www.gazzetta.gr/basketball/nba/2577631/aiberson-epina-dyo-mpoykalia-tekila-kathe-deyteri-mera",
    "title": "Συγκλονίζει ο Άιβερσον: «Έπινα δύο μπουκάλια τεκίλα κάθε δεύτερη μέρα»",
@@ -11442,53 +10936,6 @@
    "nba": false
   },
   {
-   "id": "acfa5368bd99",
-   "url": "https://sportando.basketball/terza-giornata-serie-a2-i-provvedimenti-disciplinari/",
-   "title": "Terza giornata Serie A2, i provvedimenti disciplinari - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-13",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "1373 HALLEY CAMPANIA AVELLINO ammenda di Euro 1.500,00 per offese, da parte della tifoseria, collettive e frequenti nei confronti degli arbitri e, in un’occasione, mentre lasciava il campo, nei confronti di un atleta avversario ben individuato (GASPARDO) [art.",
-    "PESARO ammenda di Euro 750,00 per comportamenti atti a turbare il regolare svolgimento della gara (uso di strumenti fischietti) [art.",
-    "1376 GEMINI MESTRE ammenda di Euro 750,00 per offese collettive frequenti del pubblico agli arbitri [art."
-   ],
-   "amounts": [],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "Dinamo Sassari",
-     "country": "Italy",
-     "sheet": [
-      "26/27: row exists, no amounts",
-      "25/26: row exists, no amounts",
-      "24/25: budget 7,830,000 €, salary budget 4,050,000 €",
-      "player rows: 22/23 (1), 21/22 (1)"
-     ]
-    },
-    {
-     "name": "Victoria Libertas Pesaro",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,449,000 €, salary budget 1,750,000 €",
-      "23/24: budget 4,182,000 €, salary budget 2,490,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "140db60aab50",
    "url": "https://sportando.basketball/il-chiarimento-del-consorzio-pesaro-basket-fuorviante-parlare-di-fine-di-unera/",
    "title": "Il chiarimento del Consorzio Pesaro Basket: \"Fuorviante parlare di fine di un'era\" - Sportando",
@@ -11914,34 +11361,6 @@
    "nba": false
   },
   {
-   "id": "06cfebbb6c2f",
-   "url": "https://www.gazzetta.gr/basketball/basket-league/2576768/aek-stin-kykloforia-ta-eisitiria-gia-mykono",
-   "title": "Στην κυκλοφορία τα εισιτήρια της ΑΕΚ για το παιχνίδι με τη Μύκονο",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-12",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money",
-    "ευρω"
-   ],
-   "snippets": [
-    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ."
-   ],
-   "amounts": [
-    "10 ευρώ"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "a6a0b3a6213d",
    "url": "https://www.gazzetta.gr/basketball/euroleague/2576739/tzozef-i-balenthia-paizei-ena-idiaitero-stil-mpasket-na-eimaste",
    "title": "Τζόζεφ: «Η Βαλένθια παίζει ένα ιδιαίτερο στιλ μπάσκετ - Να είμαστε συγκεντρωμένοι και να παίξουμε καλή άμυνα»",
@@ -12109,41 +11528,6 @@
    ],
    "players": [],
    "nba": true
-  },
-  {
-   "id": "7bbe51937328",
-   "url": "https://sportando.basketball/lba-round-3-i-provvedimenti-disciplinari-ammenda-per-cantu/",
-   "title": "LBA Round 3, i provvedimenti disciplinari: ammenda per Cantù - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-12",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 1.200,00 per offese collettive e frequenti dirette agli arbitri e alla Lega Basket Serie A [art.27,4bd RG rec., art."
-   ],
-   "amounts": [],
-   "seasons": [
-    "10/11"
-   ],
-   "teams": [
-    {
-     "name": "Pallacanestro Cantu",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 7,000,000 €, salary budget 3,500,000 €",
-      "25/26: budget 6,000,000 €, salary budget 3,000,000 €",
-      "24/25: budget 4,681,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
   },
   {
    "id": "7bd51ed87849",
@@ -14917,59 +14301,6 @@
    "nba": false
   },
   {
-   "id": "6b55b34de504",
-   "url": "https://meridiansport.rs/kosarka/zvezda-evroliga-kazna-skandiranje/",
-   "title": "Zvezda kažnjena zbog uvredljivog skandiranja navijača",
-   "site": "Meridian Sport",
-   "country": "Serbia",
-   "published": "2026-10-08",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "evra",
-    "sum of money"
-   ],
-   "snippets": [
-    "Evroliga je kaznila Crvenu zvezdu sa 7.000 evra zbog uvredljivog skandiranja navijača na utakmici protiv Hapoela iz Tel Aviva u drugom kolu elitnog takmičenja.",
-    "Evroliga je kaznila Crvenu zvezdu sa 7.000 evra zbog uvredljivog skandiranja navijača na utakmici protiv Hapoela iz Tel Aviva u drugom kolu elitnog takmičenja.",
-    "Klub iz Kaunasa moraće da plati ukupno 30.000 evra, a izrečena mu je i kazna ograničenja kapaciteta dvorane na 80 odsto za jednu utakmicu, uz zatvaranje određenih sektora."
-   ],
-   "amounts": [
-    "7.000 evra",
-    "30.000 evra",
-    "10.000 evra"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "KK Crvena zvezda",
-     "country": "Serbia",
-     "sheet": [
-      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
-      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
-      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
-      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
-     ]
-    },
-    {
-     "name": "Žalgiris Kaunas",
-     "country": "Lithuania",
-     "sheet": [
-      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
-      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
-      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
-      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "bf4b9a8a2862",
    "url": "https://meridiansport.rs/kosarka/dangubic-otkrio-kako-kako-se-rodio-mocni-dubai-nismo-znali-kad-da-spavamo-da-li-da-jedemo-ocekujem-zvezdinu-reakciju/",
    "title": "Dangubić otkrio kako kako se rodio moćni Dubai: Nismo znali kad da spavamo, da li da jedemo... Očekujem Zvezdinu reakciju",
@@ -15160,42 +14491,6 @@
    "nba": false
   },
   {
-   "id": "01d57705c84b",
-   "url": "https://sportando.basketball/dole-rimini-le-info-per-i-biglietti-del-posticipo-sul-campo-della-fortitudo-bologna/",
-   "title": "Dole Rimini, le info per i biglietti del posticipo sul campo della Fortitudo Bologna - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-08",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Prezzi – Biglietto per la partita: €15 – Pullman andata e ritorno: €20"
-   ],
-   "amounts": [
-    "€15",
-    "€20"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Fortitudo Bologna",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 5,400,000 €, salary budget 2,390,000 €",
-      "23/24: budget 4,400,000 €, salary budget 1,630,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "09b1a93d8583",
    "url": "https://sportando.basketball/pallacanestro-reggiana-e-pizzikotto-il-gusto-continua-anche-dopo-la-partita/",
    "title": "Pallacanestro Reggiana e Pizzikotto: il gusto continua anche dopo la partita - Sportando",
@@ -15298,77 +14593,6 @@
       "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
       "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
       "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "7e1198434760",
-   "url": "https://basketnews.com/news-256970-euroleague-sanctions-zalgiris-crvena-zvezda-over-fan-incidents.html",
-   "title": "EuroLeague sanctions Zalgiris, Crvena Zvezda over fan incidents",
-   "site": "BasketNews.com",
-   "country": "Israel",
-   "published": "2026-10-08",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "EuroLeague fined Crvena Zvezda €7,000 for offensive chants by its fans during the game against Hapoel Tel Aviv.",
-    "Meanwhile, Zalgiris has been handed €30,000 in fines and ordered to play a game at a reduced 80% capacity, including the closure of specific sectors, for displaying banners during their matchup against Olympiacos.",
-    "\"Crvena Zvezda Meridianbet Belgrade has been sanctioned with a fine of €7,000, for the offensive chants performed by its fans on occasion of the game CRVENA ZVEZDA MERIDIANBET BELGRADE - HAPOEL TEL AVIV , under Articles 29.2 f) of the Euroleague Basketball Disciplinary Code."
-   ],
-   "amounts": [
-    "€7,000",
-    "€30,000"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "Hapoel Tel Aviv",
-     "country": "Israel",
-     "sheet": [
-      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
-      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
-      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
-      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
-     ]
-    },
-    {
-     "name": "KK Crvena zvezda",
-     "country": "Serbia",
-     "sheet": [
-      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
-      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
-      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
-      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
-     ]
-    },
-    {
-     "name": "Olympiacos B.C.",
-     "country": "Greece",
-     "sheet": [
-      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
-      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
-      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
-      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
-     ]
-    },
-    {
-     "name": "Žalgiris Kaunas",
-     "country": "Lithuania",
-     "sheet": [
-      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
-      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
-      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
-      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
      ]
     }
    ],
@@ -15501,88 +14725,6 @@
       "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
       "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
       "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "af9c6d9a13fb",
-   "url": "https://www.eurohoops.net/en/euroleague/2018077/zalgiris-fined-e30000-and-handed-suspended-arena-restriction/",
-   "title": "Zalgiris fined €30,000 and handed suspended arena restriction",
-   "site": "Eurohoops EN",
-   "country": "Spain",
-   "published": "2026-10-08",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Euroleague Basketball also fined Crvena Zvezda €7,000 and Turk Telekom coach Erdem Can €10,000 over incidents in the latest rounds",
-    "Zalgiris Kaunas received the largest penalty in Euroleague Basketball’s latest disciplinary decisions, with fines totaling €30,000 and a suspended arena capacity restriction for displaying banners during its Round 2 home game against Olympiacos .",
-    "Crvena Zvezda was fined €7,000 for offensive chants by its fans during the Round 2 game against Hapoel Tel Aviv."
-   ],
-   "amounts": [
-    "€30,000",
-    "€7,000",
-    "€10,000"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "CB Canarias Tenerife",
-     "country": "Spain",
-     "sheet": [
-      "26/27: row exists, no amounts",
-      "25/26: budget 10,700,000 €, salary budget 7,800,000 €",
-      "24/25: budget 11,200,000 €, salary budget 8,200,000 €",
-      "player rows: 23/24 (1), 22/23 (1), 16/17 (1)"
-     ]
-    },
-    {
-     "name": "Hapoel Tel Aviv",
-     "country": "Israel",
-     "sheet": [
-      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
-      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
-      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
-      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
-     ]
-    },
-    {
-     "name": "KK Crvena zvezda",
-     "country": "Serbia",
-     "sheet": [
-      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
-      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
-      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
-      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
-     ]
-    },
-    {
-     "name": "Olympiacos B.C.",
-     "country": "Greece",
-     "sheet": [
-      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
-      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
-      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
-      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
-     ]
-    },
-    {
-     "name": "Žalgiris Kaunas",
-     "country": "Lithuania",
-     "sheet": [
-      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
-      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
-      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
-      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
      ]
     }
    ],
@@ -15741,58 +14883,6 @@
    "nba": false
   },
   {
-   "id": "4d25582133c9",
-   "url": "https://telesport.rs/2026/10/08/zvezda-ponovo-kaznjena-od-evrolige/",
-   "title": "Zvezda ponovo kažnjena od Evrolige! - Telesport",
-   "site": "Telesport",
-   "country": "Serbia",
-   "published": "2026-10-08",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "evra",
-    "sum of money"
-   ],
-   "snippets": [
-    "Crvena zvezda kažnjena je sa 7.000 evra zbog incidenata tokom utakmice drugog kola Evrolige protiv Hapoela iz Tel Aviva.",
-    "“Žalgiris je ukupno novčano kažnjen sa 30.000 evra, kao i odigravanjem utakmice sa ograničenim kapacitetom dvorane od 80 odsto (uključujući zatvaranje određenih sektora) zbog isticanja transparenata na utakmici protiv Olimpijakosa, a u skladu sa članom 29.1.f) Disciplinskog pravilnika Evrolige.",
-    "Crvena zvezda kažnjena je sa 7.000 evra zbog incidenata tokom utakmice drugog kola Evrolige protiv Hapoela iz Tel Aviva."
-   ],
-   "amounts": [
-    "7.000 evra",
-    "30.000 evra"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "KK Crvena zvezda",
-     "country": "Serbia",
-     "sheet": [
-      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
-      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
-      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
-      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
-     ]
-    },
-    {
-     "name": "Žalgiris Kaunas",
-     "country": "Lithuania",
-     "sheet": [
-      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
-      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
-      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
-      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "ada30e3125a5",
    "url": "https://www.gazzetta.gr/basketball/basket-league/2575352/i-ektoxeysi-ton-tileoptikon-tis-gbl-apo-ta-537-ekat-eyro-sta-85",
    "title": "Η εκτόξευση των τηλεοπτικών της GBL: Από τα 5,37 εκατ. ευρώ μεικτά στα 8,5 εκατ. ευρώ καθαρά!",
@@ -15888,34 +14978,6 @@
     "11,25 εκατομμύρια"
    ],
    "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "455aaf7390ac",
-   "url": "https://www.gazzetta.gr/basketball/euroleague/2575307/olympiakos-ligotera-apo-2-hiliades-diathesima-eisitiria-gia-efes",
-   "title": "Λιγότερα από 2000 χιλιάδες εισιτήρια διαθέσιμα για το Ολυμπιακός - Εφές",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-07",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money",
-    "χιλιαδ"
-   ],
-   "snippets": [
-    "Λιγότερα από δύο χιλιάδες εισιτήρια έχουν απομείνει για το παιχνίδι του Ολυμπιακού με την Εφές στη Sunel Arena."
-   ],
-   "amounts": [
-    "2000 χιλιάδες"
-   ],
-   "seasons": [
-    "09/10"
-   ],
    "teams": [],
    "players": [],
    "nba": false
@@ -16964,114 +16026,6 @@
    "nba": false
   },
   {
-   "id": "a554be71d9c8",
-   "url": "https://sportando.basketball/lba-round-2-i-provvedimenti-disciplinari-quattro-societa-sanzionate/",
-   "title": "LBA Round 2, i provvedimenti disciplinari: quattro società sanzionate - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-06",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 1.200,00 per offese collettive frequenti del pubblico agli arbitri [art.",
-    "Ammenda di Euro 1.600,00 per infrazioni relative alle misure di sicurezza (mancata apertura del tunnel di ingresso allo spogliatoio) [art.",
-    "Ammenda di Euro 1.200,00 per offese collettive frequenti del pubblico agli arbitri [art."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Virtus Bologna",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 25,000,000 €, salary budget 12,000,000 €",
-      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
-      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
-      "player rows: 26/27 (2), 25/26 (9), 24/25 (6)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "134aafda2a5d",
-   "url": "https://sportando.basketball/seconda-giornata-serie-a2-i-provvedimenti-disciplinari-tre-societa-multate/",
-   "title": "Seconda giornata Serie A2, i provvedimenti disciplinari: tre società multate - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-06",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro"
-   ],
-   "snippets": [
-    "Ammenda di Euro 750,00 per offese collettive frequenti del pubblico agli arbitri [art.",
-    "Ammenda di Euro 750,00 per comportamenti atti a turbare il regolare svolgimento della gara (uso di strumenti sonori) [art."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Victoria Libertas Pesaro",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,449,000 €, salary budget 1,750,000 €",
-      "23/24: budget 4,182,000 €, salary budget 2,490,000 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "fc61f95c5dac",
-   "url": "https://sportando.basketball/maxima-roma-cresce-lattesa-per-il-derby-primo-anello-del-palaeur-sold-out/",
-   "title": "Maxima Roma, cresce l'attesa per il derby: primo anello del PalaEur Sold Out - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-06",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euro",
-    "sum of money"
-   ],
-   "snippets": [
-    "Restano ancora disponibili su Vivaticket i biglietti per il secondo e terzo anello , con prezzi a partire da 15 euro , fino a un massimo di 40 euro ( https://www.vivaticket.com/ it/ticket/maxima-roma-bc-roma/ 319486 ).Disponibili anche gli ultimi posti in parterre ."
-   ],
-   "amounts": [
-    "15 euro",
-    "40 euro"
-   ],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "Maxima Roma",
-     "country": "Italy",
-     "sheet": [
-      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
-      "player rows: 26/27 (1)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "c1dc88078829",
    "url": "https://sportando.basketball/pallacanestro-varese-e-reggiana-in-bcl-come-vederle-in-tv-e-streaming-su-courtside-1891/",
    "title": "Pallacanestro Varese e Reggiana in BCL: come vederle in TV e streaming su Courtside 1891 - Sportando",
@@ -18050,86 +17004,6 @@
    "nba": false
   },
   {
-   "id": "a0bc173dae9d",
-   "url": "https://www.gazzetta.gr/basketball/eurocup/2574697/paok-sti-diathesi-ton-filathlon-ta-eisitiria-gia-oylm-kai-aek",
-   "title": "Κυκλοφόρησαν τα εισιτήρια του ΠΑΟΚ για τις αναμετρήσεις με Ουλμ και ΑΕΚ",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Τα εισιτήρια και για τους δύο αγώνες αφορούν αποκλειστικά την κατηγορία WHITE και η τιμή τους είναι 30€."
-   ],
-   "amounts": [
-    "30€"
-   ],
-   "seasons": [
-    "26/27",
-    "25/26"
-   ],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "5e0f263d5027",
-   "url": "https://www.gazzetta.gr/basketball/euroleague/2574661/olympiakos-se-kykloforia-ta-eisitiria-gia-ton-agona-me-tin-efes",
-   "title": "Κυκλοφόρησαν τα εισιτήρια για τον αγώνα του Ολυμπιακού με την Αναντολού Εφές",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Για αγορά εισιτηρίου για τους μεμονωμένους αγώνες της ομάδας μας, οι φίλαθλοι θα πρέπει να έχουν τη «Συλλεκτική Κάρτα Φιλάθλου Ολυμπιακού ή την Κάρτα Φιλάθλου Ολυμπιακού», την οποία ο φίλαθλος θα προμηθεύεται καταβάλλοντας 20€ ή 15€ ετησίως."
-   ],
-   "amounts": [
-    "20€",
-    "15€"
-   ],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "df648c5ca015",
-   "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2574638/aek-ta-eisitiria-gia-tin-premiera-me-salon-sto-bcl",
-   "title": "ΑΕΚ: Τα εισιτήρια για την πρεμιέρα με Σαλόν στο BCL και το βλέμμα στη νέα εποχή",
-   "site": "Gazzetta.gr",
-   "country": "Greece",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money",
-    "ευρω"
-   ],
-   "snippets": [
-    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ»."
-   ],
-   "amounts": [
-    "10 ευρώ"
-   ],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "fdee52a0f386",
    "url": "https://www.gazzetta.gr/basketball/euroleague/2574610/loni-goyoker-sto-stohastro-tis-mpesiktas-o-amerikanos",
    "title": "Στο... ραντάρ της Μπεσίκτας ο Λόνι Γουόκερ",
@@ -18323,53 +17197,6 @@
    "nba": false
   },
   {
-   "id": "7ac36026206a",
-   "url": "https://www.athletiko.gr/vgikan-ta-eisitiria-gia-to-proto-mats-toy-olympiakoy-stin-sunel-arena-106207",
-   "title": "Βγήκαν τα εισιτήρια για το πρώτο ματς του Ολυμπιακού στην Sunel Arena | Athletiko",
-   "site": "Athletiko",
-   "country": "Turkey",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Για αγορά εισιτηρίου για τους μεμονωμένους αγώνες της ομάδας μας, οι φίλαθλοι θα πρέπει να έχουν τη «Συλλεκτική Κάρτα Φιλάθλου Ολυμπιακού ή την Κάρτα Φιλάθλου Ολυμπιακού», την οποία ο φίλαθλος θα προμηθεύεται καταβάλλοντας 20€ ή 15€ ετησίως."
-   ],
-   "amounts": [
-    "20€",
-    "15€"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Anadolu Efes S.K.",
-     "country": "Turkey",
-     "sheet": [
-      "26/27: row exists, no amounts",
-      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
-      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
-      "player rows: 26/27 (4), 25/26 (7), 24/25 (3)"
-     ]
-    },
-    {
-     "name": "Fenerbahce Istanbul",
-     "country": "Turkey",
-     "sheet": [
-      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
-      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
-      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
-      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "4502ca0e8cbb",
    "url": "https://www.athletiko.gr/ta-social-media-rekor-toy-pagkosmioy-kypelloy-gynaikon-kai-oi-pathiasmenoi-ellines-106195",
    "title": "Τα social media ρεκόρ του Παγκοσμίου Κυπέλλου Γυναικών και οι... παθιασμένοι Έλληνες | Athletiko",
@@ -18429,33 +17256,6 @@
    "seasons": [
     "25/26"
    ],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "842dce19e4ea",
-   "url": "https://www.athletiko.gr/ta-eisitiria-tis-aek-gia-tin-eyropaiki-premiera-tis-sto-bcl-106170",
-   "title": "Τα εισιτήρια της ΑΕΚ για την ευρωπαϊκή πρεμιέρα της στο BCL | Athletiko",
-   "site": "Athletiko",
-   "country": "Greece",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money",
-    "ευρω"
-   ],
-   "snippets": [
-    "Στο πλαίσιο αυτό η Ένωση έθεσε στη διάθεση του κόσμου τα εισιτήρια του αγώνα, με τιμή εκκίνησης στα 10 ευρώ, περιμένοντας ο κόσμος να ανταποκριθεί στο κάλεσμα και να στηρίξει τον Ντράγκαν Σάκοτα και τους παίκτες του.",
-    "ΤΙΜΕΣ ΕΙΣΙΤΗΡΙΩΝ: Από 10 ευρώ."
-   ],
-   "amounts": [
-    "10 ευρώ"
-   ],
-   "seasons": [],
    "teams": [],
    "players": [],
    "nba": false
@@ -18623,43 +17423,6 @@
    "nba": true
   },
   {
-   "id": "a053fb5970b6",
-   "url": "https://www.basketnews.lt/news-256767-paaiskejo-daugiau-edwardso-nusizengimo-detaliu.html",
-   "title": "Paaiškėjo daugiau Edwardso nusižengimo detalių",
-   "site": "BasketNews.lt",
-   "country": "Lithuania",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euru",
-    "sum of money"
-   ],
-   "snippets": [
-    "Bauda gali siekti nuo 289 iki 434 eurų."
-   ],
-   "amounts": [
-    "434 eurų"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Žalgiris Kaunas",
-     "country": "Lithuania",
-     "sheet": [
-      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
-      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
-      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
-      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "faf815503229",
    "url": "https://www.basketnews.lt/news-256753-isvyka-i-katalonija-ir-ryto-bei-juventus-cl-startai.html",
    "title": "Išvyka į Kataloniją ir „Ryto“ bei „Juventus“ ČL startai",
@@ -18728,32 +17491,6 @@
      ]
     }
    ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "0ce366c96dd8",
-   "url": "https://www.15min.lt/24sek/naujiena/lietuva/aiskeja-daugiau-detaliu-apie-edwardso-klystkelius-kaune-875-2778282",
-   "title": "Aiškėja daugiau detalių apie Edwardso klystkelius Kaune",
-   "site": "15min 24sek",
-   "country": "Lithuania",
-   "published": "2026-10-05",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "euru",
-    "sum of money"
-   ],
-   "snippets": [
-    "Bauda gali siekti nuo 289 iki 434 eurų."
-   ],
-   "amounts": [
-    "434 eurų"
-   ],
-   "seasons": [],
-   "teams": [],
    "players": [],
    "nba": false
   },
@@ -19408,81 +18145,6 @@
    "nba": true
   },
   {
-   "id": "6cba3c76db2f",
-   "url": "https://sportando.basketball/serie-a2-old-wild-west-2026-27-la-preview-della-2-giornata/",
-   "title": "Serie A2 Old Wild West 2026/27, la preview della 2° giornata - Sportando",
-   "site": "Sportando",
-   "country": "Italy",
-   "published": "2026-10-03",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money"
-   ],
-   "snippets": [
-    "Biglietti in vendita a partire da €14 (Curva Sud non numerata sold out) al New Basket Store di Corso Garibaldi 29 (venerdì e sabato 09:30-13:00; 16:45-20:15), online sul sito www.vivaticket.it , nei punti vendita Vivaticket abilitati sul territorio ed al botteghino del palasport, con apertura 90 …"
-   ],
-   "amounts": [
-    "€14"
-   ],
-   "seasons": [
-    "26/27",
-    "24/25",
-    "22/23",
-    "23/24",
-    "25/26"
-   ],
-   "teams": [
-    {
-     "name": "Dinamo Sassari",
-     "country": "Italy",
-     "sheet": [
-      "26/27: row exists, no amounts",
-      "25/26: row exists, no amounts",
-      "24/25: budget 7,830,000 €, salary budget 4,050,000 €",
-      "player rows: 22/23 (1), 21/22 (1)"
-     ]
-    },
-    {
-     "name": "Fortitudo Bologna",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 5,400,000 €, salary budget 2,390,000 €",
-      "23/24: budget 4,400,000 €, salary budget 1,630,000 €"
-     ]
-    },
-    {
-     "name": "New Basket Brindisi",
-     "country": "Italy",
-     "sheet": [
-      "25/26: row exists, no amounts",
-      "24/25: budget 3,600,000 €, salary budget 1,230,000 €",
-      "23/24: budget 4,050,000 €, salary budget 1,370,000 €"
-     ]
-    }
-   ],
-   "players": [
-    {
-     "name": "Kaza Kajami - Keane",
-     "sheet": [
-      "22/23 Le Mans Sarthe Basket: 125,000 €",
-      "21/22 Le Mans Sarthe Basket: 105,000 €",
-      "20/21 Le Mans Sarthe Basket: 80,000 €"
-     ]
-    },
-    {
-     "name": "Toni Perkovic",
-     "sheet": [
-      "22/23 Orleans Loiret Basket: 80,000 €"
-     ]
-    }
-   ],
-   "nba": false
-  },
-  {
    "id": "48dff8cddbf8",
    "url": "https://sportando.basketball/houston-rockets-kevin-durant-bogdan-bogdanovic-mi-ispira/",
    "title": "Houston Rockets, Kevin Durant: \"Bogdan Bogdanovic mi ispira\" - Sportando",
@@ -20059,29 +18721,6 @@
    "nba": false
   },
   {
-   "id": "58cf8213d970",
-   "url": "https://www.athletiko.gr/giannakopoylos-den-ginetai-na-troo-3-agonistikes-kai-na-yparchoyn-proponites-paiktes-paragontes-poy-cheirodikoyn-kai-den-toys-akoympaei-kanenas-105687",
-   "title": "Γιαννακόπουλος: «Δεν γίνεται να υπάρχουν προπονητές, παίκτες, παράγοντες που χειροδικούν και δεν τους ακουμπάει κανένας» | Athletiko",
-   "site": "Athletiko",
-   "country": "Greece",
-   "published": "2026-10-02",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "χιλιαδ"
-   ],
-   "snippets": [
-    "Εδώ οι παίκτες τρώνε πρόστιμα δεκάδες και εκατοντάδες χιλιάδες γιατί είπαν κάτι για έναν διαιτητή."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "ab88207e90f4",
    "url": "https://www.athletiko.gr/antetokounmpo-ston-ari-ghinetai-kati-maghiko-den-mporoun-na-ghinoyn-oloi-giannis-105650",
    "title": "Αντετοκούνμπο: «Στον Άρη γίνεται κάτι μαγικό - Δεν μπορούν να γίνουν όλοι Γιάννης» | Athletiko",
@@ -20600,45 +19239,6 @@
       "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
       "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
       "player rows: 26/27 (2), 25/26 (9), 24/25 (6)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "a5d59b9478e0",
-   "url": "https://www.eurohoops.net/el/euroleague-el-2/2015405/giannakopoulos-iparchi-chirodikia-den-ginete-kapii-na-ine-sto-apirovlito/",
-   "title": "Γιαννακόπουλος: “Υπάρχει χειροδικία & δεν ανοίγει ούτε καν διαδικασία; – Δεν γίνεται κάποιοι να είναι στο απυρόβλητο”",
-   "site": "Eurohoops GR",
-   "country": "Greece",
-   "published": "2026-10-02",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "sum of money",
-    "εκατομμυρ",
-    "χιλιαδ"
-   ],
-   "snippets": [
-    "Εδώ οι παίκτες τρώνε πρόστιμα δεκάδες και εκατοντάδες χιλιάδες γιατί είπαν κάτι για έναν διαιτητή.",
-    "Είχε προηγηθεί μία ανάρτηση λίγο νωρίτερα, όπου ο Γιαννακόπουλος είχε αναφέρει: « 10 μήνες και 2 εκατομμύρια πρόστιμο στον Γιαννακόπουλο » και το είχε συνδυάσει με ένα video στο φινάλε του ματς του Ολυμπιακού στην Μπολόνια."
-   ],
-   "amounts": [
-    "2 εκατομμύρια"
-   ],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Olympiacos B.C.",
-     "country": "Greece",
-     "sheet": [
-      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
-      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
-      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
-      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
      ]
     }
    ],
@@ -22010,29 +20610,6 @@
    "nba": false
   },
   {
-   "id": "1902cff8ae81",
-   "url": "https://basketball.hr/vijesti/crni-dani-osjecke-kosarke-upitan-je-i-nastup-u-prvoj-ligi/18718",
-   "title": "Crni dani osječke košarke, upitan je i nastup u Prvoj ligi - Basketball.hr",
-   "site": "Basketball.hr",
-   "country": "Croatia",
-   "published": "",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "eura"
-   ],
-   "snippets": [
-    "Uslijedile su javne optužbe prema Gradu i HKS-u, nakon kojih su stigle suspenzije i novčane kazne, uključujući onu od 9500 eura."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [],
-   "players": [],
-   "nba": false
-  },
-  {
    "id": "bda4a4850446",
    "url": "https://basketball.hr/vijesti/vigo-bart-zadranima-kapa-do-poda-imam-ponude-iz-ncaa-ligu-ali-ostao-bih-jos-jednu-sezonu-tu/18705",
    "title": "Vigo Bart: Zadranima kapa do poda. Imam ponude iz NCAA lige, ali ostao bih još jednu sezonu tu - Basketball.hr",
@@ -22536,90 +21113,6 @@
       "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
       "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
       "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "fdc89132717c",
-   "url": "https://ekipa.svet24.si/sport/kosarka/slovenija-ostalo-kosarka/olimpija-razglasila-rekord-stozice-razkrile-resnico-kaj-se-res-dogaja-kosarka-tekma-eurocup-1938233",
-   "title": "Olimpija o rekordu, Stožice pa z neprijetno resnico. Kaj se res dogaja?",
-   "site": "Ekipa Svet24",
-   "country": "Croatia",
-   "published": "",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "evrov"
-   ],
-   "snippets": [
-    "Dokler bodo prazni sedeži tako opazni, bo rekordna prodaja vstopnic ostajala le ena plat precej bolj zapletene zgodbe.",
-    "Vstopnice za dijake so na voljo za pet evrov, organizatorji pa so pripravili še vrsto spremljevalnih dejavnosti."
-   ],
-   "amounts": [],
-   "seasons": [
-    "26/27"
-   ],
-   "teams": [
-    {
-     "name": "KK Olimpija",
-     "country": "Croatia",
-     "sheet": [
-      "12/13: budget 3,940,507 €"
-     ]
-    }
-   ],
-   "players": [],
-   "nba": false
-  },
-  {
-   "id": "fdee9455e3ac",
-   "url": "https://ekipa.svet24.si/sport/kosarka/reprezentancna-kosarka/rakete-seznam-david-gaspar-teja-oblak-1937720",
-   "title": "Selektor Slovenije skoraj brez 20 igralk: težava, ki jo vidi kot priložnost",
-   "site": "Ekipa Svet24",
-   "country": "USA",
-   "published": "",
-   "found": "2026-11-06",
-   "type": [
-    "Amount"
-   ],
-   "keywords": [
-    "evrov"
-   ],
-   "snippets": [
-    "Cena posamezne vstopnice v predprodaji znaša 10 evrov, paket vstopnic za ogled obeh tekem pa je v predprodaji na voljo za 15 evrov.",
-    "Na dan tekme bo cena posamezne vstopnice 12 evrov."
-   ],
-   "amounts": [],
-   "seasons": [],
-   "teams": [
-    {
-     "name": "Dallas Mavericks",
-     "country": "USA",
-     "sheet": [
-      "not in budget tabs",
-      "player rows: 26/27 (1)"
-     ]
-    },
-    {
-     "name": "Hapoel Haifa B.C.",
-     "country": "Israel",
-     "sheet": [
-      "23/24: budget 1,817,000 €",
-      "22/23: budget 1,890,000 €"
-     ]
-    },
-    {
-     "name": "KK Ilirija",
-     "country": "Slovenia",
-     "sheet": [
-      "26/27: row exists, no amounts",
-      "25/26: budget 917,878 €, salary budget 650,000 €",
-      "24/25: budget 655,325 €, salary budget 524,260 €"
      ]
     }
    ],
