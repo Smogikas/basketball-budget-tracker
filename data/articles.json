@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T15:10+00:00",
+ "updated": "2026-11-09T17:22+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,12 +13,12 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-10-26",
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
@@ -104,7 +104,7 @@
   {
    "site": "Eurohoops EN",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -121,18 +121,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 24,
-   "found": 0,
+   "checked": 25,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -140,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
-   "found": 0,
+   "checked": 9,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -149,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -158,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -167,17 +166,17 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -185,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -217,21 +216,21 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-03",
-   "stop": "reached articles checked before",
+   "stop": "no older pages",
    "skipped_nba": 1
   },
   {
+   "site": "Sportacentrs",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-03",
+   "stop": "reached start date"
+  },
+  {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 17,
-   "found": 4,
+   "checked": 3,
+   "found": 2,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -258,21 +257,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -285,24 +284,670 @@
   },
   {
    "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
    "stop": "reached articles checked before"
-  },
-  {
-   "site": "SportoweFakty",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "88982fe1a060",
+   "url": "https://www.krepsinis.net/naujiena/s-jasikeviciui-nereikalingas-centras-pakeliui-i-kita-eurolygos-ekipa/354297",
+   "title": "Š.Jasikevičiui nereikalingas centras – pakeliui į kitą Eurolygos ekipą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "doleri",
+    "sum of money",
+    "tukstan",
+    "uzdirb"
+   ],
+   "snippets": [
+    "„Eurohoops“ skelbia, kad 30 metų 203 cm ūgio Chrisas Silva papildys Belgrado „Partizan“ gretas, kur per mėnesį uždirbs po 100 tūkstančių JAV dolerių."
+   ],
+   "amounts": [
+    "100 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c54e665d0423",
+   "url": "https://basketdergisi.com/nunna-30-milyon-euro.html",
+   "title": "Nunn'a 30 milyon euro!",
+   "site": "Basket Dergisi",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Yunan basınında yer alan haberlere göre; Nunn'a beş yıl için 30 milyon euro verecek olan Katar, Dünya Kupası'nda yıldız oyuncuyu sahaya sürecek.",
+    "Yunan basınında yer alan haberlere göre; Nunn’a beş yıl için 30 milyon euro verecek olan Katar, Dünya Kupası’nda yıldız oyuncuyu sahaya sürecek."
+   ],
+   "amounts": [
+    "30 milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8b99d83b2d4f",
+   "url": "https://www.eurohoops.net/en/euroleague/2032730/fenerbahce-center-chris-silva-closing-in-on-partizan-move/",
+   "title": "Fenerbahçe center Chris Silva closing in on Partizan move",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "per month",
+    "sum of money"
+   ],
+   "snippets": [
+    "The outlet reported that the deal would cost the Belgrade club around $100,000 per month.",
+    "He averaged 4.4 points and 1.7 rebounds in 16 EuroLeague appearances in 2025–26."
+   ],
+   "amounts": [
+    "16 EuroLeague",
+    "$100,000"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chris Silva",
+     "sheet": [
+      "25/26 AEK B.C.: 354,000 €",
+      "25/26 Fenerbahce Istanbul: 235,703 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "32116814f134",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2032713/fenerbahcenin-pivotu-partizan-yolunda/",
+   "title": "Fenerbahçe’nin Pivotu Partizan Yolunda",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Haberde, Partizan’ın oyuncu için aylık yaklaşık 100 bin dolar ödemesi gerekeceği de belirtildi."
+   ],
+   "amounts": [
+    "100 bin"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "45649473c52e",
+   "url": "https://www.athletiko.gr/ginetai-monimos-sti-euroleague-o-paok-ti-anaferoyn-oi-italoi-gia-tis-adeies-franchise-114712",
+   "title": "Γίνεται... μόνιμος στη EuroLeague ο ΠΑΟΚ - Τι αναφέρουν οι Ιταλοί για τις άδειες franchise | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το οικονομικό αντίτιμο για τις έξι νέες μόνιμες άδειες εκτιμάται μεταξύ 50 και 90 εκατομμυρίων ευρώ, με τις ομάδες που θα τις εξασφαλίσουν να αποκτούν ταυτόχρονα και μετοχική ιδιότητα στην EuroLeague."
+   ],
+   "amounts": [
+    "90 εκατομμυρίων"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "714245bca6da",
+   "url": "https://www.athletiko.gr/to-skeptiko-tis-dubai-bc-me-tin-apoktisi-toy-choyertas-kai-i-syndesi-me-ton-traymatia-goyokap-114687",
+   "title": "Το σκεπτικό της Dubai BC με την απόκτηση του Χουέρτας και η σύνδεση με τον τραυματία Γουόκαπ | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "ρίξει πολλά εκατομμύρια στο αγωνιστικό της μπάτζετ και στόχος δεν θα μπορούσε να είναι άλλος από την κατάκτηση της EuroLeague, καθώς το Final Four θα γίνει στο...",
+    "Μετά από μία τεράστια «μάχη» με τον Ολυμπιακό που ολοκληρώθηκε στις δικαστικές αίθουσες, ο Τεξανός και πολιτογραφημένος Έλληνας γκαρντ, κατέληξε στη Μέση Ανατολή (έναντι εννέα εκατομμυρίων ευρώ) κι αψήφησε το συμβόλαιό τους με τους «ερυθρόλευκους»."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27",
+    "24/25",
+    "23/24"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "25ba5d89b644",
+   "url": "https://www.sdna.gr/mpasket/1485139_stis-exi-omades-gia-monimi-adeia-sti-euroleague-o-paok-poy-pigainoyn-oi-wild-cards",
+   "title": "«Στις έξι ομάδες για μόνιμη άδεια στη EuroLeague ο ΠΑΟΚ - Πού πηγαίνουν οι wild cards»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ιδιαίτερο ενδιαφέρον παρουσιάζει και το οικονομικό σκέλος, καθώς, σύμφωνα με το ίδιο δημοσίευμα, οι νέες ομάδες που θα αποκτήσουν μόνιμη άδεια θα κληθούν να καταβάλουν ποσά από 50 έως 90 εκατομμύρια ευρώ, αποκτώντας παράλληλα καθεστώς μετόχου στη διοργάνωση."
+   ],
+   "amounts": [
+    "90 εκατομμύρια"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c50683a191f5",
+   "url": "https://www.sdna.gr/mpasket/1485131_thelei-na-pyrodotisei-bomba-me-ton-mpompoya-i-ritas",
+   "title": "«Θέλει να πυροδοτήσει... βόμβα με τον Μπομπουά η Ρίτας»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Όπως αναφέρεται η Ρίτας φέρεται να έχει προϋπολογίσει ένα ποσό της τάξης των 30.000 ευρώ μηνιαίως για τον έμπειρο άσο προκειμένου να τον κάνει δικό της."
+   ],
+   "amounts": [
+    "30.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "27030407bc0a",
+   "url": "https://www.marca.com/baloncesto/2026/11/09/zaragoza-asegura-sede-final-six-euroliga-2030.html",
+   "title": "Zaragoza se asegura ser la sede de la Final Six de la Euroliga hasta 2030",
+   "site": "Marca",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "Novak ha cifrado en \" más de doce millones \" los espectadores que ven la Final Six a través de la televisión y plataformas digitales y ha destacado la contribución de los aficionados locales durante las dos primeras ediciones."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4a8fa1389452",
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261109/1004249127/madrid-tendria-presupuesto-record-62-7-millones-segundo-alto-euroliga.html",
+   "title": "El Madrid tendría un presupuesto récord de 62,7 millones, el segundo más alto de Euroliga",
+   "site": "Mundo Deportivo",
+   "country": "Germany",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "presupuest",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "La sección de baloncesto del Real Madrid operará con un presupuesto récord de 67,2 millones de euros para la temporada 2026-27, según ha desvelado hoy el digital",
+    "La sección de baloncesto del Real Madrid operará con un presupuesto récord de 67,2 millones de euros para la temporada 2026-27, según ha desvelado hoy el digital 2Playbook.",
+    "De esta cantidad, 44,4 millones de euros se destinarán específicamente a los salarios de jugadores y cuerpo técnico antes de impuestos, lo que representa una inversión significativa por parte del club."
+   ],
+   "amounts": [
+    "62,7 millones",
+    "67,2 millones",
+    "44,4 millones",
+    "33,2 millones",
+    "52,7 millones",
+    "707,1 millones",
+    "1.405 millones",
+    "27,4 millones"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0069eb46cafc",
+   "url": "https://basketballsphere.com/en/luca-banchi-return-milano-euroleague/",
+   "title": "Luca Banchi on Milano return, potential signings, and turning around 1-9 EuroLeague start",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "9 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Devin Booker",
+     "sheet": [
+      "25/26 Olimpia Milano: 1,200,000 €",
+      "20/21 Khimki Moscow: 1,087,500 €"
+     ]
+    },
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "a7eeabd85afe",
+   "url": "https://basketballsphere.com/en/chris-silva-fenerbahce-partizan-euroleague-transfer/",
+   "title": "Basketball Sphere sources: Fenerbahce center Chris Silva closing in on Partizan move",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "per month",
+    "sum of money"
+   ],
+   "snippets": [
+    "The amount Partizan would need to pay stands at 100,000 dollars per month, which represents an excellent price-to-quality ratio."
+   ],
+   "amounts": [
+    "100,000 dollars"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chris Silva",
+     "sheet": [
+      "25/26 AEK B.C.: 354,000 €",
+      "25/26 Fenerbahce Istanbul: 235,703 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "dafdb447185c",
+   "url": "https://www.dnevnik.si/novice/svet/v-keniji-zasegli-za-24-milijonov-evrov-metamfetamina-2839427/",
+   "title": "V Keniji zasegli za 24 milijonov evrov metamfetamina",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Kenijska policija je v okviru operacije proti mednarodnim mrežam trgovine z mamili v soboto zasegla 454 kilogramov metamfetamina v vrednosti 27 milijonov dolarjev (okoli 24 milijonov evrov)."
+   ],
+   "amounts": [
+    "24 milijonov",
+    "27 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f4537582c754",
+   "url": "https://www.dnevnik.si/novice/slovenija/place-za-zaposlene-v-dolgotrajni-oskrbi-prvic-vkljucujejo-tudi-dodatek-2839424/",
+   "title": "Plače za zaposlene v dolgotrajni oskrbi prvič vključujejo tudi dodatek",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "placo"
+   ],
+   "snippets": [
+    "Zaposleni v dolgotrajni oskrbi bodo v skladu z začasnimi ukrepi za učinkovitejše izvajanje dolgotrajne oskrbe predvideni dodatek prvič prejeli z oktobrsko plačo, ki se izplačuje v teh dneh.",
+    "Zaposleni, ki neposredno izvajajo storitve dolgotrajne oskrbe, storitve pomoči družini na domu, osnovno oziroma socialno oskrbo, zdravstveno nego ali rehabilitacijo, bodo za poln delovni čas s plačo prejeli mesečni dodatek v višini 300 evrov bruto.",
+    "Drugi zaposleni pri teh izvajalcih bodo dobili dodatek v višini 150 evrov bruto mesečno za poln delovni čas, so spomnili na spletni strani ministrstva za demografijo, družino in socialne zadeve."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "0f89015b73ed",
    "url": "https://www.krepsinis.net/naujiena/rytas-veda-derybas-su-r-beaubois/354294",
@@ -1139,6 +1784,40 @@
    ],
    "players": [],
    "nba": false
+  },
+  {
+   "id": "9211d3fdf692",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/novi-centar-na-radaru-partizan-mozzart-bet-gleda-ka-istanbulu/558498",
+   "title": "Novi centar na radaru: Partizan Mozzart Bet gleda ka Istanbulu | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar"
+   ],
+   "snippets": [
+    "Ono što se sada zna, jeste da je na radaru Partizan Mozzart Beta, dok \" Basketball Sphere \" prenosi da bi imao 100.000 dolara mesečno u redovima beogradskog kluba."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
   }
  ]
 }
