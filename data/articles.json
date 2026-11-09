@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09T13:30+00:00",
+ "updated": "2026-11-09T15:10+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,26 +13,25 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
-   "site": "BasketNews.com",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -41,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
+   "pages": 2,
+   "oldest": "2026-10-26",
    "stop": "reached articles checked before"
   },
   {
@@ -113,8 +112,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -127,11 +126,12 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 28,
+   "checked": 24,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,7 +150,7 @@
   {
    "site": "Sport24",
    "checked": 6,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,13 +185,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -204,17 +203,17 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -222,28 +221,29 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-03",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 0,
+   "checked": 17,
+   "found": 4,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -258,21 +258,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -294,7 +294,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -303,6 +303,494 @@
   }
  ],
  "items": [
+  {
+   "id": "0f89015b73ed",
+   "url": "https://www.krepsinis.net/naujiena/rytas-veda-derybas-su-r-beaubois/354294",
+   "title": "„Rytas“ veda derybas su R.Beaubois | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "Krepsinis.net laidoje „Ilgoji pertrauka“ žurnalistas Jonas Lekšas užsiminė, kad „Rytas“ naujokui buvo numatęs 30 tūkstančių eurų per mėnesį atlygį."
+   ],
+   "amounts": [
+    "30 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Rytas Vilnius",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 10,535,000 €, salary budget 5,320,000 €",
+      "25/26: budget 7,078,706 €, salary budget 3,601,701 €",
+      "24/25: budget 5,908,327 €, salary budget 2,952,200 €",
+      "player rows: 26/27 (8), 25/26 (13), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "196ba5bbf82b",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/nuo-eurolygos-legendos-iki-monstro-belgijoje-kur-krypsta-ryto-zvilgsnis-874-2801998?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Nuo Eurolygos legendos iki monstro Belgijoje: kur krypsta „Ryto“ žvilgsnis?",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "Krepšinio kuluaruose kalbama, jog vilniečiai gali investuoti 30-35 tūkstančių eurų mėnesinį atlygį, o naujokų „Ryte“ perspektyvoje gali atsidurti ne vienas."
+   ],
+   "amounts": [
+    "35 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Rytas Vilnius",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 10,535,000 €, salary budget 5,320,000 €",
+      "25/26: budget 7,078,706 €, salary budget 3,601,701 €",
+      "24/25: budget 5,908,327 €, salary budget 2,952,200 €",
+      "player rows: 26/27 (8), 25/26 (13), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Trabzonspor B.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,300,000 €",
+      "21/22: row exists, no amounts",
+      "player rows: 26/27 (1), 15/16 (1)"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Ignas Urbonas",
+     "sheet": [
+      "24/25 Rytas Vilnius: 10,000 €"
+     ]
+    },
+    {
+     "name": "Martynas Paliukėnas",
+     "sheet": [
+      "25/26 Rytas Vilnius: 80,000 €",
+      "24/25 Rytas Vilnius: 70,000 €"
+     ]
+    },
+    {
+     "name": "Matas Jogėla",
+     "sheet": [
+      "26/27 Rytas Vilnius: 300,000 €",
+      "25/26 Aquila Trento: 140,000 €",
+      "22/23 Neptūnas Klaipėda: 60,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "fa1c6bb92f14",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2032652/errick-mccollum-powell-harika-bir-transfer-fenerbahce-hucumunu-cok-rahatlatabilir/",
+   "title": "Errick McCollum: “Powell Harika Bir Transfer, Fenerbahçe Hücumunu Çok Rahatlatabilir”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Eski Fenerbahçe oyuncusu Errick McCollum , Euro McCollum Show’da sarı-lacivertlilerin Baskonia karşısındaki performansını ve EuroLeague’de ilk maçına çıkan Dwight Powell’ı değerlendirdi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Errick McCollum",
+     "sheet": [
+      "25/26 Galatasaray S.K.: 850,000 €",
+      "24/25 Karsiyaka Basket: 644,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "17553764f153",
+   "url": "https://www.sport24.gr/basket/euroleague-basketball/zalgkiris-ananeose-roumpstavitsious-kai-ton-stelnei-daneiko-stin-tofas/",
+   "title": "Ζάλγκιρις: Ανανέωσε Ρουμπσταβίτσιους και τον στέλνει δανεικό στην Τόφας",
+   "site": "Sport24",
+   "country": "USA",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ο 24χρονος γκαρντ ύψους 198 εκατοστών έχει ήδη ενταχθεί στην Τόφας Μπούρσα, μια ομάδα που αγωνίζεται τόσο στην Τουρκική Σούπερ Λίγκα Μπάσκετ όσο και στο BKT EuroCup."
+   ],
+   "amounts": [
+    "198 εκατοστών"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "NCAA Auburn Tigers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "be91615ba1a9",
+   "url": "https://www.mundodeportivo.com/baloncesto/20261109/1004249089/zaragoza-sera-sede-final-six-euroliga-femenina-2030.html",
+   "title": "Zaragoza será la sede de la 'Final Six' de la Euroliga femenina hasta 2030",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "Novak ha cifrado en “más de doce millones” los espectadores que ven la Final Six a través de la televisión y plataformas digitales y ha destacado la contribución de los aficionados locales durante las dos primeras ediciones."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "56fbb2a05c08",
+   "url": "https://basketballsphere.com/en/london-lions-vs-venezia-prediction-odds-eurocup-november-10-2026/",
+   "title": "London Lions vs Venezia Prediction & Odds: EuroCup, November 10, 2026",
+   "site": "Basketball Sphere",
+   "country": "United Kingdom",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "London Lions won both previous official meetings, played in the 2023/24 EuroCup."
+   ],
+   "amounts": [
+    "24 EuroCup"
+   ],
+   "seasons": [
+    "23/24"
+   ],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Umana Reyer Venezia",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 11,000,000 €, salary budget 7,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 11,840,000 €, salary budget 8,160,000 €",
+      "player rows: 25/26 (2), 21/22 (1), 17/18 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "064109ddd707",
+   "url": "https://basketballsphere.com/en/balkan-vs-paok-prediction-odds-eurocup-november-10-2026/",
+   "title": "Balkan vs PAOK Prediction & Odds: EuroCup, November 10, 2026",
+   "site": "Basketball Sphere",
+   "country": "Bulgaria",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "PAOK is unbeaten at 6–0 in the Greek league and holds a 4–2 EuroCup record.",
+    "That followed a record-setting 113–111 EuroCup win over Basket Roma, secured by Ben Moore’s last-second basket."
+   ],
+   "amounts": [
+    "2 EuroCup",
+    "111 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Balkan Botevgrad",
+     "country": "Bulgaria",
+     "sheet": [
+      "26/27: budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Vikos Falcons Ioannina B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 2,250,000 €, salary budget 1,500,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Andrea Trinchieri",
+     "sheet": [
+      "26/27 PAOK BC: 1,000,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "22/23 Bayern Munich: 750,000 €",
+      "21/22 Bayern Munich: 725,000 €"
+     ]
+    },
+    {
+     "name": "Ben Moore",
+     "sheet": [
+      "26/27 PAOK BC: 400,000 €"
+     ]
+    },
+    {
+     "name": "Breein Tyree",
+     "sheet": [
+      "26/27 PAOK BC: 500,000 €"
+     ]
+    },
+    {
+     "name": "Cedi Osman",
+     "sheet": [
+      "26/27 PAOK BC: 3,000,000 €",
+      "25/26 Panathinaikos B.C.: 1,500,000 €",
+      "24/25 Panathinaikos B.C.: 1,600,000 €"
+     ]
+    },
+    {
+     "name": "Marcus Foster",
+     "sheet": [
+      "26/27 PAOK BC: 1,100,000 €",
+      "24/25 Hapoel Tel Aviv: 552,000 €",
+      "22/23 Rytas Vilnius: 170,000 €"
+     ]
+    },
+    {
+     "name": "Naz Mitrou - Long",
+     "sheet": [
+      "26/27 PAOK BC: 700,000 €",
+      "24/25 Olympiacos B.C.: 650,000 €"
+     ]
+    },
+    {
+     "name": "Trevor Hudgins",
+     "sheet": [
+      "26/27 PAOK BC: 600,000 €",
+      "25/26 Le Mans Sarthe Basket: 285,000 €",
+      "24/25 Le Mans Sarthe Basket: 165,000 €",
+      "23/24 Le Mans Sarthe Basket: 140,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "cc4523f1aea5",
+   "url": "https://basketballsphere.com/en/bilbao-vs-alba-berlin-prediction-fiba-champions-league-november-10-2026/",
+   "title": "Bilbao vs Alba Berlin Prediction: FIBA Champions League, November 10, 2026",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Their most recent encounters came in 2017 in the same competition, while their first meeting dates back to the 2010 EuroCup Final Four in Vitoria."
+   ],
+   "amounts": [
+    "2010 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Alba Berlin",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 11,420,000 €, salary budget 4,690,000 €",
+      "24/25: budget 12,830,000 €, salary budget 6,790,000 €",
+      "player rows: 25/26 (1), 23/24 (1), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Bilbao Surne Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,400,000 €, salary budget 2,392,576 €",
+      "24/25: budget 4,013,347 €, salary budget 2,155,000 €",
+      "player rows: 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Margiris Normantas",
+     "sheet": [
+      "24/25 Rytas Vilnius: 180,000 €",
+      "23/24 Rytas Vilnius: 170,000 €",
+      "22/23 Rytas Vilnius: 110,000 €",
+      "21/22 Rytas Vilnius: 100,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "e3b2dcca8b33",
+   "url": "https://basketballsphere.com/en/euroleague-power-rankings-8-new-leader-emerges/",
+   "title": "EuroLeague Power Rankings #8: New leader emerges",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "sum of money"
+   ],
+   "snippets": [
+    "The Paris Basketball guard is officially the league’s ONLY player earning over €1M per season."
+   ],
+   "amounts": [
+    "€1M"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Joel Bolomboy",
+     "sheet": [
+      "26/27 ASVEL Basket: 800,000 €",
+      "24/25 KK Crvena zvezda: 900,000 €"
+     ]
+    },
+    {
+     "name": "Patty Mills",
+     "sheet": [
+      "26/27 ASVEL Basket: 800,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "bd8a68bcc628",
    "url": "https://www.basketnews.lt/news-259126-ispanijos-ziniasklaida-43-eju-huertasas-keliasi-i-eurolyga.html#utm_medium=rss&utm_content=news",
