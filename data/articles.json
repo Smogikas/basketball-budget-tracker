@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-09T19:12+00:00",
+ "updated": "2026-11-09T21:05+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 3,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -23,17 +23,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -42,8 +41,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
@@ -51,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -69,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-09",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -106,7 +105,7 @@
   {
    "site": "Eurohoops EN",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -114,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -123,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 14,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -141,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -150,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,11 +158,11 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
-   "found": 2,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
@@ -177,8 +176,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
@@ -186,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -195,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -204,43 +203,43 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-03",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mundo Deportivo",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-04",
+   "stop": "reached start date"
+  },
+  {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -267,19 +266,19 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "",
    "stop": "reached articles checked before"
   },
@@ -294,15 +293,264 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "4f4530a8084e",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/atskleide-klubus-kurie-dalyvaus-eurolygos-pletroje-1362-2802296?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Atskleidė klubus, kurie dalyvaus Eurolygos plėtroje",
+   "site": "15min 24sek",
+   "country": "France",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "Visos naujosios Eurolygos franšizės turėtų susimokėti nuo 50 iki 90 mln.",
+    "eurų mokestį, o tai reiškia, kad Eurolyga sulauks maždaug 400 mln.",
+    "eurų įplaukų – didžioji jų dalis atiteks jau egzistuojančioms franšizėms."
+   ],
+   "amounts": [
+    "90 mln",
+    "400 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 22,500,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "52f10932d882",
+   "url": "https://www.eurohoops.net/tr/fiba-champions-league-tr/2032818/eski-anadolu-efes-oyuncusu-basketbol-sampiyonlar-ligi-temsilcisine-yakin/",
+   "title": "Eski Anadolu Efes Oyuncusu, Basketbol Şampiyonlar Ligi Temsilcisine Yakın",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Krepsinis.net’in “Long Break” programında verilen bilgiye göre Rytas, yeni transfer için aylık yaklaşık 30 bin euro civarında bir bütçe ayırmış durumda."
+   ],
+   "amounts": [
+    "30 bin"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Rytas Vilnius",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 10,535,000 €, salary budget 5,320,000 €",
+      "25/26: budget 7,078,706 €, salary budget 3,601,701 €",
+      "24/25: budget 5,908,327 €, salary budget 2,952,200 €",
+      "player rows: 26/27 (8), 25/26 (13), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f232970136f5",
+   "url": "https://telesport.rs/2026/11/09/real-madrid-pomera-granice-kraljevski-klub-ima-najveci-budzet-ikada/",
+   "title": "Real Madrid pomera granice: Kraljevski klub ima najveći budžet ikada - Telesport",
+   "site": "Telesport",
+   "country": "Spain",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "evra",
+    "milion",
+    "platama",
+    "sum of money"
+   ],
+   "snippets": [
+    "raspolagati budžetom od čak 67,2 miliona evra za košarkašku sekciju.",
+    "raspolagati budžetom od čak 67,2 miliona evra za košarkašku sekciju.",
+    "Od ukupne sume, 44,4 miliona evra namenjeno je platama igrača i trenera."
+   ],
+   "amounts": [
+    "67,2 miliona",
+    "44,4 miliona",
+    "48,6 miliona",
+    "10 miliona",
+    "33 miliona",
+    "707,1 milion",
+    "14 miliona",
+    "17,5 miliona"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5c39ad1da973",
+   "url": "https://basketballsphere.com/en/ibon-navarro-on-very-funny-milos-teodosic-dynamic-and-serbia-vs-spain-culture-shock/",
+   "title": "Ibon Navarro details \"very funny\" Milos Teodosic dynamic and Serbia vs Spain culture shock",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-09",
+   "found": "2026-11-09",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "million"
+   ],
+   "snippets": [
+    "It is not the same to work in Unicaja for four years where players leave their egos aside, and to deal with established EuroLeague names thinking about multi-million dollar contracts."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Unicaja Malaga",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 19,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 11,500,000 €",
+      "24/25: budget 15,200,000 €, salary budget 10,600,000 €",
+      "player rows: 25/26 (1), 17/18 (1), 15/16 (2)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Miloš Teodosič",
+     "sheet": [
+      "24/25 KK Crvena zvezda: 1,000,000 €",
+      "22/23 Virtus Bologna: 2,100,000 €",
+      "21/22 Virtus Bologna: 1,700,000 €",
+      "20/21 Virtus Bologna: 1,740,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "c1efcf15cf57",
    "url": "https://sportando.basketball/chris-silva-verso-il-partizan-trattativa-in-corso-con-il-fenerbahce/",
