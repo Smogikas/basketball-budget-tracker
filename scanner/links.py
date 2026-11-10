@@ -25,5 +25,14 @@ for url in open(os.path.join(ROOT, "config", "probe_urls.txt")).read().split():
         h, t = a["href"], a.get_text(" ", strip=True)[:40]
         if re.search(r"pag|page|p=|/\d{1,3}/?$|siguiente|anterior|mas|more", h + " " + t, re.I):
             print("  A", repr(t), urljoin(r.url, h))
-    for m in re.findall(r".{80}(?:page|pagina|offset|loadMore|cargar)[^<]{0,120}", r.text, re.I)[:15]:
+    for m in soup.find_all("meta"):
+        if re.search(r"date|time|publish", str(m), re.I):
+            print("  META", str(m)[:200])
+    for t in soup.find_all("time"):
+        print("  TIME", str(t)[:200])
+    for m in re.findall(r".{60}(?:datePublished|dateCreated|uploadDate)[^<]{0,80}", r.text)[:5]:
+        print("  LD", m)
+    for m in re.findall(r"[^<>]{0,60}\b\d{1,2}[/.-]\d{1,2}[/.-]20\d\d\b[^<>]{0,40}|[^<>]{0,40}\b\d{1,2} de [a-z]+ de 20\d\d[^<>]{0,40}", r.text)[:6]:
+        print("  DATE", m.strip())
+    for m in re.findall(r".{80}(?:page|pagina|offset|loadMore|cargar)[^<]{0,120}", r.text, re.I)[:0]:
         print("  JS", m.replace("\n", " "))
