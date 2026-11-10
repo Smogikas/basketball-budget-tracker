@@ -1,389 +1,188 @@
 {
- "updated": "2026-11-10T09:06+00:00",
+ "updated": "2026-11-10T09:33+00:00",
  "warnings": [],
  "run": [
   {
-   "site": "Sportando",
-   "checked": 9,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages"
-  },
-  {
-   "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "PianetaBasket",
-   "checked": 8,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-10-26",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Israel Hayom",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://www.israelhayom.co.il/sitemaps/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.israelhayom.co.il/sitemaps/googlenews.xml"
-  },
-  {
-   "site": "Sport5",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketfaul",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-01",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before",
-   "skipped_nba": 2
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 14,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 6,
-   "found": 2,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sport24",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Encestando",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-10-30",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Marca",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-04",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Bild Basketball",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
-   "checked": 9,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basket.zoznam.sk",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-02",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SportoweFakty",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sporx",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Walla Sport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "El Correo",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-04-07",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Gigantes",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "2Playbook ACB",
-   "checked": 0,
-   "found": 0,
+   "checked": 25,
+   "found": 5,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-03-05",
+   "stop": "reached start date"
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 0,
-   "found": 0,
+   "checked": 23,
+   "found": 7,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-08-24",
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook FIBA",
-   "checked": 0,
-   "found": 0,
+   "checked": 14,
+   "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-03-24",
+   "stop": "reached start date"
   },
   {
    "site": "2Playbook BCL",
-   "checked": 0,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2023-06-07",
+   "stop": "reached start date"
   },
   {
    "site": "2Playbook LEB Oro",
-   "checked": 0,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2023-09-29",
+   "stop": "reached start date"
   }
  ],
  "items": [
+  {
+   "id": "e84d853ac968",
+   "url": "https://www.2playbook.com/clubes/panathinaikos-bc-dubai-hapoel-por-se-disparan-presupuestos-euroliga_24200_102.html",
+   "title": "De Panathinaikos a BC Dubai y Hapoel: ¿por qué se disparan los presupuestos de la Euroliga?",
+   "site": "2Playbook Euroliga",
+   "country": "France",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "masa salarial",
+    "millon",
+    "presupuest",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Los 20 clubes de la Euroliga destinan entre 10 millones y 50 millones de euros en salarios.",
+    "Los clubes parten de presupuestos muy diferentes y la disparidad fiscal entre países condiciona el coste de las plantillas y el poder adquisitivo real de cada proyecto.",
+    "Algunos de los recién llegados irrumpieron en la competición con los presupuestos más altos, pero continúan siendo los griegos los que lideran el ranking de gasto salarial que permite comparar a todas las entidades por igual."
+   ],
+   "amounts": [
+    "10 millones",
+    "50 millones",
+    "400 millones",
+    "34 millones",
+    "60 millones",
+    "22 millones",
+    "40 millones",
+    "70 millones"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27",
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Guerschon Yabusele",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,400,000 €",
+      "20/21 ASVEL Basket: 300,000 €",
+      "19/20 ASVEL Basket: 300,000 €"
+     ]
+    },
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Nigel Hayes - Davis",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,500,000 €",
+      "25/26 Panathinaikos B.C.: 2,000,000 €",
+      "24/25 Fenerbahce Istanbul: 2,024,000 €",
+      "20/21 Žalgiris Kaunas: 370,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "45435253d889",
    "url": "https://www.sdna.gr/mpasket/1485301_synagermos-stoys-nagkets-den-einai-bebaii-i-ananeosi-toy-giokits",
@@ -597,6 +396,183 @@
    "nba": false
   },
   {
+   "id": "48a2b33bd50e",
+   "url": "https://www.2playbook.com/clubes/real-madrid-basquet-perdidas-2025-2026_24206_102.html",
+   "title": "El Real Madrid de básquet sufre pérdidas récord y eleva su presupuesto a más de 60 millones",
+   "site": "2Playbook ACB",
+   "country": "Spain",
+   "published": "2026-11-06",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "masa salarial",
+    "millon",
+    "presupuest",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "El club presidido por Florentino Pérez soportó unas pérdidas de 33,2 millones de euros en 2025-2026 y elevará su apuesta en 2026-2027, temporada en la que ha presupuestado 67,2 millones de euros.",
+    "La masa salarial es la aguja que mueve la horquilla del gasto y superó por primera vez los 40 millones de euros en nóminas deportivas en 2025-2026, según datos analizados por Intelligence 2P , la unidad de estrategia e inteligencia de mercado de 2Playbook .",
+    "Y, de nuevo, el presupuesto para 2026-2027 es aún mayor: 52,7 millones de euros a plantilla, de los cuales 44,4 millones irá a parar a los jugadores y al staff ."
+   ],
+   "amounts": [
+    "60 millones",
+    "33,2 millones",
+    "67,2 millones",
+    "40 millones",
+    "48,6 millones",
+    "10 millones",
+    "52,7 millones",
+    "44,4 millones"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d45f563af71a",
+   "url": "https://www.2playbook.com/clubes/real-madrid-femenino-vuelve-perdidas-pese-rozar-15-millones-en-2025-2026_24205_102.html",
+   "title": "El Real Madrid Femenino vuelve a pérdidas pese a rozar los 15 millones en 2025-2026",
+   "site": "2Playbook ACB",
+   "country": "Spain",
+   "published": "2026-11-06",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "masa salarial",
+    "millon",
+    "por temporada",
+    "presupuest",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Esta caída a números rojos, ya prevista en el presupuesto, no esconde tampoco una nueva alza del negocio .",
+    "A un ritmo de crecimiento de dos millones de euros por temporada, la facturación del futfem blanco alcanzó los 14,4 millones de euros a cierre de 2025-2026, según datos analizados por Intelligence 2P , la unidad de estrategia e inteligencia de mercado de 2Playbook .",
+    "El club blanco, todavía en un escalafón inferior en lo deportivo y en presupuesto, no llega a los 20 millones de las azulgranas, pero se apoya notablemente en estos ingresos."
+   ],
+   "amounts": [
+    "15 millones",
+    "11,8 millones",
+    "785.000 euros",
+    "14,4 millones",
+    "6 millones",
+    "20 millones",
+    "674.000 euros",
+    "1,6 millones"
+   ],
+   "seasons": [
+    "25/26",
+    "24/25",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "48a2b33bd50e",
+   "url": "https://www.2playbook.com/clubes/real-madrid-basquet-perdidas-2025-2026_24206_102.html",
+   "title": "El Real Madrid de básquet sufre pérdidas récord y eleva su presupuesto a más de 60 millones",
+   "site": "2Playbook Euroliga",
+   "country": "Spain",
+   "published": "2026-11-06",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "masa salarial",
+    "millon",
+    "presupuest",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "El club presidido por Florentino Pérez soportó unas pérdidas de 33,2 millones de euros en 2025-2026 y elevará su apuesta en 2026-2027, temporada en la que ha presupuestado 67,2 millones de euros.",
+    "La masa salarial es la aguja que mueve la horquilla del gasto y superó por primera vez los 40 millones de euros en nóminas deportivas en 2025-2026, según datos analizados por Intelligence 2P , la unidad de estrategia e inteligencia de mercado de 2Playbook .",
+    "Y, de nuevo, el presupuesto para 2026-2027 es aún mayor: 52,7 millones de euros a plantilla, de los cuales 44,4 millones irá a parar a los jugadores y al staff ."
+   ],
+   "amounts": [
+    "60 millones",
+    "33,2 millones",
+    "67,2 millones",
+    "40 millones",
+    "48,6 millones",
+    "10 millones",
+    "52,7 millones",
+    "44,4 millones"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
    "id": "0786c70e9df7",
    "url": "https://www.gigantes.com/nba/la-unica-mancha-del-genesis-una-historia-contra-la-historia-por-gonzalo-vazquez/",
    "title": "La única mancha del génesis: Una historia contra la historia, por Gonzalo Vázquez",
@@ -774,6 +750,314 @@
    "nba": false
   },
   {
+   "id": "c27adeb6c6c6",
+   "url": "https://www.2playbook.com/competiciones/13-clubes-duenos-euroliga-estan-abiertos-entrar-en-nba-europea-si-mantienen-control_24134_102.html",
+   "title": "Los 13 clubes dueños de Euroliga están abiertos a entrar en la NBA europea si mantienen el control",
+   "site": "2Playbook Euroliga",
+   "country": "United Arab Emirates",
+   "published": "2026-10-30",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Según el citado medio, la NBA ofrecía más de 500 millones de euros a repartir entre los 13 clubes y exigía una inversión de 440 millones a cada uno de los que se sumase al proyecto.",
+    "Mientras negocia con la NBA y la FIBA, la Euroliga sigue avanzando con su plan de negocio que contempla repartir 3.400 millones de euros entre los equipos participantes a lo largo de los próximos diez años.",
+    "Esta cantidad se compondrá de 2.200 millones de euros procedentes de ingresos ordinarios y 1.200 millones de euros en concepto de fees de franquicias ."
+   ],
+   "amounts": [
+    "500 millones",
+    "440 millones",
+    "3.400 millones",
+    "2.200 millones",
+    "1.200 millones",
+    "648 millones",
+    "13.000 millones",
+    "1.800 millones"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c27adeb6c6c6",
+   "url": "https://www.2playbook.com/competiciones/13-clubes-duenos-euroliga-estan-abiertos-entrar-en-nba-europea-si-mantienen-control_24134_102.html",
+   "title": "Los 13 clubes dueños de Euroliga están abiertos a entrar en la NBA europea si mantienen el control",
+   "site": "2Playbook FIBA",
+   "country": "United Arab Emirates",
+   "published": "2026-10-30",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Según el citado medio, la NBA ofrecía más de 500 millones de euros a repartir entre los 13 clubes y exigía una inversión de 440 millones a cada uno de los que se sumase al proyecto.",
+    "Mientras negocia con la NBA y la FIBA, la Euroliga sigue avanzando con su plan de negocio que contempla repartir 3.400 millones de euros entre los equipos participantes a lo largo de los próximos diez años.",
+    "Esta cantidad se compondrá de 2.200 millones de euros procedentes de ingresos ordinarios y 1.200 millones de euros en concepto de fees de franquicias ."
+   ],
+   "amounts": [
+    "500 millones",
+    "440 millones",
+    "3.400 millones",
+    "2.200 millones",
+    "1.200 millones",
+    "648 millones",
+    "13.000 millones",
+    "1.800 millones"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f29bbd9433a4",
+   "url": "https://www.2playbook.com/competiciones/euroliga-confirma-abu-dhabi-volvera-albergar-final-four-euroliga-en-2027-2029_24102_102.html",
+   "title": "La Euroliga confirma que Abu Dhabi volverá a albergar la Final Four de la Euroliga en 2027 y 2029",
+   "site": "2Playbook Euroliga",
+   "country": "United Arab Emirates",
+   "published": "2026-10-27",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "El torneo ya se celebró en Abu Dhabi en 2025 , tras desembolsar más de 20 millones de euros .",
+    "Si bien se desconoce el importe de las dos próximas ediciones que albergará el emirato, se calculaba que el acuerdo a tres años le reportaría unos 75 millones de euros a la competición.",
+    "De este modo, la Euroliga refuerza el negocio del torneo en Oriente Medio y el norte de África (Mena), donde la incorporación de Dubai Basketball en la 2025-2026 generó una audiencia televisiva acumulada de 19,57 millones de espectadores mediante la cadena Dubai TV."
+   ],
+   "amounts": [
+    "20 millones",
+    "75 millones",
+    "19,57 millones",
+    "49.000 millones",
+    "11.900 millones",
+    "90.000 millones",
+    "21.879 millones"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f29bbd9433a4",
+   "url": "https://www.2playbook.com/competiciones/euroliga-confirma-abu-dhabi-volvera-albergar-final-four-euroliga-en-2027-2029_24102_102.html",
+   "title": "La Euroliga confirma que Abu Dhabi volverá a albergar la Final Four de la Euroliga en 2027 y 2029",
+   "site": "2Playbook FIBA",
+   "country": "United Arab Emirates",
+   "published": "2026-10-27",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "El torneo ya se celebró en Abu Dhabi en 2025 , tras desembolsar más de 20 millones de euros .",
+    "Si bien se desconoce el importe de las dos próximas ediciones que albergará el emirato, se calculaba que el acuerdo a tres años le reportaría unos 75 millones de euros a la competición.",
+    "De este modo, la Euroliga refuerza el negocio del torneo en Oriente Medio y el norte de África (Mena), donde la incorporación de Dubai Basketball en la 2025-2026 generó una audiencia televisiva acumulada de 19,57 millones de espectadores mediante la cadena Dubai TV."
+   ],
+   "amounts": [
+    "20 millones",
+    "75 millones",
+    "19,57 millones",
+    "49.000 millones",
+    "11.900 millones",
+    "90.000 millones",
+    "21.879 millones"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "f0e44c570fda",
    "url": "https://www.gigantes.com/euroleague-women/pagina-web-oficial-euroleague-women-disponible-espanol/",
    "title": "La página web oficial de la EuroLeague Women ya está disponible en español",
@@ -807,6 +1091,70 @@
       "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
       "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
       "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4cee4ab7a254",
+   "url": "https://www.2playbook.com/clubes/dueno-zalgiris-kaunas-compra-joventut-badalona-scranton_24077_102.html",
+   "title": "El dueño del Zalgiris Kaunas compra el Joventut de Badalona a Scranton",
+   "site": "2Playbook ACB",
+   "country": "Spain",
+   "published": "2026-10-23",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "No han trascendido los detalles económicos de la transacción, si bien el vehículo inversor de la familia Grifols ha destinado más de 21 millones de euros durante sus ocho años en el club en ampliaciones de capital .",
+    "Tras la inyección de 3,69 millones de 2021 , se estimaba que su participación se elevó hasta el 85,45% , que ahora pasará a manos de Confluence Valley, con el resto del capital dividido entre otros socios, la sociedad Baspenya y la autocartera del Club Joventut Badalona .",
+    "El pasivo de La Penya superaba los 24,8 millones a cierre de la 2024-2025 y más de 18,3 millones hacen referencia a los préstamos del que hasta ahora era su accionista mayoritario, según datos de Intelligence 2P , la unidad de estrategia e inteligencia de mercado de 2Playbook."
+   ],
+   "amounts": [
+    "21 millones",
+    "3,69 millones",
+    "24,8 millones",
+    "18,3 millones"
+   ],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
      ]
     }
    ],
@@ -860,6 +1208,41 @@
     }
    ],
    "nba": true
+  },
+  {
+   "id": "75e7c02f0824",
+   "url": "https://www.2playbook.com/clubes/basquet-manresa-factura-45-millones-potencia-su-fundacion-en-busca-nuevos-ingresos_24019_102.html",
+   "title": "Bàsquet Manresa factura 4,5 millones y potencia su fundación en busca de nuevos ingresos",
+   "site": "2Playbook ACB",
+   "country": "Spain",
+   "published": "2026-10-19",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "4,5 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basquet Manresa",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 4,500,000 €, salary budget 3,000,000 €",
+      "25/26: budget 4,100,000 €, salary budget 2,800,000 €",
+      "24/25: budget 3,900,000 €, salary budget 2,700,000 €",
+      "player rows: 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
   },
   {
    "id": "6ed01373d04a",
@@ -960,6 +1343,100 @@
    "nba": true
   },
   {
+   "id": "14d499ef718c",
+   "url": "https://www.2playbook.com/competiciones/euroliga-repartira-3400-millones-alcanzara-valoracion-13000-millones-en-10-anos_24016_102.html",
+   "title": "La Euroliga repartirá 3.400 millones y alcanzará una valoración de 13.000 millones en 10 años",
+   "site": "2Playbook Euroliga",
+   "country": "United Arab Emirates",
+   "published": "2026-10-16",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "La competición contempla elevar sus ingresos comerciales anuales hasta 648 millones y contempla una nueva ventana de expansión de franquicias en 2031.",
+    "El plan contempla repartir 3.400 millones de euros entre los equipos participantes a lo largo de los próximos diez años.",
+    "Esta cantidad se compondrá de 2.200 millones de euros procedentes de ingresos ordinarios y 1.200 millones de euros en concepto de fees de franquicias ."
+   ],
+   "amounts": [
+    "3.400 millones",
+    "13.000 millones",
+    "648 millones",
+    "2.200 millones",
+    "1.200 millones",
+    "1.800 millones",
+    "1.400 millones",
+    "5.400 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
    "id": "02a1293593ee",
    "url": "https://www.elcorreo.com/deportes/baloncesto/nba/debut-aday-mara-nba-aire-20261016093007-ntrc.html",
    "title": "El debut de Aday Mara en la NBA está en el aire | El Correo",
@@ -1036,6 +1513,82 @@
    "nba": false
   },
   {
+   "id": "a670834ff4cb",
+   "url": "https://www.2playbook.com/inside-2playbook/pro-media-content/exclusividad-ya-no-basta-deporte-busca-nuevas-vias-explotar-sus-derechos-audiovisuales_24006_102.html",
+   "title": "La exclusividad ya no basta: el deporte busca nuevas vías para explotar sus derechos audiovisuales",
+   "site": "2Playbook ACB",
+   "country": "Spain",
+   "published": "2026-10-15",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Durante la última temporada, la competición alcanzó 800 millones de visualizaciones en vídeo .",
+    "“Ahora la audiencia potencial es de cinco millones de espectadores."
+   ],
+   "amounts": [
+    "800 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a670834ff4cb",
+   "url": "https://www.2playbook.com/inside-2playbook/pro-media-content/exclusividad-ya-no-basta-deporte-busca-nuevas-vias-explotar-sus-derechos-audiovisuales_24006_102.html",
+   "title": "La exclusividad ya no basta: el deporte busca nuevas vías para explotar sus derechos audiovisuales",
+   "site": "2Playbook Euroliga",
+   "country": "Spain",
+   "published": "2026-10-15",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Durante la última temporada, la competición alcanzó 800 millones de visualizaciones en vídeo .",
+    "“Ahora la audiencia potencial es de cinco millones de espectadores."
+   ],
+   "amounts": [
+    "800 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "fc9b21aa2c12",
    "url": "https://www.elcorreo.com/deportes/baloncesto/nba/aday-mara-dispara-ilusion-temporada-regreso-nba-20261013112103-ntrc.html",
    "title": "Aday Mara dispara la ilusión en la temporada del regreso de la ÑBA | El Correo",
@@ -1106,6 +1659,71 @@
    ],
    "players": [],
    "nba": false
+  },
+  {
+   "id": "7247d51ea518",
+   "url": "https://www.2playbook.com/competiciones/adam-silver-nba-decision-euroliga-vamos-encontrar-solucion_23968_102.html",
+   "title": "Adam Silver (NBA) tras la decisión de Euroliga: “Vamos a encontrar una solución”",
+   "site": "2Playbook Euroliga",
+   "country": "Germany",
+   "published": "2026-10-08",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "millon"
+   ],
+   "snippets": [
+    "Según ha explicado, la NBA ha recibido ofertas de cientos de millones de dólares por las futuras franquicias, procedentes de clubes de baloncesto, grandes marcas del fútbol europeo e inversores interesados en crear equipos desde cero."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 49,600,000 €",
+      "24/25: budget 45,000,000 €, salary budget 37,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
   },
   {
    "id": "e36d82e710ab",
