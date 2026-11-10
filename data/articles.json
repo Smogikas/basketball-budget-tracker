@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:01+00:00",
+ "updated": "2026-11-10T05:08+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,16 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -30,13 +21,22 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
@@ -67,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -112,10 +112,10 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -130,16 +130,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,21 +202,22 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -229,19 +230,19 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -265,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,6 +302,45 @@
   }
  ],
  "items": [
+  {
+   "id": "f2469732391a",
+   "url": "https://basketballsphere.com/en/nikola-kusturica-ucla-2028-nba-draft/",
+   "title": "From Barcelona to UCLA: How Nikola Kusturica became one of the 2028 NBA Draft's most intriguing prospects",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "His free throws have ranged from 72% to 83% in three tournaments: 82.9% through the quarterfinals of the 2025 U16 EuroBasket, 72.9% at the World Cup and 71.9% in the under-18 NextGen EuroLeague.",
+    "In August 2025 in Tbilisi, in his first FIBA tournament, he was MVP of the U16 EuroBasket with 20.0 points, 7.7 rebounds and 3.4 assists a game."
+   ],
+   "amounts": [
+    "16 EuroBasket"
+   ],
+   "seasons": [
+    "22/23"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "605c0f124240",
    "url": "https://www.dnevnik.si/novice/svet/costa-brusi-nov-pogajalski-okvir-za-mater-vseh-proracunov-2839390/",
