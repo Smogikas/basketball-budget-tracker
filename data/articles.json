@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:22+00:00",
+ "updated": "2026-11-10T15:04+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,11 +13,11 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "no older pages"
   },
   {
@@ -31,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -40,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-26",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +85,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -103,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,15 +122,16 @@
   {
    "site": "Eurohoops TR",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 20,
+   "checked": 16,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -139,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -148,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +158,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
+   "checked": 7,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -166,7 +167,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -211,12 +212,12 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
@@ -229,16 +230,16 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -256,11 +257,11 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
+   "oldest": "2026-11-05",
    "stop": "no older pages"
   },
   {
@@ -283,31 +284,30 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 25,
-   "found": 4,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages",
-   "skipped_nba": 5
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
@@ -329,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -383,6 +383,347 @@
   }
  ],
  "items": [
+  {
+   "id": "3ee7467f76bb",
+   "url": "https://www.eurohoops.net/en/euroleague/2033039/euroleague-campaign-born-not-built-to-bring-the-excitement-to-euroleague-cities/",
+   "title": "EuroLeague launches new content series celebrating authentic local city identities",
+   "site": "Eurohoops EN",
+   "country": "Germany",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "City Takeover presented by Panini takes central stage in the 2026–27 EuroLeague Regular Season",
+    "A 72-hour city takeover featuring fan-favorite content creators SBB, Euro Insiders and Laura Dragunaite will extend the excitement beyond the court."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fd8123d33b16",
+   "url": "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "title": "Tonye Jekiri and Luca Vildoza are game-time decisions for Partizan",
+   "site": "Eurohoops EN",
+   "country": "Serbia",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The official injury report heading to Round 11 of the 2026–27 EuroLeague Regular Season",
+    "Euroleague Basketball released the injury report for Round 11 of the 2026–27 EuroLeague Regular Season on Tuesday."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Vildoza",
+     "sheet": [
+      "25/26 Virtus Bologna: 1,020,000 €",
+      "24/25 Olympiacos B.C.: 1,000,000 €",
+      "22/23 KK Crvena zvezda: 640,000 €"
+     ]
+    },
+    {
+     "name": "Tonye Jekiri",
+     "sheet": [
+      "19/20 ASVEL Basket: 280,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "3d9a445f3f52",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2033028/iddia-baskoniada-yasanan-ayriliklar-kulube-pahaliya-patladi/",
+   "title": "İDDİA: Baskonia’da Yaşanan Ayrılıklar, Kulübe Pahalıya Patladı!",
+   "site": "Eurohoops TR",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bask medyası El Correo’nun haberine göre Baskonia, şu sıralar yaklaşık 3 milyon euroluk bir tazminat ödemesiyle karşı karşıya.",
+    "Baskonia, habere göre bu iki koç için yaklaşık 1 milyon euroluk tazminat ödeyecek.",
+    "Bask ekibi, takımdan gönderilmeden önce sözleşmesinde 2 yıl daha bulunan Howard’a 2 milyon euro tazminat ödemesi yapacak."
+   ],
+   "amounts": [
+    "3 milyon",
+    "1 milyon",
+    "2 milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Markus Howard",
+     "sheet": [
+      "26/27 Zenit Saint Petersburg: 1,000,000 €",
+      "25/26 Saski Baskonia: 1,700,000 €",
+      "24/25 Saski Baskonia: 1,840,000 €",
+      "23/24 Saski Baskonia: 900,000 €"
+     ]
+    },
+    {
+     "name": "Pablo Laso",
+     "sheet": [
+      "15/16 Real Madrid Baloncesto: 930,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0bed9661baa2",
+   "url": "https://www.athletiko.gr/to-programma-fotia-oi-thysies-poy-prepei-na-ginoyn-kai-i-diacheirisi-toy-omprantovits-114725",
+   "title": "Το «καυτό» πρόγραμμα του Παναθηναϊκού, οι... θυσίες και η διαχείριση του Ομπράντοβιτς | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Δεν είναι καθόλου μα καθόλου εύκολο να κάνει «ένα», όλα αυτά τα αστέρια αξίας τόσων εκατομμυρίων."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27",
+    "11/12"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "242ef91a45af",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2585360/etsi-tha-ehoyme-tesseris-omades-stin-euroleague-tis-neas-sezon",
+   "title": "Έτσι θα έχουμε τέσσερις ομάδες στην Euroleague της νέας σεζόν!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Οι λόγοι που η ECA δεν συμπεριλαμβάνει τις σέρβικες ομάδες και τους Μπολονέζους στον αρχικό σχεδιασμό των μόνιμων άδειων, έχουν να κάνουν με την κυβερνητική αλλαγή στην Σερβία (όπου η επιχορήγηση του κράτους αποτελούσε πάνω από το 50% του budget της Παρτίζαν και του Ερυθρού Αστέρα ), αλλά και με …"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "2bcfe81a8a0b",
+   "url": "https://basketballsphere.com/en/five-euroleague-players-that-disappointed/",
+   "title": "Five EuroLeague players that disappointed this season after changing teams",
+   "site": "Basketball Sphere",
+   "country": "United Arab Emirates",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Thomas Walkup was one of the most expensive transfers in EuroLeague history, with Dubai reportedly acquiring him from Olympiacos for $2.6 million.",
+    "However, through 10 EuroLeague rounds – a sample size large enough to draw clear conclusions – he hasn’t distinguished himself in a single area, leaving it a complete mystery as to what can truly be expected of him at this level."
+   ],
+   "amounts": [
+    "$2.6 million",
+    "10 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Thomas Walkup",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,816,000 €",
+      "25/26 Olympiacos B.C.: 900,000 €",
+      "24/25 Olympiacos B.C.: 1,200,000 €",
+      "20/21 Žalgiris Kaunas: 350,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "4bc7706acc4a",
+   "url": "https://www.dnevnik.si/novice/svet/velika-interpolova-akcija-aretirali-vec-kot-260-tihotapcev-migrantov-2839660/",
+   "title": "Migrante prevažali v smrtno nevarnih razmerah, policija razkrila 41 združb",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "V zadnjih letih je na morju umrlo ali izginilo na tisoče ljudi, ki so poskušali priti v Evropo prek Sredozemskega morja ali atlantske obale Afrike."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "becee060dc83",
+   "url": "https://www.dnevnik.si/novice/slovenija/nevladniki-odlocevalce-in-kandidate-za-zupana-ljubljane-pozvali-k-ustavitvi-izgradnje-sezigalnice-2839659/",
+   "title": "Nevladniki odločevalce in kandidate za župana Ljubljane pozvali k ustavitvi izgradnje sežigalnice",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "odpadki Janković glede sežigalnice na Barju: Čakamo zeleno luč vlade Izgradnja nove sežigalnice naj bi stala med 400 in 490 milijonov evrov",
+    "Po navedbah nevladnikov naj bi po najnovejših ocenah Energetike Ljubljana izgradnja nove sežigalnice stala med 400 in 490 milijoni evrov."
+   ],
+   "amounts": [
+    "490 milijonov",
+    "490 milijoni"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "950ece7e987b",
    "url": "https://www.krepsinis.net/naujiena/pokycius-atliekanti-baskonia-ismokejo-solidzias-kompensacijas/354313",
