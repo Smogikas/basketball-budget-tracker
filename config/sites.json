@@ -40,7 +40,7 @@
     {"name": "Sporx", "country": "Turkey", "type": "listing", "url": "https://www.sporx.com/basketbol/", "link_pattern": "SXHBQ\\d+SXQ", "general": true},
     {"name": "Walla Sport", "country": "Israel", "type": "listing", "url": "https://sports.walla.co.il/category/151?r=1", "link_pattern": "/item/\\d+", "general": true},
     {"name": "El Correo", "country": "Spain", "type": "rss", "url": "https://www.elcorreo.com/rss/2.0/?section=deportes/baloncesto", "section": "https://www.elcorreo.com/deportes/baloncesto/", "link_pattern": "/deportes/baloncesto/"},
-    {"name": "Gigantes", "country": "Spain", "type": "rss", "url": "https://www.gigantes.com/noticias/feed/", "section": "https://www.gigantes.com/noticias/"},
+    {"name": "Gigantes", "country": "Spain", "type": "rss", "url": "https://www.gigantes.com/noticias/feed/", "section": "https://www.gigantes.com/noticias/", "next_page": "https://www.gigantes.com/noticias/feed/?paged={n}"},
     {"name": "2Playbook ACB", "country": "", "type": "listing", "url": "https://www.2playbook.com/tag/acb", "link_pattern": "_\\d+_102\\.html"},
     {"name": "2Playbook Euroliga", "country": "", "type": "listing", "url": "https://www.2playbook.com/tag/euroliga", "link_pattern": "_\\d+_102\\.html"},
     {"name": "2Playbook FIBA", "country": "", "type": "listing", "url": "https://www.2playbook.com/tag/fiba", "link_pattern": "_\\d+_102\\.html"},
