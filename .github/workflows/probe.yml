@@ -6,6 +6,9 @@ on:
       mode:
         description: "feeds = find feeds for config/probe_urls.txt, pages = find older-page formats for config/sites.json"
         default: pages
+      only:
+        description: "pages mode: only sites whose name starts with these (comma-separated); empty = all"
+        default: ""
 
 permissions:
   contents: write
@@ -23,6 +26,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python scanner/${{ inputs.mode == 'feeds' && 'probe.py' || 'probe_pages.py' }}
         timeout-minutes: 10
+        env:
+          PROBE_ONLY: ${{ inputs.only }}
       - name: Save results
         if: always()
         run: |

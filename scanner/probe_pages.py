@@ -127,6 +127,9 @@ def probe(site):
 def main():
     cfg = json.load(open(os.path.join(ROOT, "config", "sites.json"), encoding="utf-8"))
     sites = [s for s in cfg["sites"] if s.get("enabled", True)]
+    only = [x.strip().lower() for x in os.environ.get("PROBE_ONLY", "").split(",") if x.strip()]
+    if only:   # e.g. "sporx, walla" = only sites whose name starts with these
+        sites = [s for s in sites if any(s["name"].lower().startswith(o) for o in only)]
     pool = ThreadPoolExecutor(max_workers=8)
     futures = {s["name"]: pool.submit(probe, s) for s in sites}
     wait(futures.values(), timeout=500)
