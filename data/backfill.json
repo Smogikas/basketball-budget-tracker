@@ -198,6 +198,60 @@
    "done": true,
    "stop": "no older pages",
    "oldest": "2026-11-03"
+  },
+  "Sporx": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
+  },
+  "Walla Sport": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
+  },
+  "El Correo": {
+   "page": 2,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-04-07"
+  },
+  "Gigantes": {
+   "page": 28,
+   "done": true,
+   "stop": "reached start date",
+   "oldest": "2026-09-30"
+  },
+  "2Playbook ACB": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
+  },
+  "2Playbook Euroliga": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
+  },
+  "2Playbook FIBA": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
+  },
+  "2Playbook BCL": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
+  },
+  "2Playbook LEB Oro": {
+   "page": 2,
+   "done": true,
+   "stop": "no older pages",
+   "oldest": ""
   }
  },
  "remaining": []
