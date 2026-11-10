@@ -1,439 +1,61 @@
 [
  {
-  "site": "Sportando",
-  "feed_links": 10,
+  "site": "Sporx",
+  "feed_links": 127,
   "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
+   null,
+   null
   ],
-  "section_links": 46,
-  "working": [
-   {
-    "template": "https://sportando.basketball/feed/?paged={n}",
-    "page2_new": 10,
-    "page5_new": 10,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_sample": [
-     "https://sportando.basketball/pallacanestro-reggiana-reyer-venezia-la-situazione-e-dove-vederla-in-tv-2/",
-     "https://sportando.basketball/warriors-nikola-jokic-obiettivo-2027/"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://sportando.basketball/sitemap.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=11&dd=06",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=11&dd=05",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=11&dd=04",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=11&dd=03",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=11&dd=02",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=11&dd=01",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=10&dd=31",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=10&dd=30",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=10&dd=29",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=10&dd=28",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=10&dd=27",
-     "https://sportando.basketball/sitemap.xml?yyyy=2026&mm=10&dd=26"
-    ],
-    "children_total": 2459
-   }
-  ]
- },
- {
-  "site": "BasketNews.lt",
-  "feed_links": 10,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 138,
+  "section_links": 127,
   "working": [],
   "sitemaps": [
    {
-    "sitemap": "https://www.basketnews.lt/cache/sitemaps/sitemaps_index.xml",
+    "sitemap": "https://www.sporx.com/sitemaps/GaleriSitemap.php",
+    "links": 500,
+    "dates": [
+     null,
+     null
+    ],
+    "children": [],
+    "children_total": 0
+   },
+   {
+    "sitemap": "https://www.sporx.com/sitemaps/GoogleNewsSitemap.php",
+    "links": 434,
+    "dates": [
+     "2026-11-10",
+     "2026-11-08"
+    ],
+    "children": [],
+    "children_total": 0
+   },
+   {
+    "sitemap": "https://www.sporx.com/sitemaps/posts.xml",
     "links": 0,
     "dates": [
      null,
      null
     ],
     "children": [
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_general.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_1.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_2.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_3.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_news_4.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_google_news.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_podcasts.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_podcast_episodes.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_leagues.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_teams.xml",
-     "https://www.basketnews.lt/cache/sitemaps/sitemaps_players.xml"
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-1.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-2.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-3.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-4.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-5.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-6.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-7.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-8.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-9.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-10.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-11.xml",
+     "https://www.sporx.com/sitemaps/posts/2025/posts-2025-12.xml"
     ],
-    "children_total": 25
-   },
-   {
-    "sitemap": "https://www.basketnews.lt/cache/sitemaps/sitemaps_news.xml",
-    "links": 16629,
-    "dates": [
-     "2026-11-06",
-     "2024-11-09"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.basketnews.lt/cache/sitemaps/sitemaps_google_news.xml",
-    "links": 39,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.basketnews.lt/cache/sitemaps/sitemaps_players.xml",
-    "links": 40000,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.basketnews.lt/cache/sitemaps/sitemaps_teams.xml",
-    "links": 34226,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.basketnews.lt/cache/sitemaps/sitemaps_leagues.xml",
-    "links": 138,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
+    "children_total": 23
    }
   ]
  },
  {
-  "site": "BasketNews.com",
-  "feed_links": 10,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 134,
-  "working": [
-   {
-    "template": "https://basketnews.com/?page={n}",
-    "page2_new": 85,
-    "page5_new": 0,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
-     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
-    ]
-   },
-   {
-    "template": "https://basketnews.com/?p={n}",
-    "page2_new": 85,
-    "page5_new": 0,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
-     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
-    ]
-   },
-   {
-    "template": "https://basketnews.com/?pg={n}",
-    "page2_new": 85,
-    "page5_new": 0,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
-     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
-    ]
-   },
-   {
-    "template": "https://basketnews.com/?strana={n}",
-    "page2_new": 85,
-    "page5_new": 0,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
-     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
-    ]
-   },
-   {
-    "template": "https://basketnews.com/?pagina={n}",
-    "page2_new": 85,
-    "page5_new": 0,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://basketnews.com/games/choose-your-champion/71-euroleague-bracket-challenge.html",
-     "https://basketnews.com/news-212393-euroleague-injury-report-updated.html"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://basketnews.com/cache/sitemaps/sitemaps_index_com.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_general.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_news.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_news_1.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_google_news.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_podcasts.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_podcast_episodes.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_leagues.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_teams.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_teams_1.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_players.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_players_1.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_com_players_2.xml"
-    ],
-    "children_total": 20
-   },
-   {
-    "sitemap": "https://basketnews.com/cache/sitemaps/sitemaps_com_news.xml",
-    "links": 17370,
-    "dates": [
-     "2026-11-06",
-     "2025-04-28"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://basketnews.com/cache/sitemaps/sitemaps_com_google_news.xml",
-    "links": 76,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://basketnews.com/rs/sitemaps/sitemaps_index_rs.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://basketnews.com/cache/sitemaps/sitemaps_rs_news.xml",
-     "https://basketnews.com/cache/sitemaps/sitemaps_rs_google_news.xml"
-    ],
-    "children_total": 2
-   },
-   {
-    "sitemap": "https://basketnews.com/rs/sitemaps/sitemaps_rs_news.xml",
-    "links": 2017,
-    "dates": [
-     "2026-11-06",
-     "2026-04-16"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://basketnews.com/rs/sitemaps/sitemaps_rs_google_news.xml",
-    "links": 17,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   }
-  ]
- },
- {
-  "site": "Krepsinis.net",
-  "feed_links": 18,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 74,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://www.krepsinis.net/sitemaps_krepsinis.net.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-0.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-1.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-2.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-3.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-4.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-5.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-9.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-10.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-11.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-12.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-13.xml",
-     "https://www.krepsinis.net/sitemap_krepsinis.net_archive-14.xml"
-    ],
-    "children_total": 20
-   },
-   {
-    "sitemap": "https://www.krepsinis.net/sitemap_news.xml",
-    "links": 43,
-    "dates": [
-     "2026-08-25",
-     "2026-08-23"
-    ],
-    "children": [],
-    "children_total": 0
-   }
-  ]
- },
- {
-  "site": "15min 24sek",
-  "feed_links": 20,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-05"
-  ],
-  "section_links": 81,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://www.15min.lt/static/sitemaps/articles_live_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.15min.lt/static/sitemaps/live/articles/sitemap_1.xml"
-    ],
-    "children_total": 1
-   },
-   {
-    "sitemap": "https://www.15min.lt/static/sitemaps/articles_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.15min.lt/static/sitemaps/main/articles/2009/sitemap_2.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2009/sitemap_3.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2009/sitemap_1.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2021/sitemap_2.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2021/sitemap_3.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2021/sitemap_4.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2021/sitemap_1.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2021/sitemap_5.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2013/sitemap_2.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2013/sitemap_3.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2013/sitemap_4.xml",
-     "https://www.15min.lt/static/sitemaps/main/articles/2013/sitemap_1.xml"
-    ],
-    "children_total": 81
-   }
-  ]
- },
- {
-  "site": "PianetaBasket",
-  "feed_links": 1000,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-10-22"
-  ],
-  "section_links": 33,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://pianetabasket.com/sitemap.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.pianetabasket.com/sitemap/news-latest.xml",
-     "https://www.pianetabasket.com/sitemap/google-news.xml",
-     "https://www.pianetabasket.com/sitemap/pages.xml",
-     "https://www.pianetabasket.com/sitemap/tags.xml",
-     "https://www.pianetabasket.com/sitemap/forums.xml",
-     "https://www.pianetabasket.com/sitemap/galleries.xml"
-    ],
-    "children_total": 6
-   }
-  ]
- },
- {
-  "site": "Israel Hayom",
+  "site": "Walla Sport",
   "feed_links": 0,
   "feed_dates": [
    null,
@@ -443,73 +65,96 @@
   "working": [],
   "sitemaps": [
    {
-    "sitemap": "https://www.israelhayom.co.il/sitemaps/sitemap.xml",
-    "links": 0,
+    "sitemap": "https://sports.walla.co.il/sitemap/3/today.xml",
+    "links": 35,
     "dates": [
-     null,
-     null
+     "2026-11-08",
+     "2026-11-08"
     ],
     "children": [],
     "children_total": 0
    },
    {
-    "sitemap": "https://www.israelhayom.co.il/sitemaps/googlenews.xml",
+    "sitemap": "https://sports.walla.co.il/sitemap/3/newsmap.xml",
+    "links": 114,
+    "dates": [
+     "2026-11-08",
+     "2026-11-06"
+    ],
+    "children": [],
+    "children_total": 0
+   },
+   {
+    "sitemap": "https://sports.walla.co.il/sitemap/3/index.xml",
     "links": 0,
     "dates": [
      null,
      null
     ],
-    "children": [],
-    "children_total": 0
+    "children": [
+     "https://sports.walla.co.il/sitemap/3/today.xml",
+     "https://sports.walla.co.il/sitemap/3/category.xml",
+     "https://sports.walla.co.il/sitemap/3/1-history.xml",
+     "https://sports.walla.co.il/sitemap/3/2-history.xml",
+     "https://sports.walla.co.il/sitemap/3/3-history.xml",
+     "https://sports.walla.co.il/sitemap/3/4-history.xml",
+     "https://sports.walla.co.il/sitemap/3/5-history.xml",
+     "https://sports.walla.co.il/sitemap/3/6-history.xml",
+     "https://sports.walla.co.il/sitemap/3/7-history.xml",
+     "https://sports.walla.co.il/sitemap/3/8-history.xml",
+     "https://sports.walla.co.il/sitemap/3/9-history.xml",
+     "https://sports.walla.co.il/sitemap/3/10-history.xml"
+    ],
+    "children_total": 136
    }
   ]
  },
  {
-  "site": "Sport5",
-  "feed_links": 11,
+  "site": "El Correo",
+  "feed_links": 100,
   "feed_dates": [
-   null,
-   null
+   "2026-11-07",
+   "2026-04-07"
   ],
-  "section_links": 11,
+  "section_links": 19,
   "working": [],
   "sitemaps": [
    {
-    "sitemap": "https://www.sport5.co.il/sitemap/articles/news-sitemap.xml",
-    "links": 135,
+    "sitemap": "https://www.elcorreo.com/sitemap.xml",
+    "links": 372,
     "dates": [
-     "2026-11-06",
+     "2026-11-10",
+     "2026-11-08"
+    ],
+    "children": [],
+    "children_total": 0
+   },
+   {
+    "sitemap": "https://www.elcorreo.com/sitemap.incremental.xml",
+    "links": 9459,
+    "dates": [
+     "2026-11-10",
+     "2026-09-26"
+    ],
+    "children": [],
+    "children_total": 0
+   },
+   {
+    "sitemap": "https://www.elcorreo.com/sitemap-video.xml",
+    "links": 321,
+    "dates": [
+     "2026-11-09",
      "2026-11-04"
     ],
     "children": [],
     "children_total": 0
    },
    {
-    "sitemap": "https://www.sport5.co.il/sitemap/nba/news-sitemap.xml",
-    "links": 23,
+    "sitemap": "https://www.elcorreo.com/sitemap-temas.xml",
+    "links": 8457,
     "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.sport5.co.il/sitemap/games/news-sitemap.xml",
-    "links": 5,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.sport5.co.il/sitemap/video/news-sitemap.xml",
-    "links": 22,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
+     "2026-11-10",
+     "2014-03-20"
     ],
     "children": [],
     "children_total": 0
@@ -517,332 +162,74 @@
   ]
  },
  {
-  "site": "Basketfaul",
-  "feed_links": 0,
-  "feed_dates": [
-   null,
-   null
-  ],
-  "section_links": 0,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://basketfaul.com.tr/sitemap_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://basketfaul.com.tr/sitemap-news.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   }
-  ]
- },
- {
-  "site": "Basket Dergisi",
+  "site": "Gigantes",
   "feed_links": 10,
   "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
+   "2026-11-10",
+   "2026-11-08"
   ],
-  "section_links": 40,
+  "section_links": 52,
   "working": [
    {
-    "template": "https://basketdergisi.com/feed?paged={n}",
+    "template": "https://www.gigantes.com/noticias/feed/?paged={n}",
     "page2_new": 10,
     "page5_new": 10,
     "page2_dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "page5_dates": [
-     "2026-11-02",
-     "2026-10-31"
-    ],
-    "page5_sample": [
-     "https://basketdergisi.com/doncic-bir-ilki-basardi-lakers-kazanmaya-devam-ediyor.html",
-     "https://basketdergisi.com/saras-jasikevicius-bazi-oyuncular-cok-motiveydi-bazilari-ise-pek-degildi.html"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://basketdergisi.com/wp-sitemap.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://basketdergisi.com/wp-sitemap-posts-post-1.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-2.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-3.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-4.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-5.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-6.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-7.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-8.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-9.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-10.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-11.xml",
-     "https://basketdergisi.com/wp-sitemap-posts-post-12.xml"
-    ],
-    "children_total": 62
-   }
-  ]
- },
- {
-  "site": "TrendBasket",
-  "feed_links": 10,
-  "feed_dates": [
-   "2026-11-05",
-   "2026-10-29"
-  ],
-  "section_links": 15,
-  "working": [
-   {
-    "template": "https://trendbasket.net/feed/?paged={n}",
-    "page2_new": 10,
-    "page5_new": 10,
-    "page2_dates": [
-     "2026-10-27",
-     "2026-10-21"
-    ],
-    "page5_dates": [
-     "2026-07-17",
-     "2026-06-30"
-    ],
-    "page5_sample": [
-     "https://trendbasket.net/can-pelister-klutch-sports-groupun-avrupa-yapilanmasinda-onemli-goreve-getirildi/",
-     "https://trendbasket.net/marcus-bingham-fenerbahcede/"
-    ]
-   }
-  ],
-  "sitemaps": []
- },
- {
-  "site": "Eurohoops EN",
-  "feed_links": 20,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-05"
-  ],
-  "section_links": 64,
-  "working": [
-   {
-    "template": "https://www.eurohoops.net/en/feed/?paged={n}",
-    "page2_new": 20,
-    "page5_new": 20,
-    "page2_dates": [
-     "2026-11-05",
-     "2026-11-03"
-    ],
-    "page5_dates": [
-     "2026-11-01",
-     "2026-10-30"
-    ],
-    "page5_sample": [
-     "https://www.eurohoops.net/en/nba-news/2029249/french-national-team-star-gaby-williams-led-golden-state-valkyries-to-wnba-title/",
-     "https://www.eurohoops.net/en/nba-news/2029239/nba-roundup-mephis-at-6-0-wembanyama-with-a-monster-game-in-halloween/"
-    ]
-   }
-  ],
-  "sitemaps": []
- },
- {
-  "site": "Eurohoops GR",
-  "feed_links": 20,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 78,
-  "working": [
-   {
-    "template": "https://www.eurohoops.net/el/feed/?paged={n}",
-    "page2_new": 20,
-    "page5_new": 20,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-05"
+     "2026-11-08",
+     "2026-11-06"
     ],
     "page5_dates": [
      "2026-11-04",
      "2026-11-03"
     ],
     "page5_sample": [
-     "https://www.eurohoops.net/el/fiba-champions-league-el/2030569/aek-me-ouiliams-ke-nolei-kontra-stin-falko/",
-     "https://www.eurohoops.net/el/ellada/2030566/eok-episima-i-ekloges-stis-20-dekemvriou-apoklistika-dia-zosis/"
-    ]
-   }
-  ],
-  "sitemaps": []
- },
- {
-  "site": "Eurohoops TR",
-  "feed_links": 20,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 67,
-  "working": [
-   {
-    "template": "https://www.eurohoops.net/tr/feed/?paged={n}",
-    "page2_new": 20,
-    "page5_new": 20,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "page5_dates": [
-     "2026-11-03",
-     "2026-11-02"
-    ],
-    "page5_sample": [
-     "https://www.eurohoops.net/tr/nba-news-tr/2030066/sakatliklar-indianayi-paramparca-etti-nbade-78-yil-sonra-bir-ilk/",
-     "https://www.eurohoops.net/tr/nba-news-tr/2030057/eski-nba-oyuncusundan-tuhaf-savunma-ilk-cinsel-iliskim-beyaz-bir-kizlaydi-neden-irkci-olayim/"
-    ]
-   }
-  ],
-  "sitemaps": []
- },
- {
-  "site": "Athletiko",
-  "feed_links": 50,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 18,
-  "working": [
-   {
-    "template": "https://www.athletiko.gr/feed?paged={n}",
-    "page2_new": 8,
-    "page5_new": 1,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_dates": [
-     "2026-11-07",
-     "2026-11-06"
-    ],
-    "page5_sample": [
-     "https://www.athletiko.gr/to-apotelesma-toy-na-pigaineis-kontra-sti-filosofia-soy-114123"
-    ]
-   },
-   {
-    "template": "https://www.athletiko.gr/mpasket?page={n}",
-    "page2_new": 15,
-    "page5_new": 16,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://www.athletiko.gr/giannakopoylos-se-nan-re-kentrik-pos-toys-113903",
-     "https://www.athletiko.gr/i-alli-opsi-toy-diploy-toy-panathinaikoy-sti-madriti-kai-ta-panigyria-me-ton-kosmo-video-photos-113896"
+     "https://www.gigantes.com/euroliga/maccabi-tel-aviv-partidos-local-chipre/",
+     "https://www.gigantes.com/nba/yaxel-lendeborg-noche-todo-cambio-campeon-promesa-cumplida-tiempo/"
     ]
    }
   ],
   "sitemaps": [
    {
-    "sitemap": "https://www.athletiko.gr/sitemap.xml",
+    "sitemap": "https://www.gigantes.com/sitemap.xml",
     "links": 0,
     "dates": [
      null,
      null
     ],
     "children": [
-     "https://www.athletiko.gr/sitemap_1.xml.gz",
-     "https://www.athletiko.gr/sitemap_2.xml.gz",
-     "https://www.athletiko.gr/sitemap_3.xml.gz",
-     "https://www.athletiko.gr/sitemap_4.xml.gz"
+     "https://www.gigantes.com/post-sitemap.xml",
+     "https://www.gigantes.com/post-sitemap2.xml",
+     "https://www.gigantes.com/post-sitemap3.xml",
+     "https://www.gigantes.com/post-sitemap4.xml",
+     "https://www.gigantes.com/post-sitemap5.xml",
+     "https://www.gigantes.com/post-sitemap6.xml",
+     "https://www.gigantes.com/post-sitemap7.xml",
+     "https://www.gigantes.com/post-sitemap8.xml",
+     "https://www.gigantes.com/post-sitemap9.xml",
+     "https://www.gigantes.com/post-sitemap10.xml",
+     "https://www.gigantes.com/post-sitemap11.xml",
+     "https://www.gigantes.com/post-sitemap12.xml"
     ],
-    "children_total": 4
-   },
-   {
-    "sitemap": "https://www.athletiko.gr/sitemaps/googlenews.xml",
-    "links": 365,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
+    "children_total": 46
    }
   ]
  },
  {
-  "site": "SDNA",
-  "feed_links": 300,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-05"
-  ],
-  "section_links": 35,
-  "working": [
-   {
-    "template": "https://www.sdna.gr/mpasket?page={n}",
-    "page2_new": 10,
-    "page5_new": 12,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://www.sdna.gr/mpasket/1484029_paok-bikos-ioanninon-o-dikefalos-anametratai-me-geraki-vid",
-     "https://www.sdna.gr/mpasket/1484024_gkrin-gia-antetokoynmpo-kaneis-se-aytin-ti-ligka-den-mporei-na-stamatisei-ton"
-    ]
-   }
-  ],
-  "sitemaps": []
- },
- {
-  "site": "Sport24",
-  "feed_links": 39,
+  "site": "2Playbook ACB",
+  "feed_links": 15,
   "feed_dates": [
    null,
    null
   ],
-  "section_links": 39,
+  "section_links": 15,
   "working": [],
   "sitemaps": [
    {
-    "sitemap": "https://www.sport24.gr/sitemap_index.xml",
-    "links": 0,
+    "sitemap": "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml",
+    "links": 18,
     "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.sport24.gr/news-sitemap.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
+     "2026-11-10",
+     "2026-11-09"
     ],
     "children": [],
     "children_total": 0
@@ -850,245 +237,21 @@
   ]
  },
  {
-  "site": "Gazzetta.gr",
-  "feed_links": 50,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 34,
-  "working": [
-   {
-    "template": "https://www.gazzetta.gr/basketball?page={n}",
-    "page2_new": 28,
-    "page5_new": 30,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://www.gazzetta.gr/basketball/nba/live-ntitroit-pistons-filadelfeia-siksers-perigrafi-05-11-2026",
-     "https://www.gazzetta.gr/basketball/euroleague/2583763/real-madritis-panathinaikos-112-115-ta-highlights-tis-anametrisis"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://www.gazzetta.gr/news.xml",
-    "links": 499,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   }
-  ]
- },
- {
-  "site": "Telesport",
-  "feed_links": 10,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 10,
-  "working": [
-   {
-    "template": "https://telesport.rs/category/kosarka/feed/?paged={n}",
-    "page2_new": 10,
-    "page5_new": 10,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "page5_dates": [
-     "2026-11-03",
-     "2026-11-02"
-    ],
-    "page5_sample": [
-     "https://telesport.rs/2026/11/03/janaj-najavio-bombu-i-pecnuo-zvezdu/",
-     "https://telesport.rs/2026/11/03/martinez-ima-jako-losu-i-dobru-vest-u-susret-zvezdi/"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://telesport.rs/sitemap_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://telesport.rs/post-sitemap.xml",
-     "https://telesport.rs/post-sitemap2.xml",
-     "https://telesport.rs/post-sitemap3.xml",
-     "https://telesport.rs/post-sitemap4.xml",
-     "https://telesport.rs/post-sitemap5.xml",
-     "https://telesport.rs/post-sitemap6.xml",
-     "https://telesport.rs/post-sitemap7.xml",
-     "https://telesport.rs/post-sitemap8.xml",
-     "https://telesport.rs/post-sitemap9.xml",
-     "https://telesport.rs/post-sitemap10.xml",
-     "https://telesport.rs/post-sitemap11.xml",
-     "https://telesport.rs/post-sitemap12.xml"
-    ],
-    "children_total": 24
-   }
-  ]
- },
- {
-  "site": "Mozzart Sport",
-  "feed_links": 36,
+  "site": "2Playbook Euroliga",
+  "feed_links": 13,
   "feed_dates": [
    null,
    null
   ],
-  "section_links": 36,
+  "section_links": 13,
   "working": [],
   "sitemaps": [
    {
-    "sitemap": "https://www.mozzartsport.com/sitemap_index.xml",
-    "links": 0,
+    "sitemap": "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml",
+    "links": 18,
     "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.mozzartsport.com/__sitemap__/urls.xml",
-     "https://www.mozzartsport.com/__sitemap__/news.xml"
-    ],
-    "children_total": 2
-   }
-  ]
- },
- {
-  "site": "Meridian Sport",
-  "feed_links": 5,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 26,
-  "working": [
-   {
-    "template": "https://meridiansport.rs/kosarka/feed/?paged={n}",
-    "page2_new": 5,
-    "page5_new": 5,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_sample": [
-     "https://meridiansport.rs/kosarka/hifi-jedini-milioner-u-francuskoj-bolomboj-i-nilikina-medu-najplacenijima/",
-     "https://meridiansport.rs/kosarka/gagic-sa-bliskog-istoka-stigao-kod-kuma-na-crveni-krst-izvukli-smo-se-u-poslednjem-trentuku-iz-irana-sava-ima-uroden-dar-da-bude-sportski-direktor/"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://meridiansport.rs/sitemap_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://meridiansport.rs/post-sitemap1.xml",
-     "https://meridiansport.rs/post-sitemap2.xml",
-     "https://meridiansport.rs/post-sitemap3.xml",
-     "https://meridiansport.rs/post-sitemap4.xml",
-     "https://meridiansport.rs/post-sitemap5.xml",
-     "https://meridiansport.rs/post-sitemap6.xml",
-     "https://meridiansport.rs/post-sitemap7.xml",
-     "https://meridiansport.rs/post-sitemap8.xml",
-     "https://meridiansport.rs/post-sitemap9.xml",
-     "https://meridiansport.rs/post-sitemap10.xml",
-     "https://meridiansport.rs/post-sitemap11.xml",
-     "https://meridiansport.rs/post-sitemap12.xml"
-    ],
-    "children_total": 752
-   }
-  ]
- },
- {
-  "site": "Encestando",
-  "feed_links": 30,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-10-27"
-  ],
-  "section_links": 27,
-  "working": [
-   {
-    "template": "https://encestando.es/page/{n}/",
-    "page2_new": 7,
-    "page5_new": 11,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://encestando.es/el-baskonia-echa-a-galbiati-y-quiere-a-perasovic-como-sustituto",
-     "https://encestando.es/el-joventut-doblega-al-andorra-en-el-partido-aplazado"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://encestando.es/sitemaps.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://encestando.es/post-sitemap1.xml",
-     "https://encestando.es/post-sitemap2.xml",
-     "https://encestando.es/post-sitemap3.xml",
-     "https://encestando.es/post-sitemap4.xml",
-     "https://encestando.es/post-sitemap5.xml",
-     "https://encestando.es/post-sitemap6.xml",
-     "https://encestando.es/post-sitemap7.xml",
-     "https://encestando.es/post-sitemap8.xml",
-     "https://encestando.es/post-sitemap9.xml",
-     "https://encestando.es/page-sitemap.xml",
-     "https://encestando.es/category-sitemap.xml",
-     "https://encestando.es/tag-sitemap.xml"
-    ],
-    "children_total": 14
-   }
-  ]
- },
- {
-  "site": "Marca",
-  "feed_links": 65,
-  "feed_dates": [
-   "2026-11-06",
-   "2020-12-18"
-  ],
-  "section_links": 86,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://www.marca.com/mx/sitemaps/xlk/noticia_news_0301af606295ed1d45435e8d92ce4ff8.xml",
-    "links": 132,
-    "dates": [
-     "2026-11-06",
-     "2026-11-04"
+     "2026-11-10",
+     "2026-11-09"
     ],
     "children": [],
     "children_total": 0
@@ -1096,427 +259,69 @@
   ]
  },
  {
-  "site": "Mundo Deportivo",
-  "feed_links": 100,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-02"
-  ],
-  "section_links": 33,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://www.mundodeportivo.com/guia-tv/sitemap.xml",
-    "links": 5841,
-    "dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.mundodeportivo.com/sitemap-news-v7.xml",
-    "links": 709,
-    "dates": [
-     "2026-11-06",
-     "2026-11-04"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.mundodeportivo.com/sitemap-noticias-202609.xml.gz",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.mundodeportivo.com/sitemap-noticias-202608.xml.gz",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.mundodeportivo.com/sitemap-noticias-202610.xml.gz",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.mundodeportivo.com/guias-de-juego/news-sitemap.xml",
-    "links": 6,
-    "dates": [
-     "2026-11-06",
-     "2026-11-05"
-    ],
-    "children": [],
-    "children_total": 0
-   }
-  ]
- },
- {
-  "site": "Sportacentrs",
-  "feed_links": 100,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-10-31"
-  ],
-  "section_links": 108,
-  "working": [
-   {
-    "template": "https://sportacentrs.com/basketbols/?page={n}",
-    "page2_new": 99,
-    "page5_new": 99,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://sportacentrs.com/basketbols/eirokausi/13102026-zalgiris_pec_kapuma_barselona_ielaiz_99_p",
-     "https://sportacentrs.com/basketbols/latvijas_turniri/13102026-vieni_no_galvenajiem_zelta_medalu_pretend"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://sportacentrs.com/static/non-publish/sitemap/esports/sitemap.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2006/11.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2006/12.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/01.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/02.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/03.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/04.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/05.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/06.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/07.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/08.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/09.xml",
-     "https://sportacentrs.com/static/non-publish/sitemap/esports/2007/10.xml"
-    ],
-    "children_total": 241
-   }
-  ]
- },
- {
-  "site": "Bild Basketball",
-  "feed_links": 50,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-04"
-  ],
-  "section_links": 163,
-  "working": [],
-  "sitemaps": [
-   {
-    "sitemap": "https://www.bild.de/sitemap-news.xml",
-    "links": 673,
-    "dates": [
-     "2026-11-06",
-     "2026-11-04"
-    ],
-    "children": [],
-    "children_total": 0
-   },
-   {
-    "sitemap": "https://www.bild.de/sitemap-video.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.bild.de/sitemap-video-202611.xml",
-     "https://www.bild.de/sitemap-video-202610.xml",
-     "https://www.bild.de/sitemap-video-202609.xml",
-     "https://www.bild.de/sitemap-video-202608.xml",
-     "https://www.bild.de/sitemap-video-202607.xml",
-     "https://www.bild.de/sitemap-video-202606.xml",
-     "https://www.bild.de/sitemap-video-202605.xml",
-     "https://www.bild.de/sitemap-video-202604.xml",
-     "https://www.bild.de/sitemap-video-202603.xml",
-     "https://www.bild.de/sitemap-video-202602.xml",
-     "https://www.bild.de/sitemap-video-202601.xml",
-     "https://www.bild.de/sitemap-video-202512.xml"
-    ],
-    "children_total": 211
-   },
-   {
-    "sitemap": "https://www.bild.de/sitemap-index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://www.bild.de/sitemap-index-202611.xml",
-     "https://www.bild.de/sitemap-index-202610.xml",
-     "https://www.bild.de/sitemap-index-202609.xml",
-     "https://www.bild.de/sitemap-index-202608.xml",
-     "https://www.bild.de/sitemap-index-202607.xml",
-     "https://www.bild.de/sitemap-index-202606.xml",
-     "https://www.bild.de/sitemap-index-202605.xml",
-     "https://www.bild.de/sitemap-index-202604.xml",
-     "https://www.bild.de/sitemap-index-202603.xml",
-     "https://www.bild.de/sitemap-index-202602.xml",
-     "https://www.bild.de/sitemap-index-202601.xml",
-     "https://www.bild.de/sitemap-index-202512.xml"
-    ],
-    "children_total": 253
-   },
-   {
-    "sitemap": "https://www.bild.de/sitemap-category.xml",
-    "links": 4291,
-    "dates": [
-     "2026-11-06",
-     "2026-03-10"
-    ],
-    "children": [],
-    "children_total": 0
-   }
-  ]
- },
- {
-  "site": "Basketball Sphere",
-  "feed_links": 10,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-06"
-  ],
-  "section_links": 38,
-  "working": [
-   {
-    "template": "https://basketballsphere.com/en/feed/?paged={n}",
-    "page2_new": 10,
-    "page5_new": 10,
-    "page2_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_dates": [
-     "2026-11-06",
-     "2026-11-06"
-    ],
-    "page5_sample": [
-     "https://basketballsphere.com/en/nba-player-props-nov-06-2026/",
-     "https://basketballsphere.com/en/nba-acca-of-the-day-nov-06-2026/"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://basketballsphere.com/sitemap_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://basketballsphere.com/post-sitemap.xml",
-     "https://basketballsphere.com/post-sitemap2.xml",
-     "https://basketballsphere.com/post-sitemap3.xml",
-     "https://basketballsphere.com/post-sitemap4.xml",
-     "https://basketballsphere.com/post-sitemap5.xml",
-     "https://basketballsphere.com/post-sitemap6.xml",
-     "https://basketballsphere.com/post-sitemap7.xml",
-     "https://basketballsphere.com/post-sitemap8.xml",
-     "https://basketballsphere.com/post-sitemap9.xml",
-     "https://basketballsphere.com/post-sitemap10.xml",
-     "https://basketballsphere.com/post-sitemap11.xml",
-     "https://basketballsphere.com/post-sitemap12.xml"
-    ],
-    "children_total": 86
-   }
-  ]
- },
- {
-  "site": "Basket.zoznam.sk",
-  "feed_links": 10,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-02"
-  ],
-  "section_links": 88,
-  "working": [
-   {
-    "template": "https://basket.zoznam.sk/feed/?paged={n}",
-    "page2_new": 10,
-    "page5_new": 10,
-    "page2_dates": [
-     "2026-10-30",
-     "2026-10-26"
-    ],
-    "page5_dates": [
-     "2026-10-09",
-     "2026-10-02"
-    ],
-    "page5_sample": [
-     "https://basket.zoznam.sk/cl/aja-wilsonova-prepisala-historiu-wnba-piate-mvp-a-treti-triumf-v-rade/",
-     "https://basket.zoznam.sk/cl/nba-potvrdila-ze-v-roku-2027-planuje-start-vlastnej-europskej-ligy/"
-    ]
-   }
-  ],
-  "sitemaps": [
-   {
-    "sitemap": "https://basket.zoznam.sk/sitemap_index.xml",
-    "links": 0,
-    "dates": [
-     null,
-     null
-    ],
-    "children": [
-     "https://basket.zoznam.sk/post-sitemap.xml",
-     "https://basket.zoznam.sk/post-sitemap2.xml",
-     "https://basket.zoznam.sk/post-sitemap3.xml",
-     "https://basket.zoznam.sk/post-sitemap4.xml",
-     "https://basket.zoznam.sk/post-sitemap5.xml",
-     "https://basket.zoznam.sk/post-sitemap6.xml",
-     "https://basket.zoznam.sk/post-sitemap7.xml",
-     "https://basket.zoznam.sk/post-sitemap8.xml",
-     "https://basket.zoznam.sk/post-sitemap9.xml",
-     "https://basket.zoznam.sk/post-sitemap10.xml",
-     "https://basket.zoznam.sk/post-sitemap11.xml",
-     "https://basket.zoznam.sk/post-sitemap12.xml"
-    ],
-    "children_total": 246
-   }
-  ]
- },
- {
-  "site": "Dnevnik.si",
-  "feed_links": 21,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-10-31"
-  ],
-  "section_links": 22,
-  "working": [],
-  "sitemaps": []
- },
- {
-  "site": "Ekipa Svet24",
-  "feed_links": 25,
+  "site": "2Playbook FIBA",
+  "feed_links": 14,
   "feed_dates": [
    null,
    null
   ],
-  "section_links": 25,
+  "section_links": 14,
   "working": [],
-  "sitemaps": []
- },
- {
-  "site": "Basketball.hr",
-  "feed_links": 19,
-  "feed_dates": [
-   null,
-   null
-  ],
-  "section_links": 19,
-  "working": [
-   {
-    "template": "https://basketball.hr/?page={n}",
-    "page2_new": 8,
-    "page5_new": 8,
-    "page2_dates": [
-     null,
-     null
-    ],
-    "page5_dates": [
-     null,
-     null
-    ],
-    "page5_sample": [
-     "https://basketball.hr/vijesti/cibona-u-petak-docekuje-igokeu-u-subotu-gostuje-u-splitu/20773",
-     "https://basketball.hr/vijesti/tomas-pozvao-navijace-ljudi-nisu-svjesni-koliko-igracima-znacajan-huk-s-tribina/20772"
-    ]
-   }
-  ],
-  "sitemaps": []
- },
- {
-  "site": "Z Krainy NBA",
-  "feed_links": 12,
-  "feed_dates": [
-   "2026-11-06",
-   "2026-11-02"
-  ],
-  "section_links": 16,
-  "working": [
-   {
-    "template": "https://zkrainynba.com/feed/?paged={n}",
-    "page2_new": 12,
-    "page5_new": 12,
-    "page2_dates": [
-     "2026-11-02",
-     "2026-10-29"
-    ],
-    "page5_dates": [
-     "2026-10-10",
-     "2026-10-03"
-    ],
-    "page5_sample": [
-     "https://zkrainynba.com/trazarien-white-przedstawil-sie-73-punkty-w-jednym-tygodniu/",
-     "https://zkrainynba.com/najciekawsze-transfery-miedzy-klubami-plk/"
-    ]
-   }
-  ],
   "sitemaps": [
    {
-    "sitemap": "https://zkrainynba.com/sitemap.xml",
-    "links": 0,
+    "sitemap": "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml",
+    "links": 18,
     "dates": [
-     null,
-     null
+     "2026-11-10",
+     "2026-11-09"
     ],
-    "children": [
-     "https://zkrainynba.com/post-sitemap.xml",
-     "https://zkrainynba.com/post-sitemap2.xml",
-     "https://zkrainynba.com/post-sitemap3.xml",
-     "https://zkrainynba.com/post-sitemap4.xml",
-     "https://zkrainynba.com/post-sitemap5.xml",
-     "https://zkrainynba.com/post-sitemap6.xml",
-     "https://zkrainynba.com/post-sitemap7.xml",
-     "https://zkrainynba.com/post-sitemap8.xml",
-     "https://zkrainynba.com/post-sitemap9.xml",
-     "https://zkrainynba.com/page-sitemap.xml",
-     "https://zkrainynba.com/druzyny-sitemap.xml",
-     "https://zkrainynba.com/zawodnicy-sitemap.xml"
-    ],
-    "children_total": 15
+    "children": [],
+    "children_total": 0
    }
   ]
  },
  {
-  "site": "SportoweFakty",
-  "feed_links": 30,
+  "site": "2Playbook BCL",
+  "feed_links": 15,
   "feed_dates": [
-   "2026-11-06",
-   "2026-11-03"
+   null,
+   null
   ],
-  "section_links": 59,
+  "section_links": 15,
   "working": [],
-  "sitemaps": []
+  "sitemaps": [
+   {
+    "sitemap": "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml",
+    "links": 18,
+    "dates": [
+     "2026-11-10",
+     "2026-11-09"
+    ],
+    "children": [],
+    "children_total": 0
+   }
+  ]
+ },
+ {
+  "site": "2Playbook LEB Oro",
+  "feed_links": 15,
+  "feed_dates": [
+   null,
+   null
+  ],
+  "section_links": 15,
+  "working": [],
+  "sitemaps": [
+   {
+    "sitemap": "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml",
+    "links": 18,
+    "dates": [
+     "2026-11-10",
+     "2026-11-09"
+    ],
+    "children": [],
+    "children_total": 0
+   }
+  ]
  }
 ]
