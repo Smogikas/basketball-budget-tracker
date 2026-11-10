@@ -1,10 +1,309 @@
 {
- "updated": "2026-11-10T08:58+00:00",
+ "updated": "2026-11-10T09:06+00:00",
  "warnings": [],
  "run": [
   {
+   "site": "Sportando",
+   "checked": 9,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "BasketNews.lt",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "PianetaBasket",
+   "checked": 8,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-10-26",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Israel Hayom",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.israelhayom.co.il/sitemaps/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.israelhayom.co.il/sitemaps/googlenews.xml"
+  },
+  {
+   "site": "Sport5",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "TrendBasket",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-01",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Eurohoops EN",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before",
+   "skipped_nba": 2
+  },
+  {
+   "site": "Eurohoops GR",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 14,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 6,
+   "found": 2,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Encestando",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-10-30",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Marca",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2020-12-18",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Mundo Deportivo",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-04",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-08",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 9,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basket.zoznam.sk",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-02",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Dnevnik.si",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-04",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketball.hr",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sporx",
-   "checked": 128,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -13,17 +312,17 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 42,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
-   "checked": 18,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-04-07",
@@ -31,65 +330,122 @@
   },
   {
    "site": "Gigantes",
-   "checked": 261,
-   "found": 12,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 27,
-   "oldest": "2026-09-30",
-   "stop": "reached start date",
-   "skipped_nba": 32
+   "pages": 1,
+   "oldest": "2026-11-08",
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
-   "checked": 15,
-   "found": 6,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 13,
-   "found": 8,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook FIBA",
-   "checked": 14,
-   "found": 4,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages",
-   "skipped_nba": 3
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook BCL",
-   "checked": 15,
-   "found": 4,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook LEB Oro",
-   "checked": 15,
-   "found": 6,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   }
  ],
  "items": [
+  {
+   "id": "45435253d889",
+   "url": "https://www.sdna.gr/mpasket/1485301_synagermos-stoys-nagkets-den-einai-bebaii-i-ananeosi-toy-giokits",
+   "title": "«Συναγερμός» στους Νάγκετς: Δεν είναι βέβαιη η ανανέωση του Γιόκιτς",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Θυμίζουμε πως ο Γιόκιτς απέρριψε τετραετές συμβόλαιο 278 εκατομμυρίων δολαρίων, καθώς μπορεί στην επόμενη off-season να υπογράψει πενταετές συμβόλαιο, το οποίο θα κυμαίνεται από τα 359,5 εκατομμύρια έως τα 388 εκατομμύρια δολάρια."
+   ],
+   "amounts": [
+    "278 εκατομμυρίων",
+    "359,5 εκατομμύρια",
+    "388 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "3a76827d4fb0",
+   "url": "https://www.sdna.gr/mpasket/1485310_coffee-island-ston-aera-i-foroapallagi-1247-ekat-eyro-toy-liolioy",
+   "title": "Coffee Island: Στον «αέρα» η φοροαπαλλαγή 1,247 εκατ. ευρώ του Λιόλιου",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Στον «αέρα» φαίνεται ότι βρίσκεται πλέον η εγκεκριμένη φοροαπαλλαγή ύψους 1.247.120,21 ευρώ της ΣΑΠΛΑΪ ΓΙΟΥΝΙΚ Α.Ε., της εταιρείας που είναι πίσω από την Coffee Island και την οποία ελέγχει μετοχικά ο Βαγγέλης Λιόλιος.",
+    "Στο ΦΕΚ προβλέπεται ενισχυόμενο κόστος 2.771.378,24 ευρώ και φορολογική απαλλαγή 1.247.120,21 ευρώ, δηλαδή 45%.",
+    "Επομένως, ενδεχόμενη ανάκληση δεν σημαίνει ότι η εταιρεία υποχρεώνεται αυτόματα να επιστρέψει 1,247 εκατ."
+   ],
+   "amounts": [
+    "1,247 εκατ",
+    "1.247.120,21 ευρώ",
+    "2.771.378,24 ευρώ",
+    "59.782 ευρώ",
+    "56,79 εκατ",
+    "59.782,28 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "a2e8c42f2db2",
    "url": "https://encestando.es/nick-smith-garrison-mathews-johnny-juzang/",
