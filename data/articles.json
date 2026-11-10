@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T17:07+00:00",
+ "updated": "2026-11-10T19:13+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,16 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -39,18 +48,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 11,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,16 +85,16 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -113,16 +112,16 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,24 +139,6 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sport24",
-   "checked": 6,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
    "checked": 7,
    "found": 0,
    "error": "",
@@ -166,8 +147,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Sport24",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 5,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Telesport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,16 +175,16 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -221,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 15,
+   "checked": 6,
    "found": 2,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -257,16 +256,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -275,19 +274,19 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -302,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -347,12 +346,12 @@
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-09-25",
-   "stop": "reached start date"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook FIBA",
@@ -383,6 +382,176 @@
   }
  ],
  "items": [
+  {
+   "id": "0e166cde808f",
+   "url": "https://www.gazzetta.gr/basketball/nba/2585418/nikola-boytsebits-efikti-i-ohi-i-pithanotita-epistrofis-toy-stin-eyropi",
+   "title": "Το συμβόλαιο του Βούτσεβιτς: Πόσο εφικτό είναι να γίνει ο νέος Φουρνιέ",
+   "site": "Gazzetta.gr",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "διόλου ευκαταφρόνητο ποσό των 216 εκατομμυρίων δολαρίων (!) ενώ έχει να λάβει άλλα 2.5 εκατομμύρια δολάρια τη σεζόν 2026-27."
+   ],
+   "amounts": [
+    "216 εκατομμυρίων",
+    "2.5 εκατομμύρια"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Club Deportivo Estela",
+     "country": "Spain",
+     "sheet": [
+      "22/23: budget 700,000 €"
+     ]
+    },
+    {
+     "name": "South East Melbourne Phoenix",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,550,000 €, salary budget 1,664,902 €",
+      "24/25: budget 3,900,000 €, salary budget 1,832,446 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "0347543f3125",
+   "url": "https://basketballsphere.com/en/euroleague-26-27-round-11-tactical-battles/",
+   "title": "Three high-stakes tactical battles that will define EuroLeague Round 11",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Barcelona has been a very pleasant surprise through the first 10 rounds of the 2026/27 EuroLeague season, posting a 7-3 record – a much better return than anyone could have imagined before the campaign began."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2dc1f9eaa9ef",
+   "url": "https://basketballsphere.com/en/euroleague-player-props-nov-11-2026/",
+   "title": "EuroLeague Player Props: Nov. 11, 2026",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "It is worth noting that Joel Ayayi has gone over this line only twice in 18 EuroLeague appearances when playing alongside Hifi."
+   ],
+   "amounts": [
+    "18 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Joel Ayayi",
+     "sheet": [
+      "26/27 Paris Basketball: 200,000 €",
+      "25/26 Paris Basketball: 180,000 €",
+      "24/25 JL Bourg Basket: 140,000 €",
+      "23/24 Nanterre 92: 115,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8a96eb8822b9",
+   "url": "https://sports.walla.co.il/item/3875767",
+   "title": "כדורסל לאומית: הפסד ראשון לנתניה - על הבאזר; גם הפועל חיפה הפסידה בדרמה - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "גם מכבי רחובות ועירוני נהריה צמודות לצמרת אחרי ניצחונות חוץ באשקלון ובחבל מודיעין.",
+    "עירוני אשקלון - מכבי רחובות 92:66",
+    "חנן הירשוביץ' ערך בכורה מחודשת על הקווים של אשקלון, אך הקבוצה הדרומית הובסה וספגה את הפסדה השלישי בחמישה משחקים."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0288fdbb9ba8",
+   "url": "https://sports.walla.co.il/item/3875760",
+   "title": "קמאר חתימה: עשרה דברים שלא ידעתם על קמאר בולדווין - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "לאחר שקלע ב-29.2% בלבד מחוץ לקשת בעונתו בטורק טלקום (2020/21), בולדווין החליט לבצע שינוי משמעותי."
+   ],
+   "amounts": [],
+   "seasons": [
+    "20/21"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "56474ef0bf53",
    "url": "https://www.sport24.gr/basket/karouso-plirothika-100-000-dolaria-gia-na-xiriso-to-kefali-mou-meta-to-protathlima-me-tous-leikers/",
