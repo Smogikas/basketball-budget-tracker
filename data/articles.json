@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T20:58+00:00",
+ "updated": "2026-11-10T22:56+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -85,12 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7f2c64c3b710>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -103,24 +103,15 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -129,8 +120,17 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 14,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -166,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,7 +221,7 @@
   {
    "site": "Sportacentrs",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -256,21 +256,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +329,10 @@
   {
    "site": "Gigantes",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
@@ -382,6 +382,37 @@
   }
  ],
  "items": [
+  {
+   "id": "c8bdeb6a8d0c",
+   "url": "https://www.dnevnik.si/nedeljski/prosti-cas/znanost-in-tehnologija/strokovnjaki-bijejo-plat-zvona-ekstremno-vreme-zdaj-ubije-vec-ljudi-kot-malarija-2839731/",
+   "title": "Odmevno poročilo: znanstveniki zahtevajo razglasitev globalnega izrednega stanja",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "bilanc",
+    "dolar",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Skupna bilanca vročinskih žrtev zaradi podnebja med letoma 2016 in 2023 se tako bliža meji treh milijonov.",
+    "Poročilo razkriva, da je samo leta 2025 zaradi zmanjšane delovne zmožnosti v vročini svetovno gospodarstvo izgubilo približno 1070 milijard dolarjev potencialnih prihodkov.",
+    "Globalne naložbe v čisto energijo so leta 2025 dosegle rekordnih 2100 milijard dolarjev, kar močno presega vlaganja v fosilna goriva."
+   ],
+   "amounts": [
+    "2,73 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "ef82ba67bfcd",
    "url": "http://sportacentrs.com/basketbols/eirokausi/09112026-zelli_pret_aris",
