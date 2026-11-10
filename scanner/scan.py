@@ -750,6 +750,8 @@ def scan_site(site, rules, sheet, seen, settings, state=None):
     start date, then mark the site done; the page reached is saved in `state`
     so the next chunk continues there.
     Returns (new items, stats, URLs checked)."""
+    if state is not None and site.get("backfill_since"):   # this site's history goes further back
+        settings = dict(settings, since=dt.datetime.fromisoformat(site["backfill_since"]).replace(tzinfo=dt.timezone.utc))
     started = time.time()
     backfill = settings["backfill"]
     fetcher = Fetcher(delay=site.get("delay", REQUEST_DELAY))

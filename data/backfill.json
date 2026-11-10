@@ -224,34 +224,19 @@
    "oldest": "2026-09-30"
   },
   "2Playbook ACB": {
-   "page": 3,
-   "done": true,
-   "stop": "reached start date",
-   "oldest": "2026-03-05"
+   "page": 1
   },
   "2Playbook Euroliga": {
-   "page": 3,
-   "done": true,
-   "stop": "reached start date",
-   "oldest": "2026-08-24"
+   "page": 1
   },
   "2Playbook FIBA": {
-   "page": 2,
-   "done": true,
-   "stop": "reached start date",
-   "oldest": "2026-03-24"
+   "page": 1
   },
   "2Playbook BCL": {
-   "page": 2,
-   "done": true,
-   "stop": "reached start date",
-   "oldest": "2023-06-07"
+   "page": 1
   },
   "2Playbook LEB Oro": {
-   "page": 2,
-   "done": true,
-   "stop": "reached start date",
-   "oldest": "2023-09-29"
+   "page": 1
   }
  },
  "remaining": []
