@@ -1,55 +1,19 @@
 [
  {
-  "input": "https://www.sporx.com/basketbol/",
-  "status": 200,
-  "final": "https://www.sporx.com/basketbol/",
-  "bytes": 152526,
-  "article_links": 141,
-  "article_sample": [
-   "https://www.sporx.com/rdrct.php?h=427e3427c5",
-   "https://www.sporx.com/turkiye-super-lig-puan-durumu",
-   "https://www.sporx.com/futbol-arca-corum-fk",
-   "https://www.sporx.com/nba-de-rockets-alperen-sengun-un-double-double-yaptigi-maci-kazandi-SXHBQ1182412SXQ",
-   "https://www.sporx.com/besiktas-tan-karsiyaka-maci-sonrasi-sert-tepki-sessiz-kalmayacagiz-SXHBQ1182388SXQ",
-   "https://www.sporx.com/besiktas-karsiyaka-ya-tek-sayi-fark-ile-maglup-SXHBQ1182382SXQ",
-   "https://www.sporx.com/turk-telekom-romanya-deplasmaninda-galibiyet-pesinde-SXHBQ1182342SXQ",
-   "https://www.sporx.com/giannis-rivers-in-basketbol-iq-su-dusuk-yorumuna-yanit-verdi-SXHBQ1182335SXQ"
-  ],
-  "robots_sitemaps": [
-   "https://www.sporx.com/sitemaps/GaleriSitemap.php",
-   "https://www.sporx.com/sitemaps/GoogleNewsSitemap.php",
-   "https://www.sporx.com/sitemaps/posts.xml"
-  ],
-  "feeds": [
-   {
-    "url": "https://www.sporx.com/sitemaps/GoogleNewsSitemap.php",
-    "kind": "sitemap",
-    "urls": 434,
-    "children": [],
-    "sample": [
-     "https://www.sporx.com/haftanin-yildizi-besiktas-SXHBQ1182427SXQ",
-     "https://www.sporx.com/besiktas-ta-orkun-kokcu-nun-hedefi-derbi-SXHBQ1182425SXQ",
-     "https://www.sporx.com/emre-belozoglu-na-milli-ara-piyangosu-SXHBQ1182423SXQ",
-     "https://www.sporx.com/ingiltere-de-gundem-salah-SXHBQ1182422SXQ"
-    ]
-   }
-  ]
- },
- {
   "input": "https://sports.walla.co.il/category/151?r=1",
   "status": 200,
   "final": "https://sports.walla.co.il/category/151?r=1",
   "bytes": 430974,
-  "article_links": 21,
+  "article_links": 64,
   "article_sample": [
-   "https://sports.walla.co.il/archive/151?year=2026",
-   "https://sports.walla.co.il/archive/151?year=2025",
-   "https://sports.walla.co.il/archive/151?year=2024",
-   "https://sports.walla.co.il/archive/151?year=2023",
-   "https://sports.walla.co.il/archive/151?year=2022",
-   "https://sports.walla.co.il/archive/151?year=2021",
-   "https://sports.walla.co.il/archive/151?year=2020",
-   "https://sports.walla.co.il/archive/151?year=2019"
+   "https://sports.walla.co.il/league/2913",
+   "https://sports.walla.co.il/item/3621014",
+   "https://sports.walla.co.il/item/2773378",
+   "https://sports.walla.co.il/item/3875678",
+   "https://sports.walla.co.il/item/3875655",
+   "https://sports.walla.co.il/item/3875645",
+   "https://sports.walla.co.il/item/3875644",
+   "https://sports.walla.co.il/item/3875643"
   ],
   "robots_sitemaps": [
    "https://sports.walla.co.il/sitemap/3/today.xml",
@@ -72,186 +36,108 @@
   ]
  },
  {
-  "input": "https://www.elcorreo.com/deportes/baloncesto/",
+  "input": "https://sports.walla.co.il/archive/151?year=2026",
   "status": 200,
-  "final": "https://www.elcorreo.com/deportes/baloncesto/",
-  "bytes": 287530,
-  "article_links": 28,
+  "final": "https://sports.walla.co.il/archive/151?year=2026",
+  "bytes": 451330,
+  "article_links": 42,
   "article_sample": [
-   "https://www.elcorreo.com/politica/bildu-rompe-techo-generales-ganaria-euskadi-frente-20261109001421-nt.html",
-   "https://www.elcorreo.com/bizkaia/diputacion-destinara-millones-acoger-1100-menas-ano-20261109000947-nt.html",
-   "https://www.elcorreo.com/politica/abascal-aprovecha-visita-revuelta-lanzar-dardo-hormiguero-20261109224636-ntrc.html",
-   "https://www.elcorreo.com/internacional/asia/seduccion-billones-dolares-ocho-espias-chinas-infiltraron-20261109001149-ntrc.html",
-   "https://www.elcorreo.com/economia/huelga-general-11n-pasa-llego-tarde-trabajo-cuanto-dinero-descuentan-20261109181916-nt.html",
-   "https://www.elcorreo.com/bizkaia/ap68-gratuita-manana-salvo-euskadi-20261109004621-nt.html",
-   "https://www.elcorreo.com/athletic/christian-imga-joven-familiar-trilingue-amante-basket-20261109004348-nt.html",
-   "https://www.elcorreo.com/bizkaia/accidente-sondika-cuatro-coches-implicados-complica-circulacion-20261110091758-nt.html"
+   "https://sports.walla.co.il/league/2913",
+   "https://sports.walla.co.il/item/3621014",
+   "https://sports.walla.co.il/item/2773378",
+   "https://sports.walla.co.il/item/3875375",
+   "https://sports.walla.co.il/item/3875328",
+   "https://sports.walla.co.il/item/3875342",
+   "https://sports.walla.co.il/item/3874413",
+   "https://sports.walla.co.il/item/3874408"
   ],
   "robots_sitemaps": [
-   "https://www.elcorreo.com/sitemap.xml",
-   "https://www.elcorreo.com/sitemap.incremental.xml",
-   "https://www.elcorreo.com/sitemap-video.xml",
-   "https://www.elcorreo.com/sitemap-temas.xml"
+   "https://sports.walla.co.il/sitemap/3/today.xml",
+   "https://sports.walla.co.il/sitemap/3/newsmap.xml",
+   "https://sports.walla.co.il/sitemap/3/index.xml"
   ],
   "feeds": [
    {
-    "url": "https://www.elcorreo.com/rss/2.0/?section=deportes/baloncesto",
-    "kind": "rss",
-    "items": 100,
-    "newest": [
-     "Sat, 07 Nov 2026 12:26:46 +0100"
-    ],
+    "url": "https://sports.walla.co.il/sitemap/3/newsmap.xml",
+    "kind": "sitemap",
+    "urls": 114,
+    "children": [],
     "sample": [
-     {
-      "title": "Doncic sigue intratable y firma su mejor marca de la temporada con 53 puntos",
-      "link": "https://www.elcorreo.com/deportes/baloncesto/nba/doncic-sigue-intratable-firma-mejor-marca-temporada-20261107121459-ntrc.html"
-     },
-     {
-      "title": "El picorcito de Curry es el tormento de Antetokounmpo",
-      "link": "https://www.elcorreo.com/deportes/baloncesto/nba/picorcito-curry-tormento-antetokounmpo-20261106095005-ntrc.html"
-     },
-     {
-      "title": "Doncic y Wembanyama, dos monstruos desatados en otra noche para la historia",
-      "link": "https://www.elcorreo.com/deportes/baloncesto/nba/doncic-wembanyama-dos-monstruos-desatados-noche-historia-20261105101539-ntrc.html"
-     },
-     {
-      "title": "Curry se lleva el duelo ante Doncic y Lebron James se luce ante el campeón",
-      "link": "https://www.elcorreo.com/deportes/baloncesto/nba/curry-lleva-duelo-ante-doncic-lebron-james-20261031084337-ntrc.html"
-     }
-    ]
-   },
-   {
-    "url": "https://www.elcorreo.com/rss/2.0/?section=/ultima-hora",
-    "kind": "rss",
-    "items": 100,
-    "newest": [
-     "Tue, 10 Nov 2026 09:47:59 +0100"
-    ],
-    "sample": [
-     {
-      "title": "Doncic catapulta a los Lakers al liderato de la NBA",
-      "link": "https://www.elcorreo.com/deportes/baloncesto/nba/doncic-catapulta-lakers-liderato-nba-20261110094759-ntrc.html"
-     },
-     {
-      "title": "Qué tipo de coche elegir según nuestras necesidades y presupuesto",
-      "link": "https://www.elcorreo.com/motor/economia/tipo-coche-elegir-segun-necesidades-presupuesto-20261110094701-nt.html"
-     },
-     {
-      "title": "Un policía muerto y otro herido grave tras una explosión en Oviedo",
-      "link": "https://www.elcorreo.com/sociedad/policia-muerto-herido-grave-tras-explosion-oviedo-20261110094417-ntrc.html"
-     },
-     {
-      "title": "Máxima tensión entre Abascal y Broncano en 'La Revuelta': «No has tenido huevos de decírse",
-      "link": "https://www.elcorreo.com/politica/abascal-aprovecha-visita-revuelta-lanzar-dardo-hormiguero-20261109224636-ntrc.html"
-     }
+     "https://sports.walla.co.il/item/3875396",
+     "https://sports.walla.co.il/item/3875394",
+     "https://sports.walla.co.il/item/3875392",
+     "https://sports.walla.co.il/item/3875390"
     ]
    }
   ]
  },
  {
-  "input": "https://www.gigantes.com/noticias/",
+  "input": "https://sports.walla.co.il/archive/151?year=2026&page=2",
   "status": 200,
-  "final": "https://www.gigantes.com/noticias/",
-  "bytes": 236573,
-  "article_links": 52,
+  "final": "https://sports.walla.co.il/archive/151?year=2026&page=2",
+  "bytes": 450828,
+  "article_links": 42,
   "article_sample": [
-   "https://www.gigantes.com/tienda/hemeroteca/guia-de-la-nba-2026-27-no-1-573-oct-2026/",
-   "https://www.gigantes.com/revista/puntos-de-venta-revista/",
-   "https://www.gigantes.com/tienda/hemeroteca/motivos-para-sonar-no-1-574-nov-2026/",
-   "https://www.gigantes.com/clasificacion-liga-endesa-acb-2026-2027/",
-   "https://www.gigantes.com/resultados-euroliga-2026-2027/",
-   "https://www.gigantes.com/selecciones/espana-ventana-fiba-noviembre-lista/",
-   "https://www.gigantes.com/euroliga/lesiones-euroliga-equipos-espanoles/",
-   "https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/"
+   "https://sports.walla.co.il/league/2913",
+   "https://sports.walla.co.il/item/3621014",
+   "https://sports.walla.co.il/item/2773378",
+   "https://sports.walla.co.il/item/3875375",
+   "https://sports.walla.co.il/item/3875328",
+   "https://sports.walla.co.il/item/3875342",
+   "https://sports.walla.co.il/item/3874413",
+   "https://sports.walla.co.il/item/3874408"
   ],
   "robots_sitemaps": [
-   "https://www.gigantes.com/sitemap.xml"
+   "https://sports.walla.co.il/sitemap/3/today.xml",
+   "https://sports.walla.co.il/sitemap/3/newsmap.xml",
+   "https://sports.walla.co.il/sitemap/3/index.xml"
   ],
   "feeds": [
    {
-    "url": "https://www.gigantes.com/feed/",
-    "kind": "rss",
-    "items": 10,
-    "newest": [
-     "Tue, 10 Nov 2026 06:00:00 +0000"
-    ],
+    "url": "https://sports.walla.co.il/sitemap/3/newsmap.xml",
+    "kind": "sitemap",
+    "urls": 114,
+    "children": [],
     "sample": [
-     {
-      "title": "La lista de España para la Ventana FIBA: Pendande sustituye a la lesionada Marta Suárez",
-      "link": "https://www.gigantes.com/selecciones/espana-ventana-fiba-noviembre-lista/"
-     },
-     {
-      "title": "La factura de la Euroliga en los equipos españoles: 26 lesiones en menos de dos meses",
-      "link": "https://www.gigantes.com/euroliga/lesiones-euroliga-equipos-espanoles/"
-     },
-     {
-      "title": "El resumen de la noche NBA: Highlights, resultados y estadísticas. Cooper Flagg y Victor W",
-      "link": "https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/"
-     },
-     {
-      "title": "Cuándo juega el Real Madrid de baloncesto hoy: Día, hora y TV vs Estrella Roja",
-      "link": "https://www.gigantes.com/euroliga/cuando-juega-real-madrid/"
-     }
-    ]
-   },
-   {
-    "url": "https://www.gigantes.com/noticias/feed/",
-    "kind": "rss",
-    "items": 10,
-    "newest": [
-     "Tue, 10 Nov 2026 06:00:00 +0000"
-    ],
-    "sample": [
-     {
-      "title": "La lista de España para la Ventana FIBA: Pendande sustituye a la lesionada Marta Suárez",
-      "link": "https://www.gigantes.com/selecciones/espana-ventana-fiba-noviembre-lista/"
-     },
-     {
-      "title": "La factura de la Euroliga en los equipos españoles: 26 lesiones en menos de dos meses",
-      "link": "https://www.gigantes.com/euroliga/lesiones-euroliga-equipos-espanoles/"
-     },
-     {
-      "title": "El resumen de la noche NBA: Highlights, resultados y estadísticas. Cooper Flagg y Victor W",
-      "link": "https://www.gigantes.com/nba/resumen-nba-hoy-highlights-resultados-estadisticas/"
-     },
-     {
-      "title": "Cuándo juega el Real Madrid de baloncesto hoy: Día, hora y TV vs Estrella Roja",
-      "link": "https://www.gigantes.com/euroliga/cuando-juega-real-madrid/"
-     }
-    ]
-   },
-   {
-    "url": "https://www.gigantes.com/web-stories/feed/",
-    "kind": "rss",
-    "items": 10,
-    "newest": [
-     "Tue, 29 Sep 2026 16:37:20 +0000"
-    ],
-    "sample": [
-     {
-      "title": "¡Consigue tu Guía de la NBA!",
-      "link": "https://www.gigantes.com/web-stories/consigue-tu-guia-de-la-nba/"
-     },
-     {
-      "title": "El culebrón Jalen Duren",
-      "link": "https://www.gigantes.com/web-stories/el-culebron-jalen-duren/"
-     },
-     {
-      "title": "¡Consigue tu Guía de la Primera FEB!",
-      "link": "https://www.gigantes.com/web-stories/consigue-tu-guia-de-la-primera-feb/"
-     },
-     {
-      "title": "Consigue tu guía de la Euroliga",
-      "link": "https://www.gigantes.com/web-stories/consigue-tu-guia-de-la-euroliga/"
-     }
+     "https://sports.walla.co.il/item/3875396",
+     "https://sports.walla.co.il/item/3875394",
+     "https://sports.walla.co.il/item/3875392",
+     "https://sports.walla.co.il/item/3875390"
     ]
    }
   ]
  },
  {
-  "input": "https://www.2playbook.com/tag/acb",
+  "input": "https://www.sporx.com/sitemaps/posts.xml",
   "status": 200,
-  "final": "https://www.2playbook.com/tag/acb",
+  "final": "https://www.sporx.com/sitemaps/posts.xml",
+  "bytes": 2587,
+  "article_links": 0,
+  "article_sample": [],
+  "robots_sitemaps": [
+   "https://www.sporx.com/sitemaps/GaleriSitemap.php",
+   "https://www.sporx.com/sitemaps/GoogleNewsSitemap.php",
+   "https://www.sporx.com/sitemaps/posts.xml"
+  ],
+  "feeds": [
+   {
+    "url": "https://www.sporx.com/sitemaps/GoogleNewsSitemap.php",
+    "kind": "sitemap",
+    "urls": 435,
+    "children": [],
+    "sample": [
+     "https://www.sporx.com/a-milli-futbol-takimi-gazi-mustafa-kemal-ataturk-u-andi-SXHBQ1182428SXQ",
+     "https://www.sporx.com/haftanin-yildizi-besiktas-SXHBQ1182427SXQ",
+     "https://www.sporx.com/besiktas-ta-orkun-kokcu-nun-hedefi-derbi-SXHBQ1182425SXQ",
+     "https://www.sporx.com/emre-belozoglu-na-milli-ara-piyangosu-SXHBQ1182423SXQ"
+    ]
+   }
+  ]
+ },
+ {
+  "input": "https://www.2playbook.com/tag/acb?page=2",
+  "status": 200,
+  "final": "https://www.2playbook.com/tag/acb?page=2",
   "bytes": 281277,
   "article_links": 15,
   "article_sample": [
@@ -270,84 +156,10 @@
   "feeds": []
  },
  {
-  "input": "https://www.2playbook.com/tag/euroliga",
-  "status": 200,
-  "final": "https://www.2playbook.com/tag/euroliga",
-  "bytes": 281361,
-  "article_links": 13,
-  "article_sample": [
-   "https://www.2playbook.com/clubes/panathinaikos-bc-dubai-hapoel-por-se-disparan-presupuestos-euroliga_24200_102.html",
-   "https://www.2playbook.com/competiciones/13-clubes-duenos-euroliga-estan-abiertos-entrar-en-nba-europea-si-mantienen-control_24134_102.html",
-   "https://www.2playbook.com/competiciones/euroliga-confirma-abu-dhabi-volvera-albergar-final-four-euroliga-en-2027-2029_24102_102.html",
-   "https://www.2playbook.com/clubes/real-madrid-basquet-perdidas-2025-2026_24206_102.html",
-   "https://www.2playbook.com/clubes/confluence-valley-es-gran-holding-basket-europeo-en-torno-zalgiris-joventut_24138_102.html",
-   "https://www.2playbook.com/competiciones/euroliga-repartira-3400-millones-alcanzara-valoracion-13000-millones-en-10-anos_24016_102.html",
-   "https://www.2playbook.com/inside-2playbook/pro-media-content/exclusividad-ya-no-basta-deporte-busca-nuevas-vias-explotar-sus-derechos-audiovisuales_24006_102.html",
-   "https://www.2playbook.com/competiciones/fiba-nba-reiteran-lanzaran-su-liga-europea-pero-siguen-abiertos-negociar-con-euroliga_23946_102.html"
-  ],
-  "robots_sitemaps": [
-   "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml"
-  ],
-  "feeds": []
- },
- {
-  "input": "https://www.2playbook.com/tag/fiba",
-  "status": 200,
-  "final": "https://www.2playbook.com/tag/fiba",
-  "bytes": 280315,
-  "article_links": 14,
-  "article_sample": [
-   "https://www.2playbook.com/competiciones/13-clubes-duenos-euroliga-estan-abiertos-entrar-en-nba-europea-si-mantienen-control_24134_102.html",
-   "https://www.2playbook.com/competiciones/euroliga-confirma-abu-dhabi-volvera-albergar-final-four-euroliga-en-2027-2029_24102_102.html",
-   "https://www.2playbook.com/competiciones/fiba-nba-reiteran-lanzaran-su-liga-europea-pero-siguen-abiertos-negociar-con-euroliga_23946_102.html",
-   "https://www.2playbook.com/patrocinio/fiba-renueva-tissot-como-cronometro-oficial-hasta-mundial-2031_23624_102.html",
-   "https://www.2playbook.com/competiciones/mundial-basquet-femenino-alemania-supera-200000-entradas-vendidas_23471_102.html",
-   "https://www.2playbook.com/patrocinio/intersport-fiba-global-partner-2031_23451_102.html",
-   "https://www.2playbook.com/patrocinio/fiba-firma-ticketmaster-como-socio-ticketing-mundial-baloncesto-2027_23399_102.html",
-   "https://www.2playbook.com/competiciones/laguna-tenerife-obtiene-licencia-cinco-anos-eurocup-incluye-dos-clubes-roma_22788_102.html"
-  ],
-  "robots_sitemaps": [
-   "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml"
-  ],
-  "feeds": []
- },
- {
-  "input": "https://www.2playbook.com/tag/basketball-champions-league",
-  "status": 200,
-  "final": "https://www.2playbook.com/tag/basketball-champions-league",
-  "bytes": 279616,
-  "article_links": 15,
-  "article_sample": [
-   "https://www.2playbook.com/competiciones/laguna-tenerife-obtiene-licencia-cinco-anos-eurocup-incluye-dos-clubes-roma_22788_102.html",
-   "https://www.2playbook.com/competiciones/euroliga-impulsa-12-sus-ingresos-eliminara-limite-salarial-duro-previsto-27-28_22787_102.html",
-   "https://www.2playbook.com/competiciones/fiba-nba-lanzaran-su-competicion-europea-en-octubre-2027-con-sin-euroliga_22589_102.html",
-   "https://www.2playbook.com/competiciones/nba-fiba-perfilan-liga-europea-dos-niveles-con-bcl-como-via-acceso_22304_102.html",
-   "https://www.2playbook.com/competiciones/zagklis-fiba-no-entiendo-por-debemos-proteger-monopolio-otros_20873_102.html",
-   "https://www.2playbook.com/competiciones/motiejunas-euroliga-caca-vez-es-mas-obvio-tenemos-trabajar-junto-nba_19321_102.html",
-   "https://www.2playbook.com/clubes/joventut-dreamland-gran-canaria-cambian-eurocup-champions-league-fiba-25-26_19296_102.html",
-   "https://www.2playbook.com/patrocinio/ecosistema-160-marcas-no-traspasa-fronteras-quien-patrocina-ligas-baloncesto_19010_102.html"
-  ],
-  "robots_sitemaps": [
-   "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml"
-  ],
-  "feeds": []
- },
- {
-  "input": "https://www.2playbook.com/tag/leb-oro",
-  "status": 200,
-  "final": "https://www.2playbook.com/tag/leb-oro",
-  "bytes": 280913,
-  "article_links": 15,
-  "article_sample": [
-   "https://www.2playbook.com/patrocinio/cajasiete-releva-dreamland-como-title-sponsor-cb-gran-canaria-su-descenso-primera-feb_23775_102.html",
-   "https://www.2playbook.com/patrocinio/cb-gran-canaria-firma-macron-como-patrocinador-tecnico-hasta-2032_22723_102.html",
-   "https://www.2playbook.com/clubes/sitapha-savane-dimite-como-presidente-gran-canaria-su-descenso-primera-feb_22531_102.html",
-   "https://www.2playbook.com/competiciones/comunidad-visibilidad-nuevos-ingresos-receta-impulsa-popularidad-baloncesto_23432_102.html",
-   "https://www.2playbook.com/clubes/palmer-basket-primera-feb-da-entrada-socio-norteamericano-llegar-acb_22503_102.html",
-   "https://www.2playbook.com/media/asobal-feb-se-reordena-deporte-en-tv-en-espana-cierre-laliga_22238_102.html",
-   "https://www.2playbook.com/media/ott-laliga-se-fundira-negro-termino-2025-2026-inversion-mas-10-millones_22229_102.html",
-   "https://www.2playbook.com/clubes/gipuzkoa-basket-capta-301050-euros-en-su-ampliacion-capital-cierra-2024-2025-en-superavit_20842_102.html"
-  ],
+  "input": "https://www.2playbook.com/tag/acb/2",
+  "status": 404,
+  "final": "https://www.2playbook.com/tag/acb/2",
+  "bytes": 222983,
   "robots_sitemaps": [
    "https://www.2playbook.com/uploads/feeds/google_sitemap_2playbook_es.xml"
   ],
