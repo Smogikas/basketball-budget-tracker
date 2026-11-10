@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-10T05:08+00:00",
+ "updated": "2026-11-10T07:27+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -27,11 +27,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 3
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +86,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -103,16 +104,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 1,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,28 +140,28 @@
   },
   {
    "site": "SDNA",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -175,44 +176,43 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-29",
+   "oldest": "2026-10-30",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,7 +221,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,7 +230,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -257,21 +257,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -293,15 +293,68 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
   }
  ],
  "items": [
+  {
+   "id": "a2e8c42f2db2",
+   "url": "https://encestando.es/nick-smith-garrison-mathews-johnny-juzang/",
+   "title": "Nick Smith, Garrison Mathews, Johnny Juzang, Keaton Wallace, etc.: los grandes fiascos llegados desde la NBA este verano",
+   "site": "Encestando",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "Gana cuatro millones netos, juega 22 minutos de media pero sus promedios son pobres, 8,7 puntos y 4,6 rebotes."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Garrison Mathews",
+     "sheet": [
+      "26/27 Olimpia Milano: 1,000,000 €"
+     ]
+    },
+    {
+     "name": "Johnny Juzang",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 440,000 €"
+     ]
+    },
+    {
+     "name": "Keaton Wallace",
+     "sheet": [
+      "26/27 Maccabi Tel Aviv: 1,012,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "f2469732391a",
    "url": "https://basketballsphere.com/en/nikola-kusturica-ucla-2028-nba-draft/",
