@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-09T22:58+00:00",
+ "updated": "2026-11-10T01:20+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
@@ -27,16 +27,17 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,11 +68,11 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "no older pages"
   },
   {
@@ -103,19 +104,19 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -130,17 +131,17 @@
   },
   {
    "site": "Athletiko",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 4,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-08",
@@ -148,46 +149,46 @@
   },
   {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -202,25 +203,25 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,12 +230,12 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
@@ -256,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-03",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-04",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -274,7 +275,7 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -301,6 +302,64 @@
   }
  ],
  "items": [
+  {
+   "id": "605c0f124240",
+   "url": "https://www.dnevnik.si/novice/svet/costa-brusi-nov-pogajalski-okvir-za-mater-vseh-proracunov-2839390/",
+   "title": "Costa brusi nov pogajalski okvir za “mater vseh proračunov”",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-09",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "proracun"
+   ],
+   "snippets": [
+    "Predsednik evropskega sveta Antonio Costa bo prihodnji teden predstavil nov pogajalski predlog za prihodnji večletni proračun.",
+    "Vse bo odvisno od politične volje,« se glasi ocena enega od poznavalcev pogajalskega procesa za novi večletni proračun EU za obdobje 2028–2034.",
+    "Po poletnem tipanju, med katerim so se države članice opredelile do predloga evropske komisije za naslednji sedemletni proračun Evropske unije, se pogajanja zdaj pomikajo v glavno fazo."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5a0a0e68ce1f",
+   "url": "https://www.dnevnik.si/mnenja/odprta-stran/se-o-drugi-republiki-2839369/",
+   "title": "Še o Drugi republiki",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-09",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "V njem je že predvidena tudi proračunska luknja, ki jo je fiskalni svet ocenil na več kot milijardo evrov, v zraku pa je nevarnost, da bo proračunski primanjkljaj presegel 4 % BDP in s tem izzval zahtevo komisije EU za sanacijo proračuna.",
+    "Očitno je ta načrtni primanjkljaj bistven del strategije pučističnega vsiljevanja Druge republike; njeni promotorji že ves čas kričijo o »proračunskih luknjah« na svojih ministrstvih.",
+    "Se čudite, da nam vlada zagotavlja, da bo ta luknja »kvečjemu« kakih 800 milijonov?"
+   ],
+   "amounts": [
+    "800 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "23c06268bff4",
    "url": "https://www.sdna.gr/mpasket/1485186_maroysaki-dielyse-systima-kai-me-olympiaki-sfragida-pleon",
