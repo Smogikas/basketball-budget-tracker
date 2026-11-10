@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T11:04+00:00",
+ "updated": "2026-11-10T13:22+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -13,8 +13,8 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -23,7 +23,7 @@
   {
    "site": "BasketNews.com",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -32,7 +32,7 @@
   {
    "site": "Krepsinis.net",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,8 +49,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-26",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -94,7 +94,7 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -103,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 2,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,17 +121,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before",
-   "skipped_nba": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 26,
+   "checked": 20,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -140,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -168,7 +167,7 @@
   {
    "site": "Telesport",
    "checked": 3,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -176,18 +175,17 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -204,26 +202,25 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2020-12-18",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mundo Deportivo",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -232,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -241,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 10,
-   "found": 2,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -250,7 +247,7 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -268,13 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -297,26 +293,26 @@
   {
    "site": "SportoweFakty",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 13,
-   "found": 0,
+   "checked": 25,
+   "found": 4,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 5
   },
   {
    "site": "Walla Sport",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -333,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -387,6 +383,474 @@
   }
  ],
  "items": [
+  {
+   "id": "950ece7e987b",
+   "url": "https://www.krepsinis.net/naujiena/pokycius-atliekanti-baskonia-ismokejo-solidzias-kompensacijas/354313",
+   "title": "Pokyčius atliekanti „Baskonia“ išmokėjo solidžias kompensacijas | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "milijon",
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "„El Correo“ skelbia, kad Vitorijos komanda turėjo susimokėti apie 2,8 milijonų eurų siekiančias kompensacijas.",
+    "P.Galbiati turėjo kontraktą iki sezono pabaigos, tad jam Vitorijos klubas turėjo išmokėti 300 tūkstančių eurų.",
+    "Neseniai „Baskonia“ išmokėjo 500 tūkstančių ir kitam buvusiam ekipos treneriui Pablo Laso."
+   ],
+   "amounts": [
+    "2,8 milijonų",
+    "300 tūkst",
+    "500 tūkst",
+    "2 milijonus"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Pablo Laso",
+     "sheet": [
+      "15/16 Real Madrid Baloncesto: 930,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8bb37c175539",
+   "url": "https://www.pianetabasket.com/mercato/baskonia-lesonero-di-paolo-galbiati-costa-300mila-euro-28-milioni-spesi-per-tre-addii",
+   "title": "Baskonia, l'esonero di Paolo Galbiati costa 300mila euro: 2,8 milioni spesi per tre addii",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Secondo quanto riportato dal quotidiano spagnolo El Correo, il club di Vitoria dovrà versare circa 300mila euro all'allenatore..."
+   ],
+   "amounts": [
+    "2,8 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Pallacanestro Reggiana",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 8,400,000 €, salary budget 3,820,000 €",
+      "player rows: 22/23 (1), 21/22 (1), 15/16 (2)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "af18294c4740",
+   "url": "https://www.eurohoops.net/en/eurocup/2032988/mantas-rubstavicius-to-tofas-eurocup/",
+   "title": "Mantas Rubstavicius, Jared Coleman-Jones, Christian Vital secure EuroCup moves",
+   "site": "Eurohoops EN",
+   "country": "Italy",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The 26-year-old forward-center signed a non-guaranteed deal for the rest of the 2026–27 season, returning to a Polish program where he made 16 EuroCup appearances during the 2025–26 campaign."
+   ],
+   "amounts": [
+    "16 EuroCup"
+   ],
+   "seasons": [
+    "26/27",
+    "24/25",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Derthona Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 14,500,000 €, salary budget 7,000,000 €",
+      "25/26: budget 13,100,000 €, salary budget 6,000,000 €",
+      "24/25: budget 13,100,000 €, salary budget 8,450,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Mantas Rubštavičius",
+     "sheet": [
+      "25/26 Žalgiris Kaunas: 330,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9f64e9590bff",
+   "url": "https://www.athletiko.gr/schedon-sta-3-000-000-eyro-ftanoyn-oi-apozimioseis-tis-mpaskonia-symfona-me-toys-ispanoys-114815",
+   "title": "Σχεδόν στα 3.000.000 ευρώ φτάνουν οι αποζημιώσεις της Μπασκόνια, σύμφωνα με τους Ισπανούς | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Σύμφωνα με δημοσίευμα της «El Correo», η Μπασκόνια θα καταβάλει 300.000 ευρώ στον Πάολο Γκαλμπιάτι μετά την απόλυσή του, ποσό που έρχεται να προστεθεί στα 500.000 ευρώ που δόθηκαν λίγο καιρό νωρίτερα στον Πάμπλο Λάσο για την απομάκρυνσή του.",
+    "Το πιο βαρύ πλήγμα όμως αφορά την αποδέσμευση του Μάρκους Χάουαρντ , καθώς η αποζημίωση του αναμένεται να φτάσει τα 2 εκατομμύρια ευρώ."
+   ],
+   "amounts": [
+    "3.000.000 ευρώ",
+    "300.000 ευρώ",
+    "500.000 ευρώ",
+    "2 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bf5149c3f5b8",
+   "url": "https://www.sdna.gr/mpasket/1485343_i-mpaskonia-tha-plirosei-shedon-3-ekatommyria-se-apozimioseis",
+   "title": "«Η Μπασκόνια θα πληρώσει σχεδόν 3 εκατομμύρια σε αποζημιώσεις»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Βαθιά στην τσέπη βάζει το χέρι η Μπασκόνια με τις πρόσφατες αποχωρήσεις, καθώς θα πληρώσει περίπου 3 εκατομμύρια ευρώ σε αποζημιώσεις σύμφωνα με δημοσίευμα του εξωτερικού.",
+    "Όπως αναφέρει το «El Correo» η ισπανική ομάδα θα πληρώσει 300.000 ευρώ τον Πάολο Γκαλμπιάτι μετά την απόλυσή του.",
+    "Έτσι, φτάνει τα 800.000 ευρώ σε αποζημιώσεις και σύμφωνα με την ίδια πηγή θα πληρώσει περίπου 2 εκατομμύρια ευρώ και τον Μάρκους Χάουαρντ."
+   ],
+   "amounts": [
+    "3 εκατομμύρια",
+    "300.000 ευρώ",
+    "800.000 ευρώ",
+    "2 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "696df3d2ab62",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2585307/kalkaboyras-sto-gazz-floor-den-yparhei-periptosi-na-symfonisoyn",
+   "title": "Καλκαβούρας στο Gazz Floor by Novibet: «Δεν υπάρχει περίπτωση να συμφωνήσουν Ολυμπιακός και Παναθηναϊκός για πρόεδρο»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ο Αντώνης Καλκαβούρας έκανε τη δική του εκτίμηση στο Gazz Floor by Novibet σχετικά με τον διάδοχο του Λιόλιου στην ΕΟΚ και το αν θα μπορέσει να αναλάβει ένα πρόσωπο κοινής αποδοχής.",
+    "Ο Αντώνης Καλκαβούρας απάντησε για το πόσο δύσκολο είναι να βρεθεί ένα πρόσωπο κοινής αποδοχής, καθώς ο Ολυμπιακός και ο Παναθηναϊκός φαίνεται πως δεν θα συμφωνούσαν ποτέ να γίνει πρόεδρος το ίδιο άτομο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5121c34ab40b",
+   "url": "https://basketballsphere.com/en/alpha-diallo-dubai-denver-nuggets-nikola-jokic/",
+   "title": "Alpha Diallo on leaving lucrative Dubai deal, guarding Nikola Jokic in practice and Monaco collapse",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "He walked away from $2 million this season to make the move.",
+    "One euro is the smallest deposit that qualifies for a welcome offer at the books I cover for the UAE."
+   ],
+   "amounts": [
+    "$2 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Alpha Diallo",
+     "sheet": [
+      "26/27 Denver Nuggets: 642,400 €",
+      "25/26 AS Monaco Basket: 850,000 €",
+      "24/25 AS Monaco Basket: 820,000 €",
+      "23/24 AS Monaco Basket: 825,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "d210673b22e3",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1283522/minister-zurek-potwierdza-piesiewicz-uslyszal-kolejny-zarzut",
+   "title": "Minister Żurek potwierdza. Piesiewicz usłyszał kolejny zarzut",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [
+    "Tym razem sprawa dotyczy Polskiej Ligi Koszykówki, którą miał narazić na straty przekraczające milion złotych.",
+    "szkody majątkowej w wielkich rozmiarach, przekraczającej milion złotych."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d8f603e65e05",
+   "url": "https://www.sporx.com/besiktas-ta-umit-akdag-soku-cezasi-aciklandi-SXHBQ1182474SXQ",
+   "title": "Beşiktaş'ta Ümit Akdağ şoku! Cezası açıklandı",
+   "site": "Sporx",
+   "country": "Turkey",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "💥 6-16 Kasım tarihleri arasında EFSANE11 koduyla yıllık üyelik sadece 1.999 TL!"
+   ],
+   "amounts": [
+    "1.999 TL"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "328debade724",
+   "url": "https://www.sporx.com/besiktas-in-eski-oyuncusu-arroyo-ya-avrupa-dan-iki-dev-talip-SXHBQ1182465SXQ",
+   "title": "Beşiktaş'ın eski oyuncusu Arroyo'ya Avrupa'dan iki dev talip!",
+   "site": "Sporx",
+   "country": "Turkey",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "💥 6-16 Kasım tarihleri arasında EFSANE11 koduyla yıllık üyelik sadece 1.999 TL!"
+   ],
+   "amounts": [
+    "1.999 TL"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "18366fadfd5c",
+   "url": "https://www.sporx.com/jonathan-tah-icin-barcelona-ya-kapilar-kapali-SXHBQ1182460SXQ",
+   "title": "Jonathan Tah için Barcelona'ya kapılar kapalı!",
+   "site": "Sporx",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "💥 6-16 Kasım tarihleri arasında EFSANE11 koduyla yıllık üyelik sadece 1.999 TL!"
+   ],
+   "amounts": [
+    "1.999 TL"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 40,200,000 €, salary budget 29,250,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ff741a932d16",
+   "url": "https://www.sporx.com/fenerbahce-de-dirk-kuyt-gelismesi-yeni-gorevi-belli-oldu-SXHBQ1182459SXQ",
+   "title": "Fenerbahçe'de Dirk Kuyt gelişmesi! Yeni görevi belli oldu",
+   "site": "Sporx",
+   "country": "Turkey",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "💥 6-16 Kasım tarihleri arasında EFSANE11 koduyla yıllık üyelik sadece 1.999 TL!"
+   ],
+   "amounts": [
+    "1.999 TL"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "cefd47127113",
    "url": "https://sportando.basketball/baskonia-quasi-3-milioni-per-le-recenti-separazioni-galbiati-laso-e-howard/",
