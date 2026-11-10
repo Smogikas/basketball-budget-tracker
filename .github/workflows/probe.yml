@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python scanner/${{ inputs.mode == 'feeds' && 'probe.py' || 'probe_pages.py' }}
+      - run: python scanner/${{ inputs.mode == 'feeds' && 'probe.py' || inputs.mode == 'links' && 'links.py' || 'probe_pages.py' }}
         timeout-minutes: 10
         env:
           PROBE_ONLY: ${{ inputs.only }}

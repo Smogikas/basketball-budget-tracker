@@ -1,6 +1,1 @@
-https://sports.walla.co.il/category/151?r=1
-https://sports.walla.co.il/archive/151?year=2026
-https://sports.walla.co.il/archive/151?year=2026&page=2
-https://www.sporx.com/sitemaps/posts.xml
-https://www.2playbook.com/tag/acb?page=2
-https://www.2playbook.com/tag/acb/2
+https://www.2playbook.com/tag/acb
