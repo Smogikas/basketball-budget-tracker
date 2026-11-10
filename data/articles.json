@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T15:04+00:00",
+ "updated": "2026-11-10T17:07+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -45,11 +45,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,26 +86,26 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-02",
+   "oldest": "2026-11-03",
    "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 2,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -112,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,18 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 16,
-   "found": 1,
+   "checked": 21,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -159,7 +159,7 @@
   {
    "site": "Gazzetta.gr",
    "checked": 7,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -167,11 +167,11 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
@@ -185,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -212,12 +212,12 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -230,7 +230,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 1,
+   "checked": 15,
+   "found": 2,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -257,7 +257,7 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 3,
+   "checked": 4,
    "found": 2,
    "error": "",
    "pages": 1,
@@ -266,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -284,10 +284,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
@@ -302,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 8,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +312,7 @@
   {
    "site": "Walla Sport",
    "checked": 4,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -329,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -347,12 +347,12 @@
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-09-25",
+   "stop": "reached start date"
   },
   {
    "site": "2Playbook FIBA",
@@ -383,6 +383,222 @@
   }
  ],
  "items": [
+  {
+   "id": "56474ef0bf53",
+   "url": "https://www.sport24.gr/basket/karouso-plirothika-100-000-dolaria-gia-na-xiriso-to-kefali-mou-meta-to-protathlima-me-tous-leikers/",
+   "title": "Καρούσο: \"Πληρώθηκα 100.000 δολάρια για να ξυρίσω το κεφάλι μου μετά το πρωτάθλημα με τους Λέικερς\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι"
+   ],
+   "snippets": [
+    "Υπέγραψα συμβόλαιο 100.000 δολαρίων για να προωθήσω τα προϊόντα τους.",
+    "Alex Caruso says he signed a $100,000 deal with Manscaped that included shaving his head after winning the 2020 NBA championship with the Lakers“It was right after the championship.",
+    "I signed a $100K deal with them to promote their stuff."
+   ],
+   "amounts": [
+    "$100,000",
+    "$100K"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "95758b6ed0d8",
+   "url": "https://basketballsphere.com/en/kamar-baldwin-maccabi-tel-aviv/",
+   "title": "Maccabi Tel Aviv sign Kamar Baldwin for remainder of season",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "In the 2024/25 season, he played for the Vitoria-based club, averaging 7.1 points and 3.7 assists in 25 EuroLeague appearances."
+   ],
+   "amounts": [
+    "25 EuroLeague"
+   ],
+   "seasons": [
+    "24/25",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (16), 25/26 (16), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b3b7c740d8f3",
+   "url": "https://basketballsphere.com/en/kamar-baldwin-leaves-bayern-munich/",
+   "title": "Kamar Baldwin leaves Bayern after EuroLeague offer",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The American struggled to establish himself in the team’s rotation and has featured in just five of the club’s first 10 EuroLeague games this season."
+   ],
+   "amounts": [
+    "10 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1e076bbd48d7",
+   "url": "https://www.dnevnik.si/novice/slovenija/poslanci-dali-zeleno-luc-pomoci-kmetom-in-avtoprevoznikom-pri-gorivu-2839694/",
+   "title": "Država prevoznikom namenja 38 milijonov: preverite, kdaj bodo objavljeni razpisi",
+   "site": "Dnevnik.si",
+   "country": "Slovakia",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Pomoč za cestne prevoznike se zvišuje z 29 na 38 milijonov evrov.",
+    "Zakon, ki ga je DZ sprejel septembra, za subvencioniranje goriva za prevoznike predvideva okoli 30 milijonov evrov, za nakup pnevmatik pet milijonov evrov, za pomoč širšemu kmetijskemu sektorju pa okoli dva milijona evrov.",
+    "Ta je pred dobrima dvema tednoma v prvem koraku že odobrila 500.000 evrov pomoči podjetjem v kmetijstvu, ribištvu in marikulturi zaradi visokih cen kurilnega olja oziroma goriva za kmetijstvo."
+   ],
+   "amounts": [
+    "38 milijonov",
+    "30 milijonov"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK Patrioti Levice",
+     "country": "Slovakia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,006,498 €, salary budget 654,224 €",
+      "24/25: budget 716,082 €, salary budget 501,257 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "553218335cc8",
+   "url": "https://www.dnevnik.si/novice/slovenija/bojan-pozar-mora-takoj-izbrisati-posnetek-mesca-sicer-kazen-seze-do-100-000-evrov-2839691/",
+   "title": "Bojan Požar mora takoj izbrisati posnetek Mesca, sicer kazen seže do 100.000 evrov",
+   "site": "Dnevnik.si",
+   "country": "Slovakia",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK Patrioti Levice",
+     "country": "Slovakia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,006,498 €, salary budget 654,224 €",
+      "24/25: budget 716,082 €, salary budget 501,257 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0d3269bee767",
+   "url": "https://sports.walla.co.il/item/3875744",
+   "title": "המחליף של איפה לונדברג: קמאר בולדווין חתם במכבי תל אביב - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "אלף",
+    "דולר",
+    "רוויח"
+   ],
+   "snippets": [
+    "הגארד חתם עד תום העונה עם אופציה לעונה נוספת וירוויח 300 אלף דולר."
+   ],
+   "amounts": [
+    "300 אלף"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "3ee7467f76bb",
    "url": "https://www.eurohoops.net/en/euroleague/2033039/euroleague-campaign-born-not-built-to-bring-the-excitement-to-euroleague-cities/",
