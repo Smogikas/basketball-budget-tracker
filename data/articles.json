@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10T19:13+00:00",
+ "updated": "2026-11-10T20:58+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,11 +49,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-26",
+   "oldest": "2026-10-27",
    "stop": "reached start date"
   },
   {
@@ -85,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -125,12 +125,12 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 21,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-09",
@@ -175,16 +175,16 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
@@ -220,8 +220,8 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 6,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -265,6 +265,42 @@
   },
   {
    "site": "Ekipa Svet24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball.hr",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Sporx",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -273,45 +309,9 @@
    "stop": "no older pages"
   },
   {
-   "site": "Basketball.hr",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sporx",
-   "checked": 7,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 2,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,123 @@
   }
  ],
  "items": [
+  {
+   "id": "ef82ba67bfcd",
+   "url": "http://sportacentrs.com/basketbols/eirokausi/09112026-zelli_pret_aris",
+   "title": "Spanulis un divi Adetokunbo — \"Zeļļiem\" pārbaudījums imperatora teritorijā",
+   "site": "Sportacentrs",
+   "country": "Italy",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "algam",
+    "budzet",
+    "dolar",
+    "eiro",
+    "miljon",
+    "sum of money",
+    "tukstos"
+   ],
+   "snippets": [
+    "Tikmēr, runājot par šīs sezonas iecerēm un budžetu, Grieķijas medijs \"Sport24\" jūnijā vēstīja, ka \"Aris\" sportiskais budžets pārsniegs desmit miljonus eiro.",
+    "Salīdzinājumam — A grupā Tortonas \"Derthona\" kopējais budžets ir aptuveni 14,5 miljoni eiro, Rostokas \"Seawolves\" — septiņi miljoni, bet \"Zeļļu\" — 2,5 miljoni eiro.",
+    "Tikmēr Jeruzālemes \"Hapoel\" spēlētāju algām vien atvēlēti 9,63 miljoni dolāru."
+   ],
+   "amounts": [
+    "14,5 miljoni",
+    "2,5 miljoni",
+    "9,63 miljoni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Derthona Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 14,500,000 €, salary budget 7,000,000 €",
+      "25/26: budget 13,100,000 €, salary budget 6,000,000 €",
+      "24/25: budget 13,100,000 €, salary budget 8,450,000 €"
+     ]
+    },
+    {
+     "name": "Rostock Seawolves",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 7,040,000 €, salary budget 2,110,000 €",
+      "24/25: budget 6,260,000 €, salary budget 1,880,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "13f657cee07f",
+   "url": "https://www.gigantes.com/mas-basket/carlos-alvarez-publica-12-canastas-libro-baloncesto/",
+   "title": "12 canastas, un recorrido por la memoria del baloncesto",
+   "site": "Gigantes",
+   "country": "Spain",
+   "published": "2026-11-10",
+   "found": "2026-11-10",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Álvarez publica 12 canastas, un libro de historias del baloncesto español y europeo, ya disponible en librerías por 20 euros.",
+    "12 canastas , publicado por Bohodón Ediciones, tiene un precio de 20 euros.",
+    "El libro, publicado por Bohodón Ediciones y con un precio de 20 euros, ya puede encontrarse en librerías y puntos de venta habituales."
+   ],
+   "amounts": [
+    "20 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    },
+    {
+     "name": "Club Deportivo Estela",
+     "country": "Spain",
+     "sheet": [
+      "22/23: budget 700,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Juan Carlos Navarro",
+     "sheet": [
+      "15/16 FC Barcelona Basquet: 2,500,000 €",
+      "11/12 FC Barcelona Basquet: 2,500,000 €",
+      "09/10 FC Barcelona Basquet: 2,800,000 €",
+      "08/09 FC Barcelona Basquet: 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Sergio Scariolo",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "0e166cde808f",
    "url": "https://www.gazzetta.gr/basketball/nba/2585418/nikola-boytsebits-efikti-i-ohi-i-pithanotita-epistrofis-toy-stin-eyropi",
