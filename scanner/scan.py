@@ -123,7 +123,7 @@ def article_like(url, page_url):
         return False
     last = path.rsplit("/", 1)[-1]
     slug = last.count("-") >= 3 and len(last) >= 20
-    numbered = re.search(r"\d{4,}", path + "?" + u.query) and (len(path) >= 15 or u.query)
+    numbered = re.search(r"\d{4,}", path + "?" + u.query) and (len(path) >= 12 or u.query)
     return bool(slug or numbered)
 
 
