@@ -67,7 +67,7 @@ def candidates(site):
     sep = "&" if "?" in section else "?"
     out += [base + "/page/{n}/", section + sep + "page={n}", base + "/{n}",
             section + sep + "p={n}", section + sep + "pg={n}", section + sep + "strana={n}",
-            section + sep + "pagina={n}", base + "/pagina/{n}", base + "/strona/{n}"]
+            section + sep + "pagina={n}", section + sep + "_page={n}", base + "/pagina/{n}", base + "/strona/{n}"]
     if base.endswith(".html"):
         out.append(base[:-5] + "/{n}.html")
     return out

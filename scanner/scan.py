@@ -560,6 +560,9 @@ def read_article(fetcher, url):
     published = parse_date(meta("article:published_time", "datePublished", "date", "pubdate"))
     if not published and soup.find("time", datetime=True):
         published = parse_date(soup.find("time", datetime=True)["datetime"])
+    if not published:   # JSON-LD, e.g. "datePublished":"2026-11-06T09:45:00+0100"
+        m = re.search(r'"datePublished"\s*:\s*"([^"]+)"', r.text)
+        published = parse_date(m.group(1)) if m else None
     for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "aside", "form", "figure"]):
         tag.decompose()
     text = main_text(soup.find("article") or soup)
