@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T03:04+00:00",
+ "updated": "2026-11-11T05:15+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,16 +13,16 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -32,12 +32,12 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
@@ -68,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -104,13 +104,12 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
@@ -132,10 +131,10 @@
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -159,19 +158,19 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -213,12 +212,12 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -303,21 +302,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -384,6 +383,31 @@
   }
  ],
  "items": [
+  {
+   "id": "31c65b826776",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2585524/giannakopoylos-gia-basketgate-liolio-mayragani",
+   "title": "«Επίθεση» Γιαννακόπουλου για Basketgate, Λιόλιο, Μαυραγάνη: «Τα τηλέφωνα άνοιξαν;»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Εγώ έφαγα 10 μήνες και 90 χιλιάρικα για δυσφήμηση του μπάσκετ πάλι."
+   ],
+   "amounts": [
+    "90 χιλιάρικα"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "7a76b65c3051",
    "url": "https://www.sdna.gr/mpasket/1485518_metamesonyhties-bombes-dpg-gia-liolio-mayragani-kai-diaitites",
