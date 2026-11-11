@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-11T19:15+00:00",
+ "updated": "2026-11-11T23:05+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 14,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,20 +40,20 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
-   "found": 2,
+   "checked": 25,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-27",
+   "oldest": "2026-10-28",
    "stop": "reached start date"
   },
   {
@@ -67,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -85,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,16 +121,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 21,
+   "checked": 48,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 13,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
-   "found": 0,
+   "checked": 20,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -157,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
+   "checked": 20,
    "found": 1,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,19 +176,18 @@
   {
    "site": "Mozzart Sport",
    "checked": 5,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -203,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,25 +220,26 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
-   "found": 0,
+   "checked": 31,
+   "found": 2,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "reached start date"
+   "pages": 2,
+   "oldest": "2026-11-03",
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -257,29 +257,29 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
@@ -293,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +312,7 @@
   {
    "site": "Walla Sport",
    "checked": 4,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -329,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -383,6 +383,208 @@
   }
  ],
  "items": [
+  {
+   "id": "840dc92a6207",
+   "url": "https://www.sport24.gr/basket/o-erasitexnis-paok-exefrase-tin-antithesi-tou-stin-paraxorisi-tou-alexandreiou-stin-kae-aris/",
+   "title": "Ο Ερασιτέχνης ΠΑΟΚ εξέφρασε την αντίθεση του στην παραχώρηση του Αλεξανδρείου στην ΚΑΕ Άρης",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Από το Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού ανακοινώθηκε πριν από μερικά 24ωρα η παραχώρηση του Αλεξάνδρειου στην ΚΑΕ Άρης για 49 χρόνια , με τους κίτρινους να υποχρεούνται να πραγματοποιήσουν επενδύσεις τουλάχιστον 1,5 εκατομμυρίων ευρώ μέσα στα πρώτα 12 χρόνια και την παραχώρηση να π…"
+   ],
+   "amounts": [
+    "1,5 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5527d6cd82f5",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2585737/o-aris-poreyetai-me-tin-koyltoyra-toy-spanoyli",
+   "title": "Ο Άρης πορεύεται με την κουλτούρα του Σπανούλη",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω"
+   ],
+   "snippets": [
+    "Μέχρι το τελευταίο ευρώ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "eb99c72b49b6",
+   "url": "http://sportacentrs.com/basketbols/eirokausi/11112026-zellu_treneris_pec_smagas_sakaves_salonik",
+   "title": "\"Zeļļu\" treneris pēc smagas sakāves Salonikos: \"Uzskatu, ka \"Aris\" ir Eirolīgas līmeņa komanda\"",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Viņaprāt, komandai šobrīd nevajadzētu rēķināt, kas nepieciešams izslēgšanas turnīra nodrošināšanai: \"Ņemot vērā komandu budžetus un to, ka esam debitanti, pret visām pretiniecēm neesam favorīti."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "eb7e8d582c04",
+   "url": "https://basketballsphere.com/en/euroleague-26-27-round-11-recap/",
+   "title": "EuroLeague Recap: Nadir Hifi seals game of the season with buzzer-beater",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Round 11 of the 2026/27 EuroLeague season has officially started, with two games played in Belgrade and Paris."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Nadir Hifi",
+     "sheet": [
+      "26/27 Paris Basketball: 1,100,000 €",
+      "25/26 Paris Basketball: 1,000,000 €",
+      "24/25 Paris Basketball: 250,000 €",
+      "23/24 Paris Basketball: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "95aa3ab62ada",
+   "url": "https://www.dnevnik.si/novice/svet/zakaj-je-francija-ena-najpogostejsih-tarc-kibernetskih-napadov-v-evropi-2839965/",
+   "title": "Zakaj je Francija ena najpogostejših tarč kibernetskih napadov v Evropi?",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon",
+    "tisoc"
+   ],
+   "snippets": [
+    "Kipker navaja, da »en sam vdor pri dobavitelju zdravstvene programske opreme ali nacionalni službi za zaposlovanje hekerjem omogoči dostop do milijonov zapisov hkrati«.",
+    "Po vsej EU je na tisoče nezaščitenih industrijskih krmilnih sistemov.«"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2fed21b946e6",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1283716/szalenstwo-w-zielonej-gorze-galewski-za-kierownica",
+   "title": "Szaleństwo w Zielonej Górze! Galewski \"za kierownicą\"",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tysiac"
+   ],
+   "snippets": [
+    "Ponad cztery tysiące fanów na trybunach, szalony Jakub Galewski w roli Andy Mazurczaka i niesamowita końcówka w wykonaniu Zastalu Zielona Góra."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6b819e15a3bf",
+   "url": "https://sports.walla.co.il/item/3875921",
+   "title": "נבחרת הנשים שמטה יתרון 10 נקודות והפסידה לפולין - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "אליסה בארון החזיקה את ישראל אל מול פתיחה אדירה של קלאודיה ונורובסקה, שקלעה 10 מ-12 הנקודות הראשונות של פולין והובילה ל-7:12."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "add7a51f23ac",
    "url": "https://sportando.basketball/miami-heat-giannis-antetokounmpo-verso-il-rinnovo-due-le-strade-possibili/",
@@ -2530,6 +2732,62 @@
    "teams": [],
    "players": [],
    "nba": false
+  },
+  {
+   "id": "07df32c56548",
+   "url": "https://sportacentrs.com/basketbols/eirokausi/09112026-zelli_pret_aris",
+   "title": "Spanulis un divi Adetokunbo — \"Zeļļiem\" pārbaudījums imperatora teritorijā",
+   "site": "Sportacentrs",
+   "country": "Italy",
+   "published": "2026-11-10",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "algam",
+    "budzet",
+    "dolar",
+    "eiro",
+    "miljon",
+    "sum of money",
+    "tukstos"
+   ],
+   "snippets": [
+    "Tikmēr, runājot par šīs sezonas iecerēm un budžetu, Grieķijas medijs \"Sport24\" jūnijā vēstīja, ka \"Aris\" sportiskais budžets pārsniegs desmit miljonus eiro.",
+    "Salīdzinājumam — A grupā Tortonas \"Derthona\" kopējais budžets ir aptuveni 14,5 miljoni eiro, Rostokas \"Seawolves\" — septiņi miljoni, bet \"Zeļļu\" — 2,5 miljoni eiro.",
+    "Tikmēr Jeruzālemes \"Hapoel\" spēlētāju algām vien atvēlēti 9,63 miljoni dolāru."
+   ],
+   "amounts": [
+    "14,5 miljoni",
+    "2,5 miljoni",
+    "9,63 miljoni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Derthona Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 14,500,000 €, salary budget 7,000,000 €",
+      "25/26: budget 13,100,000 €, salary budget 6,000,000 €",
+      "24/25: budget 13,100,000 €, salary budget 8,450,000 €"
+     ]
+    },
+    {
+     "name": "Rostock Seawolves",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 7,040,000 €, salary budget 2,110,000 €",
+      "24/25: budget 6,260,000 €, salary budget 1,880,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
   },
   {
    "id": "13f657cee07f",
