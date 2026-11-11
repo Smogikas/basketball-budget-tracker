@@ -1,21 +1,20 @@
 {
- "updated": "2026-11-11T11:14+00:00",
+ "updated": "2026-11-11T13:28+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -23,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 2,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -41,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -50,13 +49,12 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-27",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Israel Hayom",
@@ -87,10 +85,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -105,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -114,16 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,9 +120,18 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 22,
-   "found": 1,
+   "checked": 18,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -141,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 11,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -150,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,10 +157,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -173,12 +171,11 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -187,8 +184,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -196,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -205,34 +202,36 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -241,16 +240,16 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 10,
-   "found": 1,
+   "checked": 11,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -259,8 +258,8 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
-   "found": 3,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
@@ -268,15 +267,6 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -285,11 +275,20 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Z Krainy NBA",
+   "site": "Basketball.hr",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -304,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 9,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,16 +312,16 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
+   "oldest": "2008-01-17",
    "stop": "no older pages"
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -331,7 +330,7 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -385,6 +384,304 @@
   }
  ],
  "items": [
+  {
+   "id": "c9ed1ce55909",
+   "url": "https://basketnews.com/news-259262-the-cost-of-euroleague-licenses-for-partizan-crvena-zvezda-revealed.html#utm_medium=rss&utm_content=news",
+   "title": "The cost of EuroLeague licenses for Partizan, Crvena Zvezda revealed",
+   "site": "BasketNews.com",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Therefore, a report from Meridian Sport has revealed that each Serbian club will have to pay €1.5 million per season for the license, compared to €750,000 in 2024, alongside €250,000 in legal costs.",
+    "The new franchises are set to pay entry fees between €50 million and €90 million to acquire the same status as current stakeholders of the league.",
+    "These fees are set to generate around €400 million in revenue, meaning approximately €30 million for each of the 13 current stakeholder clubs."
+   ],
+   "amounts": [
+    "€1.5 million",
+    "€750,000",
+    "€250,000",
+    "€50 million",
+    "€90 million",
+    "€400 million",
+    "€30 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fd49ef1fc141",
+   "url": "https://www.krepsinis.net/naujiena/patyres-gaisrininkas-l-banchi-strategas-is-kriziu-gelbejes-ne-viena-kluba/354321",
+   "title": "Patyręs gaisrininkas: L.Banchi – strategas, iš krizių gelbėjęs ne vieną klubą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "France",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "biudzet"
+   ],
+   "snippets": [
+    "Tiesa, Italijos žiniasklaida rašė, kad didžiausias neužtikrintumas buvo klubo biudžetas, negarantavęs, kad pavyks išlaikyti tokį patį komandos lygį."
+   ],
+   "amounts": [],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Lassi Tuovi",
+     "sheet": [
+      "20/21 SIG Strasbourg: 80,000 €"
+     ]
+    },
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    },
+    {
+     "name": "Marco Belinelli",
+     "sheet": [
+      "24/25 Virtus Bologna: 1,500,000 €",
+      "23/24 Virtus Bologna: 1,600,000 €",
+      "22/23 Virtus Bologna: 1,700,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "60a8e209b7fb",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/paviesinta-barcelona-pinigine-gerokai-lenkianti-zalgiri-874-2803840?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Paviešinta „Barcelona“ piniginė, gerokai lenkianti „Žalgirį“",
+   "site": "15min 24sek",
+   "country": "Spain",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "atlyginim",
+    "biudzet",
+    "euru",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Katalonijos žiniasklaida praneša, jog šį sezoną „Barcelona“ krepšinio klubas disponuoja 45 milijonų eurų biudžetu.",
+    "Palyginimui, Kauno „Žalgirio“ finansinis kapšas šįmet yra 28,7 milijonai eurų, iš kurių žaidėjų ir trenerių atlyginimams skirta 19,7 milijonai eurų, o jei atskaičiuotume mokesčius – 12 milijonų eurų.",
+    "Kitas Ispanijos gigantas Madrido „Real“ šįmet yra surinkęs 67,2 milijono eurų biudžetą, o algoms leidžiama 44,4 milijono eurų."
+   ],
+   "amounts": [
+    "45 milijonų",
+    "36 milijonai",
+    "18 milijonai",
+    "28,7 milijonai",
+    "19,7 milijonai",
+    "12 milijonų",
+    "67,2 milijono",
+    "44,4 milijono"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4ff2e6519647",
+   "url": "https://meridiansport.rs/kosarka/evroliga-zvezda-partizan-wild-card/",
+   "title": "Evroliga bi da duplira specijalne pozivnice, sav novac od novih franšiza išao bi direktno na račune klubova vlasnika",
+   "site": "Meridian Sport",
+   "country": "Montenegro",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "evra",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Prema već dostupnim informacijama kojima barata košarkaška javnost, šest novih klubova koji bi trebalo da dobiju status franšize, platiće između 50 i 90 miliona evra kako bi postali stalni članovi takmičenja, dok bi 13 postojećih akcionara zadržalo svoje pozicije bez dodatnih finansijskih ulaganja.",
+    "Ukoliko realizuje ovakav model koji predlaže izvršni direktor Čus Bueno , postojeći vlasnici mogli bi da ostvare prihod od oko 400 miliona evra koji bi bio bi raspoređen među 13 sadašnjih akcionara, što bi značilo oko 30 miliona evra po klubu.",
+    "Kako Meridian sport saznaje, ta specijalna pozivnica bi, predviđa Evroliga, koštala svaki klub oko 1,5 miliona evra po sezoni, odnosno dvostruko više nego 2024."
+   ],
+   "amounts": [
+    "90 miliona",
+    "400 miliona",
+    "30 miliona",
+    "1,5 miliona",
+    "750.000 evra",
+    "500 miliona"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 18/19 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "dc49bfdcba59",
+   "url": "https://www.dnevnik.si/novice/svet/spanska-ljudska-stranka-pred-volitvami-napovedala-ostresjo-politiko-do-priseljevanja-2839902/",
+   "title": "Španska desnica napoveduje ostrejši obračun s priseljevanjem in korupcijo",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon"
+   ],
+   "snippets": [
+    "Na področju stanovanjske politike stranka obljublja izgradnjo milijona stanovanj",
+    "Glede stanovanjske politike, ki je ena od osrednjih točk predvolilne kampanje, PP obljublja izgradnjo milijona stanovanj.",
+    "Na področju infrastrukture je Feijoo napovedal 15-letni načrt v vrednosti 300 milijard evrov, namenjen vzdrževanju in obnovi obstoječih omrežij, da bi \"obnovili zaupanje\" v špansko infrastrukturo."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a0de8680aee7",
+   "url": "https://www.dnevnik.si/novice/svet/spanija-in-portugalska-pricakujeta-mocan-ciklon-nevihta-ze-zajela-otok-madeira-2839898/",
+   "title": "Španija in portugalska pričakujeta močan ciklon, nevihta že zajela Madeiro",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [
+    "Portugalsko in južno Španijo je že na začetku leta prizadela nenavadna serija hudih atlantskih neviht, v katerih je življenje izgubilo več kot 20 ljudi, nastala pa je tudi znatna škoda na infrastrukturi v višini okoli 7 milijard evrov."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "34a147691dc8",
    "url": "https://sportando.basketball/corriere-di-bologna-virtus-bologna-il-fondo-degli-emirati-resta-sullo-sfondo-per-ora-solo-un-sondaggio/",
