@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T07:31+00:00",
+ "updated": "2026-11-11T09:11+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -13,25 +13,27 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +42,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +87,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -103,7 +105,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,7 +115,7 @@
   {
    "site": "Eurohoops GR",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -121,18 +123,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before",
-   "skipped_nba": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 18,
-   "found": 1,
+   "checked": 11,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -140,17 +141,17 @@
   },
   {
    "site": "SDNA",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "checked": 15,
+   "found": 2,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -159,6 +160,15 @@
   {
    "site": "Gazzetta.gr",
    "checked": 6,
+   "found": 1,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -166,18 +176,9 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Telesport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -185,16 +186,17 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,17 +205,16 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -226,26 +227,27 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
+   "oldest": "2026-11-05",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 9,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -258,22 +260,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -286,35 +287,34 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 17,
+   "checked": 21,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 3
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -332,7 +332,7 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -386,6 +386,241 @@
   }
  ],
  "items": [
+  {
+   "id": "282569f8102b",
+   "url": "https://basketnews.com/news-259190-euroleague-mvp-ladder-2026-2027-season.html#utm_medium=rss&utm_content=news",
+   "title": "EuroLeague MVP Ladder: Clear No. 1 emerges after ten rounds",
+   "site": "BasketNews.com",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ten rounds into the 2026-27 EuroLeague season, BasketNews presents its first MVP Ladder.",
+    "Ten rounds into the 2026-27 EuroLeague season, BasketNews presents its first MVP Ladder.",
+    "For now, however, TJ Shorts has built the strongest case to win the 2026-27 EuroLeague MVP award."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Antonio Blakeney",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 1,936,000 €",
+      "25/26 Hapoel Tel Aviv: 1,190,000 €",
+      "24/25 Hapoel Tel Aviv: 920,000 €"
+     ]
+    },
+    {
+     "name": "Elijah Bryant",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 4,400,000 €",
+      "25/26 Hapoel Tel Aviv: 2,380,000 €",
+      "21/22 Anadolu Efes S.K.: 700,000 €",
+      "20/21 Maccabi Tel Aviv: 522,000 €"
+     ]
+    },
+    {
+     "name": "Jean Montero",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,700,000 €",
+      "25/26 Valencia Basket: 1,300,000 €",
+      "24/25 Valencia Basket: 800,000 €",
+      "22/23 Real Betis Baloncesto: 28,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1cea2bd29228",
+   "url": "https://www.sdna.gr/mpasket/1485567_agnoise-ton-teitoym-o-mpraoyn-paraskinio-tis-protis-toys-synantisis-os-antipaloi",
+   "title": "Αγνόησε τον Τέιτουμ ο Μπράουν - Το παρασκήνιο της πρώτης τους συνάντησης ως αντίπαλοι (vid)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "salar",
+    "salary cap"
+   ],
+   "snippets": [
+    "Με δεδομένο ότι τα συμβόλαια των δύο παικτών θα καταλάμβαναν το 70% του salary cap της Βοστώνης, οι Σέλτικς αποφάσισαν να προχωρήσουν με τον Τέιτουμ και να παραχωρήσουν τον Μπράουν, ξεκινώντας την πολύκροτη υπόθεση."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c1e56b92273d",
+   "url": "https://www.sdna.gr/mpasket/1485569_mark-teitoym-nba-mporei-na-kanei-polla-pragmata-kalytera-apo-tin-euroleague-vid",
+   "title": "Μαρκ Τέιτουμ: «Το ΝΒΑ μπορεί να κάνει πολλά πράγματα καλύτερα από την EuroLeague» (vid)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "«Οι υπάρχουσες ομάδες του οικοσυστήματος, για να είμαστε ειλικρινείς, έχουν κουραστεί να επενδύουν δεκάδες εκατομμύρια δολάρια κάθε χρόνο χωρίς να βλέπουν καμία αύξηση στην αξία των franchises τους."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "135f0586168f",
+   "url": "https://www.gazzetta.gr/basketball/nba/2585555/teitoym-me-nba-europe-theloyme-na-metaferoyme-tin-empeiria-toy-nba",
+   "title": "Αναπληρωτής Κομισάριος του ΝΒΑ: «Θέλουμε να μεταφέρουμε την εμπειρία του NBA παράλληλα με την κουλτούρα, την παράδοση και το πάθος στην Ευρώπη»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "«Οι ομάδες που υπάρχουν ήδη στο οικοσύστημα, για να είμαστε ειλικρινείς, έχουν κουραστεί να επενδύουν δεκάδες εκατομμύρια δολάρια κάθε χρόνο, χωρίς να βλέπουν την αξία των ομάδων τους να αυξάνεται."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "7f5765a43f38",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/ludi-tiket-sreda-5459409-dinara-kako-sa-200-dinara-postati-milioner/558594",
+   "title": "LUDI TIKET, sreda, 5.459.409 dinara: Kako sa 200 dinara postati milioner | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b405320afad0",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-12-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 12, 2026",
+   "site": "Basketball Sphere",
+   "country": "Israel",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 3 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (17), 25/26 (16), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "05f67d79d066",
    "url": "https://sportando.basketball/virtus-bologna-unipol-hall-debutto-maccabi-11-dicembre/",
