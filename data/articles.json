@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-11T17:12+00:00",
+ "updated": "2026-11-11T19:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
    "checked": 6,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,16 +22,24 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -40,18 +48,9 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-27",
@@ -68,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -86,16 +85,16 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,11 +103,11 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
+   "pages": 2,
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
@@ -117,13 +116,13 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
    "checked": 3,
-   "found": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 24,
+   "checked": 21,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 0,
+   "checked": 12,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-10",
@@ -177,7 +176,7 @@
   {
    "site": "Mozzart Sport",
    "checked": 5,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -195,25 +194,25 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-10-30",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Marca",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-10-31",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Marca",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -222,7 +221,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -231,22 +230,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -259,21 +257,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-06",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -295,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -349,11 +347,11 @@
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -385,6 +383,276 @@
   }
  ],
  "items": [
+  {
+   "id": "add7a51f23ac",
+   "url": "https://sportando.basketball/miami-heat-giannis-antetokounmpo-verso-il-rinnovo-due-le-strade-possibili/",
+   "title": "Miami Heat, Giannis Antetokounmpo verso il rinnovo: due le strade possibili - Sportando",
+   "site": "Sportando",
+   "country": "",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Dal 6 gennaio, sei mesi dopo lo scambio con Milwaukee, Antetokounmpo potrebbe sottoscrivere un’estensione quadriennale da circa 276 milioni di dollari.",
+    "In alternativa, potrebbe rinunciare alla player option per il 2027-28 e firmare in estate un nuovo contratto quinquennale da circa 357 milioni."
+   ],
+   "amounts": [
+    "276 milioni",
+    "357 milioni"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "62217563470b",
+   "url": "https://www.pianetabasket.com/euroleague/quanto-vale-la-svolta-euroleague-circa-100-milioni-per-maxima-roma-30-allolimpia-e-virtus-e-napoli",
+   "title": "EuroLeague, la partita dei milioni: Olimpia Milano all'incasso, Maxima Roma verso una licenza da 100 milioni. Tre anni per Virtus e Napoli",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "100 milioni"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8303bd0dd2f0",
+   "url": "https://www.pianetabasket.com/nba/giannis-antetokounmpo-verso-il-rinnovo-con-miami-possibile-contratto-da-357-milioni-di-dollari",
+   "title": "Giannis Antetokounmpo verso il rinnovo con Miami: possibile contratto da 357 milioni di dollari",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "357 milioni"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9974d722c66d",
+   "url": "https://www.eurohoops.net/tr/eurobasket-tr/2033576/elif-bayram-double-double-yapti-potanin-perileri-karadaga-zorlanmadi/",
+   "title": "Elif Bayram Double Double Yaptı; Potanın Perileri, Karadağ’a Zorlanmadı",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Potanın Perileri, FIBA 2027 EuroBasket Elemeleri'ndeki ilk maçında Karadağ'ı ağırladı."
+   ],
+   "amounts": [
+    "2027 EuroBasket"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "218d099671e0",
+   "url": "https://www.gazzetta.gr/basketball/nba/2585702/nba-ereyna-gia-symbolaio-toy-gkari-trent-tzoynior-sto-stohastro-ton-arhon-oi",
+   "title": "Συναγερμός στο NBA: Έρευνα για το συμβόλαιο του Γκάρι Τρεντ Τζούνιορ – Στο στόχαστρο των Αρχών οι Μπακς",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "salar",
+    "salary cap",
+    "sum of money",
+    "αποδοχ",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Συναγερμός έχει σημάνει στο NBA για το συμβόλαιο του Γκάρι Τρεντ Τζούνιορ με τους Μιλγουόκι Μπακς, με τη λίγκα να ξεκινά έρευνα για πιθανή παραβίαση των κανονισμών του salary cap.",
+    "Η έρευνα του NBA αφορά το ενδεχόμενο να υπήρξε συμφωνία που παραβιάζει τους κανονισμούς του salary cap, με τις πιθανές συνέπειες να είναι ιδιαίτερα βαριές για το Μιλγουόκι.",
+    "Ο Τρεντ εντάχθηκε στους Μπακς το 2024, υπογράφοντας συμβόλαιο με τις ελάχιστες αποδοχές που προβλέπονται από τους κανονισμούς."
+   ],
+   "amounts": [
+    "64 εκατομμυρίων",
+    "64 εκατομμύρια",
+    "16 εκατομμύρια",
+    "7,5 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "4babf511f4ca",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/melje-bahcesehir-orevic-ostavio-canka-na-38/558639",
+   "title": "Melje Bahčešehir: Đorđević ostavio Čanka na -38 | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Saša Đorđević i njegovi puleni opravdavaju veliki budžet turskog predstavnika i u Evrokupu melju sve pred sobom."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bahcesehir Koleji",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 13,000,000 €, salary budget 8,600,000 €",
+      "24/25: budget 9,000,000 €, salary budget 5,900,000 €",
+      "player rows: 26/27 (3), 25/26 (1), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b13fb53cf061",
+   "url": "https://basketballsphere.com/en/crvena-zvezda-christian-koloko-visa-problem-real-madrid/",
+   "title": "Crvena Zvezda travel issue: Christian Koloko delayed ahead of Real Madrid duel",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The Round 11 EuroLeague showdown between Real Madrid and Crvena Zvezda is scheduled for Thursday at 21:00 CET."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Christian Koloko",
+     "sheet": [
+      "26/27 KK Crvena zvezda: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "a035044ee347",
    "url": "https://www.eurohoops.net/tr/euroleague-tr/2033492/iddia-euroleaguein-hissedar-kuluplerine-400-milyon-euro-gelir/",
