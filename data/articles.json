@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-11T05:15+00:00",
+ "updated": "2026-11-11T07:31+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
-   "found": 0,
+   "checked": 10,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
+   "pages": 2,
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,17 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -113,26 +112,27 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 2
   },
   {
    "site": "Athletiko",
-   "checked": 4,
-   "found": 0,
+   "checked": 18,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -140,29 +140,29 @@
   },
   {
    "site": "SDNA",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
   },
   {
    "site": "Sport24",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
    "checked": 6,
-   "found": 1,
+   "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-09",
+   "pages": 2,
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
@@ -176,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -203,16 +203,17 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,7 +222,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,12 +231,12 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -257,21 +258,22 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -284,34 +286,35 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
+   "site": "SportoweFakty",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 3
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +332,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -383,6 +386,174 @@
   }
  ],
  "items": [
+  {
+   "id": "05f67d79d066",
+   "url": "https://sportando.basketball/virtus-bologna-unipol-hall-debutto-maccabi-11-dicembre/",
+   "title": "Virtus Bologna, la nuova Unipol Hall pronta al debutto: prima gara l’11 dicembre contro il Maccabi - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "L’investimento complessivo di BolognaFiere supera i 75 milioni di euro."
+   ],
+   "amounts": [
+    "75 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "743a690f312f",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/naujasis-ryto-seimininkas-apie-vizija-ambicijas-dvi-arenas-ir-poziuri-i-zalgiri-875-2802886?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Naujasis „Ryto“ šeimininkas: apie viziją, ambicijas, dvi arenas ir požiūrį į „Žalgirį“",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "milijon",
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "„Civinity“ jau sumokėjo pirmuosius 500 tūkstančių eurų už 13 klubo dalių, o tikslas – į savo rankas perimti 41 dalį (50,6 proc.",
+    "„Ryto“), kas naujajam „Ryto“ savininkui atsieitų 1,5 milijono eurų.",
+    "Kaip anksčiau BNS buvo teigęs D.Jacka, „Civinity“ planuoja į infrastruktūrą investuoti 2,2 mln."
+   ],
+   "amounts": [
+    "500 tūkst",
+    "1,5 milijono",
+    "2,2 mln",
+    "0,5 mln",
+    "52 milijonais"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a323089a2cd2",
+   "url": "https://www.eurohoops.net/el/ellada/2033277/d-giannakopoulos-gia-to-skandalo-sto-basket-ta-tilefona-tha-anixoun/",
+   "title": "Δ. Γιαννακόπουλος για το σκάνδαλο στο μπάσκετ: “Τα τηλέφωνα θα ανοίξουν;”",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Εγώ έφαγα 10 μήνες και 90 χιλιάρικα για δυσφήμηση του μπάσκετ πάλι."
+   ],
+   "amounts": [
+    "90 χιλιάρικα"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "dd75bc75c9b9",
+   "url": "https://www.athletiko.gr/pera-apo-ti-mantsester-siti-i-oikonomiki-aytokratoria-ton-emiraton-sti-vretania-114905",
+   "title": "Πέρα από τη Μάντσεστερ Σίτι: Η οικονομική αυτοκρατορία των Εμιράτων στη Βρετανία | Athletiko",
+   "site": "Athletiko",
+   "country": "United Kingdom",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Τα ΗΑΕ έχουν δεσμευτεί για επενδύσεις σχεδόν 30 δισεκατομμυρίων δολαρίων στο Ηνωμένο Βασίλειο μόνο για την περίοδο 2021-2026, στο πλαίσιο της ευρύτερης συνεργασίας τους.",
+    "Το 2008, ο σεΐχης Μανσούρ μπιν Ζαγέντ Αλ Ναχιάν απέκτησε τον σύλλογο μέσω της Abu Dhabi United Group, έναντι περίπου 200 εκατομμυρίων λιρών."
+   ],
+   "amounts": [
+    "200 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f71ffff8ab3b",
+   "url": "https://www.sport24.gr/basket/metamesoniktia-xtipimata-giannakopoulou-sto-instagram-gia-to-skandalo-ta-tilefona-anoixane/",
+   "title": "Μεταμεσονύκτια \"χτυπήματα\" Γιαννακόπουλου στο Instagram για το σκάνδαλο: \"Τα τηλέφωνα άνοιξαν;\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Εγώ έφαγα 10 μήνες και 90 χιλιάρικα για δυσφήμηση του μπάσκετ πάλι."
+   ],
+   "amounts": [
+    "90 χιλιάρικα"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "31c65b826776",
    "url": "https://www.gazzetta.gr/basketball/basket-league/2585524/giannakopoylos-gia-basketgate-liolio-mayragani",
