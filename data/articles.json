@@ -1,40 +1,39 @@
 {
- "updated": "2026-11-11T09:11+00:00",
+ "updated": "2026-11-11T11:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages",
+   "stop": "reached articles checked before",
    "skipped_nba": 1
   },
   {
-   "site": "BasketNews.com",
+   "site": "BasketNews.lt",
    "checked": 3,
    "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 3,
+   "found": 2,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -42,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -51,12 +50,13 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-27",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Israel Hayom",
@@ -69,7 +69,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -87,10 +87,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -105,7 +105,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -114,6 +114,15 @@
   },
   {
    "site": "Eurohoops GR",
+   "checked": 6,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
    "checked": 4,
    "found": 0,
    "error": "",
@@ -122,35 +131,26 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Athletiko",
-   "checked": 11,
-   "found": 0,
+   "checked": 22,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 15,
-   "found": 2,
+   "checked": 11,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,16 +159,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 1,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,17 +167,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
-   "checked": 1,
+   "site": "Telesport",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -195,8 +177,26 @@
    "skipped_nba": 1
   },
   {
+   "site": "Mozzart Sport",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -205,7 +205,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -214,7 +214,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -223,7 +223,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -232,44 +232,43 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 9,
+   "checked": 10,
    "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-03",
+   "oldest": "2026-11-04",
    "stop": "reached start date"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -287,11 +286,11 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
+   "pages": 2,
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
@@ -305,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 21,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -323,11 +322,11 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-07",
+   "oldest": "2026-04-08",
    "stop": "reached start date"
   },
   {
@@ -386,6 +385,496 @@
   }
  ],
  "items": [
+  {
+   "id": "34a147691dc8",
+   "url": "https://sportando.basketball/corriere-di-bologna-virtus-bologna-il-fondo-degli-emirati-resta-sullo-sfondo-per-ora-solo-un-sondaggio/",
+   "title": "Corriere di Bologna: Virtus Bologna, il fondo degli Emirati resta sullo sfondo. Per ora solo un sondaggio - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Un passaggio che, almeno nell’immediato, evita al club l’esborso previsto per la licenza pluriennale: secondo quanto riportato, la franchigia avrebbe richiesto il versamento iniziale del 25% dei 50 milioni di euro complessivi."
+   ],
+   "amounts": [
+    "50 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "93d1f6bd93b1",
+   "url": "https://www.basketnews.lt/news-259251-atskleistas-barcelonos-biudzetas-gerokai-lenkia-zalgiri.html#utm_medium=rss&utm_content=news",
+   "title": "Atskleistas „Barcelonos“ biudžetas – gerokai lenkia „Žalgirį“",
+   "site": "BasketNews.lt",
+   "country": "Spain",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "atlyginim",
+    "biudzet",
+    "euru",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "sezono biudžetas siekia 45 mln.",
+    "eurų numatyti atlyginimams su mokesčiais.",
+    "Atmetus mokesčius, „Barcos“ atlyginimų biudžetas siekia apie 18 mln."
+   ],
+   "amounts": [
+    "45 mln",
+    "36 mln",
+    "18 mln",
+    "19,7 mln",
+    "12 mln",
+    "4,5 mln"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c6d6b4275f5d",
+   "url": "https://basketnews.com/news-259250-fc-barcelonas-2026-27-budget-revealed-potential-new-signing-teased.html#utm_medium=rss&utm_content=news",
+   "title": "FC Barcelona's 2026-27 budget revealed, potential new signing teased",
+   "site": "BasketNews.com",
+   "country": "Spain",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "million",
+    "payroll",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "After Real Madrid's record budget was revealed recently, a report about the budget of their rival, FC Barcelona has come out.",
+    "After Real Madrid 's record budget was revealed recently , a report about the budget of their rival, FC Barcelona has come out.",
+    "According to a report by Victor Malo of CuleMania , Barcelona have a €36 million budget for salaries with the total sum for all club expenses adding up to €45 million."
+   ],
+   "amounts": [
+    "€36 million",
+    "€45 million",
+    "€16 million",
+    "€14.5 million",
+    "€4.5 million",
+    "€2.25 million"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c84fdf538bb2",
+   "url": "https://basketnews.com/news-259193-rolands-smits-finalizing-agreement-with-baskonia.html#utm_medium=rss&utm_content=news",
+   "title": "Baskonia finalizing deal with experienced EuroLeague forward",
+   "site": "BasketNews.com",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Last season, under Pablo Laso at Anadolu Efes, the 31-year-old big man averaged 6.7 points, 3.1 rebounds, and 6.0 PIR in 35 EuroLeague games."
+   ],
+   "amounts": [
+    "35 EuroLeague"
+   ],
+   "seasons": [
+    "19/20"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Pablo Laso",
+     "sheet": [
+      "15/16 Real Madrid Baloncesto: 930,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "c44bd85258da",
+   "url": "https://www.krepsinis.net/naujiena/atskleistas-barcelona-komandos-biudzetas/354333",
+   "title": "Atskleistas „Barcelona“ komandos biudžetas | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Spain",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "biudzet",
+    "euru",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Barselonos Barcelona krepšinio komanda šiame sezone disponuoja solidžiu biudžetu.",
+    "Barselonos „Barcelona“ krepšinio komanda šiame sezone disponuoja solidžiu biudžetu.",
+    "eurų biudžetą, iš kurių 36 mln."
+   ],
+   "amounts": [
+    "45 mln",
+    "36 mln",
+    "67,2 mln",
+    "44,4 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 43,000,000 €, salary budget 35,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9d548c6140d5",
+   "url": "https://www.eurohoops.net/el/epikerotita-el/2033373/stoiximan-wheels-of-change-mia-omada-enas-kinos-termatismos/",
+   "title": "Stoiximan Wheels of Change: Μία ομάδα, ένας κοινός τερματισμός!",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Στη φετινή διοργάνωση έδωσαν το «παρών» σημαντικές προσωπικότητες του ελληνικού αθλητισμού, στηρίζοντας με την παρουσία τους την ομάδα Stoiximan Wheels of Change και μεταφέροντας το μήνυμα της πρωτοβουλίας σε χιλιάδες δρομείς και θεατές."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "40849604d579",
+   "url": "https://www.athletiko.gr/me-mprostari-rompinson-erl-o-aris-me-super-enischymenes-apodoseis-eos-4-00-115010",
+   "title": "Με μπροστάρη Ρόμπινσον- Ερλ ο Άρης, με Super Ενισχυμένες Αποδόσεις* έως 4.00! | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Έχεις παίξει μπάλα και ξέρεις; Δείχνεις τις γνώσεις σου στην Super στοιχηματική κοινότητα και ξεχωρίζεις ανάμεσα σε χιλιάδες creators, δελτία και αναλύσεις μπαίνοντας σε Supet Πρόγραμμα Ανταμοιβής!"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "E. J. Liddell",
+     "sheet": [
+      "26/27 Aris B.C.: 880,000 €"
+     ]
+    },
+    {
+     "name": "Jeremiah Robinson - Earl",
+     "sheet": [
+      "26/27 Aris B.C.: 2,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "838ecd803cf4",
+   "url": "https://www.sdna.gr/mpasket/1485569_mark-teitoym-theloyme-na-metaferoyme-tin-empeiria-toy-nba-diatirontas-tin-koyltoyra",
+   "title": "Μαρκ Τέιτουμ: «Θέλουμε να μεταφέρουμε την εμπειρία του NBA, διατηρώντας την κουλτούρα της Ευρώπης» (vid)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "«Οι υπάρχουσες ομάδες του οικοσυστήματος, για να είμαστε ειλικρινείς, έχουν κουραστεί να επενδύουν δεκάδες εκατομμύρια δολάρια κάθε χρόνο χωρίς να βλέπουν καμία αύξηση στην αξία των franchises τους."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f0badf023786",
+   "url": "https://basketballsphere.com/en/baskonia-sign-rolands-smits/",
+   "title": "Baskonia officially sign Rolands Smits until end of season",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "In 35 EuroLeague appearances, he averaged 6.7 points and 3.2 rebounds, showing that he can contribute at both ends of the floor."
+   ],
+   "amounts": [
+    "35 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "14/15",
+    "18/19",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Rolands Šmits",
+     "sheet": [
+      "25/26 Anadolu Efes S.K.: 1,300,000 €",
+      "23/24 Žalgiris Kaunas: 770,000 €",
+      "22/23 Žalgiris Kaunas: 600,000 €",
+      "19/20 FC Barcelona Basquet: 270,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "15f50167cf30",
+   "url": "https://www.dnevnik.si/novice/svet/v-bruslju-dosegli-sporazum-o-proracunu-eu-2839818/",
+   "title": "V Bruslju dosegli sporazum o proračunu EU",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Predstavniki Evropskega parlamenta in držav članic EU so v Bruslju dosegli sporazum o proračunu EU za leto 2027, ki je sedmi in zadnji letni proračun v okviru sedanjega večletnega finančnega okvira (MFF) 2021-2027.",
+    "Proračun za leto 2027 predvideva za 199,7 milijarde evrov skupnih obveznosti in za 211,5 milijarde evrov skupnih plačilih.",
+    "Proračun za leto 2027 uniji zagotavlja sredstva za ukrepanje, odzivanje na potrebe njenih državljanov in vlaganje v njihovo prihodnost, hkrati pa dodatno ne obremenjuje nacionalnih proračunov in davkoplačevalcev."
+   ],
+   "amounts": [
+    "710,1 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "16b140499ae6",
+   "url": "https://www.dnevnik.si/novice/svet/etiopijci-zaradi-spopadov-brez-hrane-in-vode-v-kenijo-jih-je-zbezalo-ze-50-000-2839813/",
+   "title": "Etiopijci zaradi spopadov brez hrane in vode, v Kenijo jih je zbežalo že 50.000",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "Več deset tisoč ljudi je zaradi nasilnih spopadov na jugu Etiopije prebegnilo čez mejo, kjer jim primanjkuje hrane, vode in zatočišč.",
+    "Umrlo je več kot deset ljudi, več deset tisoč pa jih je moralo zapustiti domove."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "950667abfeda",
+   "url": "https://www.dnevnik.si/novice/ljubljana/prenova-jurckove-ceste-28-9-milijona-evrov-je-za-obcino-prevec-2839800/",
+   "title": "Prenova Jurčkove ceste: 28,9 milijona evrov je za občino preveč",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Prenova Jurčkove ceste je bila pred amandmajem občinskega proračuna, ki je investicijo vključil v omenjeni kohezijski projekt, predvidena do konca leta 2027.",
+    "Višina ponudbe je bila 28,9 milijona evrov, kar je preseglo sredstva, predvidena na strani naročnika, zato je občina od naročila odstopila.",
+    "Ta je stala 3,6 milijona evrov, prav tako pa jo je izvajala družba Prenova – Gradbenik."
+   ],
+   "amounts": [
+    "28,9 milijona",
+    "3,6 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "282569f8102b",
    "url": "https://basketnews.com/news-259190-euroleague-mvp-ladder-2026-2027-season.html#utm_medium=rss&utm_content=news",
