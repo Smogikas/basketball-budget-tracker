@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-11T13:28+00:00",
+ "updated": "2026-11-11T15:07+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 0,
+   "checked": 12,
+   "found": 3,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,17 +22,17 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -40,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -49,8 +49,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-27",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,26 +85,26 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "TrendBasket",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-03",
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "TrendBasket",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
    "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 0,
+   "checked": 4,
+   "found": 3,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-10",
@@ -112,6 +112,15 @@
   },
   {
    "site": "Eurohoops GR",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -120,17 +129,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Athletiko",
-   "checked": 18,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 2,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -193,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,17 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,17 +220,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 11,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -258,11 +256,11 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 5,
    "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "no older pages"
   },
   {
@@ -276,19 +274,19 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
@@ -303,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 11,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,11 +310,11 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2008-01-17",
+   "oldest": "2026-11-11",
    "stop": "no older pages"
   },
   {
@@ -330,12 +328,13 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -384,6 +383,478 @@
   }
  ],
  "items": [
+  {
+   "id": "4d1f088547ed",
+   "url": "https://sportando.basketball/euroleague-panini-partnership-2029-trading-cards/",
+   "title": "EuroLeague e Panini rinnovano la partnership fino al 2029 - Sportando",
+   "site": "Sportando",
+   "country": "",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [
+    "La collaborazione, iniziata tre anni fa, ha già portato alla vendita di milioni di prodotti."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e3dd03c44921",
+   "url": "https://sportando.basketball/virtus-bologna-abass-spagnolo-mercato/",
+   "title": "Virtus Bologna, Awudu Abass sulla strada del ritorno: sullo sfondo anche Matteo Spagnolo - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "ingaggio"
+   ],
+   "snippets": [
+    "La possibile soluzione prevederebbe che il club degli Emirati continui a sostenere una parte dell’ingaggio, con la Virtus chiamata a coprire la quota restante."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Alex Mumbru",
+     "sheet": [
+      "26/27 Virtus Bologna: 400,000 €"
+     ]
+    },
+    {
+     "name": "Awudu Abass",
+     "sheet": [
+      "23/24 Virtus Bologna: 275,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0f9011ef2f4e",
+   "url": "https://sportando.basketball/maxima-roma-bc-roma-il-nodo-nba-europe-sara-decisivo-nella-sfida-in-citta/",
+   "title": "Maxima Roma-BC Roma, il nodo NBA Europe sarà decisivo nella sfida in città - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "L’operazione avrebbe un valore superiore ai 50 milioni di euro e comporterebbe per il club di Paul Matiasic l’impegno a non partecipare alle trattative per entrare in NBA Europe."
+   ],
+   "amounts": [
+    "50 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9cab5c654f9e",
+   "url": "https://www.pianetabasket.com/euroleague/euroleague-partizan-e-stella-rossa-wild-card-da-15-milioni-allanno-e-virtus-bologna-e-napoli",
+   "title": "EuroLeague, Partizan e Stella Rossa: wild card da 1,5 milioni all'anno. E Virtus Bologna e Napoli?",
+   "site": "PianetaBasket",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "1,5 milioni"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9fc0b7feac17",
+   "url": "https://www.eurohoops.net/en/euroleague/2033461/chris-silva-to-partizan-euroleague/",
+   "title": "Partizan welcomes Chris Silva for medicals to complete transfer from Fenerbahce",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Across 16 EuroLeague outings last season, he averaged 4.4 points and 1.7 rebounds."
+   ],
+   "amounts": [
+    "16 EuroLeague"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "KK Studentski centar Derby",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,000,000 €, salary budget 700,000 €",
+      "24/25: row exists, no amounts"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chris Silva",
+     "sheet": [
+      "25/26 AEK B.C.: 354,000 €",
+      "25/26 Fenerbahce Istanbul: 235,703 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "1fa4f43e7d1b",
+   "url": "https://www.eurohoops.net/en/euroleague/2033454/euroleague-basketball-and-panini-renew-multi-year-trading-card-and-collectibles-partnership/",
+   "title": "Euroleague Basketball and Panini extend trading card partnership through 2029",
+   "site": "Eurohoops EN",
+   "country": "",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "Following the huge response, with millions of collectibles sold, the agreement has been renewed for three additional seasons, through 2029."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b8f9264f921d",
+   "url": "https://www.eurohoops.net/en/euroleague/2033433/crvena-zvezda-partizan-napoli-virtus-bologna-euroleague-license-update/",
+   "title": "EuroLeague three-year licenses reportedly cost €1.5m per season",
+   "site": "Eurohoops EN",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "euro",
+    "euros",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "A three-year license in the EuroLeague would cost each club around 1.5 million euros per season, as reported by Djordje Matic of Meridian Sport on Wednesday.",
+    "An established side like Valencia would pay 50 million euros, while newcomers face a 90-million-euro price tag.",
+    "If approved, this expansion will generate roughly 400 million euros, going straight to the 13 existing owners, about 30 million euros each, without reducing their projected profit cuts."
+   ],
+   "amounts": [
+    "€1.5m",
+    "1.5 million",
+    "50 million",
+    "400 million",
+    "30 million",
+    "500 million"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "KK Split",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,737,831 €, salary budget 1,700,000 €",
+      "24/25: budget 2,274,226 €"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,900,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "a360c0ff2bab",
+   "url": "https://www.sdna.gr/mpasket/1485685_ena-nai-i-ena-ohi-o-olympiakos-thelei-na-anoixoyn-ta-tilefona",
+   "title": "Ένα ναι ή ένα όχι: Ο Ολυμπιακός θέλει να ανοίξουν τα τηλέφωνα;",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Έδιναν 500.000 ευρώ για τον Καραγιαννίδη στην ομάδα που διοικούσε ο προφυλακισμένος, επειδή έκαναν λάθος και θεώρησαν πως θα γίνει ο νέος Φασούλας."
+   ],
+   "amounts": [
+    "500.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "99d6b1f6658f",
+   "url": "https://meridiansport.rs/kosarka/panini-evroliga-saradnja-album/",
+   "title": "Evroliga i Panini nastavljaju zajedno: Novi album u decembru, razmena sličica i u dvoranama",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [
+    "Evroliga i Panini započeli su saradnju pre tri godine i od tada je, prema saopštenju Evrolige, prodato više miliona kolekcionarskih artikala."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "179dc33881ed",
+   "url": "https://basketballsphere.com/en/chris-silva-partizan-transfer-basketball-sphere/",
+   "title": "Basketball Sphere report confirmed: Chris Silva set to join Partizan",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "During the 2025-26 EuroLeague season, he appeared in 16 games, averaging 4.4 points and 1.7 rebounds in fewer than nine minutes per contest."
+   ],
+   "amounts": [
+    "26 EuroLeague"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (6), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chris Silva",
+     "sheet": [
+      "25/26 AEK B.C.: 354,000 €",
+      "25/26 Fenerbahce Istanbul: 235,703 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "ee384cfe345f",
+   "url": "https://www.dnevnik.si/novice/svet/zasnoval-je-zastavo-svoje-domovine-a-mu-narocila-nikoli-niso-placali-2839931/",
+   "title": "Zasnoval je zastavo svoje domovine, a mu naročila niso nikoli plačali",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "evrov"
+   ],
+   "snippets": [
+    "Zahteval je 920 funtov za 46 let neizplačanih honorarjev, kar je takrat znašalo približno 1235 ameriških dolarjev (okoli 1100 evrov), ter dodatno odškodnino zaradi uporabe njegovega avtorskega dela."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "24dffeb254f9",
+   "url": "https://www.dnevnik.si/novice/svet/tast-princa-harryja-je-v-hisnem-priporu-2839904/",
+   "title": "Tast princa Harryja je v hišnem priporu",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-11",
+   "found": "2026-11-11",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "V poplavi informacij o tem izstopa poročilo, da je ameriško policijo in FBI na to, da Thomas Markle starejši »poseduje na stotine, če ne na tisoče pornografskih podob otrok«, opozoril Meghanin polbrat Thomas Markle mlajši, ki naj bi jih odkril v očetovem domu v kraju Cebu na Filipinih, kjer je ne…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "c9ed1ce55909",
    "url": "https://basketnews.com/news-259262-the-cost-of-euroleague-licenses-for-partizan-crvena-zvezda-revealed.html#utm_medium=rss&utm_content=news",
