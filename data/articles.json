@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-12T07:36+00:00",
+ "updated": "2026-11-12T09:16+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 12,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-11",
+   "pages": 2,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,25 +85,26 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
+   "checked": 7,
+   "found": 2,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "reached start date"
+   "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,8 +113,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -121,7 +122,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,16 +131,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 20,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -157,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-11",
@@ -170,12 +171,12 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,12 +185,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -202,8 +203,8 @@
   },
   {
    "site": "Marca",
-   "checked": 6,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -211,11 +212,11 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "no older pages"
   },
   {
@@ -229,43 +230,43 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -292,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 17,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -319,19 +320,19 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-08",
+   "oldest": "2026-04-14",
    "stop": "reached start date"
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -382,6 +383,174 @@
   }
  ],
  "items": [
+  {
+   "id": "4314a0d26ef3",
+   "url": "https://sportando.basketball/virtus-bologna-abass-dubai-mercato/",
+   "title": "Virtus Bologna, Abass resta il nome caldo: deve liberarsi da Dubai - Sportando",
+   "site": "Sportando",
+   "country": "United Arab Emirates",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "ingaggio"
+   ],
+   "snippets": [
+    "Secondo quanto riportato dal Resto del Carlino , il club degli Emirati potrebbe continuare a contribuire al pagamento di una parte dell’ingaggio, facilitando così il ritorno a Bologna."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "410605985c96",
+   "url": "https://trendbasket.net/samhrabpii-2026-sudyd-13-aephltfrmainkaarchuuekhaayferkch/",
+   "title": "สำหรับปี 2026 สุดยอด 13 แพลตฟอร์มในการซื้อขายฟอเร็กซ์ - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur"
+   ],
+   "snippets": [
+    "ฉันตัดสินใจลองอ่านอีบุ๊กเล่มหนึ่งของโบรกเกอร์นี้ดู และอ่านเกี่ยวกับมุมมองของ FP Markets เกี่ยวกับข้อผิดพลาดทางตรรกะที่พบบ่อยที่สุดในการเทรด ฉันได้ทำการรีวิวโบรกเกอร์ฟอเร็กซ์ให้กับ FXEmpire มาตั้งแต่ปี 2022 และมีเพียงไม่กี่โบรกเกอร์เท่านั้นที่สร้างความประทับใจให้ฉันได้มากเท่ากับ FP Markets ด้วยสื่…",
+    "ไม่ว่าเทรดเดอร์จะเก็งกำไรระยะสั้น EUR/USD ในเวลาเพียงไม่กี่มิลลิวินาที หรือถือครองสถานะระยะยาวใน GBP/JPY openai stock โบรกเกอร์ที่ดีสามารถสร้างความแตกต่างระหว่างประสบการณ์การซื้อขายที่ราบรื่นและความผิดพลาดที่เสียค่าใช้จ่ายสูงได้ การซื้อขายสกุลเงินเป็นการเก็งกำไร มีความผันผวน และไม่เหมาะสำหรับนักล…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "57c18e1a9234",
+   "url": "https://www.eurohoops.net/el/ellada/2033876/epistoli-fasoula-se-eok-to-adiavlito-ton-eklogon-tithete-en-amfivolo/",
+   "title": "Επιστολή Φασούλα σε ΕΟΚ: “Το αδιάβλητο των εκλογών τίθεται εν αμφιβόλω”",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Κλείνοντας και θέλοντας να προλάβω « εύκολους» αντιλόγους , επισημαίνω ότι η επικείμενη Γ.Σ της ΕΟΚ δεν είναι μια τακτική Γ.Σ με θέματα την έγκρισης του προϋπολογισμού."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8cae1fdfa279",
+   "url": "https://www.sport24.gr/basket/o-panagiotis-fasoulas-esteile-epistoli-pros-to-d-s-tis-eok/",
+   "title": "Ο Παναγιώτης Φασούλας έστειλε επιστολή προς το Δ.Σ. της ΕΟΚ για τις εκλογές",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Κλείνοντας και θέλοντας να προλάβω « εύκολους» αντιλόγους , επισημαίνω ότι η επικείμενη Γ.Σ της ΕΟΚ δεν είναι μια τακτική Γ.Σ με θέματα την έγκρισης του προϋπολογισμού."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a747b969e7c1",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2585802/i-epistoli-fasoyla-pros-ds-tis-eok-kai-ta-erotimata",
+   "title": "Η επιστολή Φασούλα προς το Δ.Σ ΤΗΣ ΕΟΚ και τα ερωτήματα",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Κλείνοντας και θέλοντας να προλάβω « εύκολους» αντιλόγους , επισημαίνω ότι η επικείμενη Γ.Σ της ΕΟΚ δεν είναι μια τακτική Γ.Σ με θέματα την έγκρισης του προϋπολογισμού."
+   ],
+   "amounts": [],
+   "seasons": [
+    "10/11"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b51b14e93d3b",
+   "url": "https://trendbasket.net/en-2026-los-brokers-de-forex-mas-destacados-en-espana/",
+   "title": "En 2026, los brókers de Forex más destacados en España. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "Normalmente se muestran como 0 € en retiradas estándar, aunque los plazos de procesamiento y posibles cargos bancarios pueden variar.",
+    "Unos cientos de dólares suelen ser más prácticos que el mínimo indispensable.",
+    "Aquí, las monedas se negocian en pares, como EUR/USD o USD/JPY, y su valor fluctúa constantemente debido a diversos factores económicos, políticos y sociales."
+   ],
+   "amounts": [
+    "0 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "daf7229ac25a",
    "url": "https://www.athletiko.gr/opadoi-toy-irakli-gia-tin-filoxenia-panathinaikon-xeperastike-kathe-orio-dikaioma-sti-logiki-114799",
