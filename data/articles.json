@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-12T05:16+00:00",
+ "updated": "2026-11-12T07:36+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 12,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +85,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -103,37 +103,37 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 20,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -143,24 +143,24 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -175,19 +175,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -202,8 +202,8 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -211,16 +211,16 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,30 +238,30 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-04",
-   "stop": "reached start date"
+   "pages": 2,
+   "oldest": "2026-11-05",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -292,16 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 2,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +382,73 @@
   }
  ],
  "items": [
+  {
+   "id": "12e6d5209302",
+   "url": "https://www.marca.com/baloncesto/euroliga/2026/11/12/ibon-navarro-real-madrid-te-mete-100-puntos-querer.html",
+   "title": "Ibon Navarro: \"El Real Madrid te mete 100 puntos sin querer\"",
+   "site": "Marca",
+   "country": "Spain",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "Ahora en noviembre se puede hacer, pero ya más adelante, a partir de abril-mayo, es más difícil cuando los jugadores empiezan a escuchar cantos de sirena, que si te voy a fichar aquí, que si te voy a fichar allá, que si hay ya ofertas millonarias."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7e9dd2c02b57",
+   "url": "https://basket.zoznam.sk/cl/slovenky-v-kvalifikacii-me-nestacili-na-fyzicke-holandsko-trener-hovori-o-jasnom-varovani/",
+   "title": "Slovenky v kvalifikácii ME nestačili na fyzické Holandsko, tréner hovorí o jasnom varovaní | Basket.sk",
+   "site": "Basket.zoznam.sk",
+   "country": "Slovakia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [
+    "Netreba si klamať, môžeme tu rozprávať o milión veciach, ale nezvládli sme fyzickosť a dynamickosť zápasu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Slovan Bratislava",
+     "country": "Slovakia",
+     "sheet": [
+      "26/27: budget 2,000,000 €, salary budget 1,200,000 €",
+      "25/26: budget 1,459,451 €, salary budget 948,643 €",
+      "24/25: budget 610,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "bf568b3cf5c0",
    "url": "https://www.krepsinis.net/naujiena/eurolygos-kapinynas-kurios-zvaigzdes-skendo-milano-pelkeje/354305",
