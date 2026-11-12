@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T15:11+00:00",
+ "updated": "2026-11-12T17:16+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-28",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,12 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "page 2 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Read timed out. (read t"
   },
   {
    "site": "TrendBasket",
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,8 +121,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -130,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 24,
+   "checked": 22,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 2,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
-   "found": 0,
+   "checked": 15,
+   "found": 2,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-11",
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,16 +184,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,21 +202,21 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -229,16 +229,16 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 7,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -256,21 +256,21 @@
   },
   {
    "site": "Dnevnik.si",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "",
    "stop": "reached articles checked before"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -292,16 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 4,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,11 +310,11 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-11",
    "stop": "no older pages"
   },
   {
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,327 @@
   }
  ],
  "items": [
+  {
+   "id": "8ce708bfd1a7",
+   "url": "https://basketnews.com/news-259348-major-injury-update-emerges-on-partizans-ethan-thompson-after-baskonia-game.html#utm_medium=rss&utm_content=news",
+   "title": "Partizan's key guard suffers severe contusion in Round 11 vs. Baskonia",
+   "site": "BasketNews.com",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The 27-year-old has averaged 8.3 points, 2.6 rebounds, and 1.7 assists in 11 EuroLeague appearances this season, shooting 38.2% from two-point range and 41.5% from beyond the arc."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ca3f5b4c4422",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2034040/iddia-barcelonanin-2026-27-sezonu-butcesi-belli-oldu/",
+   "title": "İDDİA: Barcelona’nın 2026-27 Sezonu Bütçesi Belli Oldu!",
+   "site": "Eurohoops TR",
+   "country": "Spain",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "euro",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Barcelona, geçen sezona göre daha yüksek bir bütçeye sahip.",
+    "Öte yandan iddialara göre Barcelona’nın bu sezonki toplam bütçesi belli oldu.",
+    "İspanya kaynaklı CuleMania’dan Victor Melo’nun haberine göre Barça, bu sezon için toplam 45 milyon euroluk (brüt) bir bütçeye sahip."
+   ],
+   "amounts": [
+    "45 milyon",
+    "45 milyonluk",
+    "36 milyon",
+    "9 milyon",
+    "4.5 milyon",
+    "3 milyon"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "71bafc1e38c8",
+   "url": "https://www.athletiko.gr/gen-z-mesilikes-kai-syntaxioychoi-poioi-pragmatika-vlepoyn-podosfairo-gynaikon-115276",
+   "title": "Gen Z, μεσήλικες και συνταξιούχοι: Ποιοι πραγματικά βλέπουν ποδόσφαιρο γυναικών; | Athletiko",
+   "site": "Athletiko",
+   "country": "United Kingdom",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "μισθ"
+   ],
+   "snippets": [
+    "Ο συνδυασμός αυτών των δύο συντελεστών, έχουν δημιουργήσει νέα δεδομένα, νέες απαιτήσεις (περί επίσπευσης της μισθολογικής ισότητας), αλλά και μερικά στατιστικά που επιβεβαιώνουν του λόγου το αληθές (περί ανάπτυξης και αναβάθμισης)",
+    "Το Game 7 των τελικών, η βραδιά που οι Γκόλντεν Στέιτ Βάλκιρις κατέκτησαν τον τίτλο απέναντι στις Ατλάντα Ντριμς, 3,3 εκατομμύρια τηλεθεατές είδαν την αναμέτρηση.",
+    "Στο σύνολο της κανονικής περιόδου 2026 καταγράφηκαν 90+ εκατομμύρια μοναδικοί τηλεθεατές και πάνω από 320 εκατομμύρια ώρες παρακολούθησης."
+   ],
+   "amounts": [
+    "3,3 εκατομμύρια",
+    "320 εκατομμύρια",
+    "3,31 εκατομμύρια",
+    "1,5 εκατομμύριο",
+    "3,5 εκατομμύρια",
+    "103 εκατομμύρια",
+    "79 εκατομμύρια",
+    "28,5 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7949f840f6b9",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2585941/aris-den-asholeitai-me-mikropolitikes-ehei-alles-proteraiotites",
+   "title": "Ο Άρης δεν θα ασχοληθεί με μικροπολιτικές, έχεις άλλες προτεραιότητες",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το βλέμμα της και κυρίως το ενδιαφέρον της είναι επικεντρωμένα στις επενδύσεις που πρόκειται να γίνουν στο Αλεξάνδρειο οι οποίες δεν υπερβαίνουν απλά την υποχρέωση των 1.5 εκατ.",
+    "ευρώ (αυτά τα χρήματα ήδη έχουν επενδυθεί), αλλά στον κύριο όγκο του κεφαλαίου που ήδη έχει υπολογιστεί και αποσκοπεί στη μεταμόρφωση του εμβληματικού γηπέδου.",
+    "Θα γνώριζαν επίσης ότι η Πολιτεία αποδεσμεύεται από τα ετήσια έξοδα συντήρησης του γηπέδου (ήτοι περίπου 400.000 ευρώ)."
+   ],
+   "amounts": [
+    "1.5 εκατ",
+    "400.000 ευρώ",
+    "11.5 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f430c0bcd149",
+   "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2585922/eok-problima-me-tin-misthodosia-toys-agones-tis",
+   "title": "Πρόβλημα με την μισθοδοσία της ΕΟΚ, τους αγώνες της Εθνικής και τις εκλογικές μετακινήσεις, θα ανταποκριθεί η Πολιτεία!",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "μισθ",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Η Πολιτεία ζήτησε κι έλαβε τον αναμορφωμένο προϋπολογισμό και θα μεριμνήσει για την εκταμίευση των χρημάτων.",
+    "Ο πρόεδρος Άγγελος Παπανικολάου έχει αποστείλει ήδη τα σχετικά έγγραφα στην Πολιτεία χωρίς ακόμη να έχει πάρει απάντηση (οπότε προχωράει στην εκπλήρωση των εξόδων που απαιτούν οι υποχρεώσεις της Εθνικής με τα υπάρχοντα χρήματα), ωστόσο οι πληροφορίες του Gazzetta αναφέρουν ότι ο αναπληρωτής Υπουρ…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ce25bdabf82b",
+   "url": "https://meridiansport.rs/kosarka/kirilenko-rusija-skole-kosarke/",
+   "title": "Kirilenko predlaže da klubovi izdvajaju pet odsto od ugovora za škole košarke",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "milion",
+    "sum of money",
+    "vrednost ugovora",
+    "zarada"
+   ],
+   "snippets": [
+    "Još se razmatraju minimalna vrednost ugovora od koje bi se doprinos naplaćivao i izuzeća za pojedine rangove takmičenja.",
+    "Predsednik UNIKS-a Jevgenij Bogačov rekao je za Sport-Ekspres da se budžet kluba smanjuje iz sezone u sezonu i doveo u pitanje kako bi sponzori prihvatili dodatni trošak.",
+    "Sličan godišnji doprinos već postoji u ruskom fudbalu, gde profesionalni klubovi za škole i trenere izdvajaju dva odsto zarada fudbalera i pet odsto zarada fudbalerki."
+   ],
+   "amounts": [
+    "544,5 miliona"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f34d42e042d0",
+   "url": "https://basketballsphere.com/en/euroleague-referee-rankings-olympiacos-besiktas/",
+   "title": "Who gets the whistle in the EuroLeague? Olympiacos lead, Besiktas rank last",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The data covers games played through Round 10 of the 2026-27 EuroLeague season, before the two Round 11 games played yesterday."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8af904693af3",
+   "url": "https://www.dnevnik.si/novice/slovenija/zaradi-visjih-stroskov-gnojil-in-energije-kmetom-8-1-milijona-evrov-pomoci-2840183/",
+   "title": "Ocena škode po suši: 233,4 milijona, nekateri kmetje prijavili 180-odstotno izgubo pridelka",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bruselj je Sloveniji za ta namen odobril 2,7 milijona evrov pomoči, vlada pa bo temu znesku dodala še 5,4 milijona evrov, ki jih bo vzela s proračunske postavke odškodnine za spremembo namembnosti kmetijskega zemljišča.",
+    "Ostalo je pri oceni (blizu 233,4 milijona evrov), ki jo je 22.",
+    "Letošnja suša je prizadela blizu 21.500 oškodovancev iz vseh 212 občin, skupna ocenjena škoda, ki jo je danes potrdila vlada, pa znaša 233.384.654,74 evra."
+   ],
+   "amounts": [
+    "233,4 milijona",
+    "233.384.654,74 evra",
+    "9,3 milijona",
+    "8,9 milijona",
+    "7,5 milijona",
+    "5,2 milijona",
+    "4,8 milijona",
+    "4,6 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "778df86655fa",
    "url": "https://sportando.basketball/serie-a2-le-decisioni-del-giudice-sportivo-multe-per-sette-club/",
