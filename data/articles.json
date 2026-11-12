@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T17:16+00:00",
+ "updated": "2026-11-12T19:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,16 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,11 +49,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-28",
+   "oldest": "2026-10-29",
    "stop": "reached start date"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,25 +85,25 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "page 2 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Read timed out. (read t"
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "reached start date"
+   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,8 +112,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -121,25 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 22,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 9,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -147,8 +129,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Athletiko",
+   "checked": 23,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+  },
+  {
    "site": "Sport24",
-   "checked": 11,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,25 +157,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 15,
-   "found": 2,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,8 +184,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -193,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -256,7 +256,7 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -265,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -283,21 +283,21 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
@@ -310,11 +310,11 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-12",
    "stop": "no older pages"
   },
   {
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,274 @@
   }
  ],
  "items": [
+  {
+   "id": "908818d12452",
+   "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2032806/protathlima-v-efivon-epistrofi-stis-nikes-me-emfatiki-diafora-epi-tis-apes-kapandritiou-polidendriou/",
+   "title": "Πρωτάθλημα Β’ Εφήβων: Επιστροφή στις νίκες με εμφατική διαφορά επί της ΑΠΕΣ Καπανδριτίου – Πολυδενδρίου",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "ΑΠΕΣ Καπανδριτίου – Πολυδενδρίου – Eurohoops Academy 34-59 Δεκάλεπτα: 5-18, 14-33, 25-49, 34-59 Eurohoops Academy (Κόντος): Αναγνωστόπουλος 9(1), Τερνοβένκο, Φραντζεσκάκης 10(2), Βαγγελάτος, Μπάτσης 18(2), Βαρδακαστάνης 5, Νταής 6, Αλιφέρης 3, Παταβούκας 8(2)."
+   ],
+   "amounts": [
+    "59 Eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "79057308ae76",
+   "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2032835/protathlima-v-pedon-apedrase-me-low-score-apo-to-kapandriti/",
+   "title": "Πρωτάθλημα Β’ Παίδων: Απέδρασε με «low score» από το Καπανδρίτι",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Καπανδριτίου – Πολυδενδρίου – Eurohoops Academy  38-47 Δεκάλεπτα: 9-7, 20-26, 34-34, 38-47 Eurohoops Academy (Μπαστούνης): Ψύχας 8(2), Κουτσιαύτης 2, Φασουλόπουλος 4, Σωτηρόπουλος, Βαγγελάτος, Γλυνός 3(1), Κουτκιάς 18, Σταν 4, Παππάς 2, Λαδόπουλος 1, Αγαπουλάκης 3, Στάμος 2."
+   ],
+   "amounts": [
+    "47 Eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "91769926f24d",
+   "url": "https://meridiansport.rs/kosarka/evroliga-glasanje-fransize/",
+   "title": "Evroliga u naredne tri do četiri nedelje glasa o šest stalnih licenci",
+   "site": "Meridian Sport",
+   "country": "United Arab Emirates",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Kako je Meridian sport ranije objavio , naknada za učešće po tom modelu iznosila bi svaki klub oko 1,5 miliona evra po sezoni."
+   ],
+   "amounts": [
+    "1,5 miliona"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1de00ddd81ed",
+   "url": "https://meridiansport.rs/kosarka/hapoel-obradovic-tel-aviv-jerusalim/",
+   "title": "Hapoel Tel Aviv kažnjen zbog incidenta sa Obradovićem",
+   "site": "Meridian Sport",
+   "country": "Israel",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Hapoel Tel Aviv moraće da plati 14.500 šekela (oko 4.100 evra) zbog incidenata na prvenstvenoj utakmici protiv Hapoela iz Jerusalima ."
+   ],
+   "amounts": [
+    "4.100 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f4831284a460",
+   "url": "https://basketballsphere.com/en/goran-sasic-partizan-president-zeljko-obradovic-exit/",
+   "title": "Goran Sasic slams Partizan president over Zeljko Obradovic's exit",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Goran Sasic , who shares a close personal relationship with Zeljko Obradovic , revealed on the Euro Insiders podcast that he had tried to convince him for months not to resign."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9f39e9307338",
+   "url": "https://basketballsphere.com/en/omer-kutluay-real-madrid-liga-u-2028-nba-draft/",
+   "title": "Omer Kutluay’s rise at Real Madrid: From Turkey’s U17 star to Liga U’s leading scorer",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Last summer, Kutluay represented Turkey at both the FIBA U17 Basketball World Cup and the FIBA U20 EuroBasket.",
+    "That summer he went to his second FIBA U16 EuroBasket, in Tbilisi, and led the tournament in scoring at 24.1 points a game, with 6.0 assists, 4.0 rebounds and 2.6 steals, second in the tournament in assists; Turkiye finished seventh, and FIBA’s review of the event described him as the team’s main…",
+    "A year earlier, at 15, he had averaged 19.0 points in four games at the 2024 U16 EuroBasket in Greece, including 24 points, 9 rebounds and 8 assists in a round-of-16 win over Lithuania."
+   ],
+   "amounts": [
+    "20 EuroBasket",
+    "16 EuroBasket"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "1c184ba82f41",
+   "url": "https://www.dnevnik.si/novice/svet/trumpova-vlada-v-enem-letu-iz-zda-izgnala-skoraj-pol-milijona-ljudi-2840206/",
+   "title": "Trumpova vlada v enem letu iz ZDA izgnala skoraj pol milijona ljudi",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "milijon",
+    "proracun"
+   ],
+   "snippets": [
+    "Ameriška služba za priseljevanje in carine (Ice) je v proračunskem letu 2026, ki zajema obdobje od 30.",
+    "Letošnje število deportacij je za približno 18 odstotkov preseglo dosedanji rekord 409.849 deportacij iz proračunskega leta 2012 v času predsednika Baracka Obame.",
+    "V primerjavi z zadnjim celotnim proračunskim letom pod predsednikom Joejem Bidnom, ko je Ice izgnal 271.484 ljudi, pa to pomeni 78-odstotno rast."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "8ce708bfd1a7",
    "url": "https://basketnews.com/news-259348-major-injury-update-emerges-on-partizans-ethan-thompson-after-baskonia-game.html#utm_medium=rss&utm_content=news",
