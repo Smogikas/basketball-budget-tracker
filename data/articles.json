@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T19:14+00:00",
+ "updated": "2026-11-12T21:03+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,16 +22,17 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "checked": 5,
+   "found": 2,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-12",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -85,42 +86,6 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
-  },
-  {
-   "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 2,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -129,8 +94,45 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "TrendBasket",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before",
+   "skipped_nba": 2
+  },
+  {
+   "site": "Eurohoops EN",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops GR",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 23,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,16 +141,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 20,
    "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,25 +159,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
+   "checked": 19,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
+   "pages": 3,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,8 +186,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
-   "found": 2,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -193,7 +195,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -207,11 +209,11 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +222,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,21 +231,22 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -256,21 +259,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -301,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 8,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -328,10 +331,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -382,6 +385,134 @@
   }
  ],
  "items": [
+  {
+   "id": "4f4eac7df6bd",
+   "url": "https://basketnews.com/news-259364-sasha-vezenkov-becomes-olympiacos-all-time-leading-euroleague-scorer.html#utm_medium=rss&utm_content=news",
+   "title": "Sasha Vezenkov makes EuroLeague history with Olympiacos, breaks Spanoulis' record",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The milestone marks another major achievement for the Bulgarian forward, who has enjoyed an impressive start to the 2026-27 EuroLeague season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "92c0052cd680",
+   "url": "https://basketnews.com/news-259357-trabzonspor-officially-part-ways-with-isaiah-canaan.html#utm_medium=rss&utm_content=news",
+   "title": "Trabzonspor part ways with former NBA and Olympiacos guard",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Top 4 EuroLeague Title Favorites Ranked!"
+   ],
+   "amounts": [
+    "4 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Trabzonspor B.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,300,000 €",
+      "21/22: row exists, no amounts",
+      "player rows: 26/27 (1), 15/16 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c332e39627ba",
+   "url": "https://meridiansport.rs/kosarka/vezenkov-olimpijakos-dubai-rekord/",
+   "title": "Vezenkov prestigao Spanulisa i ispisao istoriju, Olimpijakos preslišao Dubai | MeridianBetSport",
+   "site": "Meridian Sport",
+   "country": "United Arab Emirates",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evro"
+   ],
+   "snippets": [
+    "Bugarski reprezentativac je već prvim poenima na utakmici prestigao legendarnog Vasilisa Spanulisa i postao najbolji strelac Olimpijakosa u istoriji kluba na evro-sceni."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "908818d12452",
    "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2032806/protathlima-v-efivon-epistrofi-stis-nikes-me-emfatiki-diafora-epi-tis-apes-kapandritiou-polidendriou/",
