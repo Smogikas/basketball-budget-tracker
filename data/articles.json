@@ -1,55 +1,56 @@
 {
- "updated": "2026-11-11T23:05+00:00",
+ "updated": "2026-11-12T01:29+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 14,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 6,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 7,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 25,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -85,10 +86,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -103,43 +104,43 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 10,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 7,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 48,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 19,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,19 +149,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 20,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 20,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -184,16 +185,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,36 +212,36 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 31,
-   "found": 2,
+   "checked": 21,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-03",
-   "stop": "reached start date",
+   "pages": 7,
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before",
    "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -257,21 +258,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -279,7 +280,7 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
@@ -293,16 +294,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 6,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,12 +312,12 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -383,6 +384,53 @@
   }
  ],
  "items": [
+  {
+   "id": "7120c60cde83",
+   "url": "https://basketnews.com/news-259305-nba-expansion-update-las-vegas-earns-staggering-price-seattle-gets-good-news.html#utm_medium=rss&utm_content=news",
+   "title": "NBA expansion update: Las Vegas earns staggering price, Seattle gets good news",
+   "site": "BasketNews.com",
+   "country": "France",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Appearing on Inside the NBA, ESPN insider Shams Charania revealed that the league is getting closer to choosing the winning group for Vegas, where all three finalists have reached $10 billion or more in their bids.",
+    "My understanding is sources are telling me that all three of the finalists are at $10 billion and potentially more than that,\" Charania said.",
+    "Steve Apostolopoulos is a Canadian real estate billionaire who recently made multi-billion-dollar bids for the Washington Commanders (NFL) and Ottawa Senators (NHL)."
+   ],
+   "amounts": [
+    "$10"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "SLUC Nancy Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 6,136,000 €, salary budget 1,816,000 €",
+      "25/26: budget 5,836,000 €, salary budget 1,733,000 €",
+      "24/25: budget 5,769,000 €, salary budget 1,721,000 €",
+      "player rows: 26/27 (11), 25/26 (13), 24/25 (12)"
+     ]
+    },
+    {
+     "name": "Washington Wizards",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 08/09 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "840dc92a6207",
    "url": "https://www.sport24.gr/basket/o-erasitexnis-paok-exefrase-tin-antithesi-tou-stin-paraxorisi-tou-alexandreiou-stin-kae-aris/",
