@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:04+00:00",
+ "updated": "2026-11-12T05:16+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,16 +13,16 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,21 +31,21 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
@@ -67,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -225,7 +225,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
@@ -238,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -265,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,21 +301,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -382,6 +382,70 @@
   }
  ],
  "items": [
+  {
+   "id": "bf568b3cf5c0",
+   "url": "https://www.krepsinis.net/naujiena/eurolygos-kapinynas-kurios-zvaigzdes-skendo-milano-pelkeje/354305",
+   "title": "Eurolygos kapinynas: kurios žvaigždės skendo Milano pelkėje? | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "alga",
+    "atlyginim",
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "29-erių lietuvis tuomet susimažino savo atlyginimą po sezono Stambulo „Fenerbahče“ apie 5 kartus (tuo metu skelbta, kad Milane alga siekė apie 700 tūkst.",
+    "eurų) ir buvo tikimasi, kad prikels savo karjerą.",
+    "Tuomet italai sumokėjo Kauno „Žalgiriui“ 250 tūkst."
+   ],
+   "amounts": [
+    "700 tūkst",
+    "250 tūkst"
+   ],
+   "seasons": [
+    "14/15",
+    "19/20",
+    "20/21"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "8edf614d2323",
    "url": "https://basketballsphere.com/en/aaron-towo-nansi-bcl-record/",
