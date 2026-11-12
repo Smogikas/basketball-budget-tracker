@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12T11:16+00:00",
+ "updated": "2026-11-12T13:29+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -22,20 +22,21 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-12",
    "stop": "no older pages"
   },
   {
@@ -49,13 +50,12 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 13,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-28",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Israel Hayom",
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,16 +86,16 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,43 +104,6 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 16,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 4,
    "found": 1,
    "error": "",
@@ -149,8 +112,44 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 5,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 33,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 7,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,26 +158,26 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 5,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Telesport",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -186,8 +185,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -204,22 +203,21 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -232,20 +230,20 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 11,
-   "found": 3,
+   "checked": 2,
+   "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-11",
+   "pages": 2,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
@@ -259,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -277,34 +275,35 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
-   "checked": 17,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -331,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -385,6 +384,439 @@
   }
  ],
  "items": [
+  {
+   "id": "6b78e95b3031",
+   "url": "https://basketnews.com/news-259337-vasilije-micic-addresses-reported-tension-with-itoudis-reveals-retirement-wish.html#utm_medium=rss&utm_content=news",
+   "title": "Vasilije Micic addresses reported tension with Itoudis, reveals retirement wish",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The Serbian guard has enjoyed a strong individual start to the 2026-27 EuroLeague season, averaging 14.6 points, 2.7 rebounds, 4.6 assists, and 12.3 PIR over nine games."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9e413b69b960",
+   "url": "https://www.krepsinis.net/naujiena/eurolyga-nubaude-besiktas-ir-partizan/354363",
+   "title": "Eurolyga nubaudė „Bešiktaš“ ir „Partizan“ | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Serbijos klubui skirta 8 tūkst.",
+    "Tuo metu „Bešiktaš“ gavo 7 tūkst."
+   ],
+   "amounts": [
+    "8 tūkst",
+    "7 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "95a5c46516a4",
+   "url": "https://www.eurohoops.net/en/euroleague/2033937/injury-report-round-11-justin-anderson-ready-for-season-debut-johnathan-motley-out-for-zvezda/",
+   "title": "Daniel Hackett among additions to EuroLeague Round 11 injury report",
+   "site": "Eurohoops EN",
+   "country": "",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Euroleague Basketball updates the official injury report for Round 11 of the 2026–27 EuroLeague Regular Season",
+    "After two games on Wednesday , the rest of Round 11 in the 2026–27 EuroLeague Regular Season tips off on Thursday and Friday."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Daniel Hackett",
+     "sheet": [
+      "25/26 Virtus Bologna: 1,000,000 €",
+      "24/25 Virtus Bologna: 1,000,000 €",
+      "23/24 Virtus Bologna: 1,000,000 €",
+      "22/23 Virtus Bologna: 1,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "983c48ac3a21",
+   "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2031842/protathlima-pampedon-v-epivlithike-tis-nikis-amarousiou-ke-sinechizi-aittiti/",
+   "title": "Πρωτάθλημα Παμπαίδων Β’ | Επιβλήθηκε της Νίκης Αμαρουσίου και συνεχίζει αήττητη!",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Eurohoops Academy – ΑΣ Νίκη Αμαρουσίου 99-38 Eurohoops Academy Εξέλιξις (Φότο, Αθανασούλας): Κουτσιαύτης, Φασουλόπουλος, Σωτηρόπουλος, Σταν, Μακρής, Βαφιάς, Λαδόπουλος, Φλίγκος, Κυραγιάννης, Κωστόπουλος, Πάνου, Αγαπουλάκης."
+   ],
+   "amounts": [
+    "38 Eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d9a250df49e2",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2033921/vasilije-micic-hapoel-ile-euroleaguei-kazanmak-ve-burada-emekli-olmak-istiyorum/",
+   "title": "Vasilije Micic: “Hapoel ile EuroLeague’i Kazanmak ve Burada Emekli Olmak İstiyorum”",
+   "site": "Eurohoops TR",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Kariyerinde 278 EuroLeague, 101 de NBA maçına çıkan Micic, takım içindeki liderlik konusunda ise kendisini ön plana çıkarmadı."
+   ],
+   "amounts": [
+    "278 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Plana",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 85,700 €, salary budget 66,846 €",
+      "24/25: budget 54,309 €",
+      "23/24: budget 41,655 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Elijah Bryant",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 4,400,000 €",
+      "25/26 Hapoel Tel Aviv: 2,380,000 €",
+      "21/22 Anadolu Efes S.K.: 700,000 €",
+      "20/21 Maccabi Tel Aviv: 522,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "a9e1308191ed",
+   "url": "https://www.sdna.gr/mpasket/1485965_aporrifthikan-oi-efeseis-toy-olympiakoy-sto-asead-paramenei-2-kai-i-poini-ston",
+   "title": "Απορρίφθηκαν οι εφέσεις του Ολυμπιακού στο ΑΣΕΑΔ: Παραμένει το -2 και η ποινή στον Τζόουνς",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το ποσό αρχικά ανερχόταν σε 100.000 ευρώ στην ΚΑΕ Ολυμπιακός και 50.000 ευρώ στον Τζόουνς."
+   ],
+   "amounts": [
+    "100.000 ευρώ",
+    "50.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a6daf5df0af9",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2585873/asead-paramenei-2-se-olympiako-kai-panathinaiko",
+   "title": "Παραμένει το -2 σε Ολυμπιακό - Τι ισχύει για Τζόουνς",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Αρχικά είχε επιβληθεί 100.000 ευρώ στην ΚΑΕ Ολυμπιακός και 50.000 ευρώ στον Τζόουνς.",
+    "Πλέον έπεσε στις 100.000 ευρώ συνολικά."
+   ],
+   "amounts": [
+    "100.000 ευρώ",
+    "50.000 ευρώ"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Tyrique Jones",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,200,000 €",
+      "25/26 Olympiacos B.C.: 750,000 €",
+      "25/26 KK Partizan: 700,000 €",
+      "24/25 KK Partizan: 1,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "5656754932e8",
+   "url": "https://telesport.rs/2026/11/12/evroliga-ponovo-kaznila-partizan-5/",
+   "title": "Evroliga ponovo kaznila Partizan! - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Turski klub moraće da plati 7.000 evra zbog incidenta na utakmici protiv Olimpijakosa.",
+    "Ljubljanski klub platiće 8.000 evra zbog ubacivanja predmeta na teren tokom susreta."
+   ],
+   "amounts": [
+    "7.000 evra",
+    "8.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2bd7bdd84e7e",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/evroliga-ponovo-kaznila-partizan/558684",
+   "title": "Evroliga ponovo kaznila Partizan | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Slovenia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ljubljanska Cedevita Olimpija moraće da plati 8.000 evra nakon meča šeste runde protiv italijanske Tortone."
+   ],
+   "amounts": [
+    "8.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cedevita Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 4,800,000 €",
+      "25/26: budget 9,700,000 €, salary budget 5,250,000 €",
+      "24/25: budget 7,100,000 €, salary budget 4,000,000 €"
+     ]
+    },
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "197603a29a65",
+   "url": "https://meridiansport.rs/kosarka/tajrik-dzons-olimpijakos-tuca/",
+   "title": "Tajriku Džonsu i Olimpijakosu ostaju kazne zbog tuče",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Prvobitno je bilo predviđeno da Olimpijakos plati 100.000 evra, a Džons 50.000 evra."
+   ],
+   "amounts": [
+    "100.000 evra",
+    "50.000 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "632262e35d16",
+   "url": "https://meridiansport.rs/kosarka/meridianbet-crvena-zvezda-fondacija/",
+   "title": "Meridianbet još jednom pokazao društvenu odgovornost: Podrška humanitarnoj inicijativi Crvene zvezde!",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "hiljad"
+   ],
+   "snippets": [
+    "O značaju ove inicijative najbolje govore rezultati iz prethodne sezone, kada je kroz aukcije prikupljeno više desetina hiljada evra namenjenih pomoći srpskom narodu i svetinjama na Kosovu i Metohiji."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "fde5261f6cb6",
    "url": "https://www.basketnews.lt/news-259335-eurolyga-skyre-baudas-partizan-ir-besiktas.html#utm_medium=rss&utm_content=news",
