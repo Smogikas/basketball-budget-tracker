@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-12T13:29+00:00",
+ "updated": "2026-11-12T15:11+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -17,23 +17,22 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-12",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -41,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
    "checked": 4,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-28",
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,10 +85,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -104,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -113,25 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 33,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,9 +120,27 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
-   "checked": 7,
+   "site": "Eurohoops TR",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 24,
    "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,17 +157,17 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -176,8 +175,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -185,20 +184,20 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-31",
+   "oldest": "2026-11-01",
    "stop": "reached start date"
   },
   {
@@ -212,16 +211,16 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -266,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -284,6 +283,15 @@
   },
   {
    "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -292,18 +300,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SportoweFakty",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
    "site": "Sporx",
-   "checked": 12,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -384,6 +382,203 @@
   }
  ],
  "items": [
+  {
+   "id": "778df86655fa",
+   "url": "https://sportando.basketball/serie-a2-le-decisioni-del-giudice-sportivo-multe-per-sette-club/",
+   "title": "Serie A2, le decisioni del Giudice Sportivo: multe per sette club - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ammende da 1.667 euro per Forlì , per offese frequenti nei confronti di Marini, e per Avellino , per offese rivolte ad Alessandro Gentile."
+   ],
+   "amounts": [
+    "1.667 euro",
+    "875 euro",
+    "825 euro",
+    "750 euro",
+    "375 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dinamo Sassari",
+     "country": "Italy",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: row exists, no amounts",
+      "24/25: budget 7,830,000 €, salary budget 4,050,000 €",
+      "player rows: 22/23 (1), 21/22 (1)"
+     ]
+    },
+    {
+     "name": "Pistoia Basket 2000",
+     "country": "Italy",
+     "sheet": [
+      "24/25: budget 4,810,000 €, salary budget 2,040,000 €",
+      "23/24: budget 4,650,000 €, salary budget 1,590,000 €",
+      "22/23: budget 2,004,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b9c35530125e",
+   "url": "https://www.pianetabasket.com/serie-a2/serie-a2-multe-per-quasi-8000-euro-a-7-squadre-i-provvedimenti-della-9a-giornata",
+   "title": "Serie A2, multe per quasi 8.000 euro a 7 squadre: i provvedimenti della 9a giornata",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Sette società multate per un totale di 7.992 euro e due giornate di squalifica per Alessandro Gentile."
+   ],
+   "amounts": [
+    "7.992 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f844cd0b919a",
+   "url": "https://www.athletiko.gr/i-eoe-pire-thesi-gia-ti-moriodotisi-me-aformi-tin-ypothesi-toy-chantmpol-115257",
+   "title": "Η ΕΟΕ πήρε θέση για τη μοριοδότηση με αφορμή την υπόθεση του χάντμπολ | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Η κατάργηση ή η αποδυνάμωσή του θα έστελνε το λάθος μήνυμα σε χιλιάδες παιδιά που προσπαθούν καθημερινά να συνδυάσουν τον πρωταθλητισμό με την εκπαίδευση, με κίνδυνο να απομακρυνθούν από τις προπονήσεις και τον αθλητισμό."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "12259536a274",
+   "url": "https://basketballsphere.com/en/fenerbahces-masterclass-on-how-not-to-do-transfer-window/",
+   "title": "Fenerbahce's \"masterclass\" on how not to do transfer window",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Fenerbahce added players such as Shane Larkin , Will Clyburn , Trent Forrest , Shavon Shields , Braxton Key , Marcus Bingham , and Ignas Sargiunas to their ranks, believing these additions would help them clear the hurdle that stood in their way last season, when a lack of offensive production pr…"
+   ],
+   "amounts": [
+    "2026 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Braxton Key",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 968,000 €"
+     ]
+    },
+    {
+     "name": "Ignas Sargiūnas",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 300,000 €",
+      "24/25 Rytas Vilnius: 90,000 €",
+      "23/24 Neptūnas Klaipėda: 80,000 €",
+      "21/22 BC Prienai: 30,000 €"
+     ]
+    },
+    {
+     "name": "Marcus Bingham",
+     "sheet": [
+      "27/28 Fenerbahce Istanbul: 704,000 €",
+      "26/27 Fenerbahce Istanbul: 660,000 €",
+      "24/25 Hapoel Holon: 119,600 €",
+      "24/25 Hapoel Tel Aviv: 360,000 €"
+     ]
+    },
+    {
+     "name": "Shane Larkin",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 2,640,000 €",
+      "25/26 Anadolu Efes S.K.: 3,700,000 €",
+      "24/25 Anadolu Efes S.K.: 3,600,000 €",
+      "23/24 Anadolu Efes S.K.: 3,600,000 €"
+     ]
+    },
+    {
+     "name": "Shavon Shields",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 1,408,000 €",
+      "25/26 Olimpia Milano: 1,500,000 €",
+      "24/25 Olimpia Milano: 1,200,000 €"
+     ]
+    },
+    {
+     "name": "Will Clyburn",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 880,000 €",
+      "24/25 Virtus Bologna: 1,500,000 €",
+      "23/24 Anadolu Efes S.K.: 1,820,000 €",
+      "22/23 Anadolu Efes S.K.: 2,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "b6674e319c4f",
    "url": "https://www.2playbook.com/clubes/joventut-badalona-formaliza-ampliacion-capital-717685-euros_17599_102.html",
