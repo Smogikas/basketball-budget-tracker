@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-12T09:16+00:00",
+ "updated": "2026-11-12T11:16+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -31,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -49,12 +49,13 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
-   "found": 0,
+   "checked": 13,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-28",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Israel Hayom",
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -94,27 +95,27 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 7,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Eurohoops EN",
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before",
    "skipped_nba": 1
   },
   {
-   "site": "Eurohoops EN",
+   "site": "Eurohoops GR",
    "checked": 3,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 4,
-   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -131,8 +132,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 11,
-   "found": 0,
+   "checked": 16,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -140,8 +141,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -149,33 +150,6 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 8,
-   "found": 1,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
-  },
-  {
-   "site": "Mozzart Sport",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -184,13 +158,40 @@
    "stop": "no older pages"
   },
   {
-   "site": "Meridian Sport",
-   "checked": 0,
+   "site": "Gazzetta.gr",
+   "checked": 11,
+   "found": 0,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -203,8 +204,8 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -217,7 +218,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
@@ -239,42 +241,33 @@
   },
   {
    "site": "Basketball Sphere",
+   "checked": 11,
+   "found": 3,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basket.zoznam.sk",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
-  },
-  {
-   "site": "Basket.zoznam.sk",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
    "oldest": "2026-11-06",
    "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
    "stop": "no older pages"
   },
   {
-   "site": "Basketball.hr",
+   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -283,17 +276,26 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Z Krainy NBA",
-   "checked": 0,
+   "site": "Basketball.hr",
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -302,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -320,7 +322,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,7 +331,7 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -383,6 +385,600 @@
   }
  ],
  "items": [
+  {
+   "id": "fde5261f6cb6",
+   "url": "https://www.basketnews.lt/news-259335-eurolyga-skyre-baudas-partizan-ir-besiktas.html#utm_medium=rss&utm_content=news",
+   "title": "Eurolyga skyrė baudas „Partizan“ ir „Bešiktaš“",
+   "site": "BasketNews.lt",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "biudzet",
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "eurų sumą į organizacijos biudžetą turės pervesti ir „Cedevita Olimpija“.",
+    "Didžiausios – po 8 tūkst.",
+    "Tuo metu Stambulo „Bešiktaš“ atsipirko kiek švelnesne bausme – Turkijos ekipai skirta 7 tūkst."
+   ],
+   "amounts": [
+    "8 tūkst",
+    "7 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Derthona Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 14,500,000 €, salary budget 7,000,000 €",
+      "25/26: budget 13,100,000 €, salary budget 6,000,000 €",
+      "24/25: budget 13,100,000 €, salary budget 8,450,000 €"
+     ]
+    },
+    {
+     "name": "KK Cedevita Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 4,800,000 €",
+      "25/26: budget 9,700,000 €, salary budget 5,250,000 €",
+      "24/25: budget 7,100,000 €, salary budget 4,000,000 €"
+     ]
+    },
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "42113f70e345",
+   "url": "https://basketnews.com/news-259333-euroleague-fines-partizan-and-besiktas-after-fan-incidents.html#utm_medium=rss&utm_content=news",
+   "title": "EuroLeague announces disciplinary action against Partizan, Besiktas",
+   "site": "BasketNews.com",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Besiktas received a €7,000 fine after a fan invaded the court during their EuroLeague Round 8 game against Olympiacos Piraeus.",
+    "Partizan were handed a larger €8,000 fine after their EuroLeague Round 10 matchup against Maccabi Rapyd Tel Aviv."
+   ],
+   "amounts": [
+    "€7,000",
+    "€8,000"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "991b3e4dfdbc",
+   "url": "https://www.krepsinis.net/naujiena/pirmasis-lkl-ratas-10-esminiu-klausimu-kiekvienam-klubui/354340",
+   "title": "Pirmasis LKL ratas: 10 esminių klausimų kiekvienam klubui | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "biudzet"
+   ],
+   "snippets": [
+    "Akivaizdu, nes niekas nesitikėjo 6 pergalių ir antros pozicijos po pirmojo rato – visgi pagal biudžetą tai yra gerokai lūkesčius viršijanti ekipa."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Tauragė",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 1,200,000 €, salary budget 750,000 €"
+     ]
+    },
+    {
+     "name": "BC Šiauliai",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,200,000 €",
+      "25/26: budget 2,000,000 €, salary budget 1,100,000 €",
+      "24/25: budget 1,500,000 €",
+      "player rows: 26/27 (1), 25/26 (2), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Gargždai Basketball",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 1,000,000 €, salary budget 650,000 €",
+      "25/26: budget 1,000,000 €, salary budget 700,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Darius Songaila",
+     "sheet": [
+      "14/15 Žalgiris Kaunas: 100,000 €",
+      "08/09 Washington Wizards: 1,430,000 €"
+     ]
+    },
+    {
+     "name": "Paulius Valinskas",
+     "sheet": [
+      "23/24 Lietkabelis Panevėžys: 100,000 €",
+      "20/21 Lietkabelis Panevėžys: 65,000 €",
+      "19/20 Orleans Loiret Basket: 80,000 €",
+      "18/19 Lietkabelis Panevėžys: 75,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "b43807e7968f",
+   "url": "https://www.pianetabasket.com/euroleague/euroleague-la-partita-dei-milioni-maxima-roma-vicina-ai-100-per-la-franchigia",
+   "title": "EuroLeague, la partita dei milioni: Maxima Roma vicina ai 100 per la franchigia?",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "8194058f15f2",
+   "url": "https://www.eurohoops.net/en/euroleague/2033914/euroleague-basketball-slaps-partizan-and-besiktas-with-fan-misconduct-fines/",
+   "title": "Euroleague Basketball slaps Partizan and Besiktas with fan misconduct fines",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Per the press release: “Euroleague Basketball has announced the following disciplinary decision pertaining to incidents that occurred in Rounds 8 and 10 of the 2026-27 EuroLeague Regular Season, and Round 6 of the 2026-27 BKT EuroCup Regular Season.",
+    "Navigating the 2026–27 EuroLeague Regular Season, the Belgrade club sits at 6–5, half a game outside the Play-In Showdown zone, while the Istanbul side trails behind at 4–6."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c3c0f70f9b30",
+   "url": "https://www.athletiko.gr/ligi-ntropi-den-vlaptei-115191",
+   "title": "Λίγη ντροπή δεν βλάπτει | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Ένα γήπεδο που είχε ζωή, παλμό και κόσμο ακόμη και όταν ο Άρης διέθετε προϋπολογισμό που μετά βίας του επέτρεπε να μην εμπλέκεται σε αγωνιστικές περιπέτειες.",
+    "Ακόμη και όταν δεν υπήρχε δισεκατομμυριούχος ιδιοκτήτης όπως σήμερα , ούτε η οικονομική δυνατότητα για τη συγκρότηση μιας ομάδας υψηλών φιλοδοξιών, παρά μόνο άνθρωποι που αγωνίζονταν να εξασφαλίσουν έναν στοιχειώδη προϋπολογισμό, ικανό να συγκροτήσει μια αξιόμαχη ομάδα.",
+    "Μια παραχώρηση που προβλέπει τις εξής υποχρεώσεις για την ΚΑΕ Άρης: την απόδοση στα Εθνικά Αθλητικά Κέντρα Θεσσαλονίκης του 30% των καθαρών εσόδων από την εμπορική εκμετάλλευση των εγκαταστάσεων , την πραγματοποίηση ιδιωτικών επενδύσεων ύψους τουλάχιστον 1,5 εκ ευρώ και την ανάληψη του συνόλου τω…"
+   ],
+   "amounts": [
+    "30 εκατομμύρια",
+    "53 εκατομμύρια",
+    "70.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6f568cc3806f",
+   "url": "https://www.sdna.gr/mpasket/1485930_broytsis-sto-center-fox-tha-ypograpso-opoiadipote-organomeni-metakinisi-eisigithei",
+   "title": "Βρούτσης στο Center Fox: «Θα υπογράψω οποιαδήποτε οργανωμένη μετακίνηση αν εισηγηθεί η Αστυνομία, ήμουν απέναντι στον Λιόλιο σε όλα»! (vid)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Κλείσαμε το Καυτανζόγλειο για λίγο, γιατί δεν είχε πυρασφάλεια, το ξανανοίξαμε, δώσαμε πρωτοφανή χρήματα, με αύξηση του προϋπολογισμού κατά 150%.",
+    "Έγιναν έργα δύο εκατομμυρίων ευρώ από τον προϋπολογισμό του ίδιου του Καυτανζογλείου.",
+    "Άλλαξα το καθεστώς των προϋπολογισμών και των ισολογισμών."
+   ],
+   "amounts": [
+    "11,5 εκατομμυρίων",
+    "11,5 εκατομμύρια",
+    "3,2 εκατομμύρια",
+    "17,5 εκατομμύρια",
+    "80 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b5885d289ddd",
+   "url": "https://www.marca.com/baloncesto/acb/2026/11/12/fiche-barcelona-cobrando-ganaba-real-madrid.html",
+   "title": "\"Fiché por el Barcelona cobrando menos de lo que ganaba en el Real Madrid\"",
+   "site": "Marca",
+   "country": "Spain",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "salar"
+   ],
+   "snippets": [
+    "Laprovittola recordó que \"cuando fiché por el Barça, vine cobrando menos dinero del que ganaba cuando era jugador del Real Madrid\" , aunque subrayó que el salario más alto que ha llegado a cobrar en una temporada fue cuando renovó por el Barça."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "2c6aa4c30eff",
+   "url": "https://basketballsphere.com/en/asvel-vs-besiktas-prediction-odds-euroleague-november-13-2026/",
+   "title": "Asvel vs Besiktas Prediction & Odds: EuroLeague, November 13, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budget",
+    "salar"
+   ],
+   "snippets": [
+    "Salaries in French basketball were recently revealed, showing that Asvel assembled its roster on a very modest budget ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jae Crowder",
+     "sheet": [
+      "26/27 ASVEL Basket: 250,000 €"
+     ]
+    },
+    {
+     "name": "Patty Mills",
+     "sheet": [
+      "26/27 ASVEL Basket: 800,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "27263805bb41",
+   "url": "https://basketballsphere.com/en/panathinaikos-vs-barcelona-prediction-odds-euroleague-november-13-2026/",
+   "title": "Panathinaikos vs Barcelona Prediction & Odds: EuroLeague, November 13, 2026",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "sum of money"
+   ],
+   "snippets": [
+    "There was talk of the club having its smallest budget ever, Xavi Pascual had departed, and even some players who had already agreed to join, such as Moses Wright, backed out of their moves to Catalonia.",
+    "Looking at their last 15 EuroLeague meetings, Barcelona hold a commanding 12-3 advantage against Panathinaikos."
+   ],
+   "amounts": [
+    "15 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Moses Wright",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,400,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "24/25 Olympiacos B.C.: 550,000 €"
+     ]
+    },
+    {
+     "name": "Nikos Rogkavopoulos",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 1,100,000 €",
+      "25/26 Panathinaikos B.C.: 1,100,000 €"
+     ]
+    },
+    {
+     "name": "Xavi Pascual",
+     "sheet": [
+      "26/27 Dubai Basketball: 3,000,000 €",
+      "17/18 Panathinaikos B.C.: 900,000 €",
+      "15/16 FC Barcelona Basquet: 920,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "30e9160e9b56",
+   "url": "https://basketballsphere.com/en/nba-expansion-las-vegas-seattle/",
+   "title": "NBA expansion gaining momentum: Las Vegas bids cross $10 billion mark as Seattle timeline emerges",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "NBA expansion accelerates as three Las Vegas ownership groups top $10 billion in bids, with Seattle's franchise decision set for December.",
+    "As revealed by ESPN insider Shams Charania , the NBA is closing in on selecting the winning ownership group for Las Vegas, where all three finalists have reached $10 billion or more in their bids.",
+    "My understanding is sources are telling me that all three of the finalists are at $10 billion and potentially more than that."
+   ],
+   "amounts": [
+    "$10"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "SLUC Nancy Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 6,136,000 €, salary budget 1,816,000 €",
+      "25/26: budget 5,836,000 €, salary budget 1,733,000 €",
+      "24/25: budget 5,769,000 €, salary budget 1,721,000 €",
+      "player rows: 26/27 (11), 25/26 (13), 24/25 (12)"
+     ]
+    },
+    {
+     "name": "Washington Wizards",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 08/09 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "4314a0d26ef3",
    "url": "https://sportando.basketball/virtus-bologna-abass-dubai-mercato/",
