@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T21:03+00:00",
+ "updated": "2026-11-12T22:59+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,17 +13,8 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 5,
-   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -31,7 +22,7 @@
    "skipped_nba": 1
   },
   {
-   "site": "Krepsinis.net",
+   "site": "BasketNews.com",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -40,8 +31,17 @@
    "stop": "no older pages"
   },
   {
+   "site": "Krepsinis.net",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
+  },
+  {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -86,7 +86,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -95,26 +95,26 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
-   "found": 0,
+   "checked": 6,
+   "found": 3,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before",
-   "skipped_nba": 2
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -132,7 +132,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 18,
+   "checked": 39,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -141,16 +141,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 20,
-   "found": 0,
+   "checked": 19,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 12,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,16 +159,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 19,
+   "checked": 17,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -177,7 +177,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -186,7 +186,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -195,7 +195,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -204,7 +204,7 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -241,12 +241,11 @@
   {
    "site": "Basketball Sphere",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -277,11 +276,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
@@ -304,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -385,6 +384,136 @@
   }
  ],
  "items": [
+  {
+   "id": "fb62bd931c44",
+   "url": "https://trendbasket.net/the-newest-hindi-called-video-clips-number-2026/",
+   "title": "The newest Hindi Called Video clips Number 2026 - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "thousand"
+   ],
+   "snippets": [
+    "Along with 12,one hundred thousand headings, you can enjoy content anywhere as well as on any equipment, including a mac/Pc, iphone, or Android.",
+    "For many who’re also becoming a member of Netflix, Hulu Alive, ESPN+, Disney+, and other programs individually, might be easily charged up to $270+ 30 days."
+   ],
+   "amounts": [
+    "$270"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "02d3a05dffd6",
+   "url": "https://www.sdna.gr/mpasket/1486092_sto-rantar-kai-ton-maiami-hit-o-kebin-porter-tzoynior",
+   "title": "«Στο... ραντάρ και των Μαϊάμι Χιτ ο Κέβιν Πόρτερ Τζούνιορ»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "payroll",
+    "μισθ"
+   ],
+   "snippets": [
+    "Παρά το υψηλό μισθολόγιο και τους περιορισμούς που προκύπτουν από τον φόρο πολυτελείας, η ομάδα του Μαϊάμι εξετάζει τις διαθέσιμες επιλογές στην αγορά των ελεύθερων παικτών, με τον πρώην γκαρντ του ΠΑΟΚ και τον Γκέιμπ Βίνσεντ να βρίσκονται μεταξύ αυτών.",
+    "“Sources say that the Heat, despite their high payroll and well-documented luxury tax concerns, have weighed signing a free agent like Kevin Porter Jr."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "2efbd27335bc",
+   "url": "https://meridiansport.rs/kosarka/zvezda-real-madrid-izvestaj/",
+   "title": "Zvezda u Madridu ispala iz takta, Real u napadu pogodio svaku notu",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evro"
+   ],
+   "snippets": [
+    "U jednoj od najslabijih partija ove sezone, ekipa Ibona Navara izgubila je u Movistar Areni rezultatom 84:105 i tako prekinula seriju od tri vezana trijumfa na evro-sceni."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d71d682fbfa1",
+   "url": "https://basketballsphere.com/en/euroleague-recap-jonas-valanciunas-sasha-vezenkov/",
+   "title": "EuroLeague Recap: Jonas Valanciunas puts on a monster show, Sasha Vezenkov makes history",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Round 11 of the 2026/27 EuroLeague season continued on Thursday with five intriguing matchups, following the two games played on Wednesday ."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €"
+     ]
+    },
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "4f4eac7df6bd",
    "url": "https://basketnews.com/news-259364-sasha-vezenkov-becomes-olympiacos-all-time-leading-euroleague-scorer.html#utm_medium=rss&utm_content=news",
@@ -1297,6 +1426,86 @@
      ]
     }
    ],
+   "nba": false
+  },
+  {
+   "id": "28503a8bdf65",
+   "url": "https://trendbasket.net/1xbet-bukmekerlik-kompaniyasi-onlayn-sportga-pul-tikish-2/",
+   "title": "1xbet - bukmekerlik kompaniyasi, onlayn sportga pul tikish, rasmiy veb-sayt - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Serbia",
+   "published": "2026-11-11",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ro’yxatdan o’tish paytida OdXBet yangi o’yinchilarga 1500 dollargacha bo’lgan kazino bonusi + 210 ta bepul aylanishni taklif qiladi!",
+    "Slotlarni ishga tushirish uchun sovg’a olish uchun yangi o’yinchi o’z profilini to’ldirishi, mobil telefonini faollashtirishi va kamida $2 miqdorida birinchi depozitni amalga oshirishi kerak."
+   ],
+   "amounts": [
+    "$2"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Spartak Subotica",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 3,500,000 €, salary budget 2,100,000 €",
+      "25/26: budget 4,026,058 €, salary budget 3,077,338 €",
+      "24/25: budget 2,802,278 €, salary budget 2,166,715 €"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    },
+    {
+     "name": "Zenit Saint Petersburg",
+     "country": "Russia",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (3), 25/26 (1), 23/24 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "669cf6cfe2de",
+   "url": "https://trendbasket.net/1xbet-bukmekerlik-kompaniyasi-onlayn-sportga-pul-tikish/",
+   "title": "1xbet - bukmekerlik kompaniyasi, onlayn sportga pul tikish, rasmiy veb-sayt - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-10",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "million"
+   ],
+   "snippets": [
+    "Ro’yxatdan o’tishda OdXBet yangi kelganlarga 1500 dollargacha bo’lgan kazino bonusi + 210 ta bepul aylanishni taklif qiladi!",
+    "Yillar davomida 1xBet millionlab mijozlarni jalb qildi, bu brendning yuqori obro’sidan dalolat beradi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
    "nba": false
   },
   {
