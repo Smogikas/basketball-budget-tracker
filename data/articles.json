@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-12T01:29+00:00",
+ "updated": "2026-11-12T03:04+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -22,13 +22,12 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 7,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 10,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -158,37 +157,37 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
@@ -203,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
@@ -221,13 +220,12 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 21,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 7,
+   "pages": 1,
    "oldest": "2026-11-06",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
@@ -240,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -276,11 +274,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -303,12 +301,12 @@
   },
   {
    "site": "Sporx",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
@@ -384,6 +382,61 @@
   }
  ],
  "items": [
+  {
+   "id": "8edf614d2323",
+   "url": "https://basketballsphere.com/en/aaron-towo-nansi-bcl-record/",
+   "title": "Aaron Towo-Nansi sets new Basketball Champions League record, surpassing Alperen Sengun",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-12",
+   "found": "2026-11-12",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "A U16 European champion with France in 2024, he made his LNB Elite debut on 27 September 2025, the same evening he scored 26 points for Cholet’s under-21 team against Strasbourg, his best at that level."
+   ],
+   "amounts": [
+    "16 European"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Cholet Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 6,753,000 €, salary budget 1,738,000 €",
+      "25/26: budget 6,460,000 €, salary budget 1,631,000 €",
+      "24/25: budget 6,389,000 €, salary budget 1,612,000 €",
+      "player rows: 26/27 (11), 25/26 (12), 24/25 (13)"
+     ]
+    },
+    {
+     "name": "SIG Strasbourg",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,698,000 €, salary budget 1,956,000 €",
+      "25/26: budget 7,071,000 €, salary budget 2,898,000 €",
+      "24/25: budget 7,118,000 €, salary budget 1,941,000 €",
+      "player rows: 26/27 (12), 25/26 (12), 24/25 (13)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Aaron Towo - Nansi",
+     "sheet": [
+      "26/27 Cholet Basket: 36,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "7120c60cde83",
    "url": "https://basketnews.com/news-259305-nba-expansion-update-las-vegas-earns-staggering-price-seattle-gets-good-news.html#utm_medium=rss&utm_content=news",
