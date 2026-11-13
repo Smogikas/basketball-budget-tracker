@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T11:15+00:00",
+ "updated": "2026-11-13T13:27+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 9,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -22,41 +22,40 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 14,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-29",
    "stop": "reached start date",
-   "skipped_nba": 2
+   "skipped_nba": 1
   },
   {
    "site": "Israel Hayom",
@@ -69,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -100,13 +99,13 @@
    "found": 2,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 6,
-   "found": 2,
+   "checked": 4,
+   "found": 3,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -114,33 +113,6 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 20,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 4,
    "found": 0,
    "error": "",
@@ -149,9 +121,36 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
+   "site": "Eurohoops TR",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 29,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
    "checked": 2,
    "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 7,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -159,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 0,
+   "checked": 13,
+   "found": 2,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-12",
@@ -168,7 +167,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -177,18 +176,17 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -196,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -205,13 +203,12 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -220,20 +217,22 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "reached start date"
+   "pages": 3,
+   "oldest": "2026-11-06",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -242,8 +241,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 5,
-   "found": 0,
+   "checked": 2,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -261,7 +260,7 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 1,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
@@ -269,17 +268,18 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -287,10 +287,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -305,7 +305,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 21,
+   "checked": 23,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,7 +314,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -332,11 +332,11 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
@@ -386,6 +386,712 @@
   }
  ],
  "items": [
+  {
+   "id": "92c319e18342",
+   "url": "https://sportando.basketball/napoli-basketball-josh-hart-proprieta-board/",
+   "title": "Napoli Basketball, Josh Hart entra nella proprietà del club - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [
+    "«Josh Hart rappresenta Napoli e le decine di milioni di orgogliosi napoletani presenti in tutto il mondo», ha dichiarato il presidente Matt Rizzetta ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "7c9316b1d5bc",
+   "url": "https://www.basketnews.lt/news-259402-ivertintas-juskeviciu-is-pusiausvyros-isvedes-epizodas-priimtas-neteisingas-sprendimas.html#utm_medium=rss&utm_content=news",
+   "title": "Įvertintas Adą Juškevičių iš pusiausvyros išvedęs epizodas",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eurus"
+   ],
+   "snippets": [
+    "Vienam mačui suspenduotas buvo ir jurbarkiečių treneris Povilas Valaitis , o klubui skirtos piniginės sankcijos siekė iš viso 605 eurus."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Adas Juškevičius",
+     "sheet": [
+      "23/24 Alytus - Vilnius Wolves: 200,000 €",
+      "21/22 Parma: 290,000 €",
+      "20/21 Parma: 270,000 €",
+      "17/18 Lietkabelis Panevėžys: 110,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "a0ef638b1d7c",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/italijos-spauda-apie-kova-su-zalgiriu-krepsinio-dramoje-vos-neivyko-stebuklas-874-2805490?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Italijos spauda apie kovą su „Žalgiriu“: krepšinio dramoje vos neįvyko stebuklas",
+   "site": "15min 24sek",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon"
+   ],
+   "snippets": [
+    "Buvo bandoma paaiškinti, kas nutiko su „Outlook“ elektroninio pašto sistemos strigimais, kurie trikdė milijonų žmonių kasdienybę, ne tik Italijoje, bet ir Lietuvoje."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "733fee1e2268",
+   "url": "https://www.eurohoops.net/en/eurocup/2034517/josh-hart-joins-napoli-ownership-group-eurocup/",
+   "title": "Josh Hart acquires Napoli stake: “Always wanted to be a part owner”",
+   "site": "Eurohoops EN",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "“Josh represents Napoli and the tens of millions of proud Neapolitans across the world,” said Matt Rizzetta, President of Napoli Basketball and Founder of Underdog Global Partners."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "0c3fd243ad82",
+   "url": "https://www.eurohoops.net/en/euroleague/2034509/kenneth-faried-injury-update-baskonia-euroleague/",
+   "title": "Kenneth Faried out as Baskonia injury woes continue mounting",
+   "site": "Eurohoops EN",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Baskonia sits tied with Armani Olimpia Milan at the bottom of the 2026–27 EuroLeague Regular Season standings with a 1–10 record."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kenneth Faried",
+     "sheet": [
+      "25/26 Panathinaikos B.C.: 200,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "73a4acdb353f",
+   "url": "https://www.eurohoops.net/en/fibawc/2034485/spain-latvia-announce-world-cup-qualifiers-rosters-fiba/",
+   "title": "EuroLeague players reinforce Spain in the FIBA World Cup Qualifiers",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The call-ups include several EuroLeague players, who will turn their focus to international duty between Rounds 14 and 15 of the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Alberto Abalde",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 820,000 €",
+      "24/25 Real Madrid Baloncesto: 820,000 €"
+     ]
+    },
+    {
+     "name": "Arturs Žagars",
+     "sheet": [
+      "26/27 Zhejiang Golden Bulls: 1,000,000 €",
+      "22/23 Nevėžis Kėdainiai: 50,000 €"
+     ]
+    },
+    {
+     "name": "Chus Mateo",
+     "sheet": [
+      "24/25 Real Madrid Baloncesto: 820,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "10366c94124f",
+   "url": "https://www.eurohoops.net/tr/fiba-world-cup-tr/2034498/ispanya-milli-takim-kadrosu-anadolu-efesten-bir-oyuncu/",
+   "title": "İspanya Milli Takım Kadrosu: Anadolu Efes’ten Bir Oyuncu",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Kadroda, 2026-27 EuroLeague Normal Sezonu’nun 14."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "43c3bd162f58",
+   "url": "https://www.athletiko.gr/to-stoichima-toy-karntinale-sto-milano-einai-to-nba-europe-115464",
+   "title": "Το στοίχημα του Καρντινάλε στο Μιλάνο είναι το NBA Europe | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η εξαγορά της Μίλαν από τη RedBird, τον Αύγουστο του 2022, με αποτίμηση της συναλλαγής περίπου 1,2 δισεκατομμύρια ευρώ, όρισε την είσοδο του Καρντινάλε σε ένα από τα μεγαλύτερα ποδοσφαιρικά brands.",
+    "Η RedBird, που ιδρύθηκε το 2014 και σήμερα διαχειρίζεται κεφάλαια άνω των 21 δισεκατομμυρίων δολαρίων, είχε ήδη αποκτήσει σημαντική παρουσία στον χώρο του αθλητισμού και της ψυχαγωγίας, με συμμετοχές σε οργανισμούς όπως οι Μπόστον Ρεντ Σοξ του MLB, αλλά και στη Liverpool, μέσω της Fenway Sports G…",
+    "Για τη σεζόν 2024-25, η Μίλαν ανακοίνωσε έσοδα 494,5 εκατομμυρίων ευρώ, αυξημένα κατά 10% σε σχέση με την προηγούμενη χρονιά, ενώ κατέγραψε για τρίτη διαδοχική σεζόν θετικό αποτέλεσμα, με καθαρά κέρδη 3 εκατομμύρια ευρώ."
+   ],
+   "amounts": [
+    "494,5 εκατομμυρίων",
+    "3 εκατομμύρια",
+    "500 εκατομμύρια"
+   ],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f4fa2db4ac20",
+   "url": "https://www.sdna.gr/mpasket/1486281_aris-dynamiko-mpasimo-gia-euroleague-franchise-kai-neo-pale-7500-theseon",
+   "title": "Άρης: Το δυναμικό μπάσιμο για Euroleague franchise και το «νέο» Παλέ 7.500 θέσεων",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Σε μια διαδικασία όπου οι προσφορές κυμάνθηκαν μεταξύ 60 και 80 εκατομμυρίων ευρώ (με ορισμένους μνηστήρες να ξεπερνούν ακόμη και τα 90 εκατ.) η πρόταση της κιτρινόμαυρης ΚΑΕ αγγίζει, σύμφωνα με πληροφορίες, τα 70 εκατομμύρια ευρώ."
+   ],
+   "amounts": [
+    "80 εκατομμυρίων",
+    "90 εκατ",
+    "70 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "5206f09ada04",
+   "url": "https://www.sport24.gr/basket/aris-i-protasi-gia-to-franchise-tis-euroleague-kai-oi-epafes-me-to-nba-europe/",
+   "title": "Άρης: Η πρόταση για το franchise της EuroLeague και οι επαφές με το NBA Europe",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Σύμφωνα με πληροφορίες, η οικονομική πρόταση που έχει καταθέσει ο Άρης για την απόκτηση του franchise αγγίζει τα 70 εκατομμύρια ευρώ, ποσό που αποτυπώνει τη διάθεση της νέας ιδιοκτησίας να επενδύσει σημαντικά για την επιστροφή της ομάδας στο υψηλότερο επίπεδο."
+   ],
+   "amounts": [
+    "70 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "a43072678617",
+   "url": "https://www.sport24.gr/basket/euroleague-basketball/euroleague-kai-motorola-epekteinan-ti-sinergasia-tous/",
+   "title": "EuroLeague και Motorola επέκτειναν τη συνεργασία τους",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Με 457 εκατομμύρια προβολές (impressions), η πρωτοβουλία ενισχύει τη συμμετοχή των φιλάθλων, προσκαλώντας τους να ξαναζήσουν και να ψηφίσουν τις φάσεις που καθορίζουν κάθε σεζόν της EuroLeague."
+   ],
+   "amounts": [
+    "457 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8cf520d63d57",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2586202/aris-i-euroleague-paramenei-stohos-alla-ypo-proypotheseis",
+   "title": "Η Euroleague παραμένει ο κύριος στόχος του Άρη αλλά υπό προϋποθέσεις",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Αυτό είναι ξεκάθαρο από τις πρώτες ημέρες εμπλοκής του επενδυτικού fund στην ΚΑΕ Άρης, ασχέτως συγκεκριμένων τροποποιήσεων που έλαβαν χώρα, όπως η απόφαση ραγδαίας αύξησης του αγωνιστικού προϋπολογισμού για την τρέχουσα σεζόν.",
+    "Κάποιες εξ’ αυτών μάλιστα έχουν δεσμευτεί (προφορικά) για αγωνιστικούς προϋπολογισμούς της τάξεως των 50 εκατ.",
+    "Πληροφορίες του Gazzetta αναφέρουν ότι η ΚΑΕ Άρης δεσμεύτηκε στην Euroleague για ένα ποσό περί των 68 εκατ."
+   ],
+   "amounts": [
+    "68 εκατ",
+    "50 εκατ",
+    "10 εκατ"
+   ],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "43e40d829ccc",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2586166/euroleague-epekteine-ti-synergasia-tis-me-ti-motorola",
+   "title": "EuroLeague και Motorola συνεχίζουν τη συμπόρευσή τους για τέταρτη σεζόν",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Με 457 εκατομμύρια προβολές (impressions), η πρωτοβουλία ενισχύει τη συμμετοχή των φιλάθλων, προσκαλώντας τους να ξαναζήσουν και να ψηφίσουν τις φάσεις που καθορίζουν κάθε σεζόν της EuroLeague."
+   ],
+   "amounts": [
+    "457 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "be833314a0f9",
+   "url": "https://meridiansport.rs/kosarka/evroliga-cuva-vaznog-sponzora/",
+   "title": "Evroliga čuva važnog sponzora",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ostvarila je 457 miliona impresija i dodatno unapredila angažovanje navijača, pozivajući ih da ponovo prožive i glasaju za poteze koji obeležavaju svaku evroligašku sezonu.”"
+   ],
+   "amounts": [
+    "457 miliona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e82cb1538dcd",
+   "url": "http://sportacentrs.com/basketbols/lbl/13112026-jaunups_ja_kads_latvijas_klubs_dabus_5_6_",
+   "title": "Jaunups: \"Ja kāds Rīgas lielklubs dabūs 5-6 miljonu budžetu, tad tikai viens - divi ne\"",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eiro",
+    "miljon",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"VEF Rīga\" šosezon rēķinās ar budžetu aptuveni 2,1 miljona eiro apmērā, bet \"Rīgas Zeļļi\" - ap 2,5 miljoniem eiro.",
+    "Jaunups iepriekš nav slēpis, ka nākamajā sezonā vēlas vismaz dubultot \"VEF Rīga\" budžetu, lai klubs būtu konkurētspējīgs nākotnes Eiropas basketbola tirgū.",
+    "Viņaprāt, lai abas komandas nodrošinātu šādu budžetu, ir jānotiek brīnumam, jo, ņemot vērā esošo bāzi, šis lēciens būtu pārāk liels."
+   ],
+   "amounts": [
+    "6 miljonu",
+    "2,1 miljona",
+    "2,5 miljoniem"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK VEF Riga",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,000,000 €",
+      "25/26: budget 1,700,000 €, salary budget 750,000 €",
+      "24/25: budget 1,700,000 €"
+     ]
+    },
+    {
+     "name": "Rigas Zelli",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,500,000 €, salary budget 1,200,000 €",
+      "25/26: budget 950,000 €, salary budget 560,000 €",
+      "24/25: budget 750,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "84026ab25528",
+   "url": "https://basketballsphere.com/en/josh-hart-napoli-basketball-part-owner/",
+   "title": "NBA champion Josh Hart joins Napoli ownership",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "“Josh Hart represents Napoli and the tens of millions of proud Neapolitans around the world,” Rizzetta said."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "606a49704826",
+   "url": "https://basketballsphere.com/en/sasha-vezenkov-jokes-about-spanoulis-olympiacos-record/",
+   "title": "Sasha Vezenkov jokes about Spanoulis after record",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "In doing so, he overtook Spanoulis, who scored 3,552 EuroLeague points during his time with the Reds."
+   ],
+   "amounts": [
+    "3,552 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "3306596fd46a",
+   "url": "https://www.dnevnik.si/novice/slovenija/izvajalci-tehnicnih-pregledov-opozarjajo-na-nevzdrznost-reguliranih-cen-pregledov-vozil-2840824/",
+   "title": "Izvajalci tehničnih pregledov opozarjajo na nevzdržnost reguliranih cen pregledov vozil",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "evrov",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"Izvajalci tehničnih pregledov so v zadnjih dveh desetletjih prejeli le štiri uskladitve cen, ki skupaj predstavljajo manj kot pet evrov neto na pregled osebnega vozila.",
+    "Cena tehničnega pregleda v Sloveniji trenutno znaša 38,28 evra, medtem ko povprečje držav EU dosega približno 62 evrov."
+   ],
+   "amounts": [
+    "38,28 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c85e141fdc2d",
+   "url": "https://www.dnevnik.si/sport/nogomet/ceferin-na-okroznem-sodiscu-na-mannhattnu-znova-premagal-infantina-2840812/",
+   "title": "Čeferin na okrožnem sodišču na Manhattnu znova premagal Infantina",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Skrivnostni projekt je predvideval, da bodo vlagatelji Fifi plačali 4,2 milijarde ameriških dolarjev za več kot 20-odstotni delež v hčerinski družbi FFE, ki bi upravljala tekmovanja pod njenim okriljem, vključno s svetovnimi prvenstvi.",
+    "Prav vseh 211 nacionalnih zvez, ki so članice članic Fife in so že zdaj dejanske lastnice te neprofitne organizacije s sedežem v Zürichu, naj bi v zameno za potrditev projekta prejelo po 20 milijonov dolarjev.",
+    "Ob tem velja omeniti še naslednji podatek: Fifine denarne rezerve so po julijskem koncu moškega svetovnega prvenstva, ki so ga skupaj gostile ZDA, Kanada in Mehika, narasle na več kot pet milijard dolarjev."
+   ],
+   "amounts": [
+    "20 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9ecf8463dc72",
+   "url": "https://www.dnevnik.si/novice/slovenija/video-slovenska-hrana-naj-bo-na-nasih-mizah-vse-leto-ne-le-ob-zajtrku-2840798/",
+   "title": "(VIDEO) Slovenska hrana naj bo na naših mizah vse leto, ne le ob zajtrku",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "V osnovnih šolah dnevno pripravijo več kot pol milijona obrokov, vzgojno-izobraževalni zavodi pa za živila letno namenijo več kot 150 milijonov evrov."
+   ],
+   "amounts": [
+    "150 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "6290b2fa300f",
    "url": "https://www.basketnews.lt/news-259214-k-zukausko-tyrimas-apie-nkl-istorijos-herojai-gincija-pateiktus-faktus.html#utm_medium=rss&utm_content=news",
@@ -726,6 +1432,59 @@
      ]
     }
    ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a3fb513b93a5",
+   "url": "https://trendbasket.net/arenda-kvartir-v-kishinyove-vazhno-zafiksirovat-v/",
+   "title": "Аренда квартир в Кишинёве Важно зафиксировать в соглашении сценарий погоды, процесс переноса и параметры резервного помещения. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "million"
+   ],
+   "snippets": [
+    "Гарантия вашего мероприятия В начале июля 2025 года цена токена $MORI резко возросла на более чем 300% за 24 часа (что привело к рыночной капитализации), превышающей 170 миллионов долларов."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ee6c506333d5",
+   "url": "https://trendbasket.net/melhores-plataformas-licenciadas-em-2026-os-10-principais/",
+   "title": "Melhores plataformas licenciadas em 2026: os 10 principais sites de apostas no Brasil. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Com depósito mínimo de R$ 1 e 38 esportes disponíveis, a Superbet é a primeira casa licenciada no Brasil.",
+    "Além disso, a aposta mínima é de R$0,50 em mercados simples, como “Resultado Final”, “Total de Gols” e “Primeiro Time a Marcar”.",
+    "A Superbet é o melhor site de apostas para iniciantes porque oferece pagamentos via Pix a partir de R$1."
+   ],
+   "amounts": [
+    "$ 1",
+    "$0,50",
+    "$1"
+   ],
+   "seasons": [],
+   "teams": [],
    "players": [],
    "nba": false
   },
