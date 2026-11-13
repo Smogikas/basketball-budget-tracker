@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:04+00:00",
+ "updated": "2026-11-13T17:10+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -23,7 +23,7 @@
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,12 +49,13 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-29",
-   "stop": "reached start date"
+   "oldest": "2026-10-30",
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Israel Hayom",
@@ -94,45 +95,44 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Eurohoops GR",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops TR",
-   "checked": 0,
+   "site": "Eurohoops EN",
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops GR",
+   "checked": 8,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 13,
-   "found": 0,
+   "checked": 26,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 10,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
-   "found": 0,
+   "checked": 14,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -167,16 +167,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,17 +203,17 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
@@ -221,16 +221,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-11-06",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 0,
+   "checked": 30,
+   "found": 3,
    "error": "",
-   "pages": 2,
+   "pages": 4,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -257,22 +257,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -285,10 +284,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
@@ -303,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 4,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,7 +329,7 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -348,11 +347,11 @@
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-13",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -384,6 +383,337 @@
   }
  ],
  "items": [
+  {
+   "id": "29d48239f9c4",
+   "url": "https://trendbasket.net/kingmaker-casino-testbericht-2026-top-oder-flop/",
+   "title": "Kingmaker Casino Testbericht 2026 Top oder Flop? - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Um eine Auszahlung zu erhalten, loggen Sie sich ein, tätigen eine Einzahlung von mindestens 20 € und erfüllen die 40-fachen Umsatzbedingungen für Freispiele.",
+    "Bei der Paysafecard liegt die Untergrenze bei 15€, während für Einzahlungen mit Bitcoin mindestens 30€ erforderlich sind.",
+    "Der Höchstbetrag liegt abhängig vom VIP-Level zwischen 100€ und 400€."
+   ],
+   "amounts": [
+    "20 €",
+    "15€",
+    "30€",
+    "100€",
+    "400€",
+    "20€",
+    "500€"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6e08cee76da6",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2034610/i-redbird-dimiourgi-ti-milan-sports-entertainment-me-ti-vareze-sto-proskinio-gia-to-nba-europe/",
+   "title": "Η RedBird δημιουργεί τη Milan Sports & Entertainment, με τη Βαρέζε στο προσκήνιο για το NBA Europe",
+   "site": "Eurohoops GR",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Με δεδομένο ότι η Βαρέζε απέχει μόλις 60 χιλιόμετρα από το Μιλάνο, η ομάδα αναμένεται να παραμείνει στην πόλη της, ενδεχομένως προσθέτοντας στην ονομασία της τις λέξεις «Μιλάνο» ή «Βόρεια Ιταλία»."
+   ],
+   "amounts": [
+    "60 χιλιόμετρα"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d93280149401",
+   "url": "https://www.athletiko.gr/apo-ti-nea-yorki-ston-vezoyvio-o-tzos-chart-egine-metochos-stin-omada-tis-napoli-115510",
+   "title": "Από τη Νέα Υόρκη, στον Βεζούβιο: Ο Τζος Χαρτ έγινε μέτοχος στην ομάδα της Νάπολι | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "\"Ο Τζος Χαρτ εκπροσωπεί τη Νάπολι και τις δεκάδες εκατομμύρια περήφανους Ναπολιτάνους σε όλο τον κόσμο», δήλωσε ο Ματ Ριτσέτα, πρόεδρος της Νάπολι Μπάσκετ και ιδρυτής της UGP."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "28c6ae0583e2",
+   "url": "https://www.sdna.gr/mpasket/1486362_o-tzos-hart-egine-metohos-stin-napoli-kai-tin-etoimazei-gia-euroleague",
+   "title": "Ο Τζος Χαρτ έγινε μέτοχος στην Νάπολι και την ετοιμάζει για EuroLeague",
+   "site": "SDNA",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "«Ο Τζος Χαρτ εκπροσωπεί τη Νάπολι και τα δεκάδες εκατομμύρια περήφανους Ναπολιτάνους σε όλο τον κόσμο."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "New York Knicks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 17/18 (1), 16/17 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f44e459ac42e",
+   "url": "https://www.sport24.gr/basket/orgismeni-i-kloi-karntasian-me-ton-lamar-ontom-pou-paradexthike-oti-tin-pantreftike-gia-ti-dimosiotita-gia-mena-einai-nekros/",
+   "title": "Οργισμένη η Κλόι Καρντάσιαν με τον Λαμάρ Όντομ που παραδέχθηκε ότι την παντρεύτηκε για τη δημοσιότητα: \"Για μένα είναι νεκρός\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο πρώην μπασκετμπολίστας έχει μιλήσει δημόσια για τις καταχρήσεις που σημάδεψαν τη ζωή του, υποστηρίζοντας στο παρελθόν ότι ξόδεψε περισσότερα από 100 εκατομμύρια δολάρια σε ναρκωτικά."
+   ],
+   "amounts": [
+    "100 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "19fc74640af3",
+   "url": "https://www.sport24.gr/basket/protathlitis-tou-nba-pou-den-exei-xasei-agona-apo-to-high-school-mexri-simera-se-anexigiti-kai-istoriki-katifora/",
+   "title": "Πρωταθλητής του NBA που δεν έχει χάσει αγώνα από το high school μέχρι σήμερα, σε ανεξήγητη και ιστορική κατηφόρα",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο έμπειρος αθλητής θα λάβει φέτος 33.48 εκατομμύρια δολάρια, ενώ αν κάνει opt-in την περίοδο 2029/30, θα λάβει 41.52 εκατομμύρια."
+   ],
+   "amounts": [
+    "33.48 εκατομμύρια",
+    "41.52 εκατομμύρια"
+   ],
+   "seasons": [
+    "29/30"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ca9e090748b3",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261113/1004250688/tuve-oferta-dos-anos-barca-rechace-demasiado-lejos.html",
+   "title": "\"Tuve una oferta por dos años del Barça, pero la rechacé. Estaba demasiado lejos\"",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "sueldo"
+   ],
+   "snippets": [
+    "\"Cuando me ofrecieron el mismo sueldo [que Nunn] por dos años en el Barcelona, lo rechacé; estaba demasiado lejos\" , confirmó Teague."
+   ],
+   "amounts": [],
+   "seasons": [
+    "20/21"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9527c34b62b1",
+   "url": "https://basketballsphere.com/en/dog-of-the-day-saturday-nov-14-2026/",
+   "title": "Dog of the Day - Saturday, Nov. 14, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Considering the circumstances under which Saint Quentin managed to remain in the French top division, as well as their very limited budget , there is no doubt that the club can be satisfied with its performances so far."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Saint - Quentin BB",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 3,764,000 €, salary budget 1,626,000 €",
+      "25/26: budget 4,138,000 €, salary budget 1,663,000 €",
+      "24/25: budget 4,256,000 €, salary budget 1,688,000 €",
+      "player rows: 26/27 (12), 25/26 (15), 24/25 (12)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "98e8f4c828c2",
+   "url": "https://basketballsphere.com/en/basket-roma-vs-verona-prediction-odds-serie-a-november-14-2026/",
+   "title": "Basket Roma vs Verona Prediction & Odds: Serie A, November 14, 2026",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Wednesday brought some relief with an 83–78 EuroCup win over Ulm, improving its European record to 3–4."
+   ],
+   "amounts": [
+    "78 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Scaligera Basket Verona",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 3,270,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4bbbfc67c488",
+   "url": "https://basketballsphere.com/en/as-karditsas-vs-paok-prediction-odds-greek-league-november-14-2026/",
+   "title": "AS Karditsas vs PAOK Prediction & Odds: Greek League, November 14, 2026",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "The first 100 euros of a payout are tax free in Greece, and a licensed book withholds the rest at the counter for you."
+   ],
+   "amounts": [
+    "100 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASK Karditsas B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 1,800,000 €, salary budget 1,200,000 €",
+      "25/26: budget 1,900,000 €, salary budget 1,300,000 €",
+      "24/25: budget 1,400,000 €, salary budget 950,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "e9b294e86d5e",
    "url": "https://basketnews.com/news-259407-9-euroleague-players-called-up-by-spain-for-world-cup-qualifiers.html#utm_medium=rss&utm_content=news",
@@ -1709,6 +2039,29 @@
    ],
    "snippets": [
     "Seleccionar plataformas licenciadas, comprender el funcionamiento de los bonos y aplicar una estricta gestión de presupuesto marcarán la diferencia entre un pasatiempo ameno y un problema."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a02bc3df7719",
+   "url": "https://sportacentrs.com/basketbols/eirokausi/11112026-zellu_treneris_pec_smagas_sakaves_salonik",
+   "title": "\"Zeļļu\" treneris pēc smagas sakāves Salonikos: \"Uzskatu, ka \"Aris\" ir Eirolīgas līmeņa komanda\"",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-11",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Viņaprāt, komandai šobrīd nevajadzētu rēķināt, kas nepieciešams izslēgšanas turnīra nodrošināšanai: \"Ņemot vērā komandu budžetus un to, ka esam debitanti, pret visām pretiniecēm neesam favorīti."
    ],
    "amounts": [],
    "seasons": [],
