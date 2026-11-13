@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13T09:14+00:00",
+ "updated": "2026-11-13T11:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
+   "checked": 9,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -22,18 +22,18 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "no older pages",
    "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -41,21 +41,22 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-29",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 2
   },
   {
    "site": "Israel Hayom",
@@ -68,12 +69,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -86,26 +87,26 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "TrendBasket",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "TrendBasket",
+   "checked": 2,
+   "found": 2,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
+   "checked": 6,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -131,7 +132,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 17,
+   "checked": 20,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +150,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -158,10 +159,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
@@ -181,20 +182,21 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,16 +205,17 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 2
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,16 +224,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,8 +242,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 2,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -248,21 +251,21 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -275,19 +278,19 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
@@ -302,7 +305,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 21,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,8 +314,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -320,7 +323,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,13 +332,12 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -384,6 +386,372 @@
   }
  ],
  "items": [
+  {
+   "id": "6290b2fa300f",
+   "url": "https://www.basketnews.lt/news-259214-k-zukausko-tyrimas-apie-nkl-istorijos-herojai-gincija-pateiktus-faktus.html#utm_medium=rss&utm_content=news",
+   "title": "K. Žukausko tyrimas apie NKL: istorijos herojai ginčija pateiktus faktus",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "NKL atsisakė pusės milijono eurų, moka už paslaugas, kurias galėtų gauti nemokamai, į tai įsipainiojo viceministro pavardė – tokie teiginiai pateikiami komunikacijos specialisto Karolio Žukausko tyrime.",
+    "NKL atsisakė pusės milijono eurų, moka už paslaugas, kurias galėtų gauti nemokamai, į tai įsipainiojo viceministro pavardė – tokie teiginiai pateikiami komunikacijos specialisto Karolio Žukausko tyrime .",
+    "I punktas: „NKL atsisakė 0,5-0,75 mln."
+   ],
+   "amounts": [
+    "0,75 mln"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bdf73382dc6a",
+   "url": "https://basketnews.com/news-259398-worrisome-injury-update-for-bradley-beal-not-close-to-return-to-the-court.html#utm_medium=rss&utm_content=news",
+   "title": "Worrisome injury update for Bradley Beal: Not close to return to the court",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Beal re-signed with Los Angeles in August to a two-year, $13.2 million contract that includes a player option for the second season."
+   ],
+   "amounts": [
+    "$13.2 million"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2811765045bd",
+   "url": "https://trendbasket.net/ten-no-cost-resources-for-designing-personal-embroidery/",
+   "title": "Ten No-Cost Resources for Designing Personal Embroidery Patterns - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Ink/Stitch supports multiple stitch types and works natively with SVG files — making it a favorite among hobbyists and budget-conscious pros alike."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "dba7fbaa4a88",
+   "url": "https://www.eurohoops.net/en/euroleague/2034476/motorola-and-euroleague-basketball-extend-partnership-for-a-fourth-consecutive-season/",
+   "title": "Motorola and Euroleague extend partnership: “Technology brings people closer”",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "The Motorola Magic Moment, the fan-voted recognition celebrating the season’s most spectacular plays, spotlighting some of EuroLeague’s most electrifying moments, from highlight-reel dunks to game-changing assists, turning an award into one of the competition’s most anticipated fixtures every rou…"
+   ],
+   "amounts": [
+    "457 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,900,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chima Moneke",
+     "sheet": [
+      "25/26 KK Crvena zvezda: 1,600,000 €",
+      "23/24 Saski Baskonia: 360,000 €",
+      "22/23 AS Monaco Basket: 275,000 €",
+      "21/22 Basquet Manresa: 150,000 €"
+     ]
+    },
+    {
+     "name": "Daniel Hackett",
+     "sheet": [
+      "25/26 Virtus Bologna: 1,000,000 €",
+      "24/25 Virtus Bologna: 1,000,000 €",
+      "23/24 Virtus Bologna: 1,000,000 €",
+      "22/23 Virtus Bologna: 1,000,000 €"
+     ]
+    },
+    {
+     "name": "Juancho Hernangomez",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 2,500,000 €",
+      "25/26 Panathinaikos B.C.: 2,200,000 €",
+      "24/25 Panathinaikos B.C.: 2,100,000 €",
+      "23/24 Panathinaikos B.C.: 1,911,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "eb0af3e5b519",
+   "url": "https://www.eurohoops.net/en/euroleague/2034427/injury-report-round-11-barcelona-hit-hard-without-punter-and-others-no-ugurlu-nowell-for-besiktas/",
+   "title": "Euroleague confirms latest injury updates before final Round 11 games",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Round 11 of the 2026–27 EuroLeague Regular Season wraps up with three more games",
+    "With three games remaining in Round 11 of the 2026–27 EuroLeague Regular Season, Euroleague Basketball released its updated injury report on Friday morning, just hours before tip-off in Istanbul, Athens, and Lyon."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "836bd8a224f4",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2034433/guerschon-yabusele-panathinaikos-nbaden-bircok-takimi-yenebilir/",
+   "title": "Guerschon Yabusele: “Panathinaikos, NBA’den Birçok Takımı Yenebilir”",
+   "site": "Eurohoops TR",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "U20, U17 ve U18 seviyelerinde ve hatta 2022 EuroBasket finalinde bile… İşte ortam böyle, bolca takılma ve şakalaşma var ama her zaman çok iyi bir ruh hali içinde."
+   ],
+   "amounts": [
+    "2022 EuroBasket"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Guerschon Yabusele",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,400,000 €",
+      "20/21 ASVEL Basket: 300,000 €",
+      "19/20 ASVEL Basket: 300,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "2e5027baf517",
+   "url": "https://www.sport24.gr/basket/aris-pro-ton-pilon-simfonia-tis-kae-gia-onomatodosia-sto-alexandreio/",
+   "title": "Άρης: Προ των πυλών συμφωνία της ΚΑΕ για ονοματοδοσία στο Αλεξάνδρειο",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Θυμίζουμε ότι βάσει της συμφωνίας για την παραχώρηση του Αλεξανδρείου από την κυβέρνηση η ΚΑΕ Άρης υποχρεούται να πραγματοποιήσει επενδύσεις τουλάχιστον 1,5 εκατομμυρίων ευρώ μέσα στα πρώτα 12 χρόνια, ενώ η παραχώρηση περιλαμβάνει το γήπεδο, τους συνοδευτικούς χώρους, τον περιβάλλοντα χώρο και το…"
+   ],
+   "amounts": [
+    "1,5 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9fe974304348",
+   "url": "https://www.dnevnik.si/novice/kronika/koper-z-razgretim-vzigalnikom-in-nozem-na-vratu-zahteval-4000-evrov-2840748/",
+   "title": "Koper: z razgretim vžigalnikom in nožem na vratu zahteval 4000 evrov",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "tisoc"
+   ],
+   "snippets": [
+    "Dvaindvajsetletni moški je namreč od 34-letnika več tisoč evrov zahteval tudi z razgretim vžigalnikom in kuhinjskim nožem.",
+    "Policisti so zatem, ko so včeraj prejeli prijavo o izsiljevanju, ugotovili, da je mladenič od moškega že nekaj dni prej zahteval 4000 evrov."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Koper Primorska",
+     "country": "Slovenia",
+     "sheet": [
+      "20/21: row exists, no amounts",
+      "19/20: row exists, no amounts"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a8bacad47d64",
+   "url": "https://basketball.hr/vijesti/modric-na-pressici-na-konstataciju-da-je-bozic-slobodan-preduhitrio-sam-vas-ja-sam-prvi-rekao-upravi/20827",
+   "title": "Modrić na pressici na konstataciju da je Božić slobodan: Preduhitrio sam vas, ja sam to prvi rekao upravi - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "United Arab Emirates",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Budžet im je ogroman, a roster broji 18-19 igrača."
+   ],
+   "amounts": [],
+   "seasons": [
+    "18/19"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "KK Zadar",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,000,000 €, salary budget 1,360,000 €",
+      "24/25: budget 2,948,273 €, salary budget 1,360,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f2cf4ac625f6",
+   "url": "https://trendbasket.net/guia-juegos-de-casino-en-gencasino-definitiva-sobre-como/",
+   "title": "Guía juegos de casino en Gencasino Definitiva sobre Cómo Jugar - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "presupuest"
+   ],
+   "snippets": [
+    "Seleccionar plataformas licenciadas, comprender el funcionamiento de los bonos y aplicar una estricta gestión de presupuesto marcarán la diferencia entre un pasatiempo ameno y un problema."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "0ae1cf483a80",
    "url": "https://www.2playbook.com/competiciones/acb-se-apoya-en-victoria-unicaja-elige-malaga-como-sede-copa-rey-2024_11086_102.html",
