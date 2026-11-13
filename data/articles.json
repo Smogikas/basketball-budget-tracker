@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13T19:12+00:00",
+ "updated": "2026-11-13T21:05+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,17 +13,17 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 2,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -41,12 +41,12 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
@@ -69,7 +69,7 @@
   {
    "site": "Sport5",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -86,6 +86,15 @@
   },
   {
    "site": "Basket Dergisi",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-11",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "TrendBasket",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -94,17 +103,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "TrendBasket",
-   "checked": 1,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 20,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 10,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -149,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,10 +185,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -208,11 +208,11 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,28 +221,28 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-07",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -266,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -293,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +383,69 @@
   }
  ],
  "items": [
+  {
+   "id": "331d3492fb9b",
+   "url": "https://www.basketnews.lt/news-259425-milano-klubas-ruosiasi-pakloti-puse-milijono-uz-vidurio-puoleja.html#utm_medium=rss&utm_content=news",
+   "title": "Milano klubas ruošiasi pakloti pusę milijono už vidurio puolėją",
+   "site": "BasketNews.lt",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "BasketNews šaltinių žiniomis, Milano klubas už Onyemą turėtų sumokėti apie 450 tūkst."
+   ],
+   "amounts": [
+    "450 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c2e566f06ce0",
+   "url": "https://www.sdna.gr/mpasket/1486398_konta-stin-apoktisi-toy-oniema-i-armani-milano",
+   "title": "«Κοντά στην απόκτηση του Ονιέμα η Αρμάνι Μιλάνο»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Έτσι, σύμφωνα με το ιταλικό Superbasket και την επιβεβαίωση του Basketnews , η ομάδα του Λούκα Μπάνκι είναι κοντά στην απόκτηση του Ζε'Ρικ Ονιέμα από τη Σκαφάτι έναντι buyout ύψους περίπου 450.000 ευρώ."
+   ],
+   "amounts": [
+    "450.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "c5cc58310634",
    "url": "https://basketnews.com/news-259422-milan-nearing-deal-for-new-big-man-after-devin-booker-injury.html#utm_medium=rss&utm_content=news",
