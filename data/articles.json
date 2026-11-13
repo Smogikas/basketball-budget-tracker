@@ -1,37 +1,38 @@
 {
- "updated": "2026-11-13T05:15+00:00",
+ "updated": "2026-11-13T07:34+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +41,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +69,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -103,34 +105,45 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 2
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 3,
+   "checked": 26,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -138,29 +151,20 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
-  },
-  {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
@@ -175,12 +179,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -202,35 +206,35 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-06",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,11 +243,11 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
@@ -266,12 +270,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -293,30 +297,31 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -338,13 +343,12 @@
   },
   {
    "site": "2Playbook ACB",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-10-30",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook Euroliga",
@@ -384,6 +388,68 @@
   }
  ],
  "items": [
+  {
+   "id": "1fa3bdd375d2",
+   "url": "https://www.eurohoops.net/en/euroleague/2034350/sasha-vezenkov-talks-breaking-vassilis-spanoulis-record-olympiacos-euroleague/",
+   "title": "Vezenkov passes Spanoulis for Olympiacos scoring crown: “Something special”",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Speaking courtside after the buzzer in Round 11 of the 2026–27 EuroLeague Regular Season, Vezenkov reflected on joining the ranks of the club’s greatest icons."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "93480b91b8bf",
+   "url": "https://sports.walla.co.il/item/3876081",
+   "title": "הבית החדש האיר פנים, אבל הדרך לביתיות עוד ארוכה - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "יורו",
+    "מיליון"
+   ],
+   "snippets": [
+    "ההכנסות של הצהובים מאולם מלא צפויות להגיע לכחצי מיליון יורו, דבר שצפוי לקרות רק במשחקים נגד היווניות, בשל ההתעניינות של המקומיים, או במקרים מיוחדים, כשבמכבי, כאמור, מקווים לחזור להיכל מנורה כמה שיותר מהר למרות ההתקדמות עם המשחקים בקפריסין."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "fb62bd931c44",
    "url": "https://trendbasket.net/the-newest-hindi-called-video-clips-number-2026/",
