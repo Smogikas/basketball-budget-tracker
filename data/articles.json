@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13T21:05+00:00",
+ "updated": "2026-11-13T22:56+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -14,7 +14,7 @@
   {
    "site": "BasketNews.lt",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -27,12 +27,11 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -45,13 +44,13 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-30",
@@ -68,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -86,8 +85,8 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-11",
@@ -104,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 19,
+   "checked": 30,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -167,16 +166,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -194,29 +193,29 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-01",
+   "oldest": "2026-11-02",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "no older pages"
   },
   {
@@ -230,19 +229,19 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -284,12 +283,13 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "SportoweFakty",
@@ -297,26 +297,26 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
+   "oldest": "2026-11-14",
    "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -329,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -383,6 +383,94 @@
   }
  ],
  "items": [
+  {
+   "id": "a8e36b32d476",
+   "url": "https://www.pianetabasket.com/mercato/lolimpia-milano-preleva-zerik-onyema-i-retroscena-buyout-di-quasi-mezzo-milione",
+   "title": "L'Olimpia Milano preleva Ze'Rik Onyema, i retroscena: buyout di quasi mezzo milione",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Scafati Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "3dddb2e11742",
+   "url": "https://basketballsphere.com/en/euroleague-recap-justin-robinson-barcelona-panathinaikos/",
+   "title": "EuroLeague Recap: Justin Robinson stuns Panathinaikos with a clutch three-pointer",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Round 11 of the 2026-27 EuroLeague season comes to a close on Friday, with three remaining games following two eventful nights of basketball on Wednesday and Thursday."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Justin Robinson",
+     "sheet": [
+      "25/26 Paris Basketball: 430,000 €",
+      "22/23 BCM Gravelines - Dunkerque: 150,000 €",
+      "19/20 Elan Chalon: 160,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "331d3492fb9b",
    "url": "https://www.basketnews.lt/news-259425-milano-klubas-ruosiasi-pakloti-puse-milijono-uz-vidurio-puoleja.html#utm_medium=rss&utm_content=news",
@@ -2303,6 +2391,61 @@
    "teams": [],
    "players": [],
    "nba": false
+  },
+  {
+   "id": "d2b79e27b146",
+   "url": "https://basketdergisi.com/besiktas-deplasmanda-kazanmaya-devam-etti.html",
+   "title": "Beşiktaş deplasmanda kazanmaya devam etti",
+   "site": "Basket Dergisi",
+   "country": "Turkey",
+   "published": "2026-11-11",
+   "found": "2026-11-13",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "maas",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Yine kim derdi ki 11 maç sonra en az 2 kat bütçeli Efes ile BJK aynı galibiyette olacak veya son transferi ile 50 milyon euroluk FB, BJK kadar deplasman galibiyet alamayacak!!!",
+    "Sezon başında demiştim; Gabriel (Bir de az faul yapabilse)en iyi transfer, Wilbekin (Larkin willbekin kıyasında kazanan şu an belli) bu takımın olmazsa olmazı ve Omuruyi maaş/performans açısından en iyi oyuncu….İnşallah FB ve Efes’in başka takıma kaptırmaz!!!",
+    "Nedense 😏 bu yıl içimizdeki türkiyelilerin hiç konuşmadığı; geçen yılın bütçesini ikiye katlayan Obra resmen felaket bir son periyot geçirerek takıma hiçbir katkı vermeyip üstüne zarar verip tüm takımı bireysel oynattı!!!Her eline gelen salladı!!!"
+   ],
+   "amounts": [
+    "50 milyon"
+   ],
+   "seasons": [
+    "72/73"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
   },
   {
    "id": "a02bc3df7719",
