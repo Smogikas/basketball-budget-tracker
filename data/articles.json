@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-13T13:27+00:00",
+ "updated": "2026-11-13T15:04+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -13,8 +13,8 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -23,7 +23,7 @@
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -54,8 +54,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-10-29",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Israel Hayom",
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -95,25 +94,26 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
    "checked": 4,
-   "found": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,17 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 29,
-   "found": 1,
+   "checked": 13,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 2,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
-   "found": 2,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 13,
-   "found": 2,
+   "checked": 5,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,8 +185,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -194,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,37 +212,35 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 9,
-   "found": 1,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-06",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Bild Basketball",
    "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-08",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 2,
-   "found": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -260,10 +258,10 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "no older pages"
   },
   {
@@ -278,20 +276,20 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
@@ -305,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 23,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -332,7 +330,7 @@
   },
   {
    "site": "Gigantes",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -350,11 +348,11 @@
   },
   {
    "site": "2Playbook Euroliga",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
@@ -386,6 +384,213 @@
   }
  ],
  "items": [
+  {
+   "id": "e9b294e86d5e",
+   "url": "https://basketnews.com/news-259407-9-euroleague-players-called-up-by-spain-for-world-cup-qualifiers.html#utm_medium=rss&utm_content=news",
+   "title": "9 EuroLeague players called up by Spain for World Cup Qualifiers",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "9 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Chus Mateo",
+     "sheet": [
+      "24/25 Real Madrid Baloncesto: 820,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4ec5b5a8140a",
+   "url": "https://www.eurohoops.net/en/bet/2034549/can-anyone-challenge-panathinaikos-bookmakers-euroleague-odds/",
+   "title": "Can Anyone Challenge Panathinaikos – Bookmakers Euroleague Odds",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Real have 11 Euroleague titles as of this writing, though many believe that their glory days are now behind them, though Pedro Martinez will certainly have something to say about that, as he looks to take the team back to winning ways."
+   ],
+   "amounts": [
+    "11 Euroleague"
+   ],
+   "seasons": [
+    "22/23"
+   ],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Pedro Martinez",
+     "sheet": [
+      "26/27 Real Madrid Baloncesto: 1,200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "101b639c4483",
+   "url": "https://www.dnevnik.si/nedeljski/aktualno/ni-se-konec-trumpove-nepredvidljivosti-2838073/",
+   "title": "Ni še konec Trumpove nepredvidljivosti",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milijon",
+    "sum of money",
+    "tisoc"
+   ],
+   "snippets": [
+    "Severnomorska nafta brent se je že dan po volitvah pocenila za 8,7 odstotka na 94,62 dolarja za sod, kar je najnižja raven v dveh mesecih.",
+    "Ljudje si želijo drugačne politike, ki namesto na sovraštvu in delitvi temelji na ljubezni do ljudi, in to ne le do tistih, ki so nam podobni … Državljani so vsem milijarderskim podpornikom republikancev, tudi tistemu s tisoč milijardami, pokazali, da jih ves denar tega sveta ne more kupiti,« je …",
+    "Najbogatejši Elon Musk se mu je skušal oddolžiti tako, da je republikanskim kandidatom za kampanjo zlasti v Teksasu namenil kar 450 milijonov dolarjev, a zaman."
+   ],
+   "amounts": [
+    "450 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7a0dd2e2cb68",
+   "url": "https://www.dnevnik.si/novice/svet/eurostat-z-oceno-bdp-v-tretjem-cetrtletju-potrdil-0-4-odstotno-rast-2840854/",
+   "title": "Eurostat z oceno BDP: v tretjem četrtletju potrdil 0,4-odstotno rast",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra"
+   ],
+   "snippets": [
+    "Gospodarstvo območja evra se je v drugem četrtletju v primerjavi s prvim okrepilo za 0,6 odstotka, EU pa za 0,7 odstotka."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "13ef3985740e",
+   "url": "https://www.2playbook.com/patrocinio/euroliga-renueva-motorola-como-patrocinador-hasta-final-temporada_24290_102.html",
+   "title": "La Euroliga renueva a Motorola como patrocinador hasta final de temporada",
+   "site": "2Playbook Euroliga",
+   "country": "Spain",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "La tecnológica mantendrá activo el reconocimiento Motorola Magic Moment , una iniciativa votada por los seguidores que ha acumulado 457 millones de impresiones, además del programa educativo Bouncing for Good , desarrollado junto a la iniciativa social One Team .",
+    "La alianza se apoya en el crecimiento audiovisual de la competición en el país, donde la audiencia televisiva de la Euroliga aumentó un 30% la pasada campaña, dentro de una audiencia global superior a 1.200 millones de espectadores y más de 3,46 millones de asistentes a los pabellones."
+   ],
+   "amounts": [
+    "457 millones",
+    "1.200 millones",
+    "3,46 millones"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,900,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Chima Moneke",
+     "sheet": [
+      "25/26 KK Crvena zvezda: 1,600,000 €",
+      "23/24 Saski Baskonia: 360,000 €",
+      "22/23 AS Monaco Basket: 275,000 €",
+      "21/22 Basquet Manresa: 150,000 €"
+     ]
+    },
+    {
+     "name": "Daniel Hackett",
+     "sheet": [
+      "25/26 Virtus Bologna: 1,000,000 €",
+      "24/25 Virtus Bologna: 1,000,000 €",
+      "23/24 Virtus Bologna: 1,000,000 €",
+      "22/23 Virtus Bologna: 1,000,000 €"
+     ]
+    },
+    {
+     "name": "Juancho Hernangomez",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 2,500,000 €",
+      "25/26 Panathinaikos B.C.: 2,200,000 €",
+      "24/25 Panathinaikos B.C.: 2,100,000 €",
+      "23/24 Panathinaikos B.C.: 1,911,000 €"
+     ]
+    },
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "92c319e18342",
    "url": "https://sportando.basketball/napoli-basketball-josh-hart-proprieta-board/",
