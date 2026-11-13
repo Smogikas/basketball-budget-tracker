@@ -1,39 +1,39 @@
 {
- "updated": "2026-11-13T07:34+00:00",
+ "updated": "2026-11-13T09:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 6,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -42,16 +42,15 @@
   {
    "site": "15min 24sek",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -69,8 +68,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -87,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
@@ -105,17 +104,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before",
-   "skipped_nba": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -124,17 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 26,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -143,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -161,25 +158,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 10,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -188,16 +185,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -206,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -215,26 +212,25 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-06",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -243,8 +239,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 10,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -252,11 +248,11 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-06",
+   "pages": 2,
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
@@ -270,7 +266,7 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -297,17 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 15,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -316,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -325,21 +320,22 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-14",
+   "oldest": "2026-04-18",
    "stop": "reached start date"
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -388,6 +384,274 @@
   }
  ],
  "items": [
+  {
+   "id": "2afca7adfc05",
+   "url": "https://www.krepsinis.net/naujiena/s-jasikeviciui-nereikalingas-centras-keliasi-i-kita-eurolygos-ekipa/354297",
+   "title": "Š.Jasikevičiui nereikalingas centras keliasi į kitą Eurolygos ekipą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "doleri",
+    "sum of money",
+    "tukstan",
+    "uzdirb"
+   ],
+   "snippets": [
+    "Oficialiai paskelbta, kad 30 metų 203 cm ūgio Chrisas Silva papildė Belgrado „Partizan“ gretas, kur per mėnesį uždirbs po 100 tūkstančių JAV dolerių."
+   ],
+   "amounts": [
+    "100 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8d01d3fda1aa",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/po-gaudyniu-milane-olimpia-treneris-atsivere-apie-zalgiri-ir-jo-totema-1362-2805344?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Po gaudynių Milane „Olimpia“ treneris atsivėrė apie „Žalgirį“ ir jo „totemą“",
+   "site": "15min 24sek",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "biudzet"
+   ],
+   "snippets": [
+    "Milano klubas biudžetu nenusileidžia „Žalgiriui“, o priekinėje linijoje „Olimpia“ turi Mosesą Wrightą, kuris praėjusį sezoną spindėjo Kauno komandoje, bet ketvirtadienį liko su 5 taškais, 3 atkovotais kamuoliais."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8cfbc4d9536f",
+   "url": "https://www.sport5.co.il/articles.aspx?FolderID=11840&docID=567504",
+   "title": "שכרו החדש בפנים: כריס סילבה חתם בפרטיזן בלגרד - ערוץ הספורט",
+   "site": "Sport5",
+   "country": "Israel",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "שכר"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c10e44f06577",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2034414/bartzokas-acikladi-tyler-dorsey-takima-donuyor-mu/",
+   "title": "Bartzokas Açıkladı: Tyler Dorsey, Takıma Dönüyor mu?",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "maas"
+   ],
+   "snippets": [
+    "Kimseden bedava oynamasını istemiyoruz, herkes Olympiakos tarafından fazlasıyla iyi bir şekilde maaşını alıyor."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Tyler Dorsey",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,800,000 €",
+      "25/26 Olympiacos B.C.: 1,400,000 €",
+      "24/25 Olympiacos B.C.: 1,450,000 €",
+      "23/24 Fenerbahce Istanbul: 1,485,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "693605ae1fc0",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-14-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 14, 2026",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 4 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Alba Berlin",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 11,420,000 €, salary budget 4,690,000 €",
+      "24/25: budget 12,830,000 €, salary budget 6,790,000 €",
+      "player rows: 25/26 (1), 23/24 (1), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "BC Andorra",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,990,000 €, salary budget 3,500,000 €",
+      "24/25: budget 6,360,000 €"
+     ]
+    },
+    {
+     "name": "CB Canarias Tenerife",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 10,700,000 €, salary budget 7,800,000 €",
+      "24/25: budget 11,200,000 €, salary budget 8,200,000 €",
+      "player rows: 23/24 (1), 22/23 (1), 16/17 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "798a6d06a3d7",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-13-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 13, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 2 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "MHP Riesen Ludwigsburg",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,740,000 €, salary budget 2,520,000 €",
+      "24/25: budget 5,760,000 €, salary budget 2,530,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2db063c3ec9d",
+   "url": "https://sports.walla.co.il/item/3876093",
+   "title": "זה כל האופי: מכבי מוצאת את עצמה, הפועל מתחילה להיסדק - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "דולר",
+    "מיליון"
+   ],
+   "snippets": [
+    "עודד קטש ראה כי טוב מהדרבי ביום שני ושוב פתח עם ים מדר, שנראה כמו בעל הבית שמכבי רצתה שיהיה כששילמה לו בקיץ שני מיליון דולר, עם 6 אסיסטים ב-6 דקות."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "1fa3bdd375d2",
    "url": "https://www.eurohoops.net/en/euroleague/2034350/sasha-vezenkov-talks-breaking-vassilis-spanoulis-record-olympiacos-euroleague/",
