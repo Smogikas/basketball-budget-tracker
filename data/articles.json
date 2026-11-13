@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:10+00:00",
+ "updated": "2026-11-13T19:12+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,21 +13,22 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
@@ -40,22 +41,21 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-30",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Israel Hayom",
@@ -69,7 +69,7 @@
   {
    "site": "Sport5",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -95,7 +95,7 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -104,7 +104,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,8 +113,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 8,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -122,17 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 26,
-   "found": 1,
+   "checked": 20,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-12",
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 14,
-   "found": 2,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -162,16 +162,16 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
@@ -185,10 +185,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -208,12 +208,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-08",
@@ -221,16 +221,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 11,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-06",
+   "oldest": "2026-11-07",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 30,
-   "found": 3,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 4,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -302,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -383,6 +383,201 @@
   }
  ],
  "items": [
+  {
+   "id": "c5cc58310634",
+   "url": "https://basketnews.com/news-259422-milan-nearing-deal-for-new-big-man-after-devin-booker-injury.html#utm_medium=rss&utm_content=news",
+   "title": "Olimpia Milan closing in on €450K move for new center",
+   "site": "BasketNews.com",
+   "country": "Italy",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "According to BasketNews sources, Milan are expected to pay Scafati a buyout of around €450,000 to secure Onyema's release."
+   ],
+   "amounts": [
+    "€450K",
+    "€450,000"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Scafati Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c195d02f559e",
+   "url": "https://basketnews.com/news-259419-mario-hezonja-makes-nba-vs-europe-comparison-talks-playing-with-james-harden.html#utm_medium=rss&utm_content=news",
+   "title": "Mario Hezonja makes NBA vs. Europe comparison, talks playing with James Harden",
+   "site": "BasketNews.com",
+   "country": "Spain",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Cleveland signed him in late July to a reported one-year, $2.8 million contract, bringing him back to the league for the first time since the 2019-20 season.",
+    "During his spell in Madrid, Hezonja won the 2023 EuroLeague title and was named ACB League MVP for the 2025-26 season after averaging 17.5 points and 4.9 rebounds."
+   ],
+   "amounts": [
+    "$2.8 million",
+    "2023 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "19/20",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Mario Hezonja",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 2,100,000 €",
+      "24/25 Real Madrid Baloncesto: 1,900,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "467a7885afac",
+   "url": "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=567555",
+   "title": "''היה רחוק מדי'': קבוצת היורוליג שטיג דחה - ערוץ הספורט",
+   "site": "Sport5",
+   "country": "Israel",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "שכר"
+   ],
+   "snippets": [
+    "האולסטאר לשעבר חשף: ''הציעו לי שכר כמו של נאן, אולי הייתי הופך לכוכב''"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9c096242659c",
+   "url": "https://trendbasket.net/najlepsze-kasyna-bassbet-casino-online-2026-w-polsce/",
+   "title": "Najlepsze kasyna bassbet casino online 2026 w Polsce - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tysiec"
+   ],
+   "snippets": [
+    "W przypadku miast, ta liczba została obniżona do jednego salonu gier na 250 tysięcy mieszkańców."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "61631bbe88d7",
+   "url": "https://sportacentrs.com/basketbols/lbl/13112026-jaunups_ja_kads_latvijas_klubs_dabus_5_6_",
+   "title": "Jaunups: \"Ja kāds Rīgas lielklubs dabūs 5-6 miljonu budžetu, tad tikai viens - divi ne\"",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-13",
+   "found": "2026-11-13",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "eiro",
+    "miljon",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"VEF Rīga\" šosezon rēķinās ar budžetu aptuveni 2,1 miljona eiro apmērā, bet \"Rīgas Zeļļi\" - ap 2,5 miljoniem eiro.",
+    "Jaunups iepriekš nav slēpis, ka nākamajā sezonā vēlas vismaz dubultot \"VEF Rīga\" budžetu, lai klubs būtu konkurētspējīgs nākotnes Eiropas basketbola tirgū.",
+    "Viņaprāt, lai abas komandas nodrošinātu šādu budžetu, ir jānotiek brīnumam, jo, ņemot vērā esošo bāzi, šis lēciens būtu pārāk liels."
+   ],
+   "amounts": [
+    "6 miljonu",
+    "2,1 miljona",
+    "2,5 miljoniem"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK VEF Riga",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,000,000 €",
+      "25/26: budget 1,700,000 €, salary budget 750,000 €",
+      "24/25: budget 1,700,000 €"
+     ]
+    },
+    {
+     "name": "Rigas Zelli",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,500,000 €, salary budget 1,200,000 €",
+      "25/26: budget 950,000 €, salary budget 560,000 €",
+      "24/25: budget 750,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "29d48239f9c4",
    "url": "https://trendbasket.net/kingmaker-casino-testbericht-2026-top-oder-flop/",
