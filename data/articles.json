@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T10:56+00:00",
+ "updated": "2026-11-14T13:09+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,25 +13,26 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-14",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,7 +86,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -108,38 +109,10 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 15,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 4,
    "found": 0,
    "error": "",
@@ -148,8 +121,35 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 17,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,10 +158,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 1,
+   "checked": 11,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -172,7 +172,8 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Mozzart Sport",
@@ -185,10 +186,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -203,34 +204,35 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-09",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2020-12-18",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mundo Deportivo",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,8 +241,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 5,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-14",
@@ -266,12 +268,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -311,8 +313,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
@@ -329,12 +331,13 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -383,6 +386,179 @@
   }
  ],
  "items": [
+  {
+   "id": "85eb26f464f9",
+   "url": "https://www.basketnews.lt/news-259467-wolves-skolu-sarasas-pleciasi-kreipesi-dar-vienas-legionierius.html#utm_medium=rss&utm_content=news",
+   "title": "„Wolves“ skolų sąrašas plečiasi: kreipėsi dar vienas legionierius",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Vilniaus apygardos teismo patvirtinta klubo įsiskolinimų suma išaugo iki beveik 900 tūkst.",
+    "Visiems legionieriams nesumokėtų pinigų suma dabar siekia 240,3 tūkst."
+   ],
+   "amounts": [
+    "900 tūkst",
+    "240,3 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Alytus - Vilnius Wolves",
+     "country": "Lithuania",
+     "sheet": [
+      "24/25: budget 4,956,000 €, salary budget 3,333,000 €",
+      "23/24: budget 5,008,000 €, salary budget 3,260,000 €",
+      "22/23: budget 4,000,000 €",
+      "player rows: 24/25 (3), 23/24 (11), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "98ac38f53f11",
+   "url": "https://www.eurohoops.net/en/euroleague/2035039/jonas-valanciunas-round-11-mvp-euroleague/",
+   "title": "Zalgiris star Jonas Valanciunas earns Round 11 MVP award",
+   "site": "Eurohoops EN",
+   "country": "Italy",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Jonas Valanciunas has been named the Most Valuable Player for Round 11 of the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "38c8b12e5f51",
+   "url": "https://basketballsphere.com/en/anadolu-efes-bruno-fernando-injury-update/",
+   "title": "Anadolu Efes provide official update on Bruno Fernando's injury",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Fernando is averaging 8.2 points and 5.9 rebounds in 11 EuroLeague games this season."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Bruno Fernando",
+     "sheet": [
+      "26/27 Anadolu Efes S.K.: 1,760,000 €",
+      "25/26 KK Partizan: 1,200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "ce7f9eb8be5a",
+   "url": "https://sports.walla.co.il/item/3876183",
+   "title": "\"קרח בוורידים\": המספרים המדהימים של הווינר הגדול ביורוליג - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "אלף",
+    "יורו"
+   ],
+   "snippets": [
+    "באותו דיווח הוזכר גם הצורך לשלם כ-250 אלף יורו כדי לשחררו מפריז."
+   ],
+   "amounts": [
+    "250 אלף"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "e1809e7a0994",
    "url": "https://www.eurohoops.net/en/euroleague/2035033/round-17-and-18-games-relocated-fenerbahce-vs-hapoel-and-fenerbahce-vs-maccabi/",
