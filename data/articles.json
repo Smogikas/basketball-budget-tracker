@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T07:21+00:00",
+ "updated": "2026-11-14T09:01+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 1,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
+   "pages": 1,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
@@ -112,17 +112,16 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 20,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,25 +157,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -217,21 +216,21 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-07",
-   "stop": "reached articles checked before",
+   "stop": "no older pages",
    "skipped_nba": 1
   },
   {
+   "site": "Sportacentrs",
+   "checked": 8,
+   "found": 1,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-07",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,8 +239,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -267,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -285,6 +284,15 @@
   },
   {
    "site": "Z Krainy NBA",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -293,17 +301,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SportoweFakty",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "no older pages"
-  },
-  {
    "site": "Sporx",
-   "checked": 9,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,16 +311,16 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-11",
    "stop": "no older pages"
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -331,7 +330,7 @@
   {
    "site": "Gigantes",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -384,6 +383,139 @@
   }
  ],
  "items": [
+  {
+   "id": "69bdd5ea7bcf",
+   "url": "https://sportando.basketball/olimpia-il-mercato-passa-da-onyema-costi-necessita-e-caratteristiche/",
+   "title": "Olimpia Milano, il mercato passa da Onyema: costi, necessità e caratteristiche - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "dollar"
+   ],
+   "snippets": [
+    "Il giocatore, a differenza di Mike Tobey, non avrebbe una clausola di uscita per l’EuroLeague nel proprio contratto con Scafati, ma l’operazione non dovrebbe comunque avere un impatto particolarmente significativo sul budget biancorosso.",
+    "L’investimento, scrive Alessandro Maggi su ROM, per portare Onyema a Milano dovrebbe aggirarsi intorno ai 500.000 dollari lordi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Scafati Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a064d8dd886e",
+   "url": "https://telesport.rs/2026/11/14/milano-odresio-kesu-za-centra-pred-zvezdu/",
+   "title": "Milano pred Zvezdu odrešio kesu za centra - Telesport",
+   "site": "Telesport",
+   "country": "Croatia",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Olimpija Milano je blizu dogovora sa Z'Rikom Onjemom, a za dolazak krilnog centra iz Skafati Basketa platiće oko 450.000 evra.",
+    "Klub iz Milana bi za ovaj transfer trebalo da izdvoji oko 450.000 evra."
+   ],
+   "amounts": [
+    "450.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Olimpija",
+     "country": "Croatia",
+     "sheet": [
+      "12/13: budget 3,940,507 €"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9b574441d694",
+   "url": "http://sportacentrs.com/basketbols/lbl/14112026-ventspili_norisinasies_latvijas_basketbol",
+   "title": "Ventspilī norisināsies Latvijas basketbola klasika, čempioni TV4 tiešraidē sacentīsies ar \"Liepāju\"",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tukstos"
+   ],
+   "snippets": [
+    "Ventas krastos Ginta Fogela trenētā \"Ventspils\" uzņems kādreizējo komandas spēlētāju Jevgēniju Kosuškinu, kurš ventiņu rindās šīs tūkstošgades sākumā izcīnīja piecus Latvijas čempionotitulus pēc kārtas, un viņa vadīto \"VEF Rīga\" komandu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK VEF Riga",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,000,000 €",
+      "25/26: budget 1,700,000 €, salary budget 750,000 €",
+      "24/25: budget 1,700,000 €"
+     ]
+    },
+    {
+     "name": "BK Ventspils",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 700,000 €",
+      "25/26: budget 650,000 €, salary budget 420,000 €",
+      "24/25: budget 650,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "f06a315fcf12",
    "url": "https://basketballsphere.com/en/new-orleans-pelicans-vs-denver-nuggets-prediction-nba-november-15-2026/",
