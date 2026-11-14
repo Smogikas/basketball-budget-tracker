@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-13T22:56+00:00",
+ "updated": "2026-11-14T01:20+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
@@ -36,21 +36,21 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-10-30",
@@ -85,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
+   "pages": 1,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
@@ -103,34 +103,34 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 9,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 7,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 30,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 24,
    "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 14,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,33 +157,15 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 16,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -192,8 +174,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mozzart Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,16 +220,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-07",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -283,31 +283,30 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
@@ -329,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
