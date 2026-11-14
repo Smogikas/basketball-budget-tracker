@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-14T20:53+00:00",
+ "updated": "2026-11-14T22:51+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-14",
@@ -13,16 +13,16 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,16 +121,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 16,
+   "checked": 30,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 16,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-14",
@@ -265,15 +265,6 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -282,18 +273,27 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Z Krainy NBA",
-   "checked": 1,
+   "site": "Basketball.hr",
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -310,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -381,5 +381,122 @@
    "stop": "reached articles checked before"
   }
  ],
- "items": []
+ "items": [
+  {
+   "id": "1d0ecba156f0",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1284240/mial-byc-gwiazda-teraz-odchodzi-jest-oficjalne-potwierdzenie",
+   "title": "Miał być gwiazdą, teraz odchodzi. Jest oficjalne potwierdzenie",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "pensj"
+   ],
+   "snippets": [
+    "Jego kontrakt został bowiem wykupiony, a w klubowej kasie zostaną też pieniądze przeznaczone na jego pensję."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Anwil Wloclawek",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 3,820,993€, salary budget 2,100,000 €",
+      "25/26: budget 3,360,000 €, salary budget 1,800,000 €",
+      "24/25: budget 3,075,745 €, salary budget 1,585,588 €",
+      "player rows: 25/26 (2)"
+     ]
+    },
+    {
+     "name": "Arka Gdynia",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 2,589,457€, salary budget 1,424,201€",
+      "25/26: budget 2,354,052 €, salary budget 1,294,729 €",
+      "24/25: budget 2,347,657€"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Hans Vanwijn",
+     "sheet": [
+      "23/24 BCM Gravelines - Dunkerque: 35,000 €",
+      "22/23 Nanterre 92: 160,000 €",
+      "20/21 JDA Dijon Basket: 90,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "6c4f0d5a383e",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1284239/hickey-zakrecil-zastalem-szalona-wymiana-ciosow",
+   "title": "Hickey zakręcił Zastalem. Szalona wymiana ciosów",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tysiac"
+   ],
+   "snippets": [
+    "Niemal trzy tysiące fanów zobaczyło kawał dobrego basketu, a w szybkim, ofensywnym meczu Anthony Hickey był aktorem pierwszoplanowym."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Slask Wroclaw",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 3,820,993€, salary budget 2,100,000 €",
+      "25/26: budget 3,082,889 €, salary budget 1,600,000 €",
+      "24/25: budget 2,956,515 €"
+     ]
+    },
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Gauthier Denis",
+     "sheet": [
+      "25/26 BCM Gravelines - Dunkerque: 75,000 €",
+      "23/24 Paris Basketball: 100,000 €",
+      "22/23 Paris Basketball: 85,000 €",
+      "21/22 Paris Basketball: 75,000 €"
+     ]
+    },
+    {
+     "name": "Jakub Niziol",
+     "sheet": [
+      "24/25 Stade Rochelais Basket: 80,000 €"
+     ]
+    },
+    {
+     "name": "Malik Parsons",
+     "sheet": [
+      "24/25 Frankfurt Skyliners: 40,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  }
+ ]
 }
