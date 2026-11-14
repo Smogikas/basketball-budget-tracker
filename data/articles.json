@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-14T05:06+00:00",
+ "updated": "2026-11-14T07:21+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
@@ -26,13 +26,12 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -86,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-12",
+   "pages": 2,
+   "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
@@ -105,7 +104,7 @@
   {
    "site": "Eurohoops EN",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -113,34 +112,17 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 11,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,20 +130,38 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
-   "checked": 0,
+   "site": "Athletiko",
+   "checked": 20,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Gazzetta.gr",
+   "site": "SDNA",
    "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+  },
+  {
+   "site": "Sport24",
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 3,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -176,21 +176,21 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='meridiansport.rs', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='meridiansport.rs', port=443): Read timed out. (read ti"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -203,16 +203,16 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,26 +221,27 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-07",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
@@ -266,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -293,31 +294,30 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -330,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -384,6 +384,102 @@
   }
  ],
  "items": [
+  {
+   "id": "f06a315fcf12",
+   "url": "https://basketballsphere.com/en/new-orleans-pelicans-vs-denver-nuggets-prediction-nba-november-15-2026/",
+   "title": "New Orleans Pelicans vs Denver Nuggets Prediction: NBA, November 15, 2026",
+   "site": "Basketball Sphere",
+   "country": "USA",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "payroll",
+    "sum of money"
+   ],
+   "snippets": [
+    "Christian Brown has made no progress at all over the past few seasons, while Aaron Gorodn has regressed due to constant injuries, and the two of them account for $55 million in the team’s annual payroll."
+   ],
+   "amounts": [
+    "$55 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Denver Nuggets",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1), 08/09 (1)"
+     ]
+    },
+    {
+     "name": "Orleans Loiret Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,131,000 €, salary budget 1,950,000 €",
+      "25/26: budget 5,254,000 €, salary budget 1,385,000 €",
+      "24/25: budget 4,839,000 €, salary budget 1,243,000 €",
+      "player rows: 25/26 (10), 24/25 (11), 23/24 (12)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "515a66727116",
+   "url": "https://www.gigantes.com/liga-endesa/joan-creus-entrevista-balmaseda/",
+   "title": "Entrevista a Joan Creus: \"Tuve una oferta muy muy muy buena y al final dices: ‘joder, ¿por qué la perdiste?”",
+   "site": "Gigantes",
+   "country": "Spain",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "presupuest",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Pero tampoco los salarios eran para poder alquilar una vivienda en Hospitalet y vivir allí, ¿me entiendes?",
+    "No creo que vuelva a suceder algo similar en el baloncesto español, es decir, que un equipo como el vuestro, de los presupuestos más bajos de la ACB, gane Copa y Liga en dos años.",
+    "¿Cuál es la clave para haber conquistado los dos grandes títulos en España con uno de los presupuestos más bajos de la competición?"
+   ],
+   "amounts": [
+    "80 millones"
+   ],
+   "seasons": [
+    "95/96",
+    "97/98",
+    "80/81",
+    "82/83",
+    "86/87"
+   ],
+   "teams": [
+    {
+     "name": "Unicaja Malaga",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 19,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 11,500,000 €",
+      "24/25: budget 15,200,000 €, salary budget 10,600,000 €",
+      "player rows: 25/26 (1), 17/18 (1), 15/16 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "424f9acb6132",
    "url": "https://www.eurohoops.net/en/nba-news/2034896/dejounte-murray-trade-request-new-orleans-pelicans-nba/",
