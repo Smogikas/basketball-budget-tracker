@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T18:59+00:00",
+ "updated": "2026-11-14T20:53+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 6,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,25 +76,25 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,15 +112,6 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 7,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -129,8 +120,17 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 2,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 25,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 13,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 10,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 17,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -175,8 +175,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -223,8 +223,8 @@
    "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 4,
-   "oldest": "2026-11-07",
+   "pages": 3,
+   "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
@@ -239,7 +239,7 @@
   {
    "site": "Basketball Sphere",
    "checked": 2,
-   "found": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-14",
@@ -265,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -283,20 +283,20 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-11",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "no older pages"
   },
   {
@@ -310,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,146 @@
   }
  ],
  "items": [
+  {
+   "id": "d28b1ca3d656",
+   "url": "https://sportando.basketball/womens-eurobasket-qualifiers-a-vienna-netto-successo-dellitalia-sullaustria-capobianco-vinta-con-un-buon-approccio/",
+   "title": "Women’s EuroBasket Qualifiers, a Vienna netto successo dell'Italia sull'Austria. Capobianco: \"Vinta con un buon approccio\" - Sportando",
+   "site": "Sportando",
+   "country": "Austria",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Arbitri: Veronika Obertova, (Slovacchia), László Goda (Ungheria), Veronika Vavrova (Cechia) T2P: Austria 13/31, Italia 26/47 T3P: Austria 5/24, Italia 3/23 TL: Austria 8/12, Italia 10/13 Rimbalzi: Austria 33, Italia 45 Palle perse: Austria 20, Italia 12 Palle recuperate: Austria 7, Italia 16 Assi…"
+   ],
+   "amounts": [
+    "23 TL"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Vienna",
+     "country": "Austria",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 850,000 €",
+      "21/22: budget 1,400,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "Scaligera Basket Verona",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 3,270,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "87311860880b",
+   "url": "https://www.eurohoops.net/tr/eurobasket-tr/2035270/potanin-perileri-deplasmanda-israili-devirdi/",
+   "title": "Potanın Perileri, Deplasmanda İsrail’i Devirdi",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "FIBA 2027 EuroBasket Elemeleri 2."
+   ],
+   "amounts": [
+    "2027 EuroBasket"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "02c659f54a2d",
+   "url": "https://basketballsphere.com/en/vladimir-lucic-serbia-national-team-return/",
+   "title": "Vladimir Lucic reportedly in line for Serbia national team return",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Before that, his last appearance at a major international tournament came at the 2022 EuroBasket in Berlin, where Serbia were eliminated by Italy in the Round of 16."
+   ],
+   "amounts": [
+    "2022 EuroBasket"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Alba Berlin",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 11,420,000 €, salary budget 4,690,000 €",
+      "24/25: budget 12,830,000 €, salary budget 6,790,000 €",
+      "player rows: 25/26 (1), 23/24 (1), 22/23 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vladimir Lučič",
+     "sheet": [
+      "23/24 Bayern Munich: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "789aaf199a81",
+   "url": "https://sports.walla.co.il/item/3876223",
+   "title": "עירוני נהריה גברה על קרית גת ונצמדה למוליכות הלאומית - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "עוטף דרום עם ניצחון רביעי, 70:77 על אשקלון המתדרדרת.",
+    "עוטף דרום המשיכה בעונה המצוינת שלה עם ניצחון ביתי על אשקלון המתדרדרת.",
+    "מ.כ עוטף דרום - עירוני אשקלון 70:77"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "01019210d9ae",
    "url": "https://sportando.basketball/suns-pronti-a-cedere-jalen-green-il-front-office-e-sul-mercato-per-un-playmaker/",
