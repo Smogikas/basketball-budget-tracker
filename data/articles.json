@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:02+00:00",
+ "updated": "2026-11-14T05:06+00:00",
  "warnings": [],
  "run": [
   {
@@ -27,16 +27,17 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
@@ -103,10 +104,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -139,12 +140,12 @@
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 11,
    "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
@@ -186,10 +187,10 @@
    "site": "Meridian Sport",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='meridiansport.rs', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='meridiansport.rs', port=443): Read timed out. (read ti"
   },
   {
    "site": "Encestando",
@@ -211,12 +212,12 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -238,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -292,12 +293,13 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
@@ -382,6 +384,48 @@
   }
  ],
  "items": [
+  {
+   "id": "424f9acb6132",
+   "url": "https://www.eurohoops.net/en/nba-news/2034896/dejounte-murray-trade-request-new-orleans-pelicans-nba/",
+   "title": "Dejounte Murray requests trade, New Orleans Pelicans weigh possible offers",
+   "site": "Eurohoops EN",
+   "country": "France",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Murray collects approximately $32.8 million this season and holds a $30.8 million player option for the following season."
+   ],
+   "amounts": [
+    "$32.8 million",
+    "$30.8 million"
+   ],
+   "seasons": [
+    "26/27",
+    "24/25",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Orleans Loiret Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,131,000 €, salary budget 1,950,000 €",
+      "25/26: budget 5,254,000 €, salary budget 1,385,000 €",
+      "24/25: budget 4,839,000 €, salary budget 1,243,000 €",
+      "player rows: 25/26 (10), 24/25 (11), 23/24 (12)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "a8e36b32d476",
    "url": "https://www.pianetabasket.com/mercato/lolimpia-milano-preleva-zerik-onyema-i-retroscena-buyout-di-quasi-mezzo-milione",
