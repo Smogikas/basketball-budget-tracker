@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:55+00:00",
+ "updated": "2026-11-14T16:54+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,25 +13,26 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,11 +50,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-10-30",
+   "oldest": "2026-10-31",
    "stop": "reached start date"
   },
   {
@@ -76,20 +77,20 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketfaul.com.tr/sitemap-news.xml"
+   "checked": 40,
+   "found": 3,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-11",
+   "pages": 1,
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
@@ -103,16 +104,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,16 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 21,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,16 +141,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 13,
    "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,34 +159,34 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
    "checked": 3,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Mozzart Sport",
-   "checked": 0,
+   "site": "Telesport",
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mozzart Sport",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
+  },
+  {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,34 +204,34 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2020-12-18",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sportacentrs",
-   "checked": 1,
+   "site": "Mundo Deportivo",
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-08",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 9,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,10 +240,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 12,
-   "found": 0,
+   "checked": 27,
+   "found": 2,
    "error": "",
-   "pages": 3,
+   "pages": 5,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
@@ -256,16 +258,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "reached start date"
+   "oldest": "2026-11-09",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -274,35 +276,34 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +384,194 @@
   }
  ],
  "items": [
+  {
+   "id": "b36cc1863d5a",
+   "url": "https://basketfaul.com.tr/blog/kartal-deplasmanlarda-yuksekten-ucuyor/",
+   "title": "Kartal Deplasmanlarda Yüksekten Uçuyor - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Turkey",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "maas",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Yine kim derdi ki 11 maç sonra en az 2 kat bütçeli Efes ile BJK aynı galibiyette olacak veya son transferi ile 50 milyon euroluk FB, BJK kadar deplasman galibiyet alamayacak!!!",
+    "Sezon başında demiştim; Gabriel (Bir de az faul yapabilse)en iyi transfer, Wilbekin (Larkin willbekin kıyasında kazanan şu an belli) bu takımın olmazsa olmazı ve Omuruyi maaş/performans açısından en iyi oyuncu….İnşallah FB ve Efes’in başka takıma kaptırmaz!!!",
+    "Nedense 😏 bu yıl içimizdeki türkiyelilerin hiç konuşmadığı; geçen yılın bütçesini ikiye katlayan Obra resmen felaket bir son periyot geçirerek takıma hiçbir katkı vermeyip üstüne zarar verip tüm takımı bireysel oynattı!!!Her eline gelen salladı!!!"
+   ],
+   "amounts": [
+    "50 milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "b20761798503",
+   "url": "https://basketballsphere.com/en/aris-vs-olympiacos-prediction-odds-greek-league-november-15-2026/",
+   "title": "Aris vs Olympiacos Prediction & Odds: Greek League, November 15, 2026",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "The first 100 euros of a payout are tax free in Greece, and a licensed book withholds the rest at the counter for you."
+   ],
+   "amounts": [
+    "100 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "548cf0f558c2",
+   "url": "https://basketballsphere.com/en/napoli-vs-trieste-prediction-odds-serie-a-november-15-2026/",
+   "title": "Napoli vs Trieste Prediction & Odds: Serie A, November 15, 2026",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Wednesday brought another statement performance: a 112–90 road win over Chemnitz that preserved their perfect 7–0 EuroCup record ."
+   ],
+   "amounts": [
+    "0 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Niners Chemnitz",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 7,510,000 €, salary budget 2,760,000 €",
+      "24/25: budget 7,340,000 €, salary budget 2,620,000 €"
+     ]
+    },
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Zac Seljaas",
+     "sheet": [
+      "25/26 ASVEL Basket: 250,000 €",
+      "24/25 Wurzburg Baskets: 100,000 €",
+      "23/24 Wurzburg Baskets: 55,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "b4798e276b4a",
+   "url": "https://www.dnevnik.si/nedeljski/aktualno/tema-tedna/20-let-od-uvedbe-evra-spomin-na-noc-ko-je-evro-zamenjal-tolarje-2836583/",
+   "title": "20 let od uvedbe evra: spomin na noč, ko je evro zamenjal tolarje",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-14",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "evrih",
+    "evro",
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Na prvi dan uvedbe evra pred 20 leti so ljudje na bankomatih v povprečju dvignili 42 evrov.",
+    "Kava se je v tisti noči marsikje podražila s povprečnih 193 na 239,64 tolarja oziroma na en evro.",
+    "»Tolar je bil znak, da smo Slovenci prvič sami odgovorni za svoj denar, evro pa znak, da smo del večje skupnosti, ki ji zaupamo,« je na proslavi ob obletnicah naših pomembnih valut minuli teden dejala predsednica države Nataša Pirc Musar ."
+   ],
+   "amounts": [
+    "31 milijonov",
+    "12,52 evra",
+    "15 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "b2e90f79657f",
    "url": "https://telesport.rs/2026/11/14/olimpija-dovodi-brutalnog-beka-pred-zvezdu/",
@@ -932,6 +1121,100 @@
    ],
    "players": [],
    "nba": true
+  },
+  {
+   "id": "01081506f828",
+   "url": "https://basketfaul.com.tr/gundem/karsiyaka-ve-yoneticisine-722-bin-tl-ceza/",
+   "title": "Karşıyaka Ve Yöneticisine 722 Bin TL Ceza - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Turkey",
+   "published": "2026-11-13",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "722 Bin",
+    "722 bin"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Karsiyaka Basket",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,200,000 €, salary budget 1,200,000 €",
+      "24/25: budget 6,920,000 €, salary budget 4,800,000 €",
+      "player rows: 24/25 (3), 23/24 (1), 22/23 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7ab2df9455dd",
+   "url": "https://basketfaul.com.tr/gundem/euroleagieden-besiktasa-para-cezasi/",
+   "title": "Euroleague'den Beşiktaş'a Para Cezası - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Turkey",
+   "published": "2026-11-12",
+   "found": "2026-11-14",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Partizan ise taraftarların meşale yakması sebebiyle 8.000 euro ceza aldı."
+   ],
+   "amounts": [
+    "8.000 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
   },
   {
    "id": "a8e36b32d476",
