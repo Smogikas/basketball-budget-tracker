@@ -1,18 +1,27 @@
 {
- "updated": "2026-11-15T20:53+00:00",
+ "updated": "2026-11-15T22:52+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 16,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "BasketNews.com",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -21,17 +30,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "BasketNews.com",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
-  },
-  {
    "site": "Krepsinis.net",
-   "checked": 8,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 15,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,25 +67,25 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,8 +112,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-15",
@@ -121,16 +121,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 11,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 8,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
@@ -157,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 14,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-15",
@@ -166,16 +166,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 9,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,12 +184,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -197,7 +197,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
+   "oldest": "2026-11-05",
    "stop": "reached start date"
   },
   {
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,16 +220,17 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-10",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,12 +239,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -256,7 +257,7 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -274,43 +275,43 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 8,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +383,76 @@
   }
  ],
  "items": [
+  {
+   "id": "54ce038d6027",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2035803/chezonia-meni-sto-nba-me-pliros-engiimeno-simvoleo-stous-kavaliers/",
+   "title": "Χεζόνια: Μένει με πλήρως εγγυημένο συμβόλαιο στους Καβαλίερς",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-15",
+   "found": "2026-11-15",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Κάπως έτσι τ ελειώνουν τα σενάρια αποδέσμευσής του και επιστροφής του στην Ευρώπη, μιας και λίγες ώρες έπειτα από την κορυφαία του εμφάνιση φέτος, οι Καβαλίερς αποφάσισαν να τον κρατήσουν με ένα ποσό ύψους $2.449.421."
+   ],
+   "amounts": [
+    "$2.449.421"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "379a228cc1c5",
+   "url": "https://www.sport24.gr/basket/nba-egine-engiimeno-to-simvolaio-tou-xezonia-paramenei-stous-kavaliers-mexri-to-telos-tis-sezon/",
+   "title": "NBA: Έγινε εγγυημένο το συμβόλαιο του Χεζόνια - Παραμένει στους Καβαλίερς μέχρι το τέλος της σεζόν",
+   "site": "Sport24",
+   "country": "USA",
+   "published": "2026-11-15",
+   "found": "2026-11-15",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Έτσι οι ιππότες θα καταβάλουν το ποσό των 2.8 εκατομμυρίων στον Χεζόνια και θα τον κρατήσουν στις ΗΠΑ ολόκληρη την τρέχουσα αγωνιστική περίοδο."
+   ],
+   "amounts": [
+    "2.8 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dallas Mavericks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Mario Hezonja",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 2,100,000 €",
+      "24/25 Real Madrid Baloncesto: 1,900,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "b3817334c31a",
    "url": "https://www.gazzetta.gr/basketball/basket-league/2586795/aytos-o-aris-einai-harma-ofthalmon",
