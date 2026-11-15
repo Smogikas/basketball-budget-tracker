@@ -1,37 +1,19 @@
 {
- "updated": "2026-11-15T05:09+00:00",
+ "updated": "2026-11-15T07:23+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -39,17 +21,36 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-14",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,19 +77,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
@@ -121,25 +122,25 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 15,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,19 +149,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-15",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
@@ -175,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-15",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
@@ -211,38 +212,38 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
@@ -252,7 +253,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Dnevnik.si",
@@ -292,21 +293,21 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-15",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
@@ -382,6 +383,147 @@
   }
  ],
  "items": [
+  {
+   "id": "af30acf0a620",
+   "url": "https://www.sport24.gr/basket/xezonia-simera-i-kathoristiki-imerominia-gia-to-mellon-tou-stous-kavaliers-ti-krinetai/",
+   "title": "Χεζόνια: Σήμερα η καθοριστική ημερομηνία για το μέλλον του στους Καβαλίερς - Τι κρίνεται",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-15",
+   "found": "2026-11-15",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι"
+   ],
+   "snippets": [
+    "δολαρίων ) με διορία τις 15 Νοεμβρίου ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "5c82b706c80e",
+   "url": "https://meridiansport.rs/kosarka/ne-postoji-savrsen-tandem-jokic-i-marej-prvi-posle-29-godina/",
+   "title": "Ne postoji savršen tandem? Jokić i Marej – prvi posle 29 godina | MeridianBetSport",
+   "site": "Meridian Sport",
+   "country": "USA",
+   "published": "2026-11-15",
+   "found": "2026-11-15",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "hiljad"
+   ],
+   "snippets": [
+    "Po hiljadu u oba smera!"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Denver Nuggets",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1), 08/09 (1)"
+     ]
+    },
+    {
+     "name": "Detroit Pistons",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 21/22 (1), 20/21 (1)"
+     ]
+    },
+    {
+     "name": "Orleans Loiret Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,131,000 €, salary budget 1,950,000 €",
+      "25/26: budget 5,254,000 €, salary budget 1,385,000 €",
+      "24/25: budget 4,839,000 €, salary budget 1,243,000 €",
+      "player rows: 25/26 (10), 24/25 (11), 23/24 (12)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "86a672eb9f9b",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261115/1004251142/nba-presenta-mario-hezonja-jugador-fc-barcelona-ficha.html",
+   "title": "La NBA presenta a Mario Hezonja como jugador “del FC Barcelona” y hoy lo ficha",
+   "site": "Mundo Deportivo",
+   "country": "USA",
+   "published": "2026-11-15",
+   "found": "2026-11-15",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "El contrato de un año y 2,5 millones de dólares que Hezonja firmó con los Cavs en verano se convierte en plenamente garantizado este domingo tras un notable período de prueba culminado con un sobresaliente.",
+    "El croata, consagrada súper estrella en Europa, se fue a la NBA ansioso por salir de su zona de confort y renunciando por ello a dinero, pues los aproximadamente 1,6 millones netos -en euros- que le quedarán en este contrato de un único año que firmó son menos que los 2,6 millones que le hubieran…"
+   ],
+   "amounts": [
+    "2,5 millones",
+    "1,6 millones",
+    "2,6 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dallas Mavericks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Mario Hezonja",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 2,100,000 €",
+      "24/25 Real Madrid Baloncesto: 1,900,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "8267b56852f2",
    "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-15-2026/",
