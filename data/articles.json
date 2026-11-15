@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-15T19:01+00:00",
+ "updated": "2026-11-15T20:53+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 16,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,13 +22,12 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
@@ -41,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 9,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,16 +121,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 11,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='www.eurohoops.net', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='www.eurohoops.net', port=443): Read timed out. (read t"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 32,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 21,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 12,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,25 +157,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 26,
-   "found": 0,
+   "checked": 14,
+   "found": 1,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,17 +220,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-09",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -258,7 +256,7 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -285,21 +283,21 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
+   "pages": 2,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
@@ -312,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +382,29 @@
   }
  ],
  "items": [
+  {
+   "id": "b3817334c31a",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2586795/aytos-o-aris-einai-harma-ofthalmon",
+   "title": "Αυτός ο Άρης είναι χάρμα οφθαλμών",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-15",
+   "found": "2026-11-15",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Δεν είναι τόσο ευνόητη η αποδοχή και η εκτέλεση ενός ρόλου, όταν ο καθένας από δαύτους είχε συνηθίσει σε κάτι διαφορετικό."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "ead446bae51a",
    "url": "https://www.gazzetta.gr/basketball/basket-league/2586743/pelikans-o-marei-zitise-na-ginei-antallagi",
