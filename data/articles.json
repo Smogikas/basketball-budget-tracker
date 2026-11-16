@@ -1,24 +1,25 @@
 {
- "updated": "2026-11-16T05:41+00:00",
+ "updated": "2026-11-16T09:01+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 21,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 4,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.com",
@@ -27,12 +28,11 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 1,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -88,10 +88,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7b3c004b23c0>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -104,43 +104,6 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -149,8 +112,45 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 9,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Athletiko",
+   "checked": 30,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 7,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,10 +159,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
-   "found": 0,
+   "checked": 18,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
@@ -172,17 +172,17 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-16",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -190,8 +190,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -204,7 +204,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -213,30 +213,31 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "oldest": "2026-11-12",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-09",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -244,8 +245,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -258,11 +259,11 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached start date"
   },
   {
@@ -272,7 +273,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -285,16 +287,16 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -303,7 +305,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 2,
+   "checked": 38,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +314,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +386,164 @@
   }
  ],
  "items": [
+  {
+   "id": "b081be8d86c1",
+   "url": "https://www.basketnews.lt/news-259558-rinktines-kandidatu-pristatymas-ir-sugrizimai-i-kauna.html#utm_medium=rss&utm_content=news",
+   "title": "Rinktinės kandidatų pristatymas ir sugrįžimai į Kauną",
+   "site": "BasketNews.lt",
+   "country": "Germany",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Savaitės pradžioje mūsų bendruomenėje yra 9,9 tūkst."
+   ],
+   "amounts": [
+    "9,9 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Rokas Jokubaitis",
+     "sheet": [
+      "25/26 Bayern Munich: 1,100,000 €",
+      "24/25 Maccabi Tel Aviv: 644,000 €",
+      "23/24 FC Barcelona Basquet: 350,000 €",
+      "22/23 FC Barcelona Basquet: 350,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9909cc6ce0cb",
+   "url": "https://www.sdna.gr/mpasket/1487181_apo-tin-karditsa-stis-100ares-stoys-aionioys-kai-me-mpasket-poy-goyst-ari",
+   "title": "Από την Καρδίτσα, στις «100άρες» στους «αιωνίους» και με μπάσκετ που γουστ-Άρη",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Μέσα σε διάστημα δύο εβδομάδων, ο Άρης έριξε ισάριθμες «100άρες» στους «αιωνίους», που διαθέτουν τα κορυφαία μπάτζετ της Euroleague και έχουν χτιστεί για να κατακτήσουν την κορυφή της Ευρώπης."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7170b31dc44e",
+   "url": "https://www.gazzetta.gr/football/uefa-nations-league/2586850/athlitikes-metadoseis-simera-ellada-serbia-gazz-floor-oi",
+   "title": "Αθλητικές μεταδόσεις σήμερα: Το Ελλάδα-Σερβία, το Gazz Floor, οι Galacticos και το Gazzetta Magazino",
+   "site": "Gazzetta.gr",
+   "country": "Poland",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Στο ποδόσφαιρο η δράση αρχίζει με αναμέτρηση της Super League 2, ανάμεσα στον Πανιώνιο και τον Ολυμπιακό Β' (14:45, ΕΡΤ ΣΠΟΡ 2), ενώ λίγο αργότερα η Εθνική Ελπίδων δίνει την τελευταία της μάχη κόντρα στην Ισλανδία , για τα προκριματικά του Euro U21 (19:00, ΕΡΤ ΣΠΟΡ 2)."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Start Lublin",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,194,243 €, salary budget 1,316,546 €",
+      "24/25: budget 1,792,122€"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f352e1900624",
+   "url": "https://zkrainynba.com/mate-vucic-ma-patent-na-anwil-liczby-robia-wrazenie/",
+   "title": "Mate Vucić ma patent na Anwil! Liczby robią wrażenie - Z Krainy NBA",
+   "site": "Z Krainy NBA",
+   "country": "Poland",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Anwil od lat należy do klubów dysponujących jednymi z największych budżetów w PLK i rok rocznie mierzy naprawdę wysoko."
+   ],
+   "amounts": [],
+   "seasons": [
+    "00/01"
+   ],
+   "teams": [
+    {
+     "name": "Anwil Wloclawek",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 3,820,993€, salary budget 2,100,000 €",
+      "25/26: budget 3,360,000 €, salary budget 1,800,000 €",
+      "24/25: budget 3,075,745 €, salary budget 1,585,588 €",
+      "player rows: 25/26 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "6d31c8c7e781",
    "url": "https://basketballsphere.com/en/milano-vs-crvena-zvezda-prediction-odds-euroleague-november-17-2026/",
