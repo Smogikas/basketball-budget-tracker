@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-16T21:02+00:00",
+ "updated": "2026-11-16T23:00+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,26 +13,27 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "checked": 7,
+   "found": 2,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-16",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -40,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,12 +77,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -103,16 +104,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,25 +122,25 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 18,
+   "checked": 50,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "page 2 failed: HTTP 406 for https://www.athletiko.gr/mpasket?page=2"
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -161,12 +162,12 @@
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,16 +176,16 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,12 +203,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -220,12 +221,12 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 17,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached start date"
+   "pages": 4,
+   "oldest": "2026-11-09",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
@@ -238,7 +239,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -274,11 +275,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
@@ -292,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +383,183 @@
   }
  ],
  "items": [
+  {
+   "id": "f3facfe99cd5",
+   "url": "https://basketnews.com/news-259612-serbia-name-24-man-roster-for-world-cup-qualifiers-including-11-euroleague-players.html#utm_medium=rss&utm_content=news",
+   "title": "Serbia name 24-man roster for World Cup qualifiers, including 11 EuroLeague players",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "5771a6f9e7a7",
+   "url": "https://basketnews.com/news-259610-nba-planning-multibillion-dollar-fund-to-lure-european-football-giants.html#utm_medium=rss&utm_content=news",
+   "title": "NBA planning multibillion-dollar fund to lure European football giants",
+   "site": "BasketNews.com",
+   "country": "Spain",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "According to Sky News , the league is working on creating a multibillion-dollar infrastructure fund that would be financed by a consortium of major global financial institutions."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "b76315ee9db7",
+   "url": "https://www.marca.com/baloncesto/euroliga/2026/11/16/lider-valencia-sobrevive-estampida-historica-desafia-europa.html",
+   "title": "El líder Valencia sobrevive a una estampida histórica y desafía a Europa",
+   "site": "Marca",
+   "country": "Spain",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "presupuest"
+   ],
+   "snippets": [
+    "En el escenario más exigente y donde la competencia es mayúscula el conjunto taronja está sobresaliendo entre el puñado de transatlánticos del baloncesto europeo , con presupuestos muy superiores al suyo, lo que realza su mérito."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,900,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "71381bc30a20",
+   "url": "https://basketballsphere.com/en/jordan-nworas-unfinished-business-with-luca-banchi/",
+   "title": "Jordan Nwora's unfinished business with Luca Banchi",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "He is averaging 14.7 points and 5.4 rebounds in 11 EuroLeague appearances this season, scoring at least 10 points in every game."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [
+    "24/25",
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jordan Nwora",
+     "sheet": [
+      "25/26 KK Crvena zvezda: 1,000,000 €"
+     ]
+    },
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    },
+    {
+     "name": "Pablo Laso",
+     "sheet": [
+      "15/16 Real Madrid Baloncesto: 930,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "7e41ecab4b1c",
    "url": "https://www.krepsinis.net/naujiena/serbijos-rinktines-kandidatu-sarase-gausu-eurolygos-zaideju/354508",
