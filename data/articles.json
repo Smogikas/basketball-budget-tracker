@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T17:28+00:00",
+ "updated": "2026-11-16T19:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
    "checked": 6,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -18,21 +18,21 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,16 +41,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +87,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-14",
+   "pages": 1,
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
@@ -104,16 +105,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,17 +123,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Athletiko",
-   "checked": 20,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,8 +131,17 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Athletiko",
+   "checked": 15,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "SDNA",
-   "checked": 8,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,33 +150,6 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 11,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -185,13 +158,40 @@
    "stop": "no older pages"
   },
   {
-   "site": "Meridian Sport",
-   "checked": 4,
+   "site": "Gazzetta.gr",
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
+   "pages": 3,
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -204,12 +204,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -226,12 +226,12 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,12 +240,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 11,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -267,15 +267,6 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -284,11 +275,20 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Z Krainy NBA",
+   "site": "Basketball.hr",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -303,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,13 +330,12 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -385,6 +384,74 @@
   }
  ],
  "items": [
+  {
+   "id": "cc606846edbc",
+   "url": "https://sportando.basketball/reyer-e-comune-di-venezia-accordo-per-la-gestione-della-nuova-arena-del-bosco-dello-sport/",
+   "title": "Reyer e Comune di Venezia, accordo per la gestione della nuova Arena del Bosco dello Sport - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "La concessione, che avrà una durata di 40 anni, prevede un impegno economico complessivo di circa 154 milioni di euro da parte di Reyer per migliorie e completamento dell’impianto, manutenzione ordinaria e straordinaria e canone concessorio."
+   ],
+   "amounts": [
+    "154 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Umana Reyer Venezia",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 11,000,000 €, salary budget 7,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 11,840,000 €, salary budget 8,160,000 €",
+      "player rows: 25/26 (2), 21/22 (1), 17/18 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "73bc5652738c",
+   "url": "https://www.athletiko.gr/o-goyempaniama-kai-i-schetikotita-toy-choroy-116208",
+   "title": "Ο Γουεμπανιαμά και η σχετικότητα του χώρου | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Το άνοιγμα των χεριών του ξεπερνά το ύψος του κατά περίπου 20 εκατοστά.",
+    "Η γεωμετρία ενός σουτ: Τα 122 εκατοστά γίνονται ξαφνικά 152",
+    "Στο μπάσκετ, αυτά τα 30 εκατοστά μπορούν να αλλάξουν τη δυνατότητα ενός αμυντικού  να φτάσει στο σημείο εκτέλεσης, να σηκώσει το χέρι του και να επηρεάσει την τροχιά της μπάλας."
+   ],
+   "amounts": [
+    "20 εκατοστά",
+    "122 εκατοστά",
+    "30 εκατοστά",
+    "60 εκατοστών"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "d9c7d56efa3d",
    "url": "https://sportando.basketball/intervista-di-basket-magazine-a-massimo-faraoni-segretario-generale-lnp/",
