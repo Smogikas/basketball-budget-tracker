@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-16T19:14+00:00",
+ "updated": "2026-11-16T21:02+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -13,17 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,9 +21,18 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+  },
+  {
    "site": "Krepsinis.net",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -46,12 +45,11 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -78,11 +76,11 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-15",
    "stop": "no older pages"
   },
   {
@@ -105,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -123,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -132,16 +130,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 15,
-   "found": 1,
+   "checked": 18,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "stop": "page 2 failed: HTTP 406 for https://www.athletiko.gr/mpasket?page=2"
   },
   {
    "site": "SDNA",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -168,34 +166,34 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Meridian Sport",
-   "checked": 0,
+   "site": "Mozzart Sport",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-16",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -204,25 +202,25 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2020-12-18",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mundo Deportivo",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-12",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -231,21 +229,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -276,11 +274,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -294,16 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
@@ -384,6 +382,122 @@
   }
  ],
  "items": [
+  {
+   "id": "7e41ecab4b1c",
+   "url": "https://www.krepsinis.net/naujiena/serbijos-rinktines-kandidatu-sarase-gausu-eurolygos-zaideju/354508",
+   "title": "Serbijos rinktinės kandidatų sąraše – gausu Eurolygos žaidėjų | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Dušanas Alimpijevičius rungtynėms su Lietuva ir Italija kol kas išsirinko 24 žaidėjus, tarp kurių yra net 11 Eurolygos žaidėjų."
+   ],
+   "amounts": [
+    "11 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Balša Koprivica",
+     "sheet": [
+      "24/25 KK Partizan: 300,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "f2d69f7c188d",
+   "url": "https://basketballsphere.com/en/euroleague-midseason-coaching-changes/",
+   "title": "Do midseason coaching changes actually work in the EuroLeague?",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "With ten of the 20 EuroLeague clubs changing their head coaches during the season, the competition experienced an unusually active coaching carousel."
+   ],
+   "amounts": [
+    "20 EuroLeague"
+   ],
+   "seasons": [
+    "25/26",
+    "16/17",
+    "17/18",
+    "18/19",
+    "21/22"
+   ],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Avi Even",
+     "sheet": [
+      "15/16 Maccabi Tel Aviv: 144,000 €",
+      "08/09 Maccabi Tel Aviv: 32,829 €"
+     ]
+    },
+    {
+     "name": "Duško Ivanovič",
+     "sheet": [
+      "25/26 Virtus Bologna: 300,000 €",
+      "22/23 KK Crvena zvezda: 875,000 €"
+     ]
+    },
+    {
+     "name": "Ettore Messina",
+     "sheet": [
+      "20/21 Olimpia Milano: 2,000,000 €",
+      "19/20 Olimpia Milano: 2,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "cc606846edbc",
    "url": "https://sportando.basketball/reyer-e-comune-di-venezia-accordo-per-la-gestione-della-nuova-arena-del-bosco-dello-sport/",
