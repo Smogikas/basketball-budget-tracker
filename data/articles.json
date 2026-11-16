@@ -1,28 +1,18 @@
 {
- "updated": "2026-11-16T09:01+00:00",
+ "updated": "2026-11-16T11:36+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 21,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 4,
-   "oldest": "2026-11-15",
+   "pages": 2,
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "BasketNews.com",
    "checked": 4,
    "found": 0,
    "error": "",
@@ -31,27 +21,38 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-16",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 8,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "oldest": "2026-11-16",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
+   "oldest": "2026-11-14",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 19,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-01",
@@ -68,7 +69,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,12 +87,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7b3c004b23c0>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -105,7 +106,7 @@
   {
    "site": "Eurohoops EN",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-14",
@@ -113,26 +114,16 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-14",
+   "pages": 2,
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 9,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Athletiko",
-   "checked": 30,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,9 +131,18 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
-   "checked": 7,
+   "site": "Athletiko",
+   "checked": 26,
    "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-15",
@@ -150,8 +150,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -159,7 +159,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 18,
+   "checked": 9,
    "found": 1,
    "error": "",
    "pages": 3,
@@ -168,16 +168,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -186,12 +186,13 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
@@ -204,7 +205,7 @@
   },
   {
    "site": "Marca",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -213,22 +214,21 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
@@ -241,12 +241,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 17,
+   "found": 4,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 3,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -259,7 +259,7 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -268,13 +268,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -287,25 +286,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 38,
+   "checked": 27,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 8,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -323,11 +322,11 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-18",
+   "oldest": "2026-04-20",
    "stop": "reached start date"
   },
   {
@@ -386,6 +385,643 @@
   }
  ],
  "items": [
+  {
+   "id": "bc3082c2fe03",
+   "url": "https://basketnews.com/news-259569-dubai-officially-signs-43-year-old-european-basketball-legend.html#utm_medium=rss&utm_content=news",
+   "title": "Dubai Basketball add ex-Lakers playmaker to strengthen backcourt",
+   "site": "BasketNews.com",
+   "country": "United Arab Emirates",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "He has made more than 200 EuroLeague appearances and also spent two seasons with the Los Angeles Lakers."
+   ],
+   "amounts": [
+    "200 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "78b75d4bbad3",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/masiulis-apie-jokubaiti-kalbas-del-maodo-lo-ismainymo-ir-zalgiriecius-rinktineje-1362-2806490?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Masiulis – apie Jokubaitį, kalbas dėl Maodo Lo išmainymo ir žalgiriečius rinktinėje",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Po traumos sugrįžęs Rokas Jokubaitis sužaidė 10 Eurolygos rungtynių, iš kurių 4 pradėjo starto penkete."
+   ],
+   "amounts": [
+    "10 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Maodo Lo",
+     "sheet": [
+      "25/26 Žalgiris Kaunas: 550,000 €",
+      "24/25 Paris Basketball: 450,000 €",
+      "23/24 Olimpia Milano: 500,000 €"
+     ]
+    },
+    {
+     "name": "Rokas Jokubaitis",
+     "sheet": [
+      "25/26 Bayern Munich: 1,100,000 €",
+      "24/25 Maccabi Tel Aviv: 644,000 €",
+      "23/24 FC Barcelona Basquet: 350,000 €",
+      "22/23 FC Barcelona Basquet: 350,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "37f2e39fa11a",
+   "url": "https://www.pianetabasket.com/euroleague/fenerbahce-infortunio-per-nicolo-melli-problema-al-menisco-possibile-operazione-i-tempi-di-recupero",
+   "title": "Fenerbahce, infortunio per Nicolò Melli: problema al menisco, possibile operazione. I tempi di recupero",
+   "site": "PianetaBasket",
+   "country": "United Arab Emirates",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Il lungo italiano, già assente nella recente partita di Euro..."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Marcelinho Huertas",
+     "sheet": [
+      "13/14 FC Barcelona Basquet: 1,900,000 €"
+     ]
+    },
+    {
+     "name": "Nicolo Melli",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 1,500,000 €",
+      "25/26 Fenerbahce Istanbul: 1,500,000 €",
+      "24/25 Fenerbahce Istanbul: 1,400,000 €",
+      "23/24 Olimpia Milano: 1,820,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "586a8af2c21b",
+   "url": "https://www.eurohoops.net/en/euroleague/2035883/marcelinho-huertas-to-dubai-euroleague/",
+   "title": "Dubai completes blockbuster move for 43-year-old Brazilian guard Marcelinho Huertas",
+   "site": "Eurohoops EN",
+   "country": "United Arab Emirates",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Huertas arrives in Dubai following an outstanding career at the highest level, including more than 200 EuroLeague appearances, two seasons in the NBA with the Los Angeles Lakers and numerous individual awards, including the 2024/25 Liga Endesa MVP and multiple selections to the league’s Best Five."
+   ],
+   "amounts": [
+    "200 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Marcelinho Huertas",
+     "sheet": [
+      "13/14 FC Barcelona Basquet: 1,900,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "94f179e9ca06",
+   "url": "https://www.athletiko.gr/ena-vima-pio-konta-sto-megalo-ergo-gia-to-kleisto-tis-odoy-artakis-o-panionios-pote-oloklironontai-ta-erga-116094",
+   "title": "Ένα βήμα πιο κοντά στο μεγάλο έργο για το κλειστό της οδού Αρτάκης ο Πανιώνιος - Πότε ολοκληρώνονται τα έργα | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Ο συνολικός προϋπολογισμός του έργου ανέρχεται σε 18,54 εκατ.",
+    "Η σύμβαση υπεγράφη από τον Περιφερειάρχη Αττικής, Νίκο Χαρδαλιά, με τη χρηματοδότηση να φτάνει στα 18,54 εκατ.",
+    "Υπεγράφη η Προγραμματική Σύμβαση για την ολοκλήρωση το φθινόπωρο του 2028 του νέου βιοκλιματικού αθλητικού χώρου 3.500 θέσεων με χρηματοδότηση 18,54 εκατ."
+   ],
+   "amounts": [
+    "18,54 εκατ",
+    "23 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "569f098df3ec",
+   "url": "https://www.sport24.gr/basket/panionios-ipegrafi-i-programmatiki-simvasi-oloklironetai-to-2028-to-kleisto-tis-neas-smirnis/",
+   "title": "Πανιώνιος: Υπεγράφη η Προγραμματική Σύμβαση - Ολοκληρώνεται το 2028 το κλειστό της Νέας Σμύρνης",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Ο συνολικός προϋπολογισμός του έργου ανέρχεται σε 18,54 εκατ.",
+    "Πρόκειται για ένα γήπεδο 3.500 θέσεων με χρηματοδότηση ύψους 18.54 εκατ.",
+    "ευρώ από την Περιφέρεια Αττικής."
+   ],
+   "amounts": [
+    "18.54 εκατ",
+    "18,54 εκατ",
+    "23 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0b4b66b9561d",
+   "url": "https://www.gazzetta.gr/basketball/a2-mpasket-elite-league/2586925/panionios-apokta-diko-toy-ypersyghrono-kleisto",
+   "title": "Ημέρα - ορόσημο για τον Πανιώνιο: Υπεγράφη η Προγραμματική Σύμβαση για την ολοκλήρωση του κλειστού της οδού Αρτάκης",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Ο συνολικός προϋπολογισμός του έργου ανέρχεται σε 18,54 εκατ.",
+    "Ο «Ιστορικός» αποκτά το δικό του υπερσύγχρονο Κλειστό Γυμναστήριο , καθώς υπεγράφη η Προγραμματική Σύμβαση για την ολοκλήρωση το φθινόπωρο του 2028 του νέου βιοκλιματικού αθλητικού χώρου 3.500 θέσεων με χρηματοδότηση 18,54 εκατ.",
+    "ευρώ, πλέον ΦΠΑ, από την Περιφέρεια Αττικής."
+   ],
+   "amounts": [
+    "18,54 εκατ",
+    "23 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "913c287c0b50",
+   "url": "https://telesport.rs/2026/11/16/hezonja-resio-svoju-buducnost-i-osigurao-285-miliona-dolara/",
+   "title": "Hezonja rešio svoju budućnost i osigurao 2,85 miliona dolara - Telesport",
+   "site": "Telesport",
+   "country": "Montenegro",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Zbog toga će dobiti celokupan iznos ugovora, koji vredi 2,85 miliona dolara."
+   ],
+   "amounts": [
+    "2,85 miliona"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 18/19 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Mario Hezonja",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 2,100,000 €",
+      "24/25 Real Madrid Baloncesto: 1,900,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "a83945b84b65",
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261116/1004251579/nico-laprovittola-vine-barca-cobrando-cobraba-real-madrid-nunca-top-3-jugadores-mejor-pagados-plantilla.html",
+   "title": "Nico Laprovittola: \"Vine al Barça cobrando menos de lo que cobraba en el Real Madrid, pero nunca fui top-3 de los jugadores mejor pagados de la plantilla\"",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "salar"
+   ],
+   "snippets": [
+    "Laprovittola , además, fue preguntado por el tema económico y desveló que llegó al club azulgrana con un salario inferior al que percibía en el Real Madrid."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "51d203f10bd2",
+   "url": "https://basketballsphere.com/en/euroleague-26-27-round-12-marquee-matchup/",
+   "title": "EuroLeague Round 12 Marquee Matchup: Former teammates in a gunslinger duel",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "One streak will have to come to an end in this round, while both teams currently look like they have a case to be one of the biggest positive surprises at the end of the season – Barcelona, which lowered its budget and improved its play, and Paris, which doubled down on its philosophy."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Justin Robinson",
+     "sheet": [
+      "25/26 Paris Basketball: 430,000 €",
+      "22/23 BCM Gravelines - Dunkerque: 150,000 €",
+      "19/20 Elan Chalon: 160,000 €"
+     ]
+    },
+    {
+     "name": "Nadir Hifi",
+     "sheet": [
+      "26/27 Paris Basketball: 1,100,000 €",
+      "25/26 Paris Basketball: 1,000,000 €",
+      "24/25 Paris Basketball: 250,000 €",
+      "23/24 Paris Basketball: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "67c0298cdb54",
+   "url": "https://basketballsphere.com/en/marcelinho-huertas-dubai-xavi-pascual/",
+   "title": "Marcelinho Huertas officially joins Dubai, reunites with Xavi Pascual",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Veteran Brazilian guard Marcelinho Huertas officially joins Dubai for the rest of the 2026/27 EuroLeague season, reuniting with Xavi Pascual.",
+    "He made over 200 EuroLeague appearances with them."
+   ],
+   "amounts": [
+    "27 EuroLeague",
+    "200 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "CB Canarias Tenerife",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 10,700,000 €, salary budget 7,800,000 €",
+      "24/25: budget 11,200,000 €, salary budget 8,200,000 €",
+      "player rows: 23/24 (1), 22/23 (1), 16/17 (1)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Marcelinho Huertas",
+     "sheet": [
+      "13/14 FC Barcelona Basquet: 1,900,000 €"
+     ]
+    },
+    {
+     "name": "Xavi Pascual",
+     "sheet": [
+      "26/27 Dubai Basketball: 3,000,000 €",
+      "17/18 Panathinaikos B.C.: 900,000 €",
+      "15/16 FC Barcelona Basquet: 920,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "91582be4694a",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-17-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 17, 2026",
+   "site": "Basketball Sphere",
+   "country": "Bulgaria",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 5 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Balkan Botevgrad",
+     "country": "Bulgaria",
+     "sheet": [
+      "26/27: budget 3,000,000 €"
+     ]
+    },
+    {
+     "name": "Bahcesehir Koleji",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 13,000,000 €, salary budget 8,600,000 €",
+      "24/25: budget 9,000,000 €, salary budget 5,900,000 €",
+      "player rows: 26/27 (3), 25/26 (1), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "CB Canarias Tenerife",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 10,700,000 €, salary budget 7,800,000 €",
+      "24/25: budget 11,200,000 €, salary budget 8,200,000 €",
+      "player rows: 23/24 (1), 22/23 (1), 16/17 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c226c290c085",
+   "url": "https://basketballsphere.com/en/fenerbahce-injury-nicolo-melli-braxton-key/",
+   "title": "Double blow for Fenerbahce: Nicolo Melli faces surgery, Braxton Key suffers dislocated finger",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-16",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Fenerbahce has already dealt with player absences this season, most notably Shane Larkin , who missed several opening games of the 2026/27 EuroLeague season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (9), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Braxton Key",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 968,000 €"
+     ]
+    },
+    {
+     "name": "Nicolo Melli",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 1,500,000 €",
+      "25/26 Fenerbahce Istanbul: 1,500,000 €",
+      "24/25 Fenerbahce Istanbul: 1,400,000 €",
+      "23/24 Olimpia Milano: 1,820,000 €"
+     ]
+    },
+    {
+     "name": "Šarūnas Jasikevičius",
+     "sheet": [
+      "25/26 Fenerbahce Istanbul: 1,000,000 €",
+      "22/23 FC Barcelona Basquet: 1,200,000 €",
+      "19/20 Žalgiris Kaunas: 1,000,000 €",
+      "18/19 Žalgiris Kaunas: 850,000 €"
+     ]
+    },
+    {
+     "name": "Shane Larkin",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 2,640,000 €",
+      "25/26 Anadolu Efes S.K.: 3,700,000 €",
+      "24/25 Anadolu Efes S.K.: 3,600,000 €",
+      "23/24 Anadolu Efes S.K.: 3,600,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "b081be8d86c1",
    "url": "https://www.basketnews.lt/news-259558-rinktines-kandidatu-pristatymas-ir-sugrizimai-i-kauna.html#utm_medium=rss&utm_content=news",
@@ -649,6 +1285,45 @@
       "25/26 Hapoel Tel Aviv: 4,930,000 €",
       "22/23 Anadolu Efes S.K.: 3,300,000 €",
       "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9ef711250bd5",
+   "url": "https://basketdergisi.com/belki-katkiniz-olur-erman-kunter.html",
+   "title": "Belki ‘katkı’nız olur / Erman Kunter",
+   "site": "Basket Dergisi",
+   "country": "Turkey",
+   "published": "2026-11-14",
+   "found": "2026-11-16",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "dolar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bir de katılım parası ki alt liglerde bu rakam daha da bütçeleri zorluyor.",
+    "Basketbol Süper Ligi’nde oynayan takımların kadrosunda çok sayıda yabancı oyuncu kontratı olduğundan dolar hesabı yapacağım.",
+    "Zam sonrası iddaa isim hakkı galibiyet halinde 3 bin 600 dolar civarı."
+   ],
+   "amounts": [
+    "3 bin",
+    "25 bin"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Erman Kunter",
+     "sheet": [
+      "20/21 Cholet Basket: 120,000 €",
+      "19/20 Cholet Basket: 120,000 €"
      ]
     }
    ],
