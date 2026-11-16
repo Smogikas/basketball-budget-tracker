@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T01:41+00:00",
+ "updated": "2026-11-16T03:14+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -130,16 +130,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 8,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -166,12 +166,12 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
@@ -184,12 +184,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -202,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
@@ -229,21 +229,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 12,
+   "found": 2,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -265,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -382,6 +382,116 @@
   }
  ],
  "items": [
+  {
+   "id": "6d31c8c7e781",
+   "url": "https://basketballsphere.com/en/milano-vs-crvena-zvezda-prediction-odds-euroleague-november-17-2026/",
+   "title": "Milano vs Crvena Zvezda Prediction & Odds: EuroLeague, November 17, 2026",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-15",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Milano have won an impressive nine of the last 11 EuroLeague meetings between these teams."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Devin Booker",
+     "sheet": [
+      "25/26 Olimpia Milano: 1,200,000 €",
+      "20/21 BC Khimki Moscow: 1,087,500 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1fb8aa7fe450",
+   "url": "https://basketballsphere.com/en/baskonia-vs-hapoel-tel-aviv-prediction-euroleague-november-17-2026/",
+   "title": "Baskonia vs Hapoel Tel Aviv Prediction: EuroLeague, November 17, 2026",
+   "site": "Basketball Sphere",
+   "country": "Israel",
+   "published": "2026-11-15",
+   "found": "2026-11-16",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Following the 80–73 EuroLeague defeat, some of them confronted Itoudis at the airport in Cyprus."
+   ],
+   "amounts": [
+    "73 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "54ce038d6027",
    "url": "https://www.eurohoops.net/el/nba-news-el/2035803/chezonia-meni-sto-nba-me-pliros-engiimeno-simvoleo-stous-kavaliers/",
