@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T03:02+00:00",
+ "updated": "2026-11-17T05:13+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,39 +13,39 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 0,
+   "site": "BasketNews.com",
+   "checked": 6,
    "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-15",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
@@ -67,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -103,12 +103,13 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
@@ -139,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,12 +149,12 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
@@ -202,25 +203,26 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,19 +231,19 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -301,21 +303,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -382,6 +384,128 @@
   }
  ],
  "items": [
+  {
+   "id": "bc814a084fac",
+   "url": "https://www.basketnews.lt/news-259638-barcelona-i-europa-sugrazino-6-sezonus-nba-zaidusi-gyneja.html#utm_medium=rss&utm_content=news",
+   "title": "„Barcelona“ į Europą sugrąžino 6 sezonus NBA žaidusį gynėją",
+   "site": "BasketNews.lt",
+   "country": "Spain",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "uzdirb"
+   ],
+   "snippets": [
+    "NBA prieš mokesčius jis uždirbo 25 mln."
+   ],
+   "amounts": [
+    "25 mln"
+   ],
+   "seasons": [
+    "26/27",
+    "19/20"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "67d168b4e3f8",
+   "url": "https://www.krepsinis.net/naujiena/europos-taures-pirmasis-ratas-pazymiai-lietuvos-klubams-ir-galimybes-zaisti-atkrintamosiose/354367",
+   "title": "Europos taurės pirmasis ratas: pažymiai Lietuvos klubams ir galimybės žaisti atkrintamosiose | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Italy",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "biudzet"
+   ],
+   "snippets": [
+    "Labiausiai nuvilia Liublianos „Cedevita Olimpija“ (2/5) ekipa, kuri turi solidų biudžetą ir solidžius žaidėjus kaip Rihardas Lomažas ar Anthony Cowanas, kurie ir yra rezultatyviausi komandoje.",
+    "Žvelgiant į turimus biudžetus ir pavardes, būtų įspūdinga, jeigu „Šiauliai“ patektų į ketvertą, kur prieš sezoną buvo regima „La Laguna“, „Maxima“, „Turk Telekom“ ir „Lions“, „Umana Reyer“ arba „U-BT“.",
+    "Nors JL gina titulą, tačiau ekipa visiškai pasikeitusi ir nieko nuostabaus, kad riboto biudžeto komandai nepavyko surasti tiek sėkmingų žaidėjų, o ir kankina traumos, tad 2 laimėjimai pirmajame rate yra labai adekvatus rezultatas."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Aquila Trento",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 3,000,000 €",
+      "25/26: budget 6,222,222 €, salary budget 2,900,000 €",
+      "24/25: budget 5,910,000 €, salary budget 2,870,000 €",
+      "player rows: 25/26 (1), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "BC Šiauliai",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 2,300,000 €, salary budget 1,200,000 €",
+      "25/26: budget 2,000,000 €, salary budget 1,100,000 €",
+      "24/25: budget 1,500,000 €",
+      "player rows: 26/27 (1), 25/26 (2), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    },
+    {
+     "name": "KK Cedevita Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 4,800,000 €",
+      "25/26: budget 9,700,000 €, salary budget 5,250,000 €",
+      "24/25: budget 7,100,000 €, salary budget 4,000,000 €"
+     ]
+    },
+    {
+     "name": "KK Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "15/16: budget 3,500,000 €",
+      "12/13: budget 3,940,507 €",
+      "09/10: budget 2,900,000 €, salary budget 1,650,000 €"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "a1dc0e5b5caf",
    "url": "https://basketfaul.com.tr/milli-takimlar/erkek-milli-takimlar/a-milli-erkek-milli-takimlar/sirbistan-kadrosunda-iki-bsl-oyuncusu/",
