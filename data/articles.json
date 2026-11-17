@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-16T23:00+00:00",
+ "updated": "2026-11-17T01:29+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -22,22 +22,21 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 7,
-   "found": 2,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
    "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,21 +67,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -104,19 +103,19 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 50,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 1,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -194,17 +193,17 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -212,21 +211,21 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 17,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 4,
-   "oldest": "2026-11-09",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
@@ -239,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -275,8 +274,8 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -302,21 +301,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -383,6 +382,106 @@
   }
  ],
  "items": [
+  {
+   "id": "a1dc0e5b5caf",
+   "url": "https://basketfaul.com.tr/milli-takimlar/erkek-milli-takimlar/a-milli-erkek-milli-takimlar/sirbistan-kadrosunda-iki-bsl-oyuncusu/",
+   "title": "Sırbistan Kadrosunda İki BSL Oyuncusu - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Kadroda, 11 Euroleague oyuncusu ile genç yetenekler bir arada bulunuyor."
+   ],
+   "amounts": [
+    "11 Euroleague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bahcesehir Koleji",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 13,000,000 €, salary budget 8,600,000 €",
+      "24/25: budget 9,000,000 €, salary budget 5,900,000 €",
+      "player rows: 26/27 (3), 25/26 (1), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Galatasaray S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 12,099,291 €, salary budget 7,864,539 €",
+      "25/26: budget 9,830,000 €, salary budget 5,880,000 €",
+      "24/25: budget 8,000,000 €, salary budget 5,000,000 €",
+      "player rows: 26/27 (6), 25/26 (1), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "be887075a1d2",
+   "url": "https://basketball.hr/vijesti/dino-subasic-dobio-pet-bodova-iz-zadra-bicic-vise-nije-usamljen-na-vrhu/20842",
+   "title": "Dino Subašić dobio pet bodova iz Zadra, Bičić više nije usamljen na vrhu - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Montenegro",
+   "published": "2026-11-16",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ovaj mladi igrač na ljeto je u sklopu U20 Eurobasketa pokazao da se ne boji preuzeti odgovornost, a sada sa sjajnim predstavama nastavlja i na premijerligaškim parketima."
+   ],
+   "amounts": [
+    "20 Eurobasketa"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 18/19 (10)"
+     ]
+    },
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €"
+     ]
+    },
+    {
+     "name": "KK Split",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,737,831 €, salary budget 1,700,000 €",
+      "24/25: budget 2,274,226 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "f3facfe99cd5",
    "url": "https://basketnews.com/news-259612-serbia-name-24-man-roster-for-world-cup-qualifiers-including-11-euroleague-players.html#utm_medium=rss&utm_content=news",
