@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T11:15+00:00",
+ "updated": "2026-11-17T13:28+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -13,16 +13,16 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 6,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -40,20 +40,20 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-02",
+   "oldest": "2026-11-03",
    "stop": "reached start date"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,42 +85,24 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
+   "checked": 16,
+   "found": 13,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "reached start date"
+   "pages": 3,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -129,12 +111,30 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 19,
+   "checked": 25,
    "found": 1,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 4,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -175,19 +175,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -202,34 +202,34 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 14,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 4,
    "oldest": "2026-11-11",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 6,
-   "found": 1,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -247,11 +247,11 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-11",
    "stop": "reached start date"
   },
   {
@@ -274,21 +274,22 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "SportoweFakty",
@@ -301,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 18,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,8 +311,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -328,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -382,6 +383,582 @@
   }
  ],
  "items": [
+  {
+   "id": "9d7fecf0210e",
+   "url": "https://www.basketnews.lt/news-259657-del-edwardso-skeptiskas-leksas-ji-itrauktu-i-mainus.html#utm_medium=rss&utm_content=news",
+   "title": "Dėl Edwardso skeptiškas Lekšas jį įtrauktų į mainus",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Po penktosios iš eilės Kauno „Žalgirio“ pergalės Eurolygoje laidoje „7 Eurolygos dienos“ krepšinio komentatorius ir ekspertas Jonas Lekšas bei visuomenininkas Benas Lastauskas aptarė rekordinį Jono Valančiūno pasirodymą Milane ir vos neiššvaistytą persvarą.",
+    "Po penktosios iš eilės Kauno „Žalgirio“ pergalės Eurolygoje laidoje „7 Eurolygos dienos“ krepšinio komentatorius ir ekspertas Jonas Lekšas bei visuomenininkas Benas Lastauskas aptarė rekordinį Jono Valančiūno pasirodymą Milane ir vos neiššvaistytą persvarą."
+   ],
+   "amounts": [
+    "7 Eurolygos"
+   ],
+   "seasons": [
+    "18/19"
+   ],
+   "teams": [
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a5e346a3e3c5",
+   "url": "https://basketnews.com/news-259662-asvel-are-facing-major-roster-changes-with-a-departure-and-extension.html#utm_medium=rss&utm_content=news",
+   "title": "ASVEL are facing major roster changes with a departure and extension",
+   "site": "BasketNews.com",
+   "country": "France",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "LDLC ASVEL Villeurbanne have started the season near the bottom of the standings in the EuroLeague after a summer which saw a smaller budget than initially expected.",
+    "LDLC ASVEL Villeurbanne have started the season near the bottom of the standings in the EuroLeague after a summer which saw a smaller budget than initially expected."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Juhann Begarin",
+     "sheet": [
+      "26/27 ASVEL Basket: 200,000 €",
+      "25/26 AS Monaco Basket: 275,000 €",
+      "24/25 AS Monaco Basket: 225,000 €",
+      "23/24 Nanterre 92: 145,000 €"
+     ]
+    },
+    {
+     "name": "Myles Cale",
+     "sheet": [
+      "26/27 ASVEL Basket: 425,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "40badd504f31",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/leksas-skeptiskas-del-edwardso-kaune-siulo-ismainyti-i-kita-komanda-875-2807980?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Lekšas skeptiškas dėl Edwardso Kaune – siūlo išmainyti į kitą komandą",
+   "site": "15min 24sek",
+   "country": "Germany",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Po penktosios iš eilės Kauno „Žalgirio“ pergalės Eurolygoje laidoje „7 Eurolygos dienos“ krepšinio komentatorius ir ekspertas Jonas Lekšas bei visuomenininkas Benas Lastauskas..."
+   ],
+   "amounts": [
+    "7 Eurolygos"
+   ],
+   "seasons": [
+    "18/19"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Antonis Fotsis",
+     "sheet": [
+      "16/17 Panathinaikos B.C.: 500,000 €",
+      "15/16 Panathinaikos B.C.: 1,000,000 €",
+      "07/08 BC Dynamo Moscow: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €"
+     ]
+    },
+    {
+     "name": "Maodo Lo",
+     "sheet": [
+      "25/26 Žalgiris Kaunas: 550,000 €",
+      "24/25 Paris Basketball: 450,000 €",
+      "23/24 Olimpia Milano: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "2be6f1cda3b3",
+   "url": "https://trendbasket.net/jeux-de-casino-gratuits-spinimax-avis-notre-liste-pour-jouer/",
+   "title": "Jeux de casino gratuits spinimax avis : notre liste pour jouer - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Serbia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Bonus de bienvenue sans conditions de mise 250% Jusqu’a €1 000 + 150 tours gratuits"
+   ],
+   "amounts": [
+    "€1 000"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Flash",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 82,440 €, salary budget 64,303 €",
+      "24/25: budget 73,788 €",
+      "23/24: budget 66,792 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e56e8f549418",
+   "url": "https://trendbasket.net/bonos-promociones-oficiales-y-fondos-reales/",
+   "title": "Bonos promociones oficiales y fondos reales - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "El bono está disponible solo para nuevos usuarios, con un depósito mínimo de al menos $10 durante 7 minutos, y puede usarse en una amplia gama de juegos.",
+    "En el Desafío del Multiplicador — necesitas apostar al menos 1 USD por giro y conseguir una ganancia de 100x o superior."
+   ],
+   "amounts": [
+    "$10",
+    "1 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "03afd31bc644",
+   "url": "https://trendbasket.net/en-noviembre-de-2026-se-ofrece-un-bono-de-hasta-mxn-60000-en/",
+   "title": "En Noviembre de 2026, se ofrece un bono de hasta MXN 60,000 en el casino BC Game. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Spain",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "eur",
+    "euro",
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Admitimos euros junto con más de 50 criptomonedas — proporcionando flexibilidad transaccional absoluta para jugadores españoles mediante pasarelas de pago multidivisa.",
+    "Con una amplia variedad de juegos y un atractivo bono de bienvenida de hasta $20,000, BC.",
+    "Los depósitos y retiros en cripto se procesan sin conversiones forzadas a euros."
+   ],
+   "amounts": [
+    "$20,000",
+    "100 EUR",
+    "20,000 USD",
+    "$10",
+    "500,000 USD"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Deportivo Estela",
+     "country": "Spain",
+     "sheet": [
+      "22/23: budget 700,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ca771f27fb0f",
+   "url": "https://trendbasket.net/resena-opiniones-y-bonos-de-bc-game-casino-para-el-ano-2026/",
+   "title": "Reseña, opiniones y bonos de BC Game Casino para el año 2026. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "El paquete de bienvenida va repartido en varios depósitos, con porcentajes altos y cantidades expresadas en BC Dollar o BCD.",
+    "Las ganancias de juego (incluidas las obtenidas en criptomonedas), son ingresos imponibles en España y deben declararse si superan los 1.500 € anuales."
+   ],
+   "amounts": [
+    "1.500 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "94965f4ce2d1",
+   "url": "https://trendbasket.net/casino-bonuses-usa-2026-best-deals-today/",
+   "title": "Casino Bonuses USA 2026 Best Deals Today - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Serbia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "sum of money"
+   ],
+   "snippets": [
+    "Play any Spadegaming slot , except jackpots,, and you’ll earn points; every $1 equals 100 points.",
+    "Extra entries unlock at $50, $100, and $200 bet thresholds."
+   ],
+   "amounts": [
+    "$1",
+    "$50",
+    "$100",
+    "$200"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Flash",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 82,440 €, salary budget 64,303 €",
+      "24/25: budget 73,788 €",
+      "23/24: budget 66,792 €"
+     ]
+    },
+    {
+     "name": "KK Split",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,737,831 €, salary budget 1,700,000 €",
+      "24/25: budget 2,274,226 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c1c782f1023e",
+   "url": "https://www.athletiko.gr/to-nba-dimioyrgei-etaireia-kefalaion-gia-na-proselkysei-toys-kolossoys-toy-podosfairoy-116238",
+   "title": "Το NBA δημιουργεί εταιρεία κεφαλαίων για να προσελκύσει τους κολοσσούς του ποδοσφαίρου | Athletiko",
+   "site": "Athletiko",
+   "country": "United Kingdom",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Το NBA βρίσκεται σε συζητήσεις με διεθνή χρηματοπιστωτικά ιδρύματα για τη δημιουργία ενός fund που θα διαχειριστεί δισεκατομμύρια δολάρια, με στόχο τη χρηματοδότηση αθλητικών εγκαταστάσεων και γηπέδων.",
+    "Βέβαια, το Λονδίνο (κατά πρώτο λόγο και κατά δεύτερο το Μάντσεστερ) έχει προσελκύσει πολλές προσφορές, αξίας εκατοντάδων εκατομμυρίων λιρών."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "6a4f84d61057",
+   "url": "https://www.gazzetta.gr/basketball/2587257/gkarmpahosa-ofeiloyme-na-analaboyme-oloi-meridio-eythynis-poy-mas-analogei",
+   "title": "Γκαρμπαχόσα: «Κάθε παιχνίδι πρέπει να έχει σημασία, πολλές ομάδες της EuroLeague είναι πρόθυμες να πάνε στο ΝΒΑ Europe»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Έχουμε αποδεχτεί ως φυσιολογική μια κατάσταση όπου σύλλογοι, οι οποίοι λειτουργούν με δημόσιους προϋπολογισμούς, παρουσιάζουν ζημίες της τάξης του 50%.",
+    "Ερώτηση: Η EuroLeague ανακοίνωσε ένα δεκαετές πλάνο που προβλέπει κέρδη ύψους 2,4 δισεκατομμυρίων ευρώ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "e15f5fae5aa1",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/ore-gagic-milosavljevic-mi-pozajmio-500-evra-kad-sam-imao-ponudu-zvezde/559059",
+   "title": "Đorđe Gagić: Milosavljević mi pozajmio 500 evra kad sam imao ponudu Zvezde | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "500 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9cd2c07c8fac",
+   "url": "https://basketballsphere.com/en/zalgiris-euroleague-curse-expectations/",
+   "title": "\"Top four or nothing\": Zalgiris' curse of expectations",
+   "site": "Basketball Sphere",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "earn",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "With a record €28.8M budget and Jonas Valanciunas, Zalgiris faces mounting EuroLeague Final Four pressure from fans and coach Tomas Masiulis.",
+    "As the wins accumulated, the team was also earning its way towards closing it: €720,000 from 18 regular-season victories, then another €210,000 from the quarterfinals.",
+    "The club would be able to fulfil its budget, he said."
+   ],
+   "amounts": [
+    "€28.8M",
+    "€8.5 million",
+    "€7.5 million",
+    "€1 million",
+    "€720,000",
+    "€210,000",
+    "€930,000",
+    "€300,000"
+   ],
+   "seasons": [
+    "24/25",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €"
+     ]
+    },
+    {
+     "name": "Tomas Masiulis",
+     "sheet": [
+      "25/26 Žalgiris Kaunas: 300,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "24abf9751cf2",
+   "url": "https://basketballsphere.com/en/besiktas-vs-real-madrid-prediction-odds-euroleague-november-18-2026/",
+   "title": "Besiktas vs Real Madrid Prediction & Odds: EuroLeague, November 18, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Besiktas managed to secure a hard-fought 95-91 victory over Asvel last week, recording their fifth win in 11 EuroLeague games this season."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "ad0c667fec95",
    "url": "https://sportando.basketball/lorenzo-bettarini-esalta-andrea-calzavara-lo-adoro-e-un-prospetto-strepitoso/",
@@ -1098,6 +1675,148 @@
    "nba": false
   },
   {
+   "id": "b48c411b8644",
+   "url": "https://trendbasket.net/bonos-de-bc-game-2026-toda-la-informacion-sobre-los-bonos/",
+   "title": "Bonos de BC Game 2026 Toda la información sobre los bonos - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-16",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Este bono de bienvenida de BC.Game incluye también recargos adicionales en tus tres próximos ingresos, pudiendo llegar hasta 40.000$, uno de los más destacados que se pueden encontrar actualmente.",
+    "Esto permite (en teoría), realizar depósitos en euros que se convierten automáticamente en criptomonedas, aunque el usuario debe asumir el proceso de conversión y las tarifas de red correspondientes."
+   ],
+   "amounts": [
+    "40.000$"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f3c2580e87f2",
+   "url": "https://trendbasket.net/el-auge-de-los-casinos-cripto-en-latinoamerica-que-es-bc/",
+   "title": "El auge de los casinos cripto en Latinoamérica: qué es BC Game y cómo funciona - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-16",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "¡Crea tu cuenta y obtén tu bono de bienvenida del 180% hasta $20.000 USD!",
+    "Bono de Bienvenida hasta 100 EUR",
+    "Los nuevos jugadores del criptocasino BC Game pueden activar un bono de bienvenida de cuatro depósitos hasta $4000 + 400 tiradas gratis."
+   ],
+   "amounts": [
+    "$20.000",
+    "100 EUR",
+    "$4000"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fbafdf0feb7c",
+   "url": "https://trendbasket.net/play-now-at-bc-game-the-premier-casino-for-players-in-canada/",
+   "title": "Play Now at BC GAME: The Premier Casino for Players in Canada - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-16",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "Platform processes millions of bets monthly across its full game catalogue."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "77e255d8bf23",
+   "url": "https://trendbasket.net/bc-game-no-deposit-bonus-updated-november-2026/",
+   "title": "BC Game No Deposit Bonus Updated November 2026 - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Japan",
+   "published": "2026-11-16",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "By wagering €10 on specific Red Tiger games, players unlock 10 FS.",
+    "Winnings are capped at $50, with a $5 maximum bet per spin, providing clear and fair conditions.",
+    "By signing up using the promo code “csgobettings” at BC.Game, new users can access the current deal, which is a $5 bonus with no deposit required."
+   ],
+   "amounts": [
+    "€10",
+    "$50",
+    "$5"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Nagoya Diamond Dolphins",
+     "country": "Japan",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 15,880,983 €, salary budget 6,258,132 €",
+      "24/25: budget 13,992,452 €, salary budget 5,986,973 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f0c7d73ca659",
+   "url": "https://trendbasket.net/bc-game-app-download-for-android-apk-amp-ios-official-web/",
+   "title": "BC Game App Download for Android APK & iOS Official Web App India - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-16",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "BC Dollar (BCDT) Rewards"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "be887075a1d2",
    "url": "https://basketball.hr/vijesti/dino-subasic-dobio-pet-bodova-iz-zadra-bicic-vise-nije-usamljen-na-vrhu/20842",
    "title": "Dino Subašić dobio pet bodova iz Zadra, Bičić više nije usamljen na vrhu - Basketball.hr",
@@ -1145,6 +1864,94 @@
       "26/27: row exists, no amounts",
       "25/26: budget 2,737,831 €, salary budget 1,700,000 €",
       "24/25: budget 2,274,226 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "863b81597ced",
+   "url": "https://trendbasket.net/casino-mobile-les-5-meilleurs-casinos-en-titan-luck-france/",
+   "title": "Casino Mobile Les 5 meilleurs casinos en titan luck france ligne sur mobile 2026 - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-15",
+   "found": "2026-11-17",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Ceux qui permettent de fixer des limites, de temps ou de dépôts maximum, sont utiles pour mieux contrôler un budget, et il existe une procédure d’auto-exclusion intéressante.",
+    "Avant de déposer — fixez un budget, choisissez une durée de session et évitez de jouer sous pression ou pour récupérer une perte."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0bb741766fc4",
+   "url": "https://trendbasket.net/app-android-bc-game-descargar-apk-para-movil/",
+   "title": "App Android BC Game: Descargar APK para Móvil - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-15",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "Al realizar el primer depósito (se activa un bono de bienvenida que puede llegar hasta 300 EUR), sin importar si la inscripción se efectúa mediante la app de Android, la PWA de iOS o la versión de escritorio.",
+    "El bono de bienvenida para deportes de BC Game ofrece a los nuevos usuarios hasta $60,000 MXN, distribuidos en los cuatro primeros depósitos."
+   ],
+   "amounts": [
+    "300 EUR",
+    "$60,000"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ea8365743b39",
+   "url": "https://trendbasket.net/bc-game-no-deposit-bonus-2026-claim-5-risk-free/",
+   "title": "BC Game No Deposit Bonus 2026 Claim $5 Risk Free! - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Australia",
+   "published": "2026-11-15",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "thousand"
+   ],
+   "snippets": [
+    "BC Game in South Africa spans thousands of titles across slots (live tables), and specialty games."
+   ],
+   "amounts": [
+    "$5"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "South East Melbourne Phoenix",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,550,000 €, salary budget 1,664,902 €",
+      "24/25: budget 3,900,000 €, salary budget 1,832,446 €"
      ]
     }
    ],
