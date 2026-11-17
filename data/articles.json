@@ -1,42 +1,42 @@
 {
- "updated": "2026-11-17T15:07+00:00",
+ "updated": "2026-11-17T17:19+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
+   "checked": 12,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 2
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 3,
+   "site": "BasketNews.com",
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 4,
+   "found": 2,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-17",
    "stop": "no older pages"
   },
   {
@@ -50,8 +50,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,10 +86,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
@@ -99,13 +99,13 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-05",
+   "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -113,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,7 +122,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,8 +131,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 6,
-   "found": 0,
+   "checked": 36,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -158,10 +158,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -176,8 +176,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -185,8 +185,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -194,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,26 +203,26 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-11",
@@ -230,19 +230,20 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball Sphere",
-   "checked": 17,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -257,8 +258,8 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 2,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -266,30 +267,30 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='zkrainynba.com', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='zkrainynba.com', port=443): Read timed out. (read time"
   },
   {
    "site": "SportoweFakty",
@@ -302,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,8 +312,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -383,6 +384,379 @@
   }
  ],
  "items": [
+  {
+   "id": "b45d3497737d",
+   "url": "https://www.basketnews.lt/news-259687-aiskus-maccabi-vyr-trenerio-atlyginimas.html#utm_medium=rss&utm_content=news",
+   "title": "Aiškus „Maccabi“ vyr. trenerio atlyginimas",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "atlyginim",
+    "doleri",
+    "kurios verte",
+    "milijon",
+    "sum of money",
+    "uzdirb"
+   ],
+   "snippets": [
+    "Stratego atlyginimas gali būti viena pagrindinių priežasčių, kodėl „Maccabi“ su juo dar neišsiskyrė.",
+    "Kaip skelbia „Israel Hayom“, Kattashas per sezoną uždirba daugiau nei milijoną dolerių.",
+    "„Šį sezoną įspūdingas Kattasho gebėjimas išgyventi krizes taip pat kyla iš neįprastai tvirto saugumo tinklo: jo naujosios sutarties, kurios vertė siekia daugiau nei 1 milijoną dolerių per sezoną."
+   ],
+   "amounts": [
+    "1 milijoną"
+   ],
+   "seasons": [
+    "28/29"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "65157a30d0a6",
+   "url": "https://www.krepsinis.net/naujiena/zalgiris-dviguba-eurolygos-savaite-zais-sausakimsoje-arenoje/354524",
+   "title": "„Žalgiris“ dvigubą Eurolygos savaitę žais sausakimšoje arenoje | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tukstan"
+   ],
+   "snippets": [
+    "Į abu susitikimus atvykstantys aistruoliai taip pat kviečiami pasipuošti žaliai balta „Žalgirio“ atributika, atsinešti savo šalikus ir prieš rungtynių pradžią kartu su tūkstantine minia iškelti juos į viršų."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d8a7f46a6ae1",
+   "url": "https://www.krepsinis.net/naujiena/maccabi-nuo-vyr-trenerio-atleidimo-stabdo-ir-didele-jo-alga/354523",
+   "title": "„Maccabi“ nuo vyr. trenerio atleidimo stabdo ir didelė jo alga | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "alga",
+    "atlyginim",
+    "doleri",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Izraelio žiniasklaida skelbia, kad Odedo Kattasho vietą išsaugo ne tik sirgalių meilė jam, bet ir itin solidus atlyginimas – 1 milijonas JAV dolerių per sezoną."
+   ],
+   "amounts": [
+    "1 milijonas"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6b6f16998df9",
+   "url": "https://www.pianetabasket.com/euroleague/maccabi-tel-aviv-il-segreto-di-oded-kattash-sopravvive-a-ogni-crisi-il-contratto-milionario-e-il-sostegno-dei-giocatori",
+   "title": "Maccabi Tel Aviv, il segreto di Oded Kattash: sopravvive a ogni crisi. Il contratto milionario e il sostegno dei giocatori",
+   "site": "PianetaBasket",
+   "country": "Israel",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (17), 25/26 (16), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Oded Kattash",
+     "sheet": [
+      "26/27 Maccabi Tel Aviv: 880,000 €",
+      "25/26 Maccabi Tel Aviv: 510,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "09f22632408f",
+   "url": "https://www.athletiko.gr/mpoyeno-i-euroleague-den-prokeitai-na-exafanistei-pote-den-chreiazomaste-kanenan-allon-116465",
+   "title": "Μπουένο: «Η EuroLeague δεν πρόκειται να εξαφανιστεί ποτέ, δεν χρειαζόμαστε κανέναν άλλον...» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω"
+   ],
+   "snippets": [
+    "«Έχουμε λάβει δεσμευτικές προτάσεις ύψους 1,2 δισεκατομμυρίων ευρώ από ανθρώπους που θέλουν να μπουν στη EuroLeague.",
+    "Αυτό σημαίνει συνολικά 3,6 δισεκατομμύρια ευρώ για τα επόμενα δέκα χρόνια»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "faab985a7ede",
+   "url": "https://www.sport24.gr/basket/diskolevei-i-enarxi-tis-evropaikis-ligkas-tou-nba-ton-oktovrio-tou-2027-me-16-omades-simfona-me-to-athletic-giati-eipan-oxi-olimpiakos-kai-armani/",
+   "title": "Δυσκολεύει η έναρξη της ευρωπαϊκής λίγκας του NBA τον Οκτώβριο του 2027 με 16 ομάδες, σύμφωνα με το Athletic - Γιατί είπαν όχι Ολυμπιακός και Αρμάνι",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Πηγές ανέφεραν ότι μέρος της προσφοράς του NBA ήταν να καταβάλει εκατομμύρια δολάρια, σε διάστημα αρκετών ετών, στις ομάδες της EuroLeague που δεν θα αποκτήσουν άδειες για το NBA Europe, ώστε ουσιαστικά να σταματήσουν να αγωνίζονται στην EuroLeague."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "bce081567370",
+   "url": "https://www.gazzetta.gr/basketball/nba/2587330/nba-europe-epimenei-na-xekinisei-2027-alla-den-ehei-kamia-omada",
+   "title": "To NBA Europe επιμένει να ξεκινήσει το 2027, αλλά δεν έχει καμία ομάδα - Η στάση Ολυμπιακού και Παναθηναϊκού",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Οι προσφορές των υποψήφιων επενδυτών για την απόκτηση άδειας συμμετοχής κυμαίνονται από 500 εκατομμύρια έως ένα δισεκατομμύριο δολάρια, ανάλογα με την αγορά."
+   ],
+   "amounts": [
+    "500 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "3d87b710b4bc",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/da-li-ce-za-baskoniju-treca-biti-sreca-tim-iz-vitorije-zeli-da-preplati-francuza-samo-da-ga-dovede/559078",
+   "title": "Da li će za Baskoniju treća biti sreća? Tim iz Vitorije želi da preplati Francuza, samo da ga dovede | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Prvi put, tačnije u septembru, klub iz Baskije nudio je 350.000 evra za slobodu nekadašnjeg igrača Hamburga, iako je klauzula u iznosu od 200.000 evra.",
+    "Baskonija je bila spremna da na račun Ljeide uplati iznos od čak 500.000 evra, što su naravno svi u klubu bili spremni oberučke da prihvate."
+   ],
+   "amounts": [
+    "350.000 evra",
+    "200.000 evra",
+    "500.000 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "aeabf8831585",
+   "url": "https://meridiansport.rs/kosarka/nba-evropa-evroliga-2027-oli/",
+   "title": "NBA i dalje cilja oktobar 2027. za start evropske lige, Olimpijakos i Olimpija Milano predvodili otpor ponudi | MeridianBetSport",
+   "site": "Meridian Sport",
+   "country": "Slovenia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion"
+   ],
+   "snippets": [
+    "Prema Vardonovim izvorima, predlog je predviđao da evroligaši koji ne dobiju stalno mesto u novom takmičenju tokom više godina dobijaju milionske isplate i da u praksi prestanu da igraju Evroligu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "15/16: budget 3,500,000 €",
+      "12/13: budget 3,940,507 €",
+      "09/10: budget 2,900,000 €, salary budget 1,650,000 €"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "97d88b5ed919",
+   "url": "https://sportacentrs.com/basketbols/eirokausi/17112026-cina_par_grupas_treso_poziciju_fiba_eirop",
+   "title": "Cīņā par grupas trešo pozīciju FIBA Eiropas kausā valmierieši dosies uz Tallinu",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Spēles pārraidi \"Valmiera Glass/ViA\" komanda piedāvā skatīties komandas mājas lapā, iegādājoties pieejas atslēgu par 3,33€."
+   ],
+   "amounts": [
+    "3,33€"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valmiera Glass/ViA",
+     "country": "Latvia",
+     "sheet": [
+      "26/27: budget 1,100,000 €",
+      "25/26: budget 1,100,000 €, salary budget 650,000 €",
+      "24/25: budget 1,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d02feb8b1b19",
+   "url": "https://basketballsphere.com/en/oded-kattash-maccabi-tel-aviv-contract-salary/",
+   "title": "Oded Kattash at Maccabi Tel Aviv: Inside his $1 million contract and remarkable staying power",
+   "site": "Basketball Sphere",
+   "country": "Israel",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Oded Kattash earns over $1 million per season at Maccabi Tel Aviv, with his contract running through the 2028-29 season.",
+    "According to Israel Hayom , Oded Kattash earns more than $1 million per season under a contract that runs through 2028-29, making a potential dismissal a costly decision for the club.",
+    "According to Israel Hayom, Kattash earns more than $1 million per season under his current agreement."
+   ],
+   "amounts": [
+    "$1 million"
+   ],
+   "seasons": [
+    "28/29",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (17), 25/26 (16), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Oded Kattash",
+     "sheet": [
+      "26/27 Maccabi Tel Aviv: 880,000 €",
+      "25/26 Maccabi Tel Aviv: 510,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "1b923473de9e",
    "url": "https://basketnews.com/news-259670-oded-kattash-salary-at-maccabi-tel-aviv-revealed.html#utm_medium=rss&utm_content=news",
