@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-17T19:19+00:00",
+ "updated": "2026-11-17T21:06+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -27,13 +27,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -41,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -78,16 +77,16 @@
   {
    "site": "Basketfaul",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -99,20 +98,11 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-07",
    "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
    "checked": 4,
    "found": 0,
    "error": "",
@@ -121,16 +111,7 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
+   "site": "Eurohoops GR",
    "checked": 11,
    "found": 0,
    "error": "",
@@ -139,9 +120,27 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 11,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 31,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "SDNA",
-   "checked": 16,
-   "found": 2,
+   "checked": 19,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 18,
+   "checked": 20,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,7 +158,7 @@
   {
    "site": "Gazzetta.gr",
    "checked": 22,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-17",
@@ -167,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,17 +175,16 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -204,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -213,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -222,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -240,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -258,8 +256,8 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -276,7 +274,7 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -294,12 +292,12 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
@@ -312,11 +310,11 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2007-03-14",
+   "oldest": "2026-11-17",
    "stop": "no older pages"
   },
   {
@@ -384,6 +382,178 @@
   }
  ],
  "items": [
+  {
+   "id": "0509bdb2fb8c",
+   "url": "https://sportando.basketball/litalia-vince-anche-in-lettonia-capobianco-orgoglioso-di-questa-squadra/",
+   "title": "L'Italia vince anche in Lettonia, Capobianco: \"Orgoglioso di questa squadra\" - Sportando",
+   "site": "Sportando",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Arbitri: Jelena Tomic (Croazia), Sara Månsson (Svezia), Joona Haaja (Finlandia) T2P: Lettonia 17/35, Italia 18/39 T3P: Lettonia 6/17, Italia 8/22 TL: Lettonia 16/19, Italia 12/22 Rimbalzi: Lettonia 33, Italia 33 Palle perse: Lettonia 13, Italia 24 Palle recuperate: Lettonia 5, Italia 8 Assist: Le…"
+   ],
+   "amounts": [
+    "22 TL"
+   ],
+   "seasons": [
+    "65/66"
+   ],
+   "teams": [
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Scaligera Basket Verona",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 3,270,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "75501d1a437e",
+   "url": "https://basketnews.com/news-259694-vezenkov-pulls-off-half-court-miracle-before-olympiacos-last-second-triumph.html#utm_medium=rss&utm_content=news",
+   "title": "Vezenkov pulls off half-court miracle before Olympiacos' last-second triumph",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Sasha Vezenkov produced a moment of magic before Cory Joseph delivered the decisive blow as Olympiacos Piraeus edged Maccabi Rapyd Tel Aviv 97-95 in a thrilling Round 12 EuroLeague encounter.",
+    "Sasha Vezenkov produced a moment of magic before Cory Joseph delivered the decisive blow as Olympiacos Piraeus edged Maccabi Rapyd Tel Aviv 97-95 in a thrilling Round 12 EuroLeague encounter."
+   ],
+   "amounts": [
+    "12 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Cory Joseph",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 880,000 €",
+      "25/26 Olympiacos B.C.: 500,000 €"
+     ]
+    },
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4ce47ddae0f3",
+   "url": "https://basketdergisi.com/olympiakostan-mucizevi-galibiyet.html",
+   "title": "Olympiakos'tan mucizevi galibiyet",
+   "site": "Basket Dergisi",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar"
+   ],
+   "snippets": [
+    "Normal sürenin sonuna gelinirken tabelada 82-79 Maccabi üstünlüğü olduğu esnada, Sasha Vezenkov’un orta sahadan attığı mucizevi üçlük maçı uzatmaya taşırken; uzatmada da Cory Joseph’in süre dolarken attığı üçlükle galibiyetin gelmesi dikkatleri çekti."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Cory Joseph",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 880,000 €",
+      "25/26 Olympiacos B.C.: 500,000 €"
+     ]
+    },
+    {
+     "name": "Evan Fournier",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,000,000 €",
+      "25/26 Olympiacos B.C.: 3,000,000 €",
+      "24/25 Olympiacos B.C.: 2,000,000 €"
+     ]
+    },
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "3ef2c090a1da",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2587411/panter-den-metaniono-gia-oti-synebi-me-ti-real-agapo-oso-kanenan-ton",
+   "title": "Ο Πάντερ δεν μετάνιωσε για ό,τι συνέβη με τη Ρεάλ και εξέφρασε τη λατρεία του για τον Ομπράντοβιτς- Τι συνέβη με Λεσόρ»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Ο Κέβιν Πάντερ , νυν αρχηγός της Μπαρτσελόνα και πρώην της Παρτίζα ν, μίλησε μεταξύ άλλων για ορισμένες από τις πιο αξιομνημόνευτες στιγμές της καριέρας του, σε συνέντευξη που παραχώρησε στο podcast των Euro Insiders ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "33db26ad5cd7",
    "url": "https://basketnews.com/news-259690-dubai-star-tornike-shengelia-achieves-historic-euroleague-scoring-feat.html#utm_medium=rss&utm_content=news",
