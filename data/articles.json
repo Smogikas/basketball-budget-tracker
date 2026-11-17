@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-17T09:18+00:00",
+ "updated": "2026-11-17T11:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +85,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,7 +122,7 @@
   {
    "site": "Eurohoops TR",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -130,16 +130,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 18,
-   "found": 0,
+   "checked": 19,
+   "found": 1,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
+   "pages": 3,
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -175,19 +175,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,17 +211,17 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 8,
+   "checked": 6,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -265,7 +265,7 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -301,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 11,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -382,6 +382,228 @@
   }
  ],
  "items": [
+  {
+   "id": "ad0c667fec95",
+   "url": "https://sportando.basketball/lorenzo-bettarini-esalta-andrea-calzavara-lo-adoro-e-un-prospetto-strepitoso/",
+   "title": "Lorenzo Bettarini esalta Andrea Calzavara: Lo adoro, è un prospetto strepitoso - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "stipendi"
+   ],
+   "snippets": [
+    "Hanno tenuto botta ad avversari che hanno stipendi iperbolici per il mondo della pallacanestro»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "38795c29cedb",
+   "url": "https://www.basketnews.lt/news-259654-nuomone-apie-belgrade-palikta-moneke-kenkia-tinklalaide-ir-nervingumas.html#utm_medium=rss&utm_content=news",
+   "title": "Nuomonė apie Belgrade paliktą Monekę: kenkia tinklalaidė ir nervingumas?",
+   "site": "BasketNews.lt",
+   "country": "Serbia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "atlyginim"
+   ],
+   "snippets": [
+    "„Crvena Zvezda“ sirgaliai nebuvo labai patenkinti, kai jis viešai prabilo apie Chriso Joneso atlyginimą, apie tai, kiek šis yra neįvertintas, bei apie kitus dalykus, kurių nederėtų taip atvirai perkelti į viešumą."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bd7c70dea768",
+   "url": "https://basketnews.com/news-259583-does-panathinaikos-have-a-yabusele-problem.html#utm_medium=rss&utm_content=news",
+   "title": "Does Panathinaikos have a Yabusele problem?",
+   "site": "BasketNews.com",
+   "country": "Spain",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "deal worth",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bringing Yabusele back to Europe required a massive investment from Panathinaikos, who signed him to a three-year deal worth €12 million while paying a buyout to Real Madrid, the team that still held his European rights.",
+    "Yet Panathinaikos' roster runs so deep that Nunn's absence was barely felt, with Obradovic's squad winning 5 of its first 6 EuroLeague games even without their star's contribution."
+   ],
+   "amounts": [
+    "6 EuroLeague",
+    "€12 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9f1c984926b9",
+   "url": "https://www.athletiko.gr/kaytoi-foyrnie-kai-sasa-igetis-nan-me-super-enischymenes-apodoseis-eos-4-70-116405",
+   "title": "Καυτοί Φουρνιέ και Σάσα, ηγέτης Ναν με Super Ενισχυμένες Αποδόσεις έως 4.70*! | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Έχεις παίξει μπάλα και ξέρεις; Δείχνεις τις γνώσεις σου στην Super στοιχηματική κοινότητα και ξεχωρίζεις ανάμεσα σε χιλιάδες creators, δελτία και αναλύσεις μπαίνοντας σε Supet Πρόγραμμα Ανταμοιβής!"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "cdf9a4347d3e",
+   "url": "https://basketballsphere.com/en/real-madrid-barcelona-multibillion-fund/",
+   "title": "NBA targets Real Madrid, Barcelona and football giants with multibillion-dollar fund",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "The NBA is building a multibillion-dollar infrastructure fund to finance new arenas and lure Real Madrid, Barcelona, PSG, and AC Milan.",
+    "The NBA is assembling a multibillion-dollar infrastructure fund to pay for arena construction and attract leading European football clubs to its project for a new league on the Old Continent, Sky News reports ."
+   ],
+   "amounts": [],
+   "seasons": [
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "abd901eb29da",
+   "url": "https://sports.walla.co.il/item/3876605",
+   "title": "עדיין חקוק: בארה\"ב נזכרו בנדב הנפלד במהלך המשחק של אבדיה - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "אבדיה שוב היה השחקן הבולט של פורטלנד, שקלע 27 נקודות בהפסד 106:98 למינסוטה, אבל במהלך שידור המשחק האמריקאי נרשם גם רגע נוסטלגי עבור חובבי הכדורסל הישראלי: שדרי המשחק הזכירו את נדב הנפלד, אחד הכדורסלנים הישראלים הבולטים בדורו."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "745b9817273c",
    "url": "https://basketnews.com/news-259645-tyler-dorsey-shares-another-cryptic-social-media-message.html#utm_medium=rss&utm_content=news",
