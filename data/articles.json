@@ -1,21 +1,20 @@
 {
- "updated": "2026-11-17T17:19+00:00",
+ "updated": "2026-11-17T19:19+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 12,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before",
-   "skipped_nba": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -23,17 +22,18 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
    "checked": 4,
-   "found": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -50,8 +50,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-03",
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,8 +77,8 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
@@ -86,16 +86,16 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,7 +104,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,17 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 36,
-   "found": 1,
+   "checked": 11,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 13,
-   "found": 0,
+   "checked": 16,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-16",
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
-   "found": 1,
+   "checked": 18,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 1,
+   "checked": 22,
+   "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,17 +176,18 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 6,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -203,7 +204,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,7 +213,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,8 +222,8 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-11",
@@ -230,17 +231,16 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -258,8 +258,8 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -287,23 +287,23 @@
    "site": "Z Krainy NBA",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='zkrainynba.com', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='zkrainynba.com', port=443): Read timed out. (read time"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -316,7 +316,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
+   "oldest": "2007-03-14",
    "stop": "no older pages"
   },
   {
@@ -384,6 +384,395 @@
   }
  ],
  "items": [
+  {
+   "id": "33db26ad5cd7",
+   "url": "https://basketnews.com/news-259690-dubai-star-tornike-shengelia-achieves-historic-euroleague-scoring-feat.html#utm_medium=rss&utm_content=news",
+   "title": "Dubai's star veteran achieves historic EuroLeague scoring feat",
+   "site": "BasketNews.com",
+   "country": "Russia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The Georgian international has scored 4,001 points across 328 EuroLeague appearances over 14 seasons, representing CSKA Moscow, Dubai Basketball, FC Barcelona, Baskonia, Spirou Charleroi, and Virtus Bologna."
+   ],
+   "amounts": [
+    "328 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "CSKA Moscow",
+     "country": "Russia",
+     "sheet": [
+      "25/26: budget 22,461,000 €",
+      "24/25: budget 23,110,000 €",
+      "23/24: budget 21,509,000 €",
+      "player rows: 23/24 (1), 22/23 (1), 21/22 (4)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "900bf4361177",
+   "url": "https://www.krepsinis.net/naujiena/po-krepsiais-dominaves-m-kabengele-pasirupino-pergalingu-m-huerto-sugrizimu/354533",
+   "title": "Po krepšiais dominavęs M.Kabengele pasirūpino pergalingu M.Huerto sugrįžimu | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "Tornike Shengelia tapo devintuoju žaidėju Eurolygos istorijoje, kuriam pavyko pasiekti 4 tūkstančių karjeros taškų ribą."
+   ],
+   "amounts": [
+    "4 tūkst"
+   ],
+   "seasons": [
+    "06/07"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Tornike Shengelia",
+     "sheet": [
+      "24/25 Virtus Bologna: 2,000,000 €",
+      "23/24 Virtus Bologna: 1,911,000 €",
+      "22/23 Virtus Bologna: 1,850,000 €",
+      "21/22 CSKA Moscow: 1,530,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "dc4f7e2fa3e5",
+   "url": "https://basketfaul.com.tr/avrupa/euroleague/efes-ribaundlari-verdi-dubaiye-kaybetti/",
+   "title": "Efes Ribaundları Verdi, Dubai'ye Kaybetti - Basketfaul",
+   "site": "Basketfaul",
+   "country": "United Arab Emirates",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar"
+   ],
+   "snippets": [
+    "dakika dolarken Saric üçlükle buldu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2c8097fbb821",
+   "url": "https://www.eurohoops.net/tr/eurobasket-tr/2036422/alperi-onar-yetmedi-potanin-perileri-polonya-deplasmaninda-kaybetti/",
+   "title": "Alperi Onar Yetmedi; Potanın Perileri, Polonya Deplasmanında Kaybetti",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Potanın Perileri, FIBA 2027 EuroBasket Elemeleri ikinci turundaki üçüncü maçında Polonya'ya konuk oldu."
+   ],
+   "amounts": [
+    "2027 EuroBasket"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "217de192f27e",
+   "url": "https://www.sdna.gr/mpasket/1487641_gkarmpahosa-epanekkinisi-toy-eyropaikoy-mpasket-nba-europe",
+   "title": "Γκαρμπαχόσα: «Επανεκκίνηση του ευρωπαϊκού μπάσκετ το NBA Europe»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Έχουμε αποδεχτεί ως φυσιολογική μια κατάσταση όπου σύλλογοι, οι οποίοι λειτουργούν με δημόσιους προϋπολογισμούς, παρουσιάζουν ζημίες της τάξης του 50%.",
+    "Του τέθηκε εν συνεχεία η εξής ερώτηση: «Η EuroLeague ανακοίνωσε ένα δεκαετές πλάνο που προβλέπει κέρδη ύψους 2,4 δισεκατομμυρίων ευρώ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "68bcbf521ebc",
+   "url": "https://www.sdna.gr/mpasket/1487683_tromeros-sengkelia-eftase-toys-4000-pontoys-stin-euroleague-pic",
+   "title": "Τρομερός Σενγκέλια: Έφτασε τους 4.000 πόντους στην Euroleague (pic)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "4,000 EUROLEAGUE POINTS AND COUNTING!"
+   ],
+   "amounts": [
+    "4,000 EUROLEAGUE"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "af83093cd60b",
+   "url": "https://basketballsphere.com/en/kevin-punter-partizan-real-madrid-zeljko-obradovic/",
+   "title": "Kevin Punter opens up on Real Madrid-Partizan fight and his bond with Zeljko Obradovic",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Kevin Punter, now the captain of Barcelona and a former captain of Partizan, discussed some of the most memorable moments of his career during an appearance on the Euro Insiders podcast.",
+    "The American guard revisited the infamous altercation during the 2023 EuroLeague playoff series between Partizan and Real Madrid , explaining how he remembers the incident, how he dealt with the criticism that followed, and why he remains convinced that Partizan would have won the EuroLeague titl…",
+    "Partizan took a 2-0 lead against Real Madrid in the 2023 EuroLeague playoffs and came within reach of securing a place at the Final Four."
+   ],
+   "amounts": [
+    "2023 EuroLeague",
+    "23 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "22/23"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kevin Punter",
+     "sheet": [
+      "25/26 FC Barcelona Basquet: 2,220,000 €",
+      "24/25 FC Barcelona Basquet: 2,300,000 €",
+      "23/24 KK Partizan: 2,366,000 €",
+      "22/23 KK Partizan: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Mathias Lessort",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 2,816,000 €",
+      "25/26 Panathinaikos B.C.: 2,500,000 €",
+      "24/25 Panathinaikos B.C.: 1,700,000 €",
+      "23/24 Panathinaikos B.C.: 1,440,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "831915a36b52",
+   "url": "https://www.dnevnik.si/nedeljski/prosti-cas/zaradi-te-vloge-se-je-grace-kelly-za-vedno-poslovila-od-filma-2836632/",
+   "title": "Zaradi te vloge se je Grace Kelly za vedno poslovila od filma",
+   "site": "Dnevnik.si",
+   "country": "France",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milijon",
+    "million"
+   ],
+   "snippets": [
+    "V filmu, v katerem so se za njeno roko zanimali Bing Crosby , Frank Sinatra in John Lund , je nosila svoj pravi zaročni prstan z več deset milijonov dolarjev vrednim diamantom.",
+    ", v kateri sta se v glasbenem dvoboju pomerila Crosby in Sinatra, slednji pa je odpel tudi Who Wants to Be a Millionaire?",
+    ", ki je kasneje navdihnila ime ene najbolj znanih televizijskih oddaj (pri nas znane pod imenom Lepo je biti milijonar )."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "06701866906e",
+   "url": "https://www.dnevnik.si/sport/nogomet/toliko-je-slovenija-zasluzila-z-nastopi-v-nogometni-ligi-narodov-2841632/",
+   "title": "Toliko je Slovenija zaslužila z nastopi v nogometni ligi narodov",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-17",
+   "found": "2026-11-17",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money",
+    "zasluzek"
+   ],
+   "snippets": [
+    "Nastop v ligi A namreč ne bi prinesel le prestižnejših tekmecev, temveč tudi večji zaslužek.",
+    "Nogometna zveza Slovenije bo od Evropske nogometne zveze prejela 1,5 milijona evrov nagrade.",
+    "V skladu z Uefinim finančnim modelom vsaki reprezentanci za nastop v ligi B pripada 1,5 milijona evrov."
+   ],
+   "amounts": [
+    "1,5 milijona",
+    "2,25 milijona",
+    "10,5 milijona",
+    "4,5 milijona",
+    "3,5 milijona",
+    "2,5 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "b45d3497737d",
    "url": "https://www.basketnews.lt/news-259687-aiskus-maccabi-vyr-trenerio-atlyginimas.html#utm_medium=rss&utm_content=news",
