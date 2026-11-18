@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T13:30+00:00",
+ "updated": "2026-11-18T15:12+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -31,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -40,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,44 +67,44 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Basket Dergisi",
-   "checked": 6,
+   "site": "Basketfaul",
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
+   "oldest": "2026-11-16",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
-   "found": 1,
+   "checked": 13,
+   "found": 7,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
+   "pages": 4,
+   "oldest": "2026-11-15",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 2,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -112,17 +112,17 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -130,8 +130,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 27,
-   "found": 0,
+   "checked": 16,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -139,17 +139,17 @@
   },
   {
    "site": "SDNA",
-   "checked": 10,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
    "checked": 5,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -157,17 +157,17 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -180,21 +180,20 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,15 +211,6 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -229,8 +219,17 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Bild Basketball",
+   "site": "Sportacentrs",
    "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 7,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -258,7 +257,7 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -266,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -293,16 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,13 +328,12 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -384,6 +382,450 @@
   }
  ],
  "items": [
+  {
+   "id": "9345d3ad6c81",
+   "url": "https://trendbasket.net/top-15-free-adult-websites-of-2026-secure-without-ads-and/",
+   "title": "Top 15 Free Adult Websites of 2026: Secure, Without Ads, and High Quality - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money",
+    "thousand"
+   ],
+   "snippets": [
+    "With thousands of free HD and Full HD premium adult scenes (including some in 4K), this site boasts a sizable collection.",
+    "Chaturbate is one of the most popular camming platforms in the now $1 billion webcam industry, featuring live streams of couples and solo performers.",
+    "With millions of videos available (many in HD), you can discover nearly anything you desire, free to watch or download."
+   ],
+   "amounts": [
+    "$1"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "57c9103cc946",
+   "url": "https://trendbasket.net/best-real-money-online-casinos-in-2026-tried-hard-link-and/",
+   "title": "BEST Real Money Online Casinos in 2026, Tried hard link and Tested - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "thousand"
+   ],
+   "snippets": [
+    "**Network and progressive jackpots compile winnings from multiple casinos**, creating prize funds that can soar into the millions within the **US online real-money gambling scene**.",
+    "**Platforms like mBit and Bovada provide access to thousands of slot titles** (covering every possible theme), mechanic, and risk level for **real-money US online casino players**."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "15a26d9af641",
+   "url": "https://trendbasket.net/ta-kalutera-nomika-diadiktuaka-kazino-sten-wiecej-ellada-ola/",
+   "title": "Τα Καλύτερα Νομικά Διαδικτυακά Καζίνο στην więcej Ελλάδα: Όλα τα Online Casino Greece - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Δεν είναι υπερβολή να πούμε ότι οι παίκτες στα διαδικτυακά καζίνο έχουν στη διάθεσή τους χιλιάδες επιλογές!"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9451219b1d41",
+   "url": "https://www.eurohoops.net/en/fibawc/2037130/alessandro-pajola-nico-mannion-italy-roster-world-cup-qualifiers-fiba/",
+   "title": "Italy unveils roster plans for key games against Turkiye, Serbia",
+   "site": "Eurohoops EN",
+   "country": "",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Because of overlapping schedules with the 2026–27 EuroLeague Regular Season, the squad will gather in stages at Rome’s Acqua Acetosa Olympic Training Center."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Alessandro Pajola",
+     "sheet": [
+      "26/27 KK Partizan: 900,000 €",
+      "25/26 Virtus Bologna: 1,600,000 €"
+     ]
+    },
+    {
+     "name": "Awudu Abass",
+     "sheet": [
+      "23/24 Virtus Bologna: 275,000 €"
+     ]
+    },
+    {
+     "name": "Darius Thompson",
+     "sheet": [
+      "26/27 Olimpia Milano: 1,500,000 €",
+      "25/26 Valencia Basket: 1,700,000 €",
+      "24/25 Anadolu Efes S.K.: 2,300,000 €",
+      "23/24 Anadolu Efes S.K.: 2,300,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "a6aa8ce7fa97",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2037118/tj-shorts-anlatti-valenciadan-once-beni-isteyen-2-euroleague-takimi/",
+   "title": "TJ Shorts Anlattı: “Valencia’dan Önce Beni İsteyen 2 EuroLeague Takımı…”",
+   "site": "Eurohoops TR",
+   "country": "Spain",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "2 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,900,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "35919b1b9120",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2037096/euroleague-koclar-birligi-direktoru-fenerbahce-bir-kocun-calisabilecegi-en-iyi-kulup/",
+   "title": "EuroLeague Koçlar Birliği Direktörü: “Fenerbahçe, Bir Koçun Çalışabileceği En İyi Kulüp!”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "EuroLeague Koçlar Birliği Direktörü Goran Sasic, Euro Insiders isimli YouTube kanalına konuk oldu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9e31f746fa9b",
+   "url": "https://www.athletiko.gr/panathinaikos-maroysi-geniki-eisodos-10-eyro-stin-edra-toy-trifyllioy-116648",
+   "title": "Παναθηναϊκός - Μαρούσι: Γενική είσοδος 10 ευρώ στην έδρα του «τριφυλλιού» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Γενική είσοδος στις θύρες ύψους 10 ευρώ ανακοίνωσε ο Παναθηναϊκός για την επικείμενη αναμέτρηση με το Μαρούσι στο πλαίσιο της Stoiximan GBL.",
+    "Ενόψει της αναμέτρησης αυτής, η «πράσινη» ΚΑΕ, γνωστοποίησε μέσω ανακοίνωσής της, πως θα υπάρχει γενική είσοδος 10 ευρώ στις κερκίδες του T-Center, δίνοντας την ευκαιρία με μικρούς και μεγάλους να γεμίσουν τις θύρες."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "57f858770c83",
+   "url": "https://www.sdna.gr/mpasket/1487965_panathinaikos-geniki-eisodos-10-eyro-sto-mats-me-maroysi",
+   "title": "Παναθηναϊκός: Γενική είσοδος 10 ευρώ στο ματς με το Μαρούσι",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η ΚΑΕ Παναθηναϊκός ανακοίνωσε γενική είσοδος 10 ευρώ για την αναμέτρηση κόντρα στο Μαρούσι.",
+    "Η ΚΑΕ Παναθηναϊκός AKTOR ορίζει γενική είσοδο 10 ευρώ για την αναμέτρηση του Σαββάτου (21/11, 17:30) με αντίπαλο το Μαρούσι στο Telekom Center Athens, για την 8η αγωνιστική της Stoiximan GBL."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6a231e395316",
+   "url": "https://www.sport24.gr/basket/panathinaikos-i-kae-anakoinose-geniki-eisodo-10-evro-gia-to-mats-me-to-marousi/",
+   "title": "Παναθηναϊκός: Η ΚΑΕ ανακοίνωσε γενική είσοδο 10 ευρώ για το ματς με το Μαρούσι",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η ΚΑΕ Παναθηναϊκός AKTOR ανακοίνωσε γενική είσοδο 10 ευρώ για την αναμέτρηση με το Μαρούσι (21/11, 17:30), στο πλαίσιο όγδοης της αγωνιστικής της Stoiximan GBL.",
+    "Συγκεκριμένα, η τιμή για το συγκεκριμένο ματς ορίστηκε 10 ευρώ, με την ΚΑΕ να θέλει να γεμίσει το Telekom Center Athens.",
+    "Η ΚΑΕ Παναθηναϊκός AKTOR ορίζει την γενική είσοδο στα 10 ευρώ για τον αγώνα του Σαββάτου (21/11, 17:30) εναντίον του Μαρουσίου στο Telekom Center Athens, για την 8η αγωνιστική του Stoiximan GBL."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "439798873c51",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2587652/panathinaikos-geniki-eisodos-10-eyro-stin-anametrisi-me-maroysi",
+   "title": "Γενική είσοδος 10 ευρώ στο Παναθηναϊκός - Μαρούσι",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η ΚΑΕ Παναθηναϊκός ανακοίνωσε ότι θα υπάρχει γενική είσοδος 10 ευρώ στο παιχνίδι με το Μαρούσι.",
+    "Η «πράσινη» ΚΑΕ, ανακοίνωσε ότι για το προσεχές παιχνίδι του πρωταθλήματος, θα υπάρχει γενική είσοδος 10 ευρώ.",
+    "«Η ΚΑΕ Παναθηναϊκός AKTOR ορίζει την γενική είσοδο στα 10 ευρώ για τον αγώνα του Σαββάτου (21/11, 17:30) εναντίον του Μαρουσίου στο Telekom Center Athens, για την 8η αγωνιστική του Stoiximan GBL."
+   ],
+   "amounts": [
+    "10 ευρώ"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7eefbfcc2a24",
+   "url": "https://telesport.rs/2026/11/18/panter-volim-ga-vise-nego-bilo-koga-zeljko-ga-je-pritisnuo/",
+   "title": "Panter: Volim ga više nego bilo koga, Željko ga je pritisnuo! - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Govoreći o bivšem saigraču, iskusni bek u podkastu Euro Insiders nije krio emocije."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "2d35455e3c9b",
+   "url": "https://www.dnevnik.si/novice/slovenija/prenos-minister-ostrc-o-predlaganem-zvisanju-zdravstvenega-prispevka-2841685/",
+   "title": "Fakin o zdravstvu v rdečih številkah: nastaja kaos, denarja pa bo zmanjkalo",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Zdravstveni minister ob tem vztraja, da je bilo zmanjšanje proračunskih transferjev v zdravstveno blagajno utemeljeno.",
+    "»420 milijonov je bilo zagotovljenih v proračunu, ta denar lahko zagotovimo ZZZS,« je dejal.",
+    "S tem je vnaprej zavrnil predlog o zvišanju obveznega zdravstvenega prispevka s sedanjih 39,36 na 48,60 evra na mesec, za katero se zavzemajo na Zavodu za zdravstveno zavarovanje Slovenije (ZZZS)."
+   ],
+   "amounts": [
+    "48,60 evra",
+    "420 milijonov",
+    "61,8 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ef04aa0e7c95",
+   "url": "https://www.dnevnik.si/novice/slovenija/vlada-potrdila-predlog-zakona-o-porostvu-za-vzporedni-tir-divaca-koper-2841804/",
+   "title": "Vlada potrdila predlog zakona o poroštvu za vzporedni tir Divača–Koper",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Državno poroštvo predstavlja instrument, s katerim država ne zagotovi neposrednega financiranja celotne investicije iz državnega proračuna, temveč omogoči družbi 2TDK, da na finančnem trgu pridobi potrebna sredstva pod ugodnejšimi pogoji, kot bi jih lahko pridobila brez državne podpore.",
+    "Od skupno 486,2 milijona evrov",
+    "Najmanjši delež financiranja pri gradnji vzporednega levega tira glede na predlog predstavlja kapital, in sicer 43,5 milijona evrov, pri čemer je vlada 2TDK že dokapitalizirala."
+   ],
+   "amounts": [
+    "486,2 milijona",
+    "43,5 milijona",
+    "190,3 milijona",
+    "252,4 milijona"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Koper Primorska",
+     "country": "Slovenia",
+     "sheet": [
+      "20/21: row exists, no amounts",
+      "19/20: row exists, no amounts"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4e4518f57113",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1284847/przyszli-na-mecz-zadbali-o-zdrowie-wyjatkowa-akcja-na-meczach-pge-basket-ligi",
+   "title": "Przyszli na mecz, zadbali o zdrowie. Wyjątkowa akcja na meczach PGE Basket Ligi",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tysiac"
+   ],
+   "snippets": [
+    "Ich odzew i zaangażowanie przerosły nasze oczekiwania - ponad pół tysiąca kibiców chętnie skorzystało z tej możliwości."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "c42a988be23e",
    "url": "https://basketnews.com/news-259758-virtus-officially-sign-19-year-old-italian-talent-from-ncaa.html#utm_medium=rss&utm_content=news",
@@ -1524,6 +1966,69 @@
    "nba": false
   },
   {
+   "id": "d0b8e157a16e",
+   "url": "https://trendbasket.net/top-tier-us-casino-promotions-and-exclusive-bonus-codes-for/",
+   "title": "**Top-tier US casino promotions and exclusive bonus codes for October 2026** Our goal is to prioritize the simpler opportunities so you can genuinely relish the rewards casino golden bull they bring. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "are created equal, and the best online casino sign-up bonus isn’t always the one with the biggest dollar amount."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Taylor Smith",
+     "sheet": [
+      "19/20 Nanterre 92: 140,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "bed67ffbec98",
+   "url": "https://trendbasket.net/welcome-bonus-of-casino-golisimo-a15000/",
+   "title": "Welcome Bonus of casino golisimo A$15,000 - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Choose secure payment methods, set your budget and explore the latest releases at your pace.",
+    "New players receive a generous welcome package worth up to $500 plus 50 free spins.",
+    "The minimum deposit is A$30 across most payment methods (including cards), e-wallets and crypto."
+   ],
+   "amounts": [
+    "$15,000",
+    "$500",
+    "$30",
+    "$1"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
    "id": "83013da504bd",
    "url": "https://trendbasket.net/loewen-play-online-spielothek-100-legal-mit-deutscher-lizenz/",
    "title": "Löwen Play: Online Spielothek 100% legal mit deutscher Lizenz - Basketbol Haberleri",
@@ -1583,6 +2088,64 @@
    ],
    "amounts": [
     "200 Euro"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2a16d3f3e91e",
+   "url": "https://trendbasket.net/top-ranked-online-casinos-offering-real-winnings-for-2026/",
+   "title": "**Top-Ranked Online Casinos Offering Real-Winnings for 2026 – Verified by Experts** - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-16",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money",
+    "thousand"
+   ],
+   "snippets": [
+    "DraftKings introduces a distinctive lossback policy: after depositing $100 and losing $80 on the first day — you’ll receive an $80 credit back—usable within a single playthrough.",
+    "Progressive and network jackpots aggregate player contributions across multiple sites, building prize pools that can reach millions in the online casinos real money USA market.",
+    "Major platforms like mBit and Bovada offer thousands of slot games spanning every theme, feature set, and volatility level imaginable for US online casinos real money players."
+   ],
+   "amounts": [
+    "$100",
+    "$80"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "79d814e41df5",
+   "url": "https://trendbasket.net/odegos-gia-ta-kalutera-kazino-ethereum-to-2026-gia-tous/",
+   "title": "Οδηγός για τα καλύτερα καζίνο Ethereum το 2026 για τους Έλληνες. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-16",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "Τα αποδεκτά νομίσματα fiat περιλαμβάνουν EUR (κύριο νόμισμα, Ελλάδα), HUF, NOK, PLN, NZD, CAD, USD και BRL.",
+    "Τα κρυπτοσυστήματα όπως το Bitcoin και το Ethereum είναι επίσης βιώσιμα μαζί με τα νομίσματα fiat όπως EUR, CAD και AUD.",
+    "Το πακέτο καλωσορίσματος μας είναι ένα από τα πιο ανταγωνιστικά στην αγορά, προσφέροντας 150% bonus έως €300 και 200 δωρεάν περιστροφές στην πρώτη κατάθεση."
+   ],
+   "amounts": [
+    "€300"
    ],
    "seasons": [],
    "teams": [],
