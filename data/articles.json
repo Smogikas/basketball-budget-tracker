@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:05+00:00",
+ "updated": "2026-11-18T05:17+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,31 +13,30 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
@@ -68,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -104,10 +103,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -131,21 +130,21 @@
   },
   {
    "site": "Athletiko",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
   },
   {
    "site": "Sport24",
@@ -203,12 +202,13 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -266,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -302,21 +302,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
