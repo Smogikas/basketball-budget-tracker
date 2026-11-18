@@ -1,18 +1,36 @@
 {
- "updated": "2026-11-18T07:35+00:00",
+ "updated": "2026-11-18T09:19+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -21,17 +39,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "BasketNews.com",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 3,
+   "site": "15min 24sek",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -39,17 +48,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "no older pages"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,8 +67,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -76,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -87,14 +87,14 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7901307e4620>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,27 +121,26 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 6,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Athletiko",
-   "checked": 14,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
-   "checked": 8,
+   "site": "Athletiko",
+   "checked": 26,
    "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 10,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 14,
-   "found": 1,
+   "checked": 12,
+   "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-17",
@@ -171,8 +170,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Mozzart Sport",
@@ -185,12 +184,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -212,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,21 +220,22 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 4,
    "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball Sphere",
@@ -243,8 +243,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "reached start date"
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -293,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Sporx",
-   "checked": 20,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,8 +311,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 7,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -320,22 +320,21 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-20",
+   "oldest": "2026-04-21",
    "stop": "reached start date"
   },
   {
    "site": "Gigantes",
-   "checked": 10,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -384,6 +383,216 @@
   }
  ],
  "items": [
+  {
+   "id": "dfc07d91efe1",
+   "url": "https://www.basketnews.lt/news-259738-pao-apie-virtus-fana-zaidejus-isvadino-gyvuliais-apsauga-tik-juokesi.html#utm_medium=rss&utm_content=news",
+   "title": "PAO apie „Virtus“ faną: žaidėjus išvadino gyvuliais, apsauga tik juokėsi",
+   "site": "BasketNews.lt",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "Pranešama, kad „Panathinaikos“ ekipai taip pat buvo pasakyta, jog sirgaliaus negalima išvesti, nes jis už vietą pirmoje eilėje sumokėjo didelę pinigų sumą – kai kurių šaltinių teigimu, ji siekia 6 000 eurų."
+   ],
+   "amounts": [
+    "6 000 eurų"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d9071b8413ca",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2036996/kevin-punterdan-itiraf-mathias-lessort-sezon-basi-neredeyse-kovuluyordu/",
+   "title": "Kevin Punter’dan İtiraf: “Mathias Lessort Sezon Başı Neredeyse Kovuluyordu!”",
+   "site": "Eurohoops TR",
+   "country": "Spain",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Barcelona’nın kaptanı ve Partizan’ın eski lideri Kevin Punter, katıldığı “Euro Insiders” podcast yayınında Sırp ekibindeki günlerine ve başantrenör Željko Obradović ile olan ilişkisine dair çarpıcı açıklamalarda bulundu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Joffrey Lauvergne",
+     "sheet": [
+      "24/25 ASVEL Basket: 800,000 €",
+      "23/24 ASVEL Basket: 1,000,000 €",
+      "22/23 ASVEL Basket: 1,000,000 €",
+      "21/22 Žalgiris Kaunas: 600,000 €"
+     ]
+    },
+    {
+     "name": "Kevin Punter",
+     "sheet": [
+      "25/26 FC Barcelona Basquet: 2,220,000 €",
+      "24/25 FC Barcelona Basquet: 2,300,000 €",
+      "23/24 KK Partizan: 2,366,000 €",
+      "22/23 KK Partizan: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Mathias Lessort",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 2,816,000 €",
+      "25/26 Panathinaikos B.C.: 2,500,000 €",
+      "24/25 Panathinaikos B.C.: 1,700,000 €",
+      "23/24 Panathinaikos B.C.: 1,440,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "ccf4ce250b6e",
+   "url": "https://www.sdna.gr/mpasket/1487708_kari-gia-mellon-toy-isos-na-einai-teleytaio-symbolaio-tis-karieras-moy",
+   "title": "Κάρι για το μέλλον του: «Ίσως να είναι το τελευταίο συμβόλαιο της καριέρας μου»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Τον περασμένο Σεπτέμβριο, ο Στεφ Κάρι συμφώνησε με τους «Πολεμιστές» για διετή επέκταση συμβολαίου ύψους 116 εκατομμυρίων δολαρίων."
+   ],
+   "amounts": [
+    "116 εκατομμυρίων"
+   ],
+   "seasons": [
+    "28/29"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "bd82d2fdfae7",
+   "url": "https://www.dnevnik.si/novice/svet/cene-nafte-ob-rasti-ameriskih-zalog-crnega-zlata-navzdol-2841684/",
+   "title": "Cene nafte ob rasti ameriških zalog črnega zlata navzdol",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Za 159-litrski sod teksaške nafte, ki bo dobavljena decembra, je bilo treba zjutraj po evropskem času odšteti 84,09 dolarja, kar je 1,92 dolarja oz.",
+    "V Londonu so se januarske terminske pogodbe za severnomorsko nafto brent doslej pocenile za 1,37 dolarja oz.",
+    "1,47 odstotka na 91,77 dolarja za sod."
+   ],
+   "amounts": [
+    "5,28 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d1ca914e7153",
+   "url": "https://www.dnevnik.si/novice/posel/azijske-borze-kljub-odlicnim-rezultatom-nvidie-neenotno-2841678/",
+   "title": "Azijske borze kljub odličnim rezultatom Nvidie neenotno",
+   "site": "Dnevnik.si",
+   "country": "USA",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar"
+   ],
+   "snippets": [
+    "Ameriški proizvajalec čipov Nvidia je v tretjem četrtletju letošnjega leta v primerjavi z enakim obdobjem lani povečal svoje prihodke za 103 odstotke na 115,8 milijarde dolarjev.",
+    "Čisti dobiček se je več kot podvojil in narasel s 31,9 na 65,3 milijarde dolarjev.",
+    "Delnice Nvidie so se po zaključku borznega trgovanja v torek objavi izjemnih poslovnih rezultatov, ki so presegli napovedi analitikov, nemudoma podražile za več, kot 3,4 odstotka na več kot 160 dolarjev za delnico."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Washington Wizards",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 08/09 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "4d0c9a778a68",
    "url": "https://basketnews.com/news-259735-panathinaikos-to-file-euroleague-complaint-over-alleged-racist-abuse.html#utm_medium=rss&utm_content=news",
@@ -600,6 +809,41 @@
       "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
       "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
       "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "152fa756cb09",
+   "url": "https://trendbasket.net/best-sweepstakes-casinos-2026-list-of-420-sweeps-casinos/",
+   "title": "Best Sweepstakes Casinos 2026 List of 420+ Sweeps Casinos - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Romania",
+   "published": "2026-11-16",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "For example — a $20 package that includes 24 SC has an SC-per-$ value of 1.20, meaning you receive 1.20 SC for each dollar spent."
+   ],
+   "amounts": [
+    "$20"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "CS Bucharest Rapid",
+     "country": "Romania",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 22/23 (1)"
      ]
     }
    ],
