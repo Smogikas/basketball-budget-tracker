@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T15:12+00:00",
+ "updated": "2026-11-18T17:19+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -27,15 +27,16 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "no older pages"
   },
   {
@@ -49,8 +50,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -67,17 +68,17 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -87,23 +88,23 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x721a24ad22d0>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+  },
+  {
+   "site": "TrendBasket",
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
-   "site": "TrendBasket",
-   "checked": 13,
-   "found": 7,
-   "error": "",
-   "pages": 4,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -112,8 +113,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
+   "checked": 5,
+   "found": 3,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -121,8 +122,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 2,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -130,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 16,
+   "checked": 17,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -139,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
-   "found": 1,
+   "checked": 15,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -148,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 1,
+   "checked": 9,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -157,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 4,
-   "found": 1,
+   "checked": 10,
+   "found": 3,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -166,28 +167,29 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -202,7 +204,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,25 +213,25 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-14",
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-13",
+   "pages": 3,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -256,15 +258,24 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -273,27 +284,18 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Basketball.hr",
+   "site": "Z Krainy NBA",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Z Krainy NBA",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
@@ -301,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,8 +312,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -328,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -382,6 +384,553 @@
   }
  ],
  "items": [
+  {
+   "id": "df08646d9e7c",
+   "url": "https://www.pianetabasket.com/euroleague/il-budget-non-va-in-campo-cosi-la-virtus-bologna-ha-umiliato-i-conti-del-panathinaikos",
+   "title": "Il budget non va in campo: così la Virtus Bologna ha umiliato i conti del Panathinaikos",
+   "site": "PianetaBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "milion"
+   ],
+   "snippets": [
+    "La Virtus Bologna batte il Panathinaikos 84-79 al PalaDozza: Diarra e Bello brillano, mentre scouting e programmazione sfidano i budget milionari dell’EuroLeague."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a40c62aab499",
+   "url": "https://basketfaul.com.tr/gundem/sasic-fenerbahce-bir-koc-icin-calisilabilecek-en-iyi-kulup/",
+   "title": "Sasic: Fenerbahçe Bir Koç İçin Çalışılabilecek En İyi Kulüp - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Spain",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "EuroLeague Koçlar Birliği Direktörü Goran Sasic, Euro Insiders isimli YouTube kanalına konuk oldu ve Fenerbahçe‘nin son dönemde ‘bir koçun EuroLeague’de",
+    "EuroLeague Koçlar Birliği Direktörü Goran Sasic, Euro Insiders isimli YouTube kanalına konuk oldu ve Fenerbahçe‘nin son dönemde ‘bir koçun EuroLeague’de çalışabileceği en iyi kulüp’ olduğunu söyledi:"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,200,000 €, salary budget 28,000,000 €",
+      "24/25: budget 41,600,000 €, salary budget 29,900,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 45,000,000 €, salary budget 30,000,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "95d5af57d6ec",
+   "url": "https://www.eurohoops.net/en/bbl/2037188/germanys-bbl-posts-record-breaking-numbers-in-the-last-season/",
+   "title": "Germany’s BBL posts record-breaking numbers in the last season",
+   "site": "Eurohoops EN",
+   "country": "Germany",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "The German league has made a breakthrough, according to a BBL statement, with 18 teams earning over €186 million in revenue",
+    "The total revenue for the 18 clubs amounted to an impressive €186.5 million.",
+    "A total of 1.76 million spectators attended these events, with an average attendance of 4,742 fans per regular-season game."
+   ],
+   "amounts": [
+    "€186 million",
+    "€186.5 million",
+    "€110 million",
+    "€46.3 million",
+    "1.76 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1ffa4b2187ae",
+   "url": "https://www.eurohoops.net/el/ellada/2037210/giannakis-elpizo-na-vroume-to-katallilo-migma-oste-to-basket-na-vri-pali-ton-dromo-tou/",
+   "title": "Γιαννάκης: “Ελπίζω να βρούμε το κατάλληλο μείγμα, ώστε το μπάσκετ να βρει πάλι τον δρόμο του”",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Πώς θα καταφέρουμε να βρούμε ένα κονδύλι 2-3 εκατομμυρίων, ώστε να καλύψουμε τις αμοιβές των διαιτητών και ένα μέρος των εξόδων μετακίνησης;"
+   ],
+   "amounts": [
+    "3 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0f9cd398e1c7",
+   "url": "https://www.eurohoops.net/el/ellada/2037200/fasoulas-i-nikites-ine-sti-filaki-ke-i-chameni-imaste-edo/",
+   "title": "Φασούλας: “Οι νικητές είναι στη φυλακή και οι χαμένοι είμαστε εδώ” – Τι είπε για προπονητή Εθνικής",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Για ένα μπάτζετ 15 εκατομμυρίων, κάποιοι πήγαν φυλακή."
+   ],
+   "amounts": [
+    "15 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f17450fb4a3a",
+   "url": "https://www.eurohoops.net/el/heba-el/2037160/panathinaikos-geniki-isodos-e10-me-marousi/",
+   "title": "Παναθηναϊκός: Γενική είσοδος €10 με Μαρούσι",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Γενική είσοδο στα €10 όρισε ο Παναθηναϊκός (6-1 & -2β.) για το παιχνίδι με το Μαρούσι (2-5) στο ΟΑΚΑ (21/11, 17:30/ΣΠΟΡ FM TV 2) για την όγδοη αγωνιστική της Stoiximan GBL.",
+    "Απευθύνοντας ένα άτυπο κάλεσμα προς τους φίλους της ομάδας, η ΚΑΕ όρισε γενική είσοδο στα €10 .",
+    "Η ΚΑΕ Παναθηναϊκός AKTOR ορίζει γενική είσοδο 10 ευρώ για την αναμέτρηση του Σαββάτου (21/11, 17:30) με αντίπαλο το Μαρούσι στο Telekom Center Athens, για την 8η αγωνιστική της Stoiximan GBL."
+   ],
+   "amounts": [
+    "€10",
+    "10 ευρώ"
+   ],
+   "seasons": [
+    "11/12",
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4bad8a7bace0",
+   "url": "https://www.athletiko.gr/fasoylas-den-katalavame-pote-ti-chrimata-diacheirizetai-i-omospondia-theoro-oti-mas-eklepsan-se-dyo-ekloges-116668",
+   "title": "Φασούλας: «Δεν καταλάβαμε ποτέ τι χρήματα διαχειρίζεται η Ομοσπονδία, θεωρώ ότι μας έκλεψαν σε δύο εκλογές» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Για ένα μπάτζετ 15 εκατομμυρίων, κάποιοι πήγαν φυλακή."
+   ],
+   "amounts": [
+    "15 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "cc3f7e6ff40a",
+   "url": "https://www.sdna.gr/mpasket/1487997_papadopoylos-gia-eok-zitisa-oikonomika-stoiheia-kai-den-pira-tipota-einai-eos-kai",
+   "title": "Παπαδόπουλος για ΕΟΚ: «Ζήτησα οικονομικά στοιχεία και δεν πήρα τίποτα - Είναι έως και ύποπτο»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Πώς θα καταφέρουμε να βρούμε ένα κονδύλι 2-3 εκατομμυρίων, ώστε να καλύψουμε τις αμοιβές των διαιτητών και ένα μέρος των εξόδων μετακίνησης;"
+   ],
+   "amounts": [
+    "3 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "968f8baa3165",
+   "url": "https://www.sdna.gr/mpasket/1487993_fasoylas-eginan-dyo-ekloges-poy-theoro-oti-mas-eklepsan-oi-nikites-einai-sti-fylaki",
+   "title": "Φασούλας: «Έγιναν δύο εκλογές που θεωρώ ότι μας έκλεψαν - Οι νικητές είναι στη φυλακή και οι χαμένοι είμαστε εδώ»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Για ένα μπάτζετ 15 εκατομμυρίων, κάποιοι πήγαν φυλακή."
+   ],
+   "amounts": [
+    "15 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6b6c3f1fc5a7",
+   "url": "https://www.sport24.gr/basket/xrisi-sezon-to-2025-26-gia-to-germaniko-basket-rekor-se-esoda-proselefsi-theaton-kai-social-media/",
+   "title": "Χρυσή σεζόν το 2025-26 για το γερμανικό μπάσκετ: Ρεκόρ σε έσοδα, προσέλευση θεατών και social media",
+   "site": "Sport24",
+   "country": "Germany",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Σύμφωνα με την έρευνα οι 18 σύλλογοι του πρωταθλήματος κατέγραψαν συνολικά έσοδα ύψους 186,5 εκατομμυρίων ευρώ .",
+    "Η μερίδα του λέοντος προήλθε από τις εμπορικές συμφωνίες, με τις χορηγίες να αποφέρουν 110 εκατομμύρια ευρώ στα ταμεία των ομάδων.",
+    "Η παρουσία τους στις εξέδρες ξεπέρασε τα 1.76 εκατομμύρια σε αναμετρήσεις πρωταθλήματος και κυπέλλου."
+   ],
+   "amounts": [
+    "186,5 εκατομμυρίων",
+    "110 εκατομμύρια",
+    "46,3 εκατομμύρια",
+    "1.76 εκατομμύρια"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "16d14487ce2f",
+   "url": "https://www.sport24.gr/basket/fasoulas-prepei-na-iparxei-dimosia-timoria-i-apokleismos-oi-nikites-einai-sti-filaki-kai-oi-xamenoi-eimaste-edo/",
+   "title": "Φασούλας: \"Πρέπει να υπάρχει δημόσια τιμωρία ή αποκλεισμός, οι νικητές είναι στη φυλακή και οι χαμένοι είμαστε εδώ\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Για ένα μπάτζετ 15 εκατομμυρίων, κάποιοι πήγαν φυλακή."
+   ],
+   "amounts": [
+    "15 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fa72e7b459e5",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2587679/papadopoylos-idaniko-tha-itan-na-stamatisoyn-ta-panta-kai-na",
+   "title": "Παπαδόπουλος: «Το ιδανικό θα ήταν να σταματήσουν τα πάντα και να αναλάβει μια καινούργια διοίκηση»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Πώς θα καταφέρουμε να βρούμε ένα κονδύλι 2-3 εκατομμυρίων, ώστε να καλύψουμε τις αμοιβές των διαιτητών και ένα μέρος των εξόδων μετακίνησης;"
+   ],
+   "amounts": [
+    "3 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e6e27fd9cb2e",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2587671/fasoylas-oi-nikites-einai-sti-fylaki-kai-oi-hamenoi-eimaste-edo",
+   "title": "Φασούλας: «Οι νικητές είναι στη φυλακή και οι χαμένοι είμαστε εδώ»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Για ένα μπάτζετ 15 εκατομμυρίων, κάποιοι πήγαν φυλακή."
+   ],
+   "amounts": [
+    "15 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "479dbe0337bc",
+   "url": "https://www.gazzetta.gr/specials/2587338/ahilleios-o-aoratos-efialtis-exaplonetai",
+   "title": "Αχίλλειος: Ο αόρατος εφιάλτης εξαπλώνεται!",
+   "site": "Gazzetta.gr",
+   "country": "United Kingdom",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Φόρτος αγώνων και ανεπαρκής ανάρρωση: Η FIFPRO συστήνει να μην ξεπερνά ο παίκτης τους 55 αγώνες ανά σεζόν, ενώ το 2025/26 αρκετοί παίκτες κινούνται πάνω από 70, μετά από Euro, Μουντιάλ Συλλόγων και Μουντιάλ."
+   ],
+   "amounts": [],
+   "seasons": [
+    "23/24",
+    "24/25",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "727d6db1881f",
+   "url": "https://sports.walla.co.il/item/3876812",
+   "title": "\"יש שם שחקן טוב\": הניסיון להוציא את מאייר מהמשבר - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "מאייר פתח בחמישייה בשני משחקיה הראשונים של פורדו, אך לאחר שקלע 2 מ-11 מול גונזאגה ו-1 מ-11 נגד ולפראיסו, איבד את מקומו."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "41203fb74a38",
+   "url": "https://www.gigantes.com/mas-basket/llega-black-friday-2026-gigantes-ofertas/",
+   "title": "Black Friday 2026 de Gigantes: todas las ofertas y promociones",
+   "site": "Gigantes",
+   "country": "Spain",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "REVISTAS DESDE 1 EURO"
+   ],
+   "amounts": [
+    "1 EURO"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "9345d3ad6c81",
    "url": "https://trendbasket.net/top-15-free-adult-websites-of-2026-secure-without-ads-and/",
