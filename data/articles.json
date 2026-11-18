@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T21:08+00:00",
+ "updated": "2026-11-18T23:05+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -14,7 +14,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -23,16 +23,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
+   "checked": 8,
    "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,12 +50,13 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
-   "found": 0,
+   "checked": 9,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Israel Hayom",
@@ -77,20 +78,20 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
+   "pages": 1,
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
@@ -104,16 +105,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,17 +124,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 7,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 25,
-   "found": 0,
+   "checked": 14,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -140,7 +142,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 15,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +151,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 13,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,8 +160,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 14,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -167,16 +169,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,16 +187,17 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,7 +206,7 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,7 +215,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,7 +224,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 12,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -239,12 +242,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,29 +260,29 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball.hr",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
@@ -293,7 +296,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -302,17 +305,17 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -329,10 +332,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -383,6 +386,205 @@
   }
  ],
  "items": [
+  {
+   "id": "8c8b7895ed27",
+   "url": "https://www.athletiko.gr/pire-thesi-i-aek-den-tha-epitrepsoyme-se-kanenan-n-amfisvitisei-xana-tin-prospatheia-poy-katavalletai-116732",
+   "title": "Πήρε θέση η ΑΕΚ: «Δεν   θα επιτρέψουμε σε κανέναν ν’ αμφισβητήσει ξανά την προσπάθεια που καταβάλλεται» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-18",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "μισθ"
+   ],
+   "snippets": [
+    "Ο αθλητής, μίλησε για μισθούς του που δεν καταβλήθηκαν από την Ένωση, ενώ μάλιστα προέτρεψε αθλητές να μη συμφωνήσουν να αγωνιστούν στους «κιτρινόμαυρους»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "562a435d1624",
+   "url": "https://www.pianetabasket.com/mercato/phoenix-suns-jalen-green-risponde-alle-voci-di-mercato-non-mi-interessa-non-ce-nulla-di-cui-parlare-spunta-dejounte-murray",
+   "title": "Phoenix Suns: Jalen Green risponde alle voci di mercato. «Non mi interessa, non c'è nulla di cui parlare». Spunta Dejounte Murray",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "ingaggi"
+   ],
+   "snippets": [
+    "Seconda mossa di mercato in poche ore per le VNere, dopo aver ufficializzato l'ingaggi..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Awudu Abass",
+     "sheet": [
+      "23/24 Virtus Bologna: 275,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0fdf6dce4847",
+   "url": "https://www.pianetabasket.com/mercato/virtus-bologna-e-fatta-per-awudu-abass-ritorno-in-bianconero-dopo-due-anni-a-dubai",
+   "title": "Virtus Bologna, è fatta per Awudu Abass: ritorno in bianconero dopo due anni a Dubai",
+   "site": "PianetaBasket",
+   "country": "United Arab Emirates",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "ingaggi"
+   ],
+   "snippets": [
+    "Seconda mossa di mercato in poche ore per le VNere, dopo aver ufficializzato l'ingaggi..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Awudu Abass",
+     "sheet": [
+      "23/24 Virtus Bologna: 275,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "b3f32e146573",
+   "url": "https://www.gazzetta.gr/basketball/eurocup/2587762/o-aris-ehei-mathei-na-nika",
+   "title": "Ο Άρης έχει μάθει να νικά",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Παρόλ’ αυτά πρόσφερε μία ακόμη πλούσια παράσταση και οι χιλιάδες φίλοι του Άρη που κατέκλυσαν το Αλεξάνδρειο έφυγαν ξανά «γεμάτοι» και χαμογελαστοί."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "90d54409b2c8",
+   "url": "https://telesport.rs/2026/11/18/panter-jednostavno-nisam-zeleo-da-idem-tamo/",
+   "title": "Panter: Jednostavno nisam želeo da idem tamo - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Mnogo se pričalo o tome, još jednom se dotakao te teme u podkastu Euro Insiders ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "92e998977482",
+   "url": "https://meridiansport.rs/kosarka/pau-gasol-i-vanesa-brajant-krenuli-u-zajednicki-projekat-hoce-da-kupe-klub/",
+   "title": "Pau Gasol i Vanesa Brajant krenuli u zajednički projekat - hoće da kupe klub",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Navodno je ovaj tandem udružio snage kako bi poslao ponudu za kupovinu kluba od Marka Voltera , koji za franšizu i trening centar u izgradnji traži čak 700 miliona dolara."
+   ],
+   "amounts": [
+    "700 miliona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "148d215e141e",
    "url": "https://www.eurohoops.net/en/eurocup/2037242/eurocup-roundup-rigas-wins-against-tortona-cluj-overcomes-maxima-roma/",
