@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T11:15+00:00",
+ "updated": "2026-11-18T13:30+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -32,7 +32,7 @@
   {
    "site": "Krepsinis.net",
    "checked": 4,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -40,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -49,11 +49,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-03",
+   "oldest": "2026-11-04",
    "stop": "reached start date"
   },
   {
@@ -76,35 +76,35 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7ebbc8918650>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 6,
-   "found": 3,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-14",
-   "stop": "reached start date"
+   "oldest": "2026-11-16",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 10,
+   "checked": 27,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 13,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,16 +175,17 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +194,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,12 +221,12 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
-   "stop": "reached start date"
+   "pages": 1,
+   "oldest": "2026-11-13",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
@@ -238,13 +239,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 26,
-   "found": 2,
+   "checked": 7,
+   "found": 1,
    "error": "",
-   "pages": 4,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,16 +257,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -275,11 +275,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
@@ -293,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 17,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,12 +329,13 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -383,6 +384,384 @@
   }
  ],
  "items": [
+  {
+   "id": "c42a988be23e",
+   "url": "https://basketnews.com/news-259758-virtus-officially-sign-19-year-old-italian-talent-from-ncaa.html#utm_medium=rss&utm_content=news",
+   "title": "Italian prospect leaves NCAA to join EuroLeague",
+   "site": "BasketNews.com",
+   "country": "Italy",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "A year later, he claimed bronze with Italy at the 2025 FIBA U18 EuroBasket, posting averages of 13.8 points, 3.2 rebounds, and 3.2 assists."
+   ],
+   "amounts": [
+    "18 EuroBasket"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Ettore Messina",
+     "sheet": [
+      "20/21 Olimpia Milano: 2,000,000 €",
+      "19/20 Olimpia Milano: 2,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "e996e632d3c9",
+   "url": "https://www.krepsinis.net/naujiena/g-nemeiksa-apie-zaidima-uz-atlanto-ir-motyvus-pasirinkti-ryta/354554",
+   "title": "G.Nemeikša: apie žaidimą už Atlanto ir motyvus pasirinkti „Rytą“ | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Bosnia and Herzegovina",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "Buvo rungtynių, kai arena būdavo pilna, o ji, kiek pamenu, talpina apie 10 tūkstančių žiūrovų."
+   ],
+   "amounts": [
+    "10 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Bosna Royal",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 4,000,000 €, salary budget 2,800,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,800,000 €",
+      "24/25: budget 850,000 €"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "24/25: budget 17,700,000 €, salary budget 11,700,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Gytis Nemeikša",
+     "sheet": [
+      "26/27 Lietkabelis Panevėžys: 50,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "bd223a3855a3",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/savo-smugis-i-miuncheno-sirdi-vokieciu-spauda-apie-paleista-pergale-teisejus-ir-edwardso-kersta-1362-2808592?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "„Smūgis į Miuncheno širdį“: vokiečių spauda – apie paleistą pergalę, teisėjus ir Edwardso kerštą",
+   "site": "15min 24sek",
+   "country": "Germany",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Dar likus 19 sekundžių iki ketvirtojo kėlinio pabaigos „Bayern“ pirmavo 100:96, tačiau du C.Edwardso metimai sugrąžino šeimininkams gyvybę, o pratęsime Lietuvos čempionai jau patys pasirūpino, kad 14,6 tūkst."
+   ],
+   "amounts": [
+    "14,6 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "419e25758170",
+   "url": "https://www.eurohoops.net/en/euroleague/2037064/nicolo-melli-braxton-key-injury-updates-fenerbahce-euroleague/",
+   "title": "Melli, Key expected to be sidelined for six to eight weeks",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Across 10 appearances in the 2026–27 EuroLeague Regular Season, he has averaged 4.8 points and 4.4 rebounds while shooting 42.9 percent from three-point range."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Nicolo Melli",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 1,500,000 €",
+      "25/26 Fenerbahce Istanbul: 1,500,000 €",
+      "24/25 Fenerbahce Istanbul: 1,400,000 €",
+      "23/24 Olimpia Milano: 1,820,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "22e5c21077fb",
+   "url": "https://www.eurohoops.net/en/euroleague/2037037/achille-lonati-to-virtus-bologna-euroleague/",
+   "title": "Virtus Bologna pens rising guard Achille Lonati to multiyear deal",
+   "site": "Eurohoops EN",
+   "country": "Italy",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "sum of money"
+   ],
+   "snippets": [
+    "He earned silver at the FIBA U16 European Championship 2023 and the FIBA U17 World Cup 2024, before taking bronze at the FIBA U18 EuroBasket 2025."
+   ],
+   "amounts": [
+    "16 European",
+    "18 EuroBasket"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fd8395dec617",
+   "url": "https://basketballsphere.com/en/tj-shorts-valencia-euroleague/",
+   "title": "T.J. Shorts confirms talks with two EuroLeague teams before Valencia move",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Across 12 EuroLeague games this season, he is averaging 16.2 points, 2.2 rebounds, and 5.7 assists in roughly 23 minutes per contest."
+   ],
+   "amounts": [
+    "12 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,900,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "T.J. Shorts",
+     "sheet": [
+      "26/27 Valencia Basket: 2,200,000 €",
+      "25/26 Panathinaikos B.C.: 2,100,000 €",
+      "24/25 Paris Basketball: 450,000 €",
+      "23/24 Paris Basketball: 340,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "a52ae06f2759",
+   "url": "https://www.dnevnik.si/novice/slovenija/vrednost-premozenja-slovenskih-gospodinjstev-nad-povprecjem-obmocja-z-evrom-2841784/",
+   "title": "Vrednost premoženja slovenskih gospodinjstev nad povprečjem območja z evrom",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [
+    "Srednja vrednost neto premoženja slovenskih gospodinjstev znaša 155.000 evrov in je nad povprečjem območja z evrom.",
+    "V Sloveniji skoraj 860.000 gospodinjstev razpolaga z več kot 100 milijardami evrov finančnega premoženja, kar je okoli 22 odstotkov vseh finančnih sredstev gospodarstva.",
+    "Mediana ali srednja vrednost premoženja znaša 155.000 evrov in je po besedah Tine Žumer nekoliko nad povprečjem evrskega območja."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7aaab0c14585",
+   "url": "https://www.dnevnik.si/novice/svet/kako-je-na-videz-nepomembni-material-postal-ozko-grlo-ameriske-vojaske-industrije-2841723/",
+   "title": "Na videz nepomemben material postal ozko grlo ameriške vojaške industrije",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Rakete PAC-3 MSE stanejo približno štiri milijone dolarjev (dobrih 3,6 milijona evrov) na kos.",
+    "Park Aerospace je za novo proizvodno linijo ArianeGroup v Franciji zagotovil pet milijonov evrov predujma, vendar bo začela delovati šele leta 2028 in ne bo zadostovala povpraševanju."
+   ],
+   "amounts": [
+    "3,6 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "adccb731b93f",
+   "url": "https://www.dnevnik.si/novice/svet/von-der-leyen-predlaga-dodatno-financno-pomoc-ukrajini-2841775/",
+   "title": "Von der Leyen predlaga dodatno finančno pomoč Ukrajini",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "proracun"
+   ],
+   "snippets": [
+    "S temi sredstvi bi Kijevu v letu 2027 pomagali zapolniti proračunsko vrzel, ki jo ocenjuje na 70 milijard evrov.",
+    "Predlagana podpora bi bila razdeljena na dva dela, in sicer bi bilo do 25 milijard evrov namenjenih vojaški pomoči, do 20 milijard pa splošni proračunski podpori.",
+    "Evropska komisija predlaga, da države članice Ukrajini v letu 2027 zagotovijo dodatno finančno podporo v obliki posojila v višini 45 milijard evrov, so danes sporočili iz Bruslja."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "e7213c96b6f9",
    "url": "https://basketnews.com/news-259752-tj-shorts-reveals-two-teams-that-tried-to-sign-him-before-valencia-move.html#utm_medium=rss&utm_content=news",
@@ -1138,6 +1517,46 @@
       "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
       "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
       "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "83013da504bd",
+   "url": "https://trendbasket.net/loewen-play-online-spielothek-100-legal-mit-deutscher-lizenz/",
+   "title": "Löwen Play: Online Spielothek 100% legal mit deutscher Lizenz - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Germany",
+   "published": "2026-11-17",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money",
+    "tausend"
+   ],
+   "snippets": [
+    "Lest euch darum unsere Casino Bewertungen durch (beachtet die Tausenden Kommentare und Bewertungen anderer Spieler auf den Bewertungsseiten und wenn ihr im Zweifel seid), schaut einfach in unserem deutschen Casino Forum vorbei.",
+    "Lest euch darum unsere Casino Bewertungen durch (beachtet die Tausenden Kommentare und Bewertungen anderer Spieler auf den Bewertungsseiten und wenn ihr im Zweifel seid), schaut einfach in unserem deutschen Casino Forum vorbei.",
+    "Manchmal gibt es auch einen Casino 25 Euro Bonus ohne Einzahlung oder einen anderen Casino Neukundenbonus ohne Einzahlung."
+   ],
+   "amounts": [
+    "25 Euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Lowen Braunschweig",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 6,680,000 €, salary budget 1,860,000 €",
+      "24/25: budget 5,850,000 €, salary budget 1,470,000 €",
+      "player rows: 19/20 (1)"
      ]
     }
    ],
