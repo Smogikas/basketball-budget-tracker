@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T17:19+00:00",
+ "updated": "2026-11-18T19:13+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,17 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -45,13 +44,14 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "oldest": "2026-11-18",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,8 +77,8 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -86,12 +86,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x721a24ad22d0>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -104,25 +104,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 3,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,9 +112,27 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 17,
-   "found": 1,
+   "checked": 23,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 15,
-   "found": 2,
+   "checked": 14,
+   "found": 3,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
-   "found": 2,
+   "checked": 10,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 10,
-   "found": 3,
+   "checked": 13,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,13 +176,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -195,21 +194,21 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-08",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Marca",
    "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-09",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Marca",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
@@ -222,7 +221,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -231,16 +230,16 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -267,7 +266,7 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -285,10 +284,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -303,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +311,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -330,11 +329,11 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
@@ -384,6 +383,115 @@
   }
  ],
  "items": [
+  {
+   "id": "de2b875fb158",
+   "url": "https://www.sdna.gr/mpasket/1488025_i-synergasia-diamantidi-kai-mpatist-stin-zalgirio-arena-vid",
+   "title": "Η συνεργασία Διαμαντίδη και Μπατίστ στην Zalgirio Arena (vid)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "8 Πρωταθλήματα, 7 Κύπελλα και 3 EuroLeague, για το πιο «φαρμακερό» πικ εν ρολ της Ευρώπης."
+   ],
+   "amounts": [
+    "3 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "25ac81573788",
+   "url": "https://www.sdna.gr/mpasket/1488017_timima-tis-peitharhias-giati-o-nabaro-afise-ton-moneke-piso",
+   "title": "Το τίμημα της πειθαρχίας: Γιατί ο Ναβάρο άφησε τον Μονέκε «πίσω»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ωστόσο, η απουσία του από δύο κρίσιμα παιχνίδια της EuroLeague φέρνει στην επιφάνεια ένα ερώτημα: κατά πόσο είναι ο ίδιος διατεθειμένος να εφαρμόσει όσα έχει πει δημόσια για την αποδοχή του ρόλου του και την πειθαρχία μέσα στην ομάδα;",
+    "Είναι, βέβαια, πολύ πιο εύκολο να μιλάς για αποδοχή του ρόλου σου και για προτεραιότητα στο συμφέρον της ομάδας όταν έρχονται οι νίκες και είσαι ένας από τους σημαντικότερους παίκτες της.",
+    "Για τον Μονέκε, αυτή είναι μια ευκαιρία να αποδείξει ότι πιστεύει πραγματικά στις αρχές για τις οποίες μιλά από την αρχή της σεζόν, κυρίως στην αποδοχή του ρόλου του και των αποφάσεων του προπονητή."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "abc586f8edcf",
+   "url": "https://www.sdna.gr/mpasket/1487960_koytelakis-ti-sezon-2028-29-na-mpoyn-oi-omades-mas-sto-neo-gipedo",
+   "title": "Κουτελάκης: «Τη σεζόν 2028-29 να μπουν οι ομάδες μας στο νέο γήπεδο»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Δεν ήταν εύκολο να “κλειδώσουν” 23 εκατομμύρια πάνω σε μια πόλη, πάνω σε έναν δήμο».",
+    "Το κόστος και των δύο εργολάβων συνολικά θα πλησιάσει τις 500 χιλιάδες."
+   ],
+   "amounts": [
+    "23 εκατομμύρια",
+    "500 χιλιάδες"
+   ],
+   "seasons": [
+    "28/29",
+    "12/13"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f73aaaefc39c",
+   "url": "https://www.sport24.gr/basket/nba-o-lempron-tzeims-eftiaxe-gipedo-basket-sto-neo-tou-spiti-kai-ekane-exalli-ti-sizigo-tou/",
+   "title": "NBA: Ο ΛεΜπρόν Τζέιμς έφτιαξε γήπεδο μπάσκετ στο νέο του σπίτι και έκανε έξαλλη τη σύζυγό του",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-18",
+   "found": "2026-11-18",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το νέο σπίτι της οικογένειας βρίσκεται στο Μπέβερλι Χιλς, σε ακίνητο που ο ΛεΜπρόν απέκτησε έναντι περίπου 32 εκατομμυρίων ευρώ."
+   ],
+   "amounts": [
+    "32 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "df08646d9e7c",
    "url": "https://www.pianetabasket.com/euroleague/il-budget-non-va-in-campo-cosi-la-virtus-bologna-ha-umiliato-i-conti-del-panathinaikos",
