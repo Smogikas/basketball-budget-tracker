@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:33+00:00",
+ "updated": "2026-11-18T03:05+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,21 +68,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -131,20 +131,20 @@
   },
   {
    "site": "Athletiko",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 11,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -158,37 +158,37 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -203,16 +203,16 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
