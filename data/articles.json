@@ -1,19 +1,20 @@
 {
- "updated": "2026-11-19T05:21+00:00",
+ "updated": "2026-11-19T07:38+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 19,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,17 +23,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,8 +41,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,21 +68,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -95,34 +95,15 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
+   "checked": 21,
+   "found": 12,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
+   "pages": 5,
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -131,8 +112,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 2,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,10 +158,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -177,34 +176,35 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -213,8 +213,8 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
@@ -222,52 +222,52 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Dnevnik.si",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "no older pages"
+  },
+  {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -285,25 +285,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 2,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +384,203 @@
   }
  ],
  "items": [
+  {
+   "id": "176f2b30b960",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/ambicingas-lions-tikslas-atskleide-kada-tikisi-prisijungti-i-eurolyga-1362-2809528?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Ambicingas „Lions“ tikslas: atskleidė, kada tikisi prisijungti į Eurolygą",
+   "site": "15min 24sek",
+   "country": "United Kingdom",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Joje telpa apie 6 tūkst."
+   ],
+   "amounts": [
+    "6 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "144cb8af295d",
+   "url": "https://www.sport5.co.il/articles.aspx?FolderID=11840&docID=568214",
+   "title": "ממשיך להתפוצץ: אקזיט ענק נוסף לעמרי כספי - ערוץ הספורט",
+   "site": "Sport5",
+   "country": "Israel",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "דולר"
+   ],
+   "snippets": [
+    "חברת AI בה השקיע אגדת הכדורסל לשעבר נמכרה בסכום של 4.5 מיליארד דולר"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "33952cb4fc61",
+   "url": "https://trendbasket.net/vkhod-v-lichnyy-kabinet-1xbet-kak-zayti-na-ofitsialnyy-sayt-2/",
+   "title": "Вход в личный кабинет 1xBet: как зайти на официальный сайт БК В безопасности личного кабинета 1xBet можно также просмотреть историю входов в аккаунт (где указаны дата), время, место и устройство, с помощью которого осуществлялся вход. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Russia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur"
+   ],
+   "snippets": [
+    "В разделе “Настройки аккаунта” личного кабинета можно добавить несколько дополнительных кошельков (например (наряду с рублями), открыть кошелек в USDT, EUR или KZT) и без проблем переключаться между ними."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Avtodor Saratov",
+     "country": "Russia",
+     "sheet": [
+      "25/26: budget 2,839,000 €",
+      "24/25: budget 2,699,000 €",
+      "23/24: budget 2,339,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "eabe387399e2",
+   "url": "https://trendbasket.net/kak-popast-na-sayt-bukmekerskoy-kontory-1xbet-cherez/",
+   "title": "Как попасть на сайт букмекерской конторы 1xBet через актуальное зеркало? - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "Характерно, что статистика в несколько миллионов зарегистрированных клиентов подтверждает возросшую популярность в сети."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "532d4343c352",
+   "url": "https://trendbasket.net/vkhod-v-lichnyy-kabinet-1xbet-kak-zayti-na-ofitsialnyy-sayt/",
+   "title": "Вход в личный кабинет 1xBet: как зайти на официальный сайт БК - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Применяйте промокод при регистрации, чтобы увеличить сумму до $130.",
+    "Новые игроки получают бонус в размере до $100 (100% от первого депозита) на 1xBet."
+   ],
+   "amounts": [
+    "$130",
+    "$100"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "77b802029cbe",
+   "url": "https://www.dnevnik.si/novice/svet/musk-se-pocuti-neumno-zdaj-ni-vec-privrzenec-trumpovega-gibanja-maga-2841864/",
+   "title": "Musk se počuti neumno, zdaj ni več privrženec Trumpovega gibanja Maga",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "proracun"
+   ],
+   "snippets": [
+    "\"Če bi lahko čas zavrtel nazaj, ne bi porabil toliko denarja\", je izjavil nekdanji vodja Trumpovega urada za vladno učinkovitost, ki po odmevnih odpuščanjih v zvezni vladi in ukinjanju programov pomoči za lačne in bolne po svetu proračunu ni uspel prihraniti ničesar, saj primanjkljaj raste še nap…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5a9ed04c9019",
+   "url": "https://zkrainynba.com/czarni-reaguja-green-zwolniony/",
+   "title": "Czarni reagują - Green zwolniony - Z Krainy NBA",
+   "site": "Z Krainy NBA",
+   "country": "Poland",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "zarobk"
+   ],
+   "snippets": [
+    "Trener Szablowski wynegocjował dobre warunki kontraktu, przekonując, że Green sprosta roli lidera w zespole Energa Czarnych i po dobrej grze w Słupsku wróci do zarobków z poprzednich sezonów."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Czarni Slupsk",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 1,410,777 €, salary budget 846,466 €",
+      "25/26: budget 1,363,751 €, salary budget 818,251 €",
+      "24/25: budget 1,400,962 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "18cc29b844b3",
    "url": "https://www.mundodeportivo.com/baloncesto/nba/20261119/1004252803/aday-mara-unicornio-jokic-bate-record-vuelve-estampar-tapones.html",
@@ -491,6 +688,235 @@
      ]
     }
    ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f31dc5b4d70c",
+   "url": "https://trendbasket.net/onlayn-stavki-v-bk-1xbet-registratsiya-v-1khbet-dlya-stavok-2/",
+   "title": "Онлайн ставки в бк 1xbet - регистрация в 1хБет для ставок на спорт - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "Миллионы пользователей в различных странах Европы и СНГ регистрируются на сайте компании 1xBet, которая предоставляет широчайшую линию и достаточно высокие коэффициенты."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bcac15cd5794",
+   "url": "https://trendbasket.net/sposoby-vkhoda-na-ofitsialnyy-resurs-1xbet-avtorizatsiya-na/",
+   "title": "Способы входа на официальный ресурс 1xBet - Авторизация на 1xBet. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evro",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Например, новички БК могут получить подарочные 300 евро при первом пополнении своего счета.",
+    "Например, новички БК могут получить подарочные 300 евро при первом пополнении своего счета.",
+    "Каждый из этих способов позволяет удвоить первый депозит, при этом максимальная сумма увеличения составляет $100."
+   ],
+   "amounts": [
+    "300 евро",
+    "$100"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e5ec5ec57d42",
+   "url": "https://trendbasket.net/vkhod-na-ofitsialnyy-sayt-bukmekerskoy-kontory-1xbet/",
+   "title": "Вход на официальный сайт букмекерской конторы 1xBet осуществляется через рабочее зеркало www.1xbet.com. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Новый клиент получит стартовый бонус на сумму до 400 USD для спортивных пари после первого депозита после регистрации в приложении 1xBet.",
+    "Статистика с миллионами зарегистрированных клиентов подтверждает растущую популярность в интернете."
+   ],
+   "amounts": [
+    "400 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1c79b716b540",
+   "url": "https://trendbasket.net/ofitsialnyy-sayt-1khbet-sposoby-sozdaniya-akkaunta-i-bystryy/",
+   "title": "Официальный сайт 1хбет: способы создания аккаунта и быстрый старт. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "За время деятельности 1xBet количество клиентов превысило один миллион, что свидетельствует о высоком уровне данного бренда."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8eb9437449d2",
+   "url": "https://trendbasket.net/1xbet-ofitsialnyy-cayt-bukmekerskoy-kontory-skachat-cherez/",
+   "title": "1xBet - Официальный cайт букмекерской конторы - Скачать через зеркало ️ Мобильное приложение 1хБет - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Новый клиент за свой первый депозит после регистрации в приложении получает от 1xBet онлайн стартовый бонус на сумму до 400 USD для спортивных пари!"
+   ],
+   "amounts": [
+    "400 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "256f53bc56ca",
+   "url": "https://trendbasket.net/1xbet-1khbet-bonus-pri-registratsii-400-neobkhodimo-skazat/",
+   "title": "1xbet 1хбет: бонус при регистрации $400. Необходимо сказать, что обзор и отзывы о 1xbet. Ставки на футбол (теннис), бокс. Вход на 1 Икс Бет Если нужно — скачайте установочный файл последней версии и заново выполните установку. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "$400"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "97de5fe22209",
+   "url": "https://trendbasket.net/registratsiya-v-1xbet-za-1-minutu-vse-4-sposoba-1-klik/",
+   "title": "Регистрация в 1xBet за 1 минуту: Все 4 способа 1 клик, Телефон, Email, Соцсети - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Когда вы отыграете этот бонус (сможете получить второй), но уже нужно пополнить счет хотя бы на 15 евро.",
+    "Когда вы отыграете этот бонус (сможете получить второй), но уже нужно пополнить счет хотя бы на 15 евро."
+   ],
+   "amounts": [
+    "15 евро"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "99c36273bc63",
+   "url": "https://trendbasket.net/bukmekerskaya-kontora-1khbet-1xbet-registratsiya-bonusy/",
+   "title": "Букмекерская контора 1хБет 1xBet - регистрация, бонусы, вход на официальный сайт - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "Одна только статистика в несколько миллионов зарегистрированных клиентов подтверждает возросшую известность в сети."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c4cd89863963",
+   "url": "https://trendbasket.net/ofitsialnyy-sayt-1xbet-vkhod-v-lichnyy-kabinet-i/",
+   "title": "Официальный сайт 1xBet | Вход в личный кабинет и регистрация. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-17",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "В казино пакет до 1500 USD и 210 фриспинов за четыре депозита (первый от 10 USD), 7 дней на отыгрыш.",
+    "Согласно данным за 2024 год (сайт 1xbet.com оказался одним из самых посещаемых в сфере азартных игр), с более чем 120 миллионами визитов в месяц, включая трафик с зеркальных доменов."
+   ],
+   "amounts": [
+    "1500 USD",
+    "10 USD"
+   ],
+   "seasons": [],
+   "teams": [],
    "players": [],
    "nba": false
   },
