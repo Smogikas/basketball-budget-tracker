@@ -1,20 +1,19 @@
 {
- "updated": "2026-11-19T07:38+00:00",
+ "updated": "2026-11-19T09:23+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 19,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -23,16 +22,17 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,8 +41,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,8 +68,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -77,7 +77,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,25 +86,25 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 21,
-   "found": 12,
+   "checked": 23,
+   "found": 9,
    "error": "",
    "pages": 5,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,8 +113,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -122,17 +122,18 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
    "checked": 14,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -140,7 +141,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +150,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,7 +159,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -167,26 +168,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -194,8 +176,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mozzart Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -204,7 +204,7 @@
   },
   {
    "site": "Marca",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -222,7 +222,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -231,7 +231,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,30 +240,30 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-18",
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 7,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -285,25 +285,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 11,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +384,338 @@
   }
  ],
  "items": [
+  {
+   "id": "f0184d867589",
+   "url": "https://sportando.basketball/udine-pedone-trieste-budget-piagnistei-derby/",
+   "title": "Apu Udine, Pedone punge Trieste: Basta piagnistei. Hanno un budget più alto del nostro - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Il presidente di Udine Alessandro Pedone punge Trieste: «Hanno un budget più alto del nostro».",
+    "Però devono smettere a Trieste con i piagnistei, hanno un budget più alto del nostro e stanno facendo una bellissima pallacanestro veloce e spettacolare»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "APU Udine",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,100,000 €, salary budget 3,000,000 €",
+      "25/26: budget 5,000,000 €, salary budget 2,500,000 €",
+      "24/25: budget 5,180,000 €, salary budget 2,290,000 €"
+     ]
+    },
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6bd1e9a4ae12",
+   "url": "https://trendbasket.net/1xbet-bukmekerskaya-kontora-ofitsialnyy-sayt-obzor-linii/",
+   "title": "1xBet Букмекерская контора: Официальный сайт, обзор линии, коэффициентов, личный кабинет Клиент должен самостоятельно уплатить налог, согласно требованиям государства, гражданином которого он является. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Зарегистрировавшись на 1xBet, вы можете получить бонус в размере 120% до 400 USD за первый депозит!",
+    "Бонус до 400 USD нужно отыграть в экспрессах с коэффициентом не ниже один.40 в течение тридцать дней."
+   ],
+   "amounts": [
+    "400 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "92e86179df90",
+   "url": "https://trendbasket.net/1xbet-1khbet-bonus-pri-registratsii-400-obzor-i-otzyvy-o-2/",
+   "title": "1xbet 1хбет: бонус при регистрации $400. Обзор и отзывы о 1xbet. Ставки на футбол (теннис), бокс. Вход на 1 Икс Бет Существенным является то, что однако компания не ограничивается достигнутыми успехами; ее сайт постоянно обновляется, добавляются новые функции и разделы. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Зарегистрировавшись на 1xBet, получите бонус в размере 120% до 400 USD на первый депозит!"
+   ],
+   "amounts": [
+    "$400",
+    "400 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "3344d04c5657",
+   "url": "https://trendbasket.net/ustanovit-prilozhenie-1khbet-apk-mozhno-na-ustroystva-s/",
+   "title": "Установить приложение 1хБет APK можно на устройства с Андроид и iOS, скачав его с официального сайта. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Пополнение счета и вывод средств в 1xBet Чтобы получить такой подарок, новому пользователю нужно внести на счет сумму не менее 2 USD.",
+    "После регистрации новый игрок получает от компании 1xBet казино-бонус до 1500 USD и 210 бесплатных вращений!"
+   ],
+   "amounts": [
+    "2 USD",
+    "1500 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c6f007491943",
+   "url": "https://trendbasket.net/1xbet-1khbet-bonus-pri-registratsii-400-issledovanie-i/",
+   "title": "1xbet 1хбет: бонус при регистрации $400. Исследование и мнения о 1xbet. Делайте ставки на футбол, теннис и бокс. Вход в 1 Икс Бет. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evro",
+    "sum of money"
+   ],
+   "snippets": [
+    "За первые четыре депозита новичкам доступны бонусы на сумму до евро и 150 фриспинов дополнительно."
+   ],
+   "amounts": [
+    "$400"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "37e0cdc9cb1c",
+   "url": "https://trendbasket.net/skachat-1xbet-na-android-apk-instruktsiya-po-ustanovke-2/",
+   "title": "Скачать 1xBet на Андроид APK: Инструкция по установке, функционал и регистрация Регистрация в 1xbet имеет привычный формат для букмекерских компаний, однако она немного сложнее, чем у ряда конкурирующих платформ. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "За почти 30 лет работы компания трансформировалась из небольшой региональной конторы в международный бренд, насчитывающий миллионы пользователей по всему миру."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a1611048247a",
+   "url": "https://trendbasket.net/1xbet-1khbet-bonus-pri-registratsii-400-obzor-i-otzyvy-o/",
+   "title": "1xbet 1хбет: бонус при регистрации $400. Обзор и отзывы о 1xbet. Ставки на футбол, теннис, бокс. Вход на 1 Икс Бет - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "$400"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6e4197670ab8",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2037598/teitoum-gia-to-nba-europe-schediazoume-akoma-na-ilopiisoume-to-egchirima-to-2027/",
+   "title": "Τέιτουμ για το NBA Europe: “Σχεδιάζουμε ακόμα να υλοποιήσουμε το εγχείρημα το 2027”",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Το μπάσκετ είναι το δεύτερο δημοφιλέστερο άθλημα στην Ευρώπη και αυτό με τον ταχύτερο ρυθμό ανάπτυξης, μετρώντας σχεδόν 300 εκατομμύρια φιλάθλους στην ευρωπαϊκή ήπειρο”, δήλωσε."
+   ],
+   "amounts": [
+    "300 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "fa87989135c2",
+   "url": "https://www.athletiko.gr/o-aris-chtizei-to-kastro-toy-kai-ethizetai-stis-nikes-116735",
+   "title": "Ο Άρης χτίζει το κάστρο του και εθίζεται στις νίκες | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Για ακόμη ένα βράδυ, το Αλεξάνδρειο μετατράπηκε σε σημείο συνάντησης χιλιάδων ανθρώπων που δεν πηγαίνουν απλώς για να παρακολουθήσουν έναν αγώνα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "51bedb16e770",
+   "url": "https://meridiansport.rs/kosarka/london-lajonsi-podneli-zahtev-za-pristupanje-evroligi/",
+   "title": "London Lajonsi podneli zahtev za pristupanje Evroligi",
+   "site": "Meridian Sport",
+   "country": "United Kingdom",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milion"
+   ],
+   "snippets": [
+    "Pitanje od milion dolara – kako će izgledati evropska košarka?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "London Lions",
+     "country": "United Kingdom",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 8,500,000 €, salary budget 3,500,000 €",
+      "24/25: budget 8,000,000 €, salary budget 3,000,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "fee76dd40c90",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-20-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 20, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 4 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "176f2b30b960",
    "url": "https://www.15min.lt/24sek/naujiena/eurolyga/ambicingas-lions-tikslas-atskleide-kada-tikisi-prisijungti-i-eurolyga-1362-2809528?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
@@ -688,6 +1020,80 @@
      ]
     }
    ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c7e3f794d9ab",
+   "url": "https://trendbasket.net/ofitsialnyy-apk-posledney-versii-1xbet-dostupen-dlya/",
+   "title": "Официальный APK последней версии 1xBet доступен для загрузки на Android. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "По данным SimilarWeb за 2024 год (сайт 1xbet.com входил в число наиболее посещаемых ресурсов в индустрии азартных игр), с более чем 120 миллионами визитов ежемесячно, включая трафик с зеркальных доменов."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "95fa49d6e7bb",
+   "url": "https://trendbasket.net/1xbet-skachat-na-android-i-ios-ustanovit-prilozhenie-1khbet-4/",
+   "title": "1xBet скачать на Андроид и iOS - Установить приложение 1хБет APK с официального сайта - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Размер бонуса зависит от величины пополнения и может составлять до 400 USD (примерно 37 тыс.",
+    "Размер бонуса зависит от величины пополнения и может составлять до 400 USD (примерно 37 тыс.",
+    "В России официальный сайт 1xbet стал точкой входа для миллионов игроков, которым важны простота регистрации и быстрый вывод выигрышей."
+   ],
+   "amounts": [
+    "400 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8b492077a116",
+   "url": "https://trendbasket.net/1xbet-zerkalo-i-vkhod-1khbet-registratsiya-i-bonusy-bonus/",
+   "title": "1xbet Зеркало и вход 1хбет: регистрация и бонусы Бонус предоставляется один на семью (IP-адрес и адрес проживания), но на криптовалютные счета он не выдается. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-18",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "По информации за 2024 год, сайт 1xbet.com оказался одним из самых посещаемых в сфере азартных игр, с более чем 120 миллионами ежемесячных визитов, включая трафик с зеркальных доменов."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
    "players": [],
    "nba": false
   },
