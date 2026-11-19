@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19T11:15+00:00",
+ "updated": "2026-11-19T13:34+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,26 +13,25 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
-   "found": 0,
+   "checked": 10,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
@@ -68,53 +67,53 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
+   "oldest": "",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 2,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "TrendBasket",
-   "checked": 18,
-   "found": 8,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops GR",
+   "site": "TrendBasket",
+   "checked": 16,
+   "found": 5,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops EN",
    "checked": 4,
+   "found": 2,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Eurohoops GR",
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -123,18 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 22,
-   "found": 0,
+   "checked": 15,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -142,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -151,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -160,17 +158,17 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -178,17 +176,18 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -206,7 +205,7 @@
   {
    "site": "Marca",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -214,7 +213,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -223,7 +222,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -232,13 +231,12 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -260,12 +258,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -274,7 +272,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -305,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 21,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -318,12 +317,12 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-18",
    "stop": "no older pages"
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -332,10 +331,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -386,6 +385,399 @@
   }
  ],
  "items": [
+  {
+   "id": "00ad1415cef3",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/apu-udine-pedone-punge-trieste-basta-piagnistei-hanno-un-budget-piu-alto-del-nostro-e-sul-mercato",
+   "title": "APU Udine, Pedone punge Trieste: «Basta piagnistei, hanno un budget più alto del nostro». E sul mercato...",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "APU Udine",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,100,000 €, salary budget 3,000,000 €",
+      "25/26: budget 5,000,000 €, salary budget 2,500,000 €",
+      "24/25: budget 5,180,000 €, salary budget 2,290,000 €"
+     ]
+    },
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Scaligera Basket Verona",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,500,000 €, salary budget 3,500,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 3,270,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8d59ee76af80",
+   "url": "https://basketfaul.com.tr/gundem/haliburton-basketbolda-karar-vericiler-yapay-zekadan-yararlaniyor/",
+   "title": "Haliburton: Basketbolda Karar Vericiler Yapay Zekadan Yararlanıyor - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "maas"
+   ],
+   "snippets": [
+    "Maaş açısından hangi anlaşma mantıklı olur?’ diye sormadığını mı düşünüyorsunuz?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2366c868f671",
+   "url": "https://trendbasket.net/1xbet-rsmi-bukmeyker-veb-sayti-mirror-vasitsil-yueklyin-2/",
+   "title": "1xBet - Rəsmi Bukmeyker Veb Saytı - Mirror vasitəsilə yükləyin ️ 1xBet Mobil Tətbiqi - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "Ölçüsü depozit məbləğindən asılıdır və 400 ABŞ dollarına , təxminən 37.000 rubl, qədər çata bilər.",
+    "Mərc – 1x_670106 promo kodu ilə idman növlərində 400 dollara qədər xoş gəlmisiniz bonusu"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6348a60e74a6",
+   "url": "https://trendbasket.net/1xbet-d-1-dqiqy-qeydiyyatdan-kecin-buetuen-4-uesul-1-klikl-2/",
+   "title": "1xBet-də 1 dəqiqəyə qeydiyyatdan keçin: Bütün 4 üsul 1 kliklə, Telefon, E-poçt, Sosial Media - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "SimilarWeb-in 2024-cü il üçün məlumatlarına görə (1xbet.com saytı ayda 120 milyondan çox ziyarətlə qumar sənayesində ən çox ziyarət edilən resurslardan biri idi), o cümlədən güzgü domenlərindən trafik.",
+    "SimilarWeb-in 2024-cü il üçün məlumatlarına görə (1xbet.com saytı ayda 120 milyondan çox ziyarətlə qumar sənayesində ən çox ziyarət edilən resurslardan biri idi), o cümlədən güzgü domenlərindən trafik."
+   ],
+   "amounts": [
+    "120 milyondan"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c7f560042722",
+   "url": "https://trendbasket.net/1xbet-apk-sini-android-cihaziniza-yueklmk-uecuen-qurasdirma/",
+   "title": "1xBet APK-sını Android cihazınıza yükləmək üçün quraşdırma, xüsusiyyətlər və qeydiyyat ilə bağlı məlumatlar - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milyon"
+   ],
+   "snippets": [
+    "1xBet-in azarkeş sayı artıq bir milyondan çoxdur və Avropa, MDB ölkələrindən, eləcə də Rusiyadan olan mərc edənlər mövcuddur."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "590b98aebd6a",
+   "url": "https://trendbasket.net/1xbet-400-dollar-qeydiyyat-bonusu-1xbet-haqqinda-icmal-v/",
+   "title": "1xbet: 400 dollar qeydiyyat bonusu. 1xbet haqqında icmal və mülahizələr. Mərclər futbol, tennis və boksa aiddir. 1xBet-ə daxil olun. - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "400 dollar"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0cf445729a22",
+   "url": "https://trendbasket.net/1xbet-i-android-v-ios-uecuen-yueklyin-1xbet-apk-ttbiqini/",
+   "title": "1xBet-i Android və iOS üçün yükləyin - 1xBet APK tətbiqini rəsmi veb saytından quraşdırın - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Slot oyunlarını işə salmaq üçün hədiyyə almaq üçün yeni oyunçular profillərini doldurmalı, mobil telefonlarını aktivləşdirməli və ən azı 2 dollar ilk depozit etməlidirlər.",
+    "Qeydiyyatdan keçdikdən sonra 1xBet yeni oyunçulara 1500 dollara qədər kazino bonusu + 210 pulsuz fırlanma təqdim edir!",
+    "Kampaniyada iştirak etmək və başlanğıc bonusu almaq üçün yeni oyunçu sadəcə hesabını 2 ABŞ dolları ilə doldurmalıdır."
+   ],
+   "amounts": [
+    "2 dollar"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2b7a308953f4",
+   "url": "https://www.eurohoops.net/en/euroleague/2037682/injury-report-round-13-smits-a-scratch-for-tonight/",
+   "title": "EuroLeague Round 13 injury report highlights Rolands Smits setback",
+   "site": "Eurohoops EN",
+   "country": "",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Official roster updates heading to Round 13 of the 2026–27 EuroLeague Regular Season"
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Rolands Šmits",
+     "sheet": [
+      "25/26 Anadolu Efes S.K.: 1,300,000 €",
+      "23/24 Žalgiris Kaunas: 770,000 €",
+      "22/23 Žalgiris Kaunas: 600,000 €",
+      "19/20 FC Barcelona Basquet: 270,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "29e629791de3",
+   "url": "https://www.eurohoops.net/en/euroleague/2037668/tyler-dorsey-nikola-milutinov-updates-olympiacos-euroleague/",
+   "title": "Bartzokas rules out Dorsey, expects Milutinov to miss Real Madrid",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Tyler Dorsey remains out for Olympiacos as Nikola Milutinov nears another absence in the 2026–27 EuroLeague Regular Season",
+    "Asked if the 30-year-old shooting guard would rejoin the 12-player roster for Round 13 of the 2026–27 EuroLeague Regular Season during a pregame media session on Thursday, head coach Georgios Bartzokas initially answered with a single word: “No”."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Georgios Bartzokas",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,000,000 €",
+      "25/26 Olympiacos B.C.: 1,100,000 €",
+      "24/25 Olympiacos B.C.: 900,000 €",
+      "15/16 Lokomotiv Kuban: 550,000 €"
+     ]
+    },
+    {
+     "name": "Nikola Milutinov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,816,000 €",
+      "25/26 Olympiacos B.C.: 2,720,000 €",
+      "24/25 Olympiacos B.C.: 1,600,000 €",
+      "23/24 Olympiacos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Tyler Dorsey",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,800,000 €",
+      "25/26 Olympiacos B.C.: 1,400,000 €",
+      "24/25 Olympiacos B.C.: 1,450,000 €",
+      "23/24 Fenerbahce Istanbul: 1,485,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "794645b590d8",
+   "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2036282/protathlima-v-efivon-emfatiki-entos-edras-niki-epi-tou-ao-ekalis/",
+   "title": "Πρωτάθλημα Β’ Εφήβων: Εμφατική εντός έδρας νίκη επί του ΑΟ Εκάλης",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Eurohoops Academy – ΑΟ Εκάλης 71-37 Δεκάλεπτα: 15-10, 33-18, 53-27, 71-37 Eurohoops Academy (Κόντος): Αναγνωστόπουλος 15(3), Τερνοβένκο, Φραντζεσκάκης 21(3), Βαγγελάτος 6, Μπάτσης 8, Νταής 2, Αλιφέρης 4, Κούβαλης 4, Παταβούκας 4(1), Βαρδακαστάνης 7(1)."
+   ],
+   "amounts": [
+    "37 Eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c5b3f85d9634",
+   "url": "https://www.athletiko.gr/o-paoy-gkasol-kai-i-vanesa-mpraiant-theloyn-na-agorasoyn-mazi-tis-los-antzeles-sparks-116847",
+   "title": "Ο Πάου Γκασόλ και η Βανέσα Μπράιαντ θέλουν να αγοράσουν τις Λος Αντζελες Σπαρκς | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο Πάου Γκασόλ και η Βανέσα Μπράιαντ εξετάζουν από κοινού το ενδεχόμενο να καταθέσουν πρόταση για την αγορά των Σπαρκς, ενώ αξίζει να σημειωθεί ότι πέραν τις αγοραπωλησίας που αποτιμάται σε αξία 700 εκατομμυρίων δολαρίων, ένα από τα επενδυτικά γκρουπ έχει προτείνει τη μεταφορά της έδρας της ομάδας…",
+    "Επίσης, ο Ισπανός Hall of Famer έχει ήδη οικονομική συμμετοχή στο WNBA, καθώς συμμετείχε στην αύξηση κεφαλαίου ύψους 75 εκατομμυρίων δολαρίων της λίγκας το 2022 και αποτελεί μέλος επενδυτικού σχήματος που κατέχει το 16% της ταχέως αναπτυσσόμενης λίγκας .",
+    "Ο Τζος Κούσνερ και ο Μπομπ Άιγκερ, οι οποίοι έχουν συμφωνήσει να αγοράσουν τους «Λιμνάνθρωπους» από τον Γουόλτερ, με αποτίμηση 12,5 δισεκατομμυρίων δολαρίων, αρχικά δεν είχαν πρόθεση να καταθέσουν πρόταση για την αγορά των Σπαρκς, αλλά εξακολουθεί να υπάρχει το ενδεχόμενο να συμμετάσχουν σε κάποι…"
+   ],
+   "amounts": [
+    "700 εκατομμυρίων",
+    "75 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "a1673eb2e92f",
+   "url": "https://www.sdna.gr/mpasket/1488243_idioktitis-milan-nba-tha-kyriarhisei-stin-eyropaiki-agora-toy-mpasket",
+   "title": "Ιδιοκτήτης Μίλαν: «Το NBA θα κυριαρχήσει στην ευρωπαϊκή αγορά του μπάσκετ»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "δολαρι"
+   ],
+   "snippets": [
+    "Πού θα βρίσκεται το NBA Europe σε 10 χρόνια; Ας το θέσω ως εξής: αν η νέα ομάδα του NBA στο Λας Βέγκας αποτιμάται στα 13-14 δισεκατομμύρια δολάρια, πιστεύω ότι σε 10 χρόνια οι σύλλογοι του NBA Europe θα αξίζουν τουλάχιστον το μισό αυτού του ποσού»."
+   ],
+   "amounts": [],
+   "seasons": [
+    "13/14"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "ced69eb2021d",
    "url": "https://trendbasket.net/skachat-1xbet-vozmite-droid-besplatno-poslednyaya/",
