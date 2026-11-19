@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T09:23+00:00",
+ "updated": "2026-11-19T11:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
    "checked": 8,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,16 +77,16 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -95,17 +95,18 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 23,
-   "found": 9,
+   "checked": 18,
+   "found": 8,
    "error": "",
-   "pages": 5,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "pages": 3,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -113,7 +114,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -122,7 +123,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -132,16 +133,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 14,
-   "found": 1,
+   "checked": 22,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-18",
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,7 +151,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,8 +160,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-18",
@@ -168,8 +169,8 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -177,16 +178,16 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -204,8 +205,8 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -213,7 +214,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -222,7 +223,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -231,19 +232,20 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball Sphere",
-   "checked": 5,
-   "found": 1,
+   "checked": 11,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -258,16 +260,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -303,7 +305,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 9,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -321,7 +323,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,10 +332,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -384,6 +386,483 @@
   }
  ],
  "items": [
+  {
+   "id": "ced69eb2021d",
+   "url": "https://trendbasket.net/skachat-1xbet-vozmite-droid-besplatno-poslednyaya/",
+   "title": "Скачать 1xBet возьмите Дроид бесплатно ️ последняя разновидность использования 1хБет в видах Android - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Новый клиент за блатной первый депозит впоследствии сосредоточивания в применении добывает с 1xBet онлайн исходный премия получите и распишитесь необходимую сумму вплоть до 400 USD в видах спортивных условия!",
+    "горизонталь, активизировать свой поворотливый и внести на баланс первый депонент во объеме через 2 USD."
+   ],
+   "amounts": [
+    "400 USD",
+    "2 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "bef1f5c5232e",
+   "url": "https://trendbasket.net/zakachat-1xbet-nate-droid-ofitsialnoe-dopolnenie-1khbet/",
+   "title": "Закачать 1xBet нате Дроид - Официальное Дополнение 1хБет - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Абы возыметь гостинец в видах запуска слотов, неношеному геймеру бог велел заполнить вертикаль, активировать свой мобильный вдобавок внести получите и распишитесь баланс-экстерн дебютный депозит во объеме через 2 USD.",
+    "Новичку после сосредоточивания компания Один икс Ремиз подносит казино-премия в размере вплоть до 1500 USD + 210 фриспинов!",
+    "Абы возыметь гостинец в видах запуска слотов, неношеному геймеру бог велел заполнить вертикаль, активировать свой мобильный вдобавок внести получите и распишитесь баланс-экстерн дебютный депозит во объеме  через 2 USD."
+   ],
+   "amounts": [
+    "2 USD",
+    "1500 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "992444366df9",
+   "url": "https://trendbasket.net/zakachat-addendum-1xbet-podvizhnoe-addenda-v-vidakh-android/",
+   "title": "Закачать аддендум 1xBet - Подвижное адденда в видах Android APK а еще iPhone iOS - Непраздничное зеркало - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Новые пользователи повышают возыметь вознаграждение получите и распишитесь дебютный депонент до $500 при долгосрочном использовании промокода.",
+    "Новые пользователи повышают возыметь вознаграждение получите и распишитесь дебютный депонент до $500 при долгосрочном использовании промокода."
+   ],
+   "amounts": [
+    "$500"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Plana",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 85,700 €, salary budget 66,846 €",
+      "24/25: budget 54,309 €",
+      "23/24: budget 41,655 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2d9379993bba",
+   "url": "https://trendbasket.net/1xbet-obzor-stavki-poluchite-i-raspishites-aviasport-onlayn/",
+   "title": "1xBet обзор: ставки получите и распишитесь авиаспорт онлайн, должностной журнал БК 1хБет - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "-й скидка возьмите первый депозит 100 EUR!"
+   ],
+   "amounts": [
+    "100 EUR"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "46f576587f1d",
+   "url": "https://trendbasket.net/zakachat-1xbet-na-droid-apk-annotatsiya-po-chasti-ustanovke/",
+   "title": "Закачать 1xBet на Дроид APK: Аннотация по части установке, функционал а еще регистрация - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Возьми вплоть до 400 USD бонуса, еликий можно отыграть во экспрессах изо коэффициентом не далее 1.40 в продолжение 30 суток.",
+    "Зарегайся возьмите 1xBet и пополни счет  через 2 USD."
+   ],
+   "amounts": [
+    "400 USD",
+    "2 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "52b55f12d0a4",
+   "url": "https://trendbasket.net/1xbet-promokod-1tennis-veb-obozrenie-bonusa-do-800-usd/",
+   "title": "1xbet промокод 1TENNIS: веб-обозрение бонуса до 800 USD - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "800 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fc614902fc6f",
+   "url": "https://trendbasket.net/skachat-1xbet-nate-droid-apk-instruktsiya-v-oblasti-apparate/",
+   "title": "Скачать 1xBet нате Дроид APK: Инструкция в области аппарате, функционал и фиксация - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Абы приобрести дар в видах запуска слотов, неношеному игроку можно заграждать линия, активировать блатной подвижный вдобавок ввезти нате баланс-экстерн дебютный депонент в размере  через 2 USD."
+   ],
+   "amounts": [
+    "2 USD"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "80683564d0fd",
+   "url": "https://trendbasket.net/1xbet-luchnik-a-takzhe-verbovoe-1khbet-oformlenie-a-takzhe/",
+   "title": "1xbet Лучник а также вербовое 1хбет: оформление а также скидки - Basketbol Haberleri",
+   "site": "TrendBasket",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million"
+   ],
+   "snippets": [
+    "Платформа исполнит кастомизируемый междумордие, миллион способов оплаты (банковые игра в карты, внутрисетевые платёжные системы, электрические кошельки, еще внутренняя бонусная автоирис из промоакциями а также фрибетами.",
+    "По достоверным сведениям SimilarWeb за 2024 бадняк, журнал 1xbet.com нагорал в адато самый что ни на есть посещаемых ресурсов в промышленности целеустремленных выступлений, с больше 120 миллионами визитов в месяц, включая трафик из зеркальных доменов."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1b184dbb9367",
+   "url": "https://www.eurohoops.net/en/euroleague/2037619/sasha-vezenkov-round-12-mvp-euroleague/",
+   "title": "Vezenkov earns EuroLeague Round 12 MVP honors after monster game",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "sum of money"
+   ],
+   "snippets": [
+    "Sasha Vezenkov earned another Most Valuable Player award after being named the MVP for Round 12 of the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "25f6529b8ca5",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2037627/pou-pas-vre-karamitro-o-giannis-blokare-me-ta-dio-cheria-ton-rouki-breinten-beris-video/",
+   "title": "Πού πας βρε Καραμήτρο; Ο Γιάννης μπλόκαρε με τα δύο χέρια τον ρούκι, Μπρέιντεν Μπέρις (Video)",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Ο ρούκι γκαρντ των Μιλγουόκι Μπακς , Μπρέιντεν Μπέρις, με ύψος 193 εκατοστών, είχε το θάρρος – ή το μπασκετικό θράσος αν θέλετε – να πάει να καρφώσει με το ένα χέρι μπροστά στον Γιάννη."
+   ],
+   "amounts": [
+    "193 εκατοστών"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "37e46d3933c0",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2587864/idioktitis-podosfairikis-milan-nba-tha-kyriarhisei-stin-eyropi",
+   "title": "Ιδιοκτήτης ποδοσφαιρικής Μίλαν: «Το ΝΒΑ θα κυριαρχήσει στην Ευρώπη, η EuroLeague λειτουργεί 26 χρόνια χωρίς κέρδη»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "δολαρι"
+   ],
+   "snippets": [
+    "Πού θα βρίσκεται το NBA Europe σε 10 χρόνια; Ας το θέσω ως εξής: αν η νέα ομάδα του NBA στο Λας Βέγκας αποτιμάται στα 13-14 δισεκατομμύρια δολάρια, πιστεύω ότι σε 10 χρόνια οι σύλλογοι του NBA Europe θα αξίζουν τουλάχιστον το μισό αυτού του ποσού».",
+    "AC Milan owner Gerry Cardinale didn't hold back in his criticism of the EuroLeague 🗣️ He also predicted multibillion-dollar valuations for NBA Europe clubs within a decade: https://t.co/rSSDmOe1Ty https://t.co/nObjsYqt0d"
+   ],
+   "amounts": [],
+   "seasons": [
+    "13/14"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "2a7c66d0f82a",
+   "url": "https://telesport.rs/2026/11/19/obradovic-nije-bio-zadovoljan-lesorom-zamalo-je-dobio-otkaz/",
+   "title": "„Obradović nije bio zadovoljan Lesorom, zamalo je dobio otkaz“ - Telesport",
+   "site": "Telesport",
+   "country": "Montenegro",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "O detaljima iz tog perioda govorio je nekadašnji kapiten Partizana Kevin Panter, gostujući u emisiji „Euro Insiders“."
+   ],
+   "amounts": [],
+   "seasons": [
+    "22/23"
+   ],
+   "teams": [
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 18/19 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5b1f0e70c3d7",
+   "url": "https://meridiansport.rs/kosarka/guduric-o-teskom-periodu-u-milanu-istu-situaciju-sam-doziveo-sa-srbijom-svi-su-odmah-trazili-krivca-a-istina-je-drugacija/",
+   "title": "Gudurić o teškom periodu u Milanu: Istu situaciju sam doživeo sa Srbijom... Svi su odmah tražili krivca, a istina je drugačija",
+   "site": "Meridian Sport",
+   "country": "Turkey",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "U Evroligi, gde su protivnici izuzetno jaki, budžeti sve veći, a broj utakmica raste, ako dva ili tri igrača ne igraju dobro, rizikujete da izgubite samopouzdanje, a onda ga je veoma teško vratiti.“"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "KK Olimpija",
+     "country": "Slovenia",
+     "sheet": [
+      "15/16: budget 3,500,000 €",
+      "12/13: budget 3,940,507 €",
+      "09/10: budget 2,900,000 €, salary budget 1,650,000 €"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Marko Gudurič",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,700,000 €",
+      "25/26 Olimpia Milano: 2,700,000 €",
+      "18/19 Fenerbahce Istanbul: 400,000 €",
+      "17/18 Fenerbahce Istanbul: 350,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "81c383ed47f2",
+   "url": "https://www.marca.com/baloncesto/basketfeb/2026/11/19/pedro-sanchez-vuelve-jugar-estudiantes-presentar-nuevo-bono-deporte-200-euros.html",
+   "title": "Pedro Sánchez vuelve a 'jugar' con Estudiantes para presentar un nuevo Bono Deporte de 200 euros",
+   "site": "Marca",
+   "country": "Spain",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Pedro Sánchez: \"200 euros en un nuevo Bono Deporte para que nada te frene\"",
+    "200 euros en un nuevo Bono Deporte para que nada te frene."
+   ],
+   "amounts": [
+    "200 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Baloncesto Estudiantes",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 2,000,000 €",
+      "22/23: budget 1,300,000 €",
+      "21/22: budget 1,300,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0dcd10a134c7",
+   "url": "https://www.dnevnik.si/novice/svet/hrvaski-koncar-podpisal-sporazum-za-izvedbo-energetskega-projekta-v-savdski-arabiji-2841948/",
+   "title": "Hrvaški Končar podpisal sporazum za izvedbo energetskega projekta v Savdski Arabiji",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar"
+   ],
+   "snippets": [
+    "\"Privlačnost trga dodatno potrjuje načrt družbe Saudi Electricity Company, ki do leta 2030 predvideva za približno 126 milijard dolarjev naložb v razvoj elektroenergetske infrastrukture, pri čemer bo največji del sredstev namenjen prav prenosnemu in distribucijskemu omrežju,\" je dejal."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "f0184d867589",
    "url": "https://sportando.basketball/udine-pedone-trieste-budget-piagnistei-derby/",
