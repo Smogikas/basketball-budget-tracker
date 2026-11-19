@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:06+00:00",
+ "updated": "2026-11-19T05:21+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,16 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -30,22 +21,32 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages",
+   "skipped_nba": 2
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
@@ -103,12 +104,13 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
@@ -121,25 +123,25 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,12 +150,12 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
@@ -175,12 +177,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -202,21 +204,21 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -265,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,21 +303,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -382,6 +384,41 @@
   }
  ],
  "items": [
+  {
+   "id": "18cc29b844b3",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261119/1004252803/aday-mara-unicornio-jokic-bate-record-vuelve-estampar-tapones.html",
+   "title": "Aday Mara, un unicornio muy Jokic: bate un récord y vuelve a estampar tapones",
+   "site": "Mundo Deportivo",
+   "country": "Australia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "masa salarial",
+    "salar"
+   ],
+   "snippets": [
+    "Y parte de lo que ya no tiene OKC lo poseen los Hawks, a quienes OKC tuvieron que traspasar a Luguentz Dort -16 puntos-, y Aaron Wiggins -14-, para aliviar su masa salarial."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Illawarra Hawks",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,700,000 €, salary budget 1,732,994 €",
+      "24/25: budget 3,600,000 €, salary budget 1,695,651 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "f817a4bae5ed",
    "url": "https://basketnews.com/news-259803-kobe-bryant-wife-seeking-to-buy-los-angeles-team-with-pau-gasol.html#utm_medium=rss&utm_content=news",
