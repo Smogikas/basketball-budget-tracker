@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:30+00:00",
+ "updated": "2026-11-19T03:06+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 7,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -76,12 +76,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 14,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -157,10 +157,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -238,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
