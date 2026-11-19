@@ -1,30 +1,29 @@
 {
- "updated": "2026-11-18T23:05+00:00",
+ "updated": "2026-11-19T01:30+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "BasketNews.lt",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 8,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -32,31 +31,30 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-04",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Israel Hayom",
@@ -78,12 +76,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -105,20 +103,19 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -133,35 +130,35 @@
   },
   {
    "site": "Athletiko",
-   "checked": 14,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 10,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -169,31 +166,30 @@
   },
   {
    "site": "Telesport",
-   "checked": 5,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
-   "checked": 3,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -206,44 +202,44 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -278,11 +274,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -296,12 +292,12 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
@@ -314,12 +310,12 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -332,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -386,6 +382,81 @@
   }
  ],
  "items": [
+  {
+   "id": "f817a4bae5ed",
+   "url": "https://basketnews.com/news-259803-kobe-bryant-wife-seeking-to-buy-los-angeles-team-with-pau-gasol.html#utm_medium=rss&utm_content=news",
+   "title": "Kobe Bryant wife seeking to buy Los Angeles team with Pau Gasol",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "The Los Angeles Sparks are officially up for sale, as majority owner Mark Walter is seeking a record-breaking $700 million for the franchise and its new $150 million practice facility.",
+    "He notably sold the Los Angeles Lakers to Josh Kushner and Bob Iger for a historic $12.5 billion deal after just 14 months of being the team's majority owner."
+   ],
+   "amounts": [
+    "$700 million",
+    "$150 million",
+    "$12.5"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "38080c030122",
+   "url": "https://basketballsphere.com/en/reddingtons-acca-of-the-day-thursday-nov-19-2026/",
+   "title": "Reddington’s Acca of the Day – Thursday, Nov. 19, 2026",
+   "site": "Basketball Sphere",
+   "country": "Israel",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "It’s true that they found a way to beat Baskonia on Tuesday, but had they faced any of the other 18 EuroLeague teams, they would have lost."
+   ],
+   "amounts": [
+    "18 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "8c8b7895ed27",
    "url": "https://www.athletiko.gr/pire-thesi-i-aek-den-tha-epitrepsoyme-se-kanenan-n-amfisvitisei-xana-tin-prospatheia-poy-katavalletai-116732",
