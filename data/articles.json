@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19T19:15+00:00",
+ "updated": "2026-11-19T21:05+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 8,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -13,17 +13,17 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -32,7 +32,16 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,18 +49,9 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 5,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
@@ -81,12 +81,12 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -97,14 +97,14 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "HTTP 500 for https://trendbasket.net/feed/",
+   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
    "pages": 0,
    "oldest": "",
-   "stop": "page 1 failed: HTTP 500 for https://trendbasket.net/feed/"
+   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 27,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,16 +140,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
   },
   {
    "site": "Sport24",
-   "checked": 7,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,26 +158,26 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
+   "checked": 18,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-18",
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -185,8 +185,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -208,7 +208,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
@@ -216,17 +216,16 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-15",
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
   {
@@ -240,7 +239,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -258,29 +257,29 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
    "stop": "no older pages"
   },
   {
-   "site": "Basketball.hr",
+   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball.hr",
+   "checked": 5,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
@@ -294,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-15",
    "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -384,6 +383,357 @@
   }
  ],
  "items": [
+  {
+   "id": "fdca50bf764b",
+   "url": "https://sportando.basketball/partizan-belgrado-sani-becirovic-nominato-nuovo-direttore-del-club/",
+   "title": "Partizan Belgrado, Sani Bećirović nominato nuovo direttore del club - Sportando",
+   "site": "Sportando",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Il Consiglio di amministrazione del KK Partizan Mozzart Bet ha inoltre voluto precisare, in riferimento ad alcune notizie apparse sui media, che il club dispone di 20 milioni di euro provenienti dalle proprie entrate, senza il contributo della Repubblica di Serbia o di aziende statali nel proprio…",
+    "Partizan Belgrado, 20 milioni di ricavi e novità in società: Sani Becirovic è il nuovo direttore del club.",
+    "Tutti gli obblighi sono stati regolarmente assolti, con il pagamento di 5.173.432 euro alla Repubblica di Serbia tra imposte, contributi e IVA."
+   ],
+   "amounts": [
+    "20 milioni",
+    "5.173.432 euro"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sani Bečirovič",
+     "sheet": [
+      "07/08 Panathinaikos B.C.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0b41bb24c0ee",
+   "url": "https://basketnews.com/news-259862-dzanan-musa-calls-out-referees-after-scary-eye-injury-in-dubais-win.html#utm_medium=rss&utm_content=news",
+   "title": "Dzanan Musa calls out referees after scary eye injury in Dubai's win",
+   "site": "BasketNews.com",
+   "country": "United Arab Emirates",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Dubai Basketball took down Maccabi Tel Aviv 80-74 in Round 13 EuroLeague action with Dzanan Musa suffering a scary eye injury.",
+    "Dubai Basketball took down Maccabi Tel Aviv 80-74 in Round 13 EuroLeague action with Dzanan Musa suffering a scary eye injury."
+   ],
+   "amounts": [
+    "13 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (17), 25/26 (16), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1d83c308f100",
+   "url": "https://www.pianetabasket.com/euroleague/partizan-sani-becirovic-nuovo-direttore-del-club-bilancio-positivo-e-20-milioni-di-euro-di-ricavi-propri",
+   "title": "Partizan: Sani Becirovic nuovo direttore del club. Bilancio positivo e 20 milioni di euro di ricavi propri",
+   "site": "PianetaBasket",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "bilanc",
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "20 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sani Bečirovič",
+     "sheet": [
+      "07/08 Panathinaikos B.C.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "c1a0a523f3c2",
+   "url": "https://telesport.rs/2026/11/19/partizan-otkrio-finansijsko-stanje-ceka-se-nova-vlada/",
+   "title": "Partizan otkrio finansijsko stanje, čeka se nova Vlada! - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    ",,Sve obaveze su regulisane, uz plaćenih 5.173.432 evra prema Republici Srbiji kroz poreze, doprinose i PDV.”",
+    "Napomenuto je da klub raspolaže sa 20 miliona evra sopstvenih prihoda, bez državnog učešća."
+   ],
+   "amounts": [
+    "5.173.432 evra",
+    "20 miliona"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fd6ae737c741",
+   "url": "https://www.dnevnik.si/sport/kosarka/bomba-iz-beograda-sani-becirovic-novi-direktor-partizana-2842132/",
+   "title": "Bomba iz Beograda – Sani Bečirović novi direktor Partizana",
+   "site": "Dnevnik.si",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Kot odziv na nekatera medijska poročila upravni odbor KK Partizan poudarja, da ima klub na razpolago 20 milijonov evrov iz lastnih virov prihodkov, pri čemer proračun ne vključuje nobenih sredstev Republike Srbije ali podjetij v državni lasti.",
+    "V normalnih okoliščinah bo cena za franšizo okoli 80 milijonov evrov."
+   ],
+   "amounts": [
+    "80 milijonov",
+    "20 milijonov"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sani Bečirovič",
+     "sheet": [
+      "07/08 Panathinaikos B.C.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "e51ad68ea1fe",
+   "url": "https://www.dnevnik.si/novice/ljubljana/milijonski-posel-v-podutiku-obcina-kupuje-gozd-od-druzine-porocne-price-jankovicevega-sina-2842133/",
+   "title": "Milijonski posel: občina kupuje gozd od družine poročne priče Jankovićevega sina",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Ljubljanska občina je za gozd v Podutiku odštela več kot 2,29 milijona evrov, čeprav za načrtovani nordijski center še nima investitorja.",
+    "Predlog je bil potrjen, kar pomeni, da gre občina v nakup 5,7 hektara gozda v Podutiku za 2,29 milijona evrov.",
+    "Za kvadratni meter to nanese 40 evrov."
+   ],
+   "amounts": [
+    "2,29 milijona",
+    "2,2 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2383ce8308a7",
+   "url": "https://www.dnevnik.si/novice/slovenija/vecina-poslancev-bo-vladni-predlog-zakona-za-financiranje-investicij-v-zdravstvo-podprla-2842130/",
+   "title": "Večina poslancev bo vladni predlog zakona za financiranje investicij v zdravstvo podprla",
+   "site": "Dnevnik.si",
+   "country": "Slovakia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"To ni obljuba, da bo vsak projekt zaključen jutri, je pa podlaga, da se velike investicije lahko načrtujejo dolgoročno in da njihovo financiranje ne obstane ob koncu posameznega proračunskega leta,\" je povedal minister za zdravje Tadej Ostrc.",
+    "2034 v celoti prenesejo na podračun proračunskega sklada pri ministrstvu za zdravje.",
+    "DZ je danes razpravljal o vladnem predlogu zakona o zagotavljanju finančnih sredstev za investicije v slovensko zdravstvo, ki podaljšuje obdobje financiranja do leta 2036 in za investicije namenja 1,87 milijarde evrov."
+   ],
+   "amounts": [
+    "326 milijonov"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BK Patrioti Levice",
+     "country": "Slovakia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,006,498 €, salary budget 654,224 €",
+      "24/25: budget 716,082 €, salary budget 501,257 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9595895f778a",
+   "url": "https://basketball.hr/vijesti/osnivacka-glavna-skupstina-kk-cibona-sdd-cilj-je-jasan-klub-koji-ce-opet-puniti-drazenov-dom-i-vratiti-se-na-razine-na-kojima-zasluzuje-biti/20859",
+   "title": "Osnivačka Glavna skupština KK Cibona s.d.d., cilj je jasan - klub koji će opet puniti Draženov dom i vratiti se na razine na kojima zaslužuje biti - Basketball.hr",
+   "site": "Basketball.hr",
+   "country": "Croatia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eura",
+    "milijun"
+   ],
+   "snippets": [
+    "Dioničari su upoznati i s tijekom preoblikovanja, uključujući upis dionica u kojem je klub u novcu prikupio više od potrebnih 1,6 milijuna eura."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "99d6bd732a89",
    "url": "https://sportando.basketball/apu-udine-pedone-dichiarazioni-mai-pronunciate-massimo-rispetto-per-trieste-e-orgoglio-per-il-nostro-modello-debry-sara-festa-del-basket-regionale/",
