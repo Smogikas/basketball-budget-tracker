@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T17:19+00:00",
+ "updated": "2026-11-19T19:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -13,12 +13,12 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
@@ -41,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -113,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 14,
+   "checked": 27,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 15,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -158,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 21,
-   "found": 1,
+   "checked": 12,
+   "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-19",
@@ -167,7 +167,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,17 +176,17 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -203,8 +203,8 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
@@ -212,25 +212,26 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 4,
-   "oldest": "2026-11-13",
+   "pages": 3,
+   "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,7 +240,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -267,7 +268,7 @@
   {
    "site": "Ekipa Svet24",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -298,12 +299,11 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +312,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 8,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -330,11 +330,11 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-18",
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
@@ -384,6 +384,168 @@
   }
  ],
  "items": [
+  {
+   "id": "99d6bd732a89",
+   "url": "https://sportando.basketball/apu-udine-pedone-dichiarazioni-mai-pronunciate-massimo-rispetto-per-trieste-e-orgoglio-per-il-nostro-modello-debry-sara-festa-del-basket-regionale/",
+   "title": "Apu Udine, Pedone: \"Dichiarazioni mai pronunciate, massimo rispetto per Trieste e orgoglio per il nostro modello. Debry sarà festa del basket regionale\" - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "«L’espressione “Basta piagnistei, hanno un budget più alto”, riportata nel titolo, non è mai stata da me pronunciata.",
+    "APU Udine è orgogliosa del proprio modello gestionale, caratterizzato da un eccellente fair play finanziario, dal rigoroso rispetto dei budget annuali e dalla capacità di alzare progressivamente, stagione dopo stagione, l’asticella degli investimenti e dei risultati.",
+    "In questo quadro ho semplicemente osservato come mi risultino difficili da comprendere alcune lamentele relative al budget di Trieste, lette negli scorsi mesi sugli organi di stampa, considerando che si tratta di un budget assolutamente rispettabile e sostanzialmente assimilabile al nostro."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "APU Udine",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,100,000 €, salary budget 3,000,000 €",
+      "25/26: budget 5,000,000 €, salary budget 2,500,000 €",
+      "24/25: budget 5,180,000 €, salary budget 2,290,000 €"
+     ]
+    },
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "53e7bc2325bb",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/sani-becirovic-direktor-partizan-mozzart-beta/559224",
+   "title": "Sani Bećirović direktor Partizan Mozzart Beta | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Kako navodi Partizan Mozzart Bet, sve obaveze su regulisane, uz plaćenih 5.173.432 evra za poreze, doprinose i PDV.",
+    "Takođe, ističe se da da klub iz sopstvenih prihoda raspolaže sa 20.000.000 evra."
+   ],
+   "amounts": [
+    "5.173.432 evra",
+    "20.000.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sani Bečirovič",
+     "sheet": [
+      "07/08 Panathinaikos B.C.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8a60724c6dff",
+   "url": "https://meridiansport.rs/kosarka/sani-becirovic-novi-direktor-partizana/",
+   "title": "Sani Bećirović novi direktor Partizana | MeridianBetSport",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Navedeno je da je Republici Srbiji kroz poreze, doprinose i PDV plaćeno 5.173.432 evra."
+   ],
+   "amounts": [
+    "5.173.432 evra"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Sani Bečirovič",
+     "sheet": [
+      "07/08 Panathinaikos B.C.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "2ee3910e928c",
+   "url": "https://ekipa.svet24.si/sport/kosarka/mednarodna-kosarka/doncic-dragic-oblak-in-kopitar-med-najbogatejsimi-toliko-milijonov-imajo-1941894",
+   "title": "Dončić, Dragić, Oblak in Kopitar med najbogatejšimi, toliko milijonov imajo",
+   "site": "Ekipa Svet24",
+   "country": "Slovenia",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Od milijonov se zvrti.",
+    "Skupno premoženje stoterice se je povečalo za 12 odstotkov na 12,53 milijarde evrov.",
+    "Košarkar LA Lakers je ob ocenjeni rasti premoženja za 23 milijonov na 149 milijonov evrov na 23."
+   ],
+   "amounts": [
+    "23 milijonov",
+    "149 milijonov",
+    "69,4 milijona",
+    "65,2 milijona",
+    "49,9 milijona",
+    "622 milijonov",
+    "481 milijonov",
+    "414 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "65ceb2fa4014",
    "url": "https://www.eurohoops.net/tr/euroleague-tr/2037772/milan-baskanindan-euroleaguee-26-yildir-var-olup-nasil-kar-edemezsiniz/",
