@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19T15:14+00:00",
+ "updated": "2026-11-19T17:19+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,15 +13,6 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 2,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -30,9 +21,19 @@
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
+   "site": "BasketNews.com",
    "checked": 3,
-   "found": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -40,8 +41,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -49,11 +50,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-04",
+   "oldest": "2026-11-05",
    "stop": "reached start date"
   },
   {
@@ -103,24 +104,6 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 6,
-   "found": 2,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -129,8 +112,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 5,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 21,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
-   "found": 2,
+   "checked": 15,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-18",
@@ -148,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -157,11 +158,11 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
-   "found": 0,
+   "checked": 21,
+   "found": 1,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
+   "pages": 3,
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
@@ -175,12 +176,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
@@ -202,12 +203,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -220,10 +221,10 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 4,
    "oldest": "2026-11-13",
    "stop": "reached articles checked before"
   },
@@ -233,9 +234,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -257,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -303,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 3,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +312,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -330,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
@@ -384,6 +384,157 @@
   }
  ],
  "items": [
+  {
+   "id": "65ceb2fa4014",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2037772/milan-baskanindan-euroleaguee-26-yildir-var-olup-nasil-kar-edemezsiniz/",
+   "title": "Milan Başkanı’ndan EuroLeague’e: “26 Yıldır Var Olup Nasıl Kar Edemezsiniz?”",
+   "site": "Eurohoops TR",
+   "country": "Italy",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar"
+   ],
+   "snippets": [
+    "Cardinale, ayrıca NBA Europe’a katılacak kulüplerin ’10 yıl içinde en az 6-7 milyar dolar piyasa değerine ulaşacağını’ söyledi:",
+    "Şöyle söyleyeyim: Las Vegas’taki yeni NBA takımına 13-14 milyar dolar değer biçiliyorsa, NBA Europe kulüplerinin de 10 yıl içinde ‘bunun en az yarısı kadar’ değere ulaşacağına inanıyorum.”"
+   ],
+   "amounts": [],
+   "seasons": [
+    "13/14"
+   ],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f0cdb24b611f",
+   "url": "https://www.sport24.gr/basket/teitoum-paramenei-o-sxediasmos-gia-tin-enarxi-tou-nba-europe-ton-oktovrio-tou-2027/",
+   "title": "Τέιτουμ: \"Παραμένει ο σχεδιασμός για την έναρξη του NBA Europe τον Οκτώβριο του 2027\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Πιστεύω ότι είναι μία από τις μεγαλύτερες ευκαιρίες δημιουργίας αξίας σε ολόκληρο τον αθλητικό κόσμο, καθώς το μπάσκετ είναι το δεύτερο μεγαλύτερο άθλημα στην Ευρώπη, το ταχύτερα αναπτυσσόμενο άθλημα, με σχεδόν 300 εκατομμύρια οπαδούς του μπάσκετ στην Ευρώπη.",
+    "Ξαναλέω, είναι το δεύτερο πιο δημοφιλές άθλημα στην Ευρώπη, υπάρχουν 300 εκατομμύρια παθιασμένοι φίλαθλοι του μπάσκετ στην Ευρώπη, οπότε θέλουμε να διατηρήσουμε αυτή την παράδοση.",
+    "Τζέρι Καρντινάλε :”Αν οι ομάδες επέκτασης του NBA στο Λας Βέγκας συζητιούνται σε τιμή από 13 έως 14 δισεκατομμύρια δολάρια, θα πάρω το μισό από αυτό το ποσό”."
+   ],
+   "amounts": [
+    "300 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "1bfddebc2cd5",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2587983/milane-alli-glossa-olympiakos-kai-ntorsei",
+   "title": "Η διαφορετική προσέγγιση του Ολυμπιακού και του Ντόρσεϊ δεν δίνει λύση",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Για τον Γιώργο Μπαρτζώκα, η επιστροφή του Τάιλερ Ντόρσεϊ σε έναν ουσιαστικό ρόλο στο σύνολο περνάει πρώτα από την προπόνηση, τη συνέπεια και την αποδοχή της ομαδικής λειτουργίας."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "019d4c350a7f",
+   "url": "https://www.marca.com/baloncesto/2026/11/19/pedro-sanchez-rememora-pasado-estudiantes-apoyar-deporte-joven-video.html",
+   "title": "Pedro Sánchez rememora su pasado en Estudiantes para apoyar el deporte joven",
+   "site": "Marca",
+   "country": "Spain",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "El Bono Joven de deporte de 200 euros al año ."
+   ],
+   "amounts": [
+    "200 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Baloncesto Estudiantes",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 2,000,000 €",
+      "22/23: budget 1,300,000 €",
+      "21/22: budget 1,300,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8b209cad52a0",
+   "url": "https://sports.walla.co.il/item/3876951",
+   "title": "\"אם העוינות כלפי דני אבדיה תימשך, מי יבטיח שלא יעזוב את פורטלנד?\" - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "אלף"
+   ],
+   "snippets": [
+    "הפוסט צבר למעלה מ-109 אלף צפיות, והוליד שלל תגובות לכאן ולכאן."
+   ],
+   "amounts": [
+    "109 אלף"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "713452b3d75b",
    "url": "https://www.basketnews.lt/news-259840-atskleistas-tikrasis-milano-klubo-taikinys-zalgiryje.html#utm_medium=rss&utm_content=news",
