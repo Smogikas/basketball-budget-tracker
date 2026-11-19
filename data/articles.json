@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T21:05+00:00",
+ "updated": "2026-11-19T23:01+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -23,16 +23,15 @@
   {
    "site": "BasketNews.com",
    "checked": 4,
-   "found": 1,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 7,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -51,7 +50,7 @@
   {
    "site": "PianetaBasket",
    "checked": 6,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-05",
@@ -77,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,7 +85,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -104,69 +103,6 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 10,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 19,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
-  },
-  {
-   "site": "Sport24",
-   "checked": 19,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 18,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
    "checked": 3,
    "found": 1,
    "error": "",
@@ -175,8 +111,71 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Mozzart Sport",
+   "site": "Eurohoops GR",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 32,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 8,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 11,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
    "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -194,21 +193,21 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -221,11 +220,11 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-13",
+   "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
@@ -239,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -257,29 +256,29 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 3,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basketball.hr",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
@@ -293,7 +292,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -302,16 +301,16 @@
   },
   {
    "site": "Sporx",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +382,275 @@
   }
  ],
  "items": [
+  {
+   "id": "9bc409f70dd9",
+   "url": "https://basketnews.com/news-259876-partizan-reveal-20m-income-without-serbian-state-contributions.html#utm_medium=rss&utm_content=news",
+   "title": "Partizan reveal €20M income without Serbian state contributions",
+   "site": "BasketNews.com",
+   "country": "Serbia",
+   "published": "2026-11-20",
+   "found": "2026-11-19",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Partizan Belgrade have made an announcement regarding their budget as they have approved the financial report for the 2025-26 season.",
+    "Partizan Belgrade have made an announcement regarding their budget as they have approved the financial report for the 2025-26 season.",
+    "The full announcement regarding the budget :"
+   ],
+   "amounts": [
+    "€20M",
+    "€20 million",
+    "€5,173,432"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sani Bečirovič",
+     "sheet": [
+      "07/08 Panathinaikos B.C.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9a86d1db299e",
+   "url": "https://basketnews.com/news-259870-obradovic-on-fall-vs-valanciunas-this-adjustment-helped-us-to-win.html#utm_medium=rss&utm_content=news",
+   "title": "Obradovic praises Fall in matchup vs. Valanciunas, talks Francisco-Nunn duo",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Zeljko Obradovic credited Moustapha Fall's contribution to Panathinaikos AKTOR Athens' 87-72 win over Zalgiris Kaunas in their Round 13 EuroLeague matchup, as well as talking about playing Kendrick Nunn with very little practice.",
+    "Zeljko Obradovic credited Moustapha Fall 's contribution to Panathinaikos AKTOR Athens ' 87-72 win over Zalgiris Kaunas in their Round 13 EuroLeague matchup, as well as talking about playing Kendrick Nunn with very little practice."
+   ],
+   "amounts": [
+    "13 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €"
+     ]
+    },
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Moustapha Fall",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 1,600,000 €",
+      "25/26 Olympiacos B.C.: 1,900,000 €",
+      "24/25 Olympiacos B.C.: 1,800,000 €",
+      "20/21 ASVEL Basket: 300,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "671e98262f93",
+   "url": "https://www.eurohoops.net/en/euroleague/2038000/moses-wright-sees-a-different-milan-we-are-tired-of-losing/",
+   "title": "Moses Wright sees a different Milan: “We are tired of losing”",
+   "site": "Eurohoops EN",
+   "country": "Italy",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Olimpia Milan had just one win in its first 11 EuroLeague games."
+   ],
+   "amounts": [
+    "11 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Moses Wright",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,400,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "24/25 Olympiacos B.C.: 550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1bce96a362e4",
+   "url": "https://www.sport24.gr/basket/o-proedros-partizan-diepsefse-katigorimatika-oti-o-karlik-tzoouns-iparxei-periptosi-na-polithei/",
+   "title": "Ο πρόεδρος της Παρτίζαν διέψευσε κατηγορηματικά ότι υπάρχει περίπτωση ο Κάρλικ Τζόουνς να πωληθεί",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ο πρόεδρος της ομάδας, Οστόγια Μιχαΐλοβιτς , με ανάρτησή του στον επίσημο λογαριασμό του στο X, ανέφερε πως ο προσεχώς 29χρονος Αμερικανός με ρίζες από το Νότιο Σουδάν γκαρντ (1,83μ.) “ έχει υπογράψει συμβόλαιο με εγγυημένες αποδοχές για τη φετινή και την επόμενη σεζόν, χωρίς ρήτρα αποχώρησης”.",
+    "“Ο Κάρλικ Τζόουνς έχει υπογράψει συμβόλαιο με εγγυημένες αποδοχές με την Παρτίζαν για τη φετινή και την επόμενη σεζόν, χωρίς ρήτρα αποχώρησης."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Carlik Jones",
+     "sheet": [
+      "26/27 KK Partizan: 1,750,000 €",
+      "25/26 KK Partizan: 1,300,000 €",
+      "24/25 KK Partizan: 1,400,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "f7a47dc8c7d1",
+   "url": "https://basketballsphere.com/en/euroleague-round-13-recap-paris-hapoel-moses-wright/",
+   "title": "Euroleague Round 13 Recap",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-19",
+   "found": "2026-11-19",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "The first six games of EuroLeague Round 13 of the 2026/27 EuroLeague season were played on Thursday night, in Limassol, Kaunas, Munich, Milan, Paris and Valencia."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "fdca50bf764b",
    "url": "https://sportando.basketball/partizan-belgrado-sani-becirovic-nominato-nuovo-direttore-del-club/",
