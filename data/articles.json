@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-20T13:29+00:00",
+ "updated": "2026-11-20T15:12+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -22,13 +22,12 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
   },
   {
    "site": "Krepsinis.net",
@@ -41,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
+   "pages": 1,
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
@@ -113,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 23,
+   "checked": 11,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -140,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 11,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -149,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
-   "found": 0,
+   "checked": 9,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -158,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 14,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -185,10 +184,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -203,34 +202,34 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
+   "oldest": "2020-12-18",
    "stop": "no older pages"
   },
   {
-   "site": "Sportacentrs",
-   "checked": 3,
+   "site": "Mundo Deportivo",
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 3,
    "oldest": "2026-11-14",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +238,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 28,
    "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 4,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -284,26 +283,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -330,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -384,6 +382,155 @@
   }
  ],
  "items": [
+  {
+   "id": "bb013b778f55",
+   "url": "https://www.athletiko.gr/enochos-o-mpartzokas-gia-yvristiki-symperifora-sto-alexandreio-to-prostimo-poy-toy-epivlithike-117047",
+   "title": "Ενοχος ο Μπαρτζώκας για υβριστική συμπεριφορά στο Αλεξάνδρειο - Το πρόστιμο που του επιβλήθηκε | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή έξι χιλιάδων (6.000,00) ευρώ, για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς κατά τη διάρκεια του αγώνα που διεξήχθη στο γήπεδο «ΑΛΕΞΑΝΔΡΕΙΟ ΑΘΛΗΤΙΚΟ ΜΕΛΑΘΡΟΝ ΘΕΣΣΑΛΟΝΙΚΗΣ» στις 15.11.2026 μεταξύ των ομάδων ΑΡΗΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή τριών χιλιάδων (3.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους του προπονητή της, Γεώργιο Μπαρτζώκα, στον ίδιο ως άνω αγώνα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "58a03737f158",
+   "url": "https://www.sport24.gr/basket/bartzokas-i-poini-tou-gia-ti-simperifora-tou-sto-aris-olimpiakos/",
+   "title": "Μπαρτζώκας: Η ποινή του για τη συμπεριφορά του στο Άρης - Ολυμπιακός",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή έξι χιλιάδων (6.000,00) ευρώ, για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς κατά τη διάρκεια του αγώνα που διεξήχθη στο γήπεδο «ΑΛΕΞΑΝΔΡΕΙΟ ΑΘΛΗΤΙΚΟ ΜΕΛΑΘΡΟΝ ΘΕΣΣΑΛΟΝΙΚΗΣ» στις 15.11.2026 μεταξύ των ομάδων ΑΡΗΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή τριών χιλιάδων (3.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους του προπονητή της, Γεώργιο Μπαρτζώκα, στον ίδιο ως άνω αγώνα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0bf7c6cc3c76",
+   "url": "https://www.sport24.gr/basket/tzastin-anterson-afto-einai-to-simvolaio-pou-tou-prosferei-o-mistakidis-gia-na-ipograpsei-ston-paok/",
+   "title": "Τζάστιν Άντερσον: Αυτό είναι το συμβόλαιο που του προσφέρει ο Μυστακίδης για να υπογράψει στον ΠΑΟΚ",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Συγκεκριμένα, η πρόταση προβλέπει 700.000 ευρώ για την τρέχουσα αγωνιστική περίοδο και 1,5 εκατομμύριο ευρώ για την επόμενη σεζόν."
+   ],
+   "amounts": [
+    "700.000 ευρώ",
+    "1,5 εκατομμύριο"
+   ],
+   "seasons": [
+    "23/24"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9e2cb33cd2c7",
+   "url": "https://basketballsphere.com/en/panathinaikos-vs-maroussi-prediction-greek-league-november-21-2026/",
+   "title": "Panathinaikos vs Maroussi Prediction: Greek League, November 21, 2026",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "The first 100 euros of a payout are tax free in Greece, and a licensed book withholds the rest at the counter for you."
+   ],
+   "amounts": [
+    "100 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maroussi B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 5,000,000 €, salary budget 3,500,000 €",
+      "25/26: budget 3,700,000 €, salary budget 2,500,000 €",
+      "24/25: budget 2,500,000 €, salary budget 1,700,000 €"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ec7caf22c5cb",
+   "url": "https://sports.walla.co.il/item/3877036",
+   "title": "בנס ציונה מתנערים מהמתקפה של פול קורסארו על השופטים - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "הכתומים ממתינים לדעת האם תובע איגוד הכדורסל יחליט להתערב בכל הנוגע לדבריו של קורסארו בשידור, כשבאיגוד השופטים ישקלו האם להגיש תלונה."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "1ee69113bdfb",
    "url": "https://www.basketnews.lt/news-259901-kaune-su-vienu-teiseju-susijusi-baudu-metimu-retenybe.html#utm_medium=rss&utm_content=news",
