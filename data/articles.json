@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:35+00:00",
+ "updated": "2026-11-20T09:18+00:00",
  "warnings": [],
  "run": [
   {
@@ -8,13 +8,13 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -22,7 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -30,19 +39,9 @@
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 6,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
    "site": "15min 24sek",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -88,10 +87,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x76c7806a53a0>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -104,16 +103,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,8 +122,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 7,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -131,7 +131,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 16,
+   "checked": 30,
+   "found": 2,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,17 +148,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,10 +158,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -176,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -190,11 +190,12 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,17 +204,17 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 7,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
@@ -230,24 +231,6 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basket.zoznam.sk",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -256,9 +239,27 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Dnevnik.si",
+   "site": "Basketball Sphere",
+   "checked": 11,
+   "found": 2,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basket.zoznam.sk",
    "checked": 4,
    "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Dnevnik.si",
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -284,25 +285,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 18,
+   "checked": 24,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -329,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -383,6 +384,335 @@
   }
  ],
  "items": [
+  {
+   "id": "d244911e6c56",
+   "url": "https://www.basketnews.lt/news-259891-dominaves-vokietaitis-perzenge-simboline-riba.html#utm_medium=rss&utm_content=news",
+   "title": "Dominavęs Vokietaitis peržengė simbolinę ribą",
+   "site": "BasketNews.lt",
+   "country": "Japan",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tukstan"
+   ],
+   "snippets": [
+    "Be to, trečiąjį sezoną Teksase pradėjęs Vokietaitis peržengė tūkstančio taškų žymą atstovaujant „Longhorns“."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Ehime Orange Vikings",
+     "country": "Japan",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,681,803 €, salary budget 1,890,158 €",
+      "24/25: budget 2,846,061 €, salary budget 1,104,514 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ff515179c2fd",
+   "url": "https://www.15min.lt/24sek/naujiena/eurolyga/po-pergales-kaune-ypatingas-francisco-poelgis-jo-meile-zalgiriui-islieka-tvirta-1362-2810604?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Po pergalės Kaune – ypatingas Francisco poelgis: „Jo meilė „Žalgiriui“ išlieka tvirta“",
+   "site": "15min 24sek",
+   "country": "United Arab Emirates",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Nuo 2024 iki 2026 metų „Žalgirio“ arenos tinklelius deginęs S.Francisco pirmą kartą sugrįžo į Kauną ir prieš rungtynes gavo atminimo dovaną iš Pauliaus Jankūno, 15 tūkst."
+   ],
+   "amounts": [
+    "15 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4abf09f283c8",
+   "url": "https://www.athletiko.gr/shunk-i-vradia-poy-o-goympaniama-eisigage-enan-neo-tropo-gia-na-skorareis-video-116973",
+   "title": "«Shunk»: Η βραδιά που ο Γουεμπανιαμά εισήγαγε έναν νέο τρόπο για να σκοράρεις (video) | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Έχει μπόι στα 224 εκατοστά και άνοιγμα χεριών 20 πόντους μεγαλύτερο."
+   ],
+   "amounts": [
+    "224 εκατοστά"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ae9d375f092f",
+   "url": "https://www.athletiko.gr/i-ypothesi-mposman-kai-o-arithmos-ton-xenon-sta-pio-simantika-protathlimata-toy-kosmoy-116951",
+   "title": "Η υπόθεση Μποσμάν και ο αριθμός των ξένων στα πιο σημαντικά πρωταθλήματα του κόσμου | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "κασε",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Τα πάντα άλλαξαν… Τα κασέ των παικτών που εκτοξεύτηκαν, η κουλτούρα των ομάδων, οι δυναμικότητες.",
+    "Ουδέν πιο οξύμωρο αυτού στην ιστορία του ευρωπαϊκού αθλητισμού αν αναλογιστούμε ότι εκατοντάδες αν όχι χιλιάδες αθλητές δημιούργησαν περιουσίες εκατομμυρίων χάριν στη δική του μάχη που τελικά κατέστρεψε τη ζωή του."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "214abc5126a8",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261120/1004253238/nba-europa-cree-interes-global-partido-madrid-milan-sera-relevante-china-ee-uu.html",
+   "title": "NBA Europa cree que puede tener interés global: “Un partido entre el Madrid y el Milan será relevante en China y en EE.UU.”",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "NBA Europa promete distribuir entre los clubes más de 9.000 millones de euros -10.000 en dólares-, en los próximos 10 años, mientras la Euroliga prevé distribuir",
+    "NBA Europa promete distribuir entre los clubes más de 9.000 millones de euros -10.000 en dólares-, en los próximos 10 años, mientras la Euroliga prevé distribuir 3.400 en el mismo periodo de tiempo.",
+    "La audiencia global alcanzó los casi 123 millones de espectadores en lo que fue un gran incremento del 82%."
+   ],
+   "amounts": [
+    "9.000 millones",
+    "123 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "402fa01f68ed",
+   "url": "https://basketballsphere.com/en/oklahoma-city-thunder-vs-new-orleans-pelicans-prediction-nba-november-21-2026/",
+   "title": "Oklahoma City Thunder vs New Orleans Pelicans Prediction: NBA, November 21, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "salar",
+    "salary cap"
+   ],
+   "snippets": [
+    "Chet Holmgren, Jalen Williams, and Cason Wallace, who formed the core of the team in the 2024/25 championship season, will not be available for an extended period, and the fact that they had to trade away some players over the summer due to the salary cap without getting much in return makes it a…"
+   ],
+   "amounts": [],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Orleans Loiret Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,131,000 €, salary budget 1,950,000 €",
+      "25/26: budget 5,254,000 €, salary budget 1,385,000 €",
+      "24/25: budget 4,839,000 €, salary budget 1,243,000 €",
+      "player rows: 25/26 (10), 24/25 (11), 23/24 (12)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "3da28bec5893",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-21-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 21, 2026",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 5 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Andorra",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,990,000 €, salary budget 3,500,000 €",
+      "24/25: budget 6,360,000 €"
+     ]
+    },
+    {
+     "name": "Bandirma Bordo Basketbol",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts"
+     ]
+    },
+    {
+     "name": "Basquet Manresa",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 4,500,000 €, salary budget 3,000,000 €",
+      "25/26: budget 4,100,000 €, salary budget 2,800,000 €",
+      "24/25: budget 3,900,000 €, salary budget 2,700,000 €",
+      "player rows: 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "536cb8c90e6b",
+   "url": "https://www.dnevnik.si/novice/posel/kako-se-je-koncal-prvi-trgovalni-dan-delnic-ameriskega-razvijalca-umetne-inteligence-2842165/",
+   "title": "Kako se je končal prvi trgovalni dan delnic ameriškega razvijalca umetne inteligence?",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "evra",
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Delnice ameriškega razvijalca umetne inteligence Anthropic so se do konca svojega prvega trgovalnega dne na borzi Nasdaq v New Yorku v četrtek podražile za 17,1 odstotka na 97,17 dolarja (približno 83,09 evra).",
+    "Podjetje, ki razvija klepetalnega robota Claude, je z rekordno javno ponudbo delnic zbralo 81,3 milijarde dolarjev kapitala, je poročala televizija CNBC.",
+    "Delnice so začele trgovanje ob 11.48 po krajevnem času po ceni 111,50 dolarja (101,61 evra), kar je bilo približno 34 odstotkov nad ponudbeno ceno."
+   ],
+   "amounts": [
+    "83,09 evra",
+    "101,61 evra",
+    "104,89 evra",
+    "567 milijonov",
+    "516,8 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "39fc2a5df9d2",
+   "url": "https://sports.walla.co.il/item/3877002",
+   "title": "אהבה - סוף הסיפור: כך הפך בראון לאגדה בכדורסל הישראלי - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "מי שקלט אותו היה אריאל בית הלחמי.",
+    "\"עומר סניד, שהבאתי אותו לאשקלון, היה גר בשכונה של ג'ייקובן בראון."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "7b79a00b79c7",
    "url": "https://www.krepsinis.net/naujiena/ncaa-m-vokietaicio-ir-n-indrusaicio-spindesys-bei-g-krizanausko-pergale-91-tasku/354602",
