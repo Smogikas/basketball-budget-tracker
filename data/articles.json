@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:00+00:00",
+ "updated": "2026-11-20T05:17+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,39 +13,39 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
    "checked": 0,
    "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 0,
-   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
-   "site": "15min 24sek",
-   "checked": 0,
+   "site": "Krepsinis.net",
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,21 +76,21 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7c3ddc68ddc0>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -130,21 +130,21 @@
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-18",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
@@ -202,34 +202,35 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -265,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,12 +302,12 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
