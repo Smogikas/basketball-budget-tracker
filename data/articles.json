@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T17:13+00:00",
+ "updated": "2026-11-20T19:18+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,13 +22,12 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
@@ -50,8 +49,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,24 +103,6 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 8,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 4,
    "found": 0,
    "error": "",
@@ -130,8 +111,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Athletiko",
-   "checked": 23,
+   "checked": 21,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 15,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -158,11 +157,11 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 2,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
@@ -176,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,16 +220,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -266,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -302,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -383,6 +382,132 @@
   }
  ],
  "items": [
+  {
+   "id": "448af33a6afa",
+   "url": "https://sportando.basketball/il-consiglio-di-fiba-europe-approva-le-sedi-degli-eurobasket-giovanili-2027/",
+   "title": "Il Consiglio di FIBA Europe approva le sedi degli EuroBasket giovanili 2027 - Sportando",
+   "site": "Sportando",
+   "country": "",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Il Consiglio ha approvato il budget per il 2027 e ha ricevuto relazioni riguardanti:"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Jorge Garbajosa",
+     "sheet": [
+      "08/09 BC Khimki Moscow: 3,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "2e17deb018c8",
+   "url": "https://www.athletiko.gr/vary-prostimo-ston-viko-ioanninon-apo-ton-athlitiko-dikasti-apokleismos-dyo-minon-se-filathlo-tis-omadas-117078",
+   "title": "Βαρύ πρόστιμο στον Βίκο Ιωαννίνων από τον Αθλητικό Δικαστή: Αποκλεισμός δυο μηνών σε φίλαθλο της ομάδας | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΒΙΚΟΣ ΦΑΛΚΟΝΣ), χρηματική ποινή δεκαπέντε χιλιάδων (15.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους φιλάθλου της, εβρισκόμενου στη Γ’ Ζώνη, κατά τη διάρκεια του αγώνα που διεξήχθη στις 15.11.2026 με τη ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΑΜΑΡΟΥΣΙΟΥ 1896 ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ Ε…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f4f836caaa7f",
+   "url": "https://www.sport24.gr/basket/nba-nea-exelixi-sti-dikastiki-diamaxi-tou-tari-ison-me-tin-proin-sintrofo-tou-diekdikei-240-000-evro-apozimiosi/",
+   "title": "NBA: Νέα εξέλιξη στη δικαστική διαμάχη του Τάρι Ίσον με την πρώην σύντροφό του – Διεκδικεί 240.000 ευρώ αποζημίωση",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Νέα εξέλιξη στη δικαστική διαμάχη του Τάρι Ίσον με την πρώην σύντροφό του, καθώς ο φόργουορντ των Χιούστον Ρόκετς προχώρησε σε αγωγή, διεκδικώντας αποζημίωση που μπορεί να ξεπεράσει τις 240.000 ευρώ για αντικείμενα πολυτελείας που καταγγέλλει ότι του έκλεψε και ρούχα που του κατέστρεψε με χλωρίνη.",
+    "Ο 25χρονος φόργουορντ επανέρχεται στη Δικαιοσύνη, αυτή τη φορά διεκδικώντας οικονομική αποζημίωση για τις ζημιές που υποστηρίζει ότι υπέστη από την πρώην σύντροφό του, με το ποσό να μπορεί να φτάσει περίπου τις 240.000 ευρώ, χωρίς να υπολογίζονται πρόσθετες αξιώσεις και δικαστικά έξοδα.",
+    "Παράλληλα, υποστηρίζει ότι αφαίρεσε προσωπικά του αντικείμενα μεγάλης αξίας, μεταξύ των οποίων ένα ρολόι Rolex, γυαλιά Chrome Hearts και μια ταξιδιωτική τσάντα Louis Vuitton αξίας περίπου 13.000 ευρώ."
+   ],
+   "amounts": [
+    "240.000 ευρώ",
+    "13.000 ευρώ",
+    "90.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "693b78738ce6",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2588322/paok-aris-oi-proypologismoi-kai-ta-symbolaia-ton-paikton",
+   "title": "Η μεγάλη μάχη (και) των μπάτζετ: Οι προϋπολογισμοί και τα συμβόλαια των παικτών σε ΠΑΟΚ και Άρη",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω",
+    "μπατζετ",
+    "προυπολογισμ",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Λίγο πριν από το μεγάλο ντέρμπι του Σαββάτου (21/11, 17:30) στο Παλατάκι, το Gazzetta παρουσιάζει τα αγωνιστικά μπάτζετ των δύο ομάδων, τα συμβόλαια που ξεχωρίζουν και τα εκατομμύρια πίσω από τη νέα εποχή των δύο...",
+    "Το Gazzetta , λοιπόν, συγκέντρωσε τα αγωνιστικά budget των δύο ομάδων για να αποτυπωθεί και με νούμερα η εντελώς νέα πραγματικότητα που έχει διαμορφωθεί στη συμπρωτεύουσα.",
+    "Στον ΠΑΟΚ , το μεγαλύτερο συμβόλαιο της λίστας είναι εκείνο του Τσέντι Όσμαν , το οποίο φτάνει τα 3 εκατομμύρια δολάρια."
+   ],
+   "amounts": [
+    "3 εκατομμύρια",
+    "1 εκατομμύριο",
+    "9,2 εκατομμύρια",
+    "1,03 εκατομμύριο",
+    "450 χιλιάδες",
+    "1,8 εκατομμύρια",
+    "800.000 ευρώ",
+    "700.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "67e4ccdfd2bb",
    "url": "https://www.pianetabasket.com/europa/georgios-bartzokas-multato-per-6000-euro-dal-giudice-sportivo-dellesake",
