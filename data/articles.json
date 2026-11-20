@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-20T05:17+00:00",
+ "updated": "2026-11-20T07:35+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,16 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -39,8 +30,18 @@
    "stop": "no older pages"
   },
   {
+   "site": "Krepsinis.net",
+   "checked": 6,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,21 +68,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -112,25 +113,25 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
+   "checked": 7,
+   "found": 2,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 1,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,19 +149,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -175,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -202,35 +203,34 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "reached start date"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -257,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -293,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 1,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,12 +311,12 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -383,6 +383,159 @@
   }
  ],
  "items": [
+  {
+   "id": "7b79a00b79c7",
+   "url": "https://www.krepsinis.net/naujiena/ncaa-m-vokietaicio-ir-n-indrusaicio-spindesys-bei-g-krizanausko-pergale-91-tasku/354602",
+   "title": "NCAA – M.Vokietaičio ir N.Indrušaičio spindesys bei G.Križanausko pergalė 91 tašku | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Japan",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tukstan"
+   ],
+   "snippets": [
+    "Aukštaūgis pasižymėjo ir tūkstantuoju karjeros tašku."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Ehime Orange Vikings",
+     "country": "Japan",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,681,803 €, salary budget 1,890,158 €",
+      "24/25: budget 2,846,061 €, salary budget 1,104,514 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Gantas Križanauskas",
+     "sheet": [
+      "24/25 Rytas Vilnius: 10,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "d3329a393501",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2038098/partizandan-aciklama-devletin-katkisi-olmadan-20-milyon-topladik/",
+   "title": "Partizan’dan Açıklama: “Devletin Katkısı Olmadan 20 Milyon Topladık!”",
+   "site": "Eurohoops TR",
+   "country": "Serbia",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "butce",
+    "euro",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Partizan Belgrad, 2025-26 sezonuna ait mali raporu onayladığını duyurarak kulüp bütçesiyle ilgili resmi bir açıklama yayımladı.",
+    "Kulüp açıklamasında, Sırbistan hükümetinden hiçbir destek almadan kendi imkanlarıyla 20 milyon Euro’luk bir bütçe oluşturduğunu vurgularken; devlete olan tüm geçmiş yükümlülüklerin ödendiğinin ve kulübün EuroLeague’in sportif ve ticari gerekliliklerini eksiksiz karşılayabilecek güçte olduğunun al…",
+    "Partizan’ın bütçeye ilişkin yayımladığı açıklamanın tam metni şu şekilde:"
+   ],
+   "amounts": [
+    "20 Milyon",
+    "20 milyon",
+    "5.173.432 Euro"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "dcf3123183c0",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2038092/marko-guduric-aynisi-fenerbahcede-de-basima-gelmisti/",
+   "title": "Marko Guduric: “Aynısı Fenerbahçe’de de Başıma Gelmişti”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "butce"
+   ],
+   "snippets": [
+    "Rakiplerin son derece güçlü olduğu, bütçelerin giderek büyüdüğü ve maç sayısının arttığı EuroLeague’de iki ya da üç oyuncu iyi oynamadığında özgüveninizi kaybetme riskiyle karşı karşıya kalırsınız ve bunu geri kazanmak çok zordur.”"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Marko Gudurič",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,700,000 €",
+      "25/26 Olimpia Milano: 2,700,000 €",
+      "18/19 Fenerbahce Istanbul: 400,000 €",
+      "17/18 Fenerbahce Istanbul: 350,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "d9dce7528d77",
+   "url": "https://sports.walla.co.il/item/3876990",
+   "title": "הפועל ת\"א בשפל, אך שומרת על אופטימיות: \"סביר להפסיד כאן\" - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "\"זה הפסד קשה, במיוחד כשאתה מרגיש שעשית מספיק כדי לשים את עצמך בעמדה לנצח\", אמר זאק לידיי שקלע שלשה גדולה בסיום המשחק, \"כאחד המנהיגים של הקבוצה הזאת, אני לוקח על זה אחריות."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "9bc409f70dd9",
    "url": "https://basketnews.com/news-259876-partizan-reveal-20m-income-without-serbian-state-contributions.html#utm_medium=rss&utm_content=news",
