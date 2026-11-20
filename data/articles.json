@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T11:15+00:00",
+ "updated": "2026-11-20T13:29+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
    "checked": 6,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -13,22 +13,22 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 7,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
    "stop": "no older pages",
-   "skipped_nba": 1
+   "skipped_nba": 2
   },
   {
    "site": "Krepsinis.net",
@@ -41,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,12 +86,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7d0138aa2de0>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -104,8 +104,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -113,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,7 +122,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 20,
+   "checked": 23,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 10,
+   "checked": 11,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -158,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 4,
+   "checked": 14,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,16 +176,16 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,36 +203,34 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -241,8 +239,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 7,
-   "found": 3,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -259,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -273,8 +271,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -287,8 +284,8 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-17",
@@ -296,16 +293,17 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
-   "checked": 20,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -332,8 +330,8 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -386,6 +384,248 @@
   }
  ],
  "items": [
+  {
+   "id": "1ee69113bdfb",
+   "url": "https://www.basketnews.lt/news-259901-kaune-su-vienu-teiseju-susijusi-baudu-metimu-retenybe.html#utm_medium=rss&utm_content=news",
+   "title": "Kaune – su vienu teisėju susijusi baudų metimų retenybė",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Tarp analizuotų 1125 Eurolygos rungtynių šis nuokrypis tarp didžiausių užima 31-ąją vietą."
+   ],
+   "amounts": [
+    "1125 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (4), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "22fb8f51377f",
+   "url": "https://basketnews.com/news-259902-virtus-bologna-bring-back-experienced-forward-from-dubai.html#utm_medium=rss&utm_content=news",
+   "title": "Virtus Bologna bring back experienced forward from Dubai",
+   "site": "BasketNews.com",
+   "country": "United Arab Emirates",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Last season the longtime Italian national team member appeared in 31 EuroLeague games, averaging 3.2 points and 1.5 rebounds with Dubai."
+   ],
+   "amounts": [
+    "31 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "61cbf1865df7",
+   "url": "https://www.athletiko.gr/o-giannakopoylos-apokalypse-oti-toy-esteile-exodiko-o-grigoris-dimitriadis-niothei-oti-ton-fotografisa-117026",
+   "title": "Ο Γιαννακόπουλος αποκάλυψε ότι του έστειλε εξώδικο ο Γρηγόρης Δημητριάδης: «Νιώθει ότι τον φωτογράφισα;» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Εντός 24 ωρών ξανάρχεται εξώδικο από τον Γρηγόρη Δημητριάδη στο οποίο μου δηλώνει ότι, αφού δεν διέψευσα το Μέσο που τον κατονόμασε τότε εκ των υστέρων, μάλλον συμπεραίνει ότι εγώ για αυτόν μίλησα, άρα να ανακαλέσω και να ξεκαθαρίσω ότι αυτός δεν έχει φάει τη μισή νύχτα, δεν ζητούσε πέντε εκατομμ…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4c9ecc1b7d3e",
+   "url": "https://www.sdna.gr/mpasket/1488598_o-dpg-apantise-sto-exodiko-toy-grigori-dimitriadi-aporo",
+   "title": "Ο DPG απάντησε στο εξώδικο του Γρηγόρη Δημητριάδη: «Απορώ…»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "μάλλον συμπεραίνει ότι εγώ για αυτόν μίλησα, άρα να ανακαλέσω και να ξεκαθαρίσω ότι αυτός δεν έχει φάει την μισή νύχτα, δε ζητούσε πέντε εκατομμύρια και δεν έχει σηκώσει τα εκατοντάδες χιλιάδες ευρώ που βρέθηκαν στον προσωρινά κρατούμενο διαιτητή των Τελικών μεταξύ Παναθηναϊκού - Ολυμπιακού, Παπα…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "dd6eb14beb24",
+   "url": "https://basketballsphere.com/en/panathinaikos-real-madrid-guerschon-yabusele/",
+   "title": "Can Panathinaikos become bigger than Real Madrid: Guerschon Yabusele shares his view",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "During his time with the Spanish club, the French forward won the 2023 EuroLeague title and two Liga Endesa championships, among other domestic trophies."
+   ],
+   "amounts": [
+    "2023 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Guerschon Yabusele",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,400,000 €",
+      "20/21 ASVEL Basket: 300,000 €",
+      "19/20 ASVEL Basket: 300,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "d85782585bbc",
+   "url": "https://www.gigantes.com/mas-basket/baloncesto-debate-electoral-sanchez-feijoo/",
+   "title": "El baloncesto, presente en el debate electoral",
+   "site": "Gigantes",
+   "country": "Spain",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "El cara a cara, organizado por la Academia de Televisión, fue retransmitido por RTVE, Atresmedia, Mediaset y La Séptima, entre otros operadores, congregando a millones de espectadores frente a sus televisores."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "d492ff4a0a69",
    "url": "https://sportando.basketball/carlik-jones-olympiacos-le-voci-sui-2-milioni-e-il-no-del-partizan-tutta-la-vicenda/",
