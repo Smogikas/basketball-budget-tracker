@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:18+00:00",
+ "updated": "2026-11-20T21:04+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,21 +22,22 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,20 +77,20 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -103,69 +104,6 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 21,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 11,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sport24",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -174,8 +112,71 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 16,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 8,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 8,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,7 +186,7 @@
   {
    "site": "Meridian Sport",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -207,20 +208,20 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,7 +239,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -265,20 +266,20 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball.hr",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
@@ -301,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +383,137 @@
   }
  ],
  "items": [
+  {
+   "id": "79d91cca4f2d",
+   "url": "https://sportando.basketball/nutribullet-treviso-nicola-la-maxima-roma-gioca-per-arrivare-in-fondo-in-due-competizioni/",
+   "title": "Nutribullet Treviso, Nicola: \"La Maxima Roma gioca per arrivare in fondo in due competizioni\" - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Hanno aggiunto pezzi importanti, con disponibilità di budget, disputano due competizioni per arrivare fino in fondo."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9749cdddd408",
+   "url": "https://www.krepsinis.net/naujiena/sutriuskinimu-baigesi-ir-antrasis-asvel-macas-stambule/354612",
+   "title": "Sutriuškinimu baigėsi ir antrasis ASVEL mačas Stambule | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "France",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "ASVEL kovą dėl kamuolių pralaimėjo net 22:38, Eurolygoje patyrė ketvirtąjį pralaimėjimą paeiliui, o dvigubą savaitę buvo triuškinami – antradienį prancūzai 81:115 nusileido Stambulo „Fenerbahče“ (8/5)."
+   ],
+   "amounts": [
+    "38, Eurolygoje"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 15,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ff03c13888db",
+   "url": "https://meridiansport.rs/kosarka/povratak-uz-buru-i-epitet-tragicara-ronaldo-se-primakao-istoriji-ali-odaljio-al-nasr-od-pobede/",
+   "title": "Povratak uz buru i epitet tragičara: Ronaldo se primakao istoriji, ali odaljio Al Nasr od pobede",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "hiljad"
+   ],
+   "snippets": [
+    "Ostalo je još 14 do hiljadarke, o kojoj se mesecima priče."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "448af33a6afa",
    "url": "https://sportando.basketball/il-consiglio-di-fiba-europe-approva-le-sedi-degli-eurobasket-giovanili-2027/",
