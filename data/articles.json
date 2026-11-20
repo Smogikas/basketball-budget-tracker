@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-20T15:12+00:00",
+ "updated": "2026-11-20T17:13+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,21 +22,22 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-20",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
@@ -49,11 +50,11 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-06",
    "stop": "reached start date"
   },
   {
@@ -67,16 +68,16 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -96,10 +97,10 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-05",
+   "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
@@ -112,16 +113,16 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 11,
+   "checked": 23,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -139,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +150,7 @@
   {
    "site": "Sport24",
    "checked": 9,
-   "found": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -157,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
-   "found": 0,
+   "checked": 9,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -175,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -211,19 +212,19 @@
   },
   {
    "site": "Mundo Deportivo",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-16",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Sportacentrs",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 3,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
@@ -238,10 +239,10 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 28,
+   "checked": 4,
    "found": 1,
    "error": "",
-   "pages": 4,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -265,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -301,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,8 +311,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -328,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -382,6 +383,271 @@
   }
  ],
  "items": [
+  {
+   "id": "67e4ccdfd2bb",
+   "url": "https://www.pianetabasket.com/europa/georgios-bartzokas-multato-per-6000-euro-dal-giudice-sportivo-dellesake",
+   "title": "Georgios Bartzokas multato per 6000 euro dal Giudice Sportivo dell'ESAKE",
+   "site": "PianetaBasket",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "6000 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Georgios Bartzokas",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,000,000 €",
+      "25/26 Olympiacos B.C.: 1,100,000 €",
+      "24/25 Olympiacos B.C.: 900,000 €",
+      "15/16 Lokomotiv Kuban: 550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4464ec2b8c4f",
+   "url": "https://www.eurohoops.net/el/heba-el/2038202/olimpiakos-prostimo-6-000-evro-ston-bartzoka-apo-ton-athlitiko-dikasti/",
+   "title": "Ολυμπιακός: Πρόστιμο 6.000 ευρώ στον Μπαρτζώκα από τον αθλητικό Δικαστή",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή έξι χιλιάδων (6.000,00) ευρώ, για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς κατά τη διάρκεια του αγώνα που διεξήχθη στο γήπεδο «ΑΛΕΞΑΝΔΡΕΙΟ ΑΘΛΗΤΙΚΟ ΜΕΛΑΘΡΟΝ ΘΕΣΣΑΛΟΝΙΚΗΣ» στις 15.11.2026 μεταξύ των ομάδων ΑΡΗΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή τριών χιλιάδων (3.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους του προπονητή της, Γεώργιο Μπαρτζώκα, στον ίδιο ως άνω αγώνα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fa62d5916066",
+   "url": "https://www.athletiko.gr/ta-oikonomika-dedomena-tis-epektasis-tis-euroleague-ta-chrimata-poy-tha-dosei-o-paok-gia-na-ginei-franchise-117054",
+   "title": "Τα οικονομικά δεδομένα της επέκτασης της EuroLeague - Τα χρήματα που θα δώσει ο ΠΑΟΚ για να γίνει franchise | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ο ΠΑΟΚ , θα δώσει ένα ποσό το οποίο αγγίζει τα 90 εκατομμύρια ευρώ!",
+    "Αντίστοιχα, οι τέσσερις ομάδες που ήδη συμμετέχουν στη διοργάνωση, αλλά μέχρι σήμερα δεν διέθεταν μόνιμη θέση, θα καταβάλουν περίπου 50 εκατομμύρια ευρώ ως τίμημα εισόδου.",
+    "Μέσω αυτής της επέκτασης, η EuroLeague προσδοκά να συγκεντρώσει περίπου 400 εκατομμύρια ευρώ, τα οποία θα κατανεμηθούν μεταξύ των 13 υφιστάμενων μετόχων, με αναλογία περίπου 30 εκατομμυρίων ευρώ ανά ομάδα."
+   ],
+   "amounts": [
+    "90 εκατομμύρια",
+    "50 εκατομμύρια",
+    "400 εκατομμύρια",
+    "30 εκατομμυρίων"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "476777aed77a",
+   "url": "https://www.sport24.gr/basket/bartzokas-i-poini-tou-gia-tin-ivristiki-simperifora-tou-sto-aris-olimpiakos/",
+   "title": "Μπαρτζώκας: Η ποινή του για την υβριστική συμπεριφορά του στο Άρης - Ολυμπιακός",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή έξι χιλιάδων (6.000,00) ευρώ, για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς κατά τη διάρκεια του αγώνα που διεξήχθη στο γήπεδο «ΑΛΕΞΑΝΔΡΕΙΟ ΑΘΛΗΤΙΚΟ ΜΕΛΑΘΡΟΝ ΘΕΣΣΑΛΟΝΙΚΗΣ» στις 15.11.2026 μεταξύ των ομάδων ΑΡΗΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή τριών χιλιάδων (3.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους του προπονητή της, Γεώργιο Μπαρτζώκα, στον ίδιο ως άνω αγώνα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "951807edfa67",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2588318/esake-oi-poines-poy-epiblithikan-se-biko-falkons-peristeri-irakli",
+   "title": "Ποια ήταν τα πρόστιμα που επιβλήθηκαν σε Βίκο Ιωαννίνων, Περιστέρι, Ηρακλή, ενώ απαλλάχθηκε ο Παπαθεοδώρου",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΒΙΚΟΣ ΦΑΛΚΟΝΣ), χρηματική ποινή δεκαπέντε χιλιάδων (15.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους φιλάθλου της, εβρισκόμενου στη Γ’ Ζώνη, κατά τη διάρκεια του αγώνα που διεξήχθη στις 15.11.2026 με τη ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΑΜΑΡΟΥΣΙΟΥ 1896 ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ Ε…",
+    "ΠΕΡΙΣΤΕΡΙ ΚΑΕ), χρηματική ποινή πεντακοσίων (500,00) ευρώ για την πειθαρχική παράβαση της εκφοράς υβριστικών συνθημάτων με αποδέκτη μη φυσικό πρόσωπο και έλαβε χώρα κατά τη διάρκεια του αγώνα που διεξήχθη στις 15.11.2026 με την ΑΘΛΗΤΙΚΟΣ ΟΜΙΛΟΣ ΜΥΚΟΝΟΥ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΗΡΑΚΛΗΣ ΚΑΕ), χρηματική ποινή τριακοσίων (300,00) ευρώ για την πειθαρχική παράβαση της εκφοράς ενός υβριστικού συνθήματος με αποδέκτες μη φυσικά πρόσωπα που έλαβε χώρα κατά τη διάρκεια του αγώνα που διεξήχθη στις 14.11.2026 με την ΑΘΛΗΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΠΑΤΡΩΝ ΠΡΟΜΗΘΕΑΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Mykonos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 3,300,000 €, salary budget 2,200,000 €",
+      "25/26: budget 2,000,000 €, salary budget 1,400,000 €",
+      "23/24: row exists, no amounts"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "53ba230d4969",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2588283/olympiakos-timorithike-o-mpartzokas-gia-ybristiki-symperifora-sto",
+   "title": "Πρόστιμο επέβαλε ο αθλητικός δικαστής στον Μπαρτζώκα για υβριστική συμπεριφορά στο Αλεξάνδρειο",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή έξι χιλιάδων (6.000,00) ευρώ, για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς κατά τη διάρκεια του αγώνα που διεξήχθη στο γήπεδο «ΑΛΕΞΑΝΔΡΕΙΟ ΑΘΛΗΤΙΚΟ ΜΕΛΑΘΡΟΝ ΘΕΣΣΑΛΟΝΙΚΗΣ» στις 15.11.2026 μεταξύ των ομάδων ΑΡΗΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΟΛΥΜΠΙΑΚΟΣ ΚΑΕ), χρηματική ποινή τριών χιλιάδων (3.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους του προπονητή της, Γεώργιο Μπαρτζώκα, στον ίδιο ως άνω αγώνα»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "cb51ed845984",
+   "url": "https://basketballsphere.com/en/lamar-stevens-partizan-besiktas-injury/",
+   "title": "Lamar Stevens to miss Partizan's clash with Besiktas",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Partizan will once again have injury concerns ahead of their Round 13 EuroLeague clash against Besiktas , according to Basketball Sphere sources."
+   ],
+   "amounts": [
+    "13 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Lamar Stevens",
+     "sheet": [
+      "26/27 KK Partizan: 700,000 €",
+      "25/26 Paris Basketball: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "bb013b778f55",
    "url": "https://www.athletiko.gr/enochos-o-mpartzokas-gia-yvristiki-symperifora-sto-alexandreio-to-prostimo-poy-toy-epivlithike-117047",
