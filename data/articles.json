@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20T09:18+00:00",
+ "updated": "2026-11-20T11:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 9,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -13,8 +13,8 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -22,12 +22,13 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "checked": 7,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-20",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
@@ -40,8 +41,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -76,18 +77,18 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x76c7806a53a0>, 'C",
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7d0138aa2de0>, 'C",
    "pages": 0,
    "oldest": "",
    "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
@@ -96,24 +97,23 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-05",
-   "stop": "reached start date"
+   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,7 +122,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,8 +131,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 30,
-   "found": 2,
+   "checked": 20,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -140,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
-   "found": 0,
+   "checked": 10,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-19",
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -158,25 +158,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,17 +185,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -209,60 +208,62 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
    "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-15",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 3,
    "oldest": "2026-11-14",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 11,
-   "found": 2,
+   "checked": 7,
+   "found": 3,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-19",
+   "pages": 2,
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "no older pages"
   },
   {
@@ -272,7 +273,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -286,10 +288,10 @@
   {
    "site": "Z Krainy NBA",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -303,7 +305,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 24,
+   "checked": 20,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +314,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -330,7 +332,7 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -384,6 +386,484 @@
   }
  ],
  "items": [
+  {
+   "id": "d492ff4a0a69",
+   "url": "https://sportando.basketball/carlik-jones-olympiacos-le-voci-sui-2-milioni-e-il-no-del-partizan-tutta-la-vicenda/",
+   "title": "Carlik Jones-Olympiacos, le voci sui 2 milioni e il no del Partizan: tutta la vicenda - Sportando",
+   "site": "Sportando",
+   "country": "Serbia",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "ingaggio",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "A complicare il quadro ci sono il caso Tyler Dorsey , ancora fuori squadra, e il passaggio lampo di John Konchar : appena due presenze di EuroLeague senza segnare punti, prima della risoluzione annunciata il 16 novembre , a 25 giorni dall’ingaggio, su richiesta del giocatore per motivi personali.",
+    "La cifra circolata è di circa 2 milioni di euro , indicata sui social come possibile indennizzo e ripresa da Direktno e Kurir ."
+   ],
+   "amounts": [
+    "2 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Carlik Jones",
+     "sheet": [
+      "26/27 KK Partizan: 1,750,000 €",
+      "25/26 KK Partizan: 1,300,000 €",
+      "24/25 KK Partizan: 1,400,000 €"
+     ]
+    },
+    {
+     "name": "John Konchar",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,000,000 €"
+     ]
+    },
+    {
+     "name": "Tyler Dorsey",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,800,000 €",
+      "25/26 Olympiacos B.C.: 1,400,000 €",
+      "24/25 Olympiacos B.C.: 1,450,000 €",
+      "23/24 Fenerbahce Istanbul: 1,485,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4e87d0d05db5",
+   "url": "https://basketnews.com/news-259872-guerschon-yabusele-clarifies-nba-claim-giannakopoulos-big-dream.html#utm_medium=rss&utm_content=news",
+   "title": "Yabusele clarifies bold NBA statement, responds to Giannakopoulos' dream",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "sum of money"
+   ],
+   "snippets": [
+    "Instead of trophies or budgets, Yabusele focused on how the club takes care of its players.",
+    "After all, the Spanish giants have won a record 11 EuroLeague titles, compared to Panathinaikos' seven.",
+    "The 30-year-old spent three seasons with Real Madrid from 2021 to 2024, winning the 2023 EuroLeague title, two Spanish League championships, and several domestic trophies before returning to the NBA."
+   ],
+   "amounts": [
+    "11 EuroLeague",
+    "2023 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "9d9a7a385d11",
+   "url": "https://www.eurohoops.net/en/euroleague/2038150/euroleague-updates-latest-injury-reports-before-final-round-13-games/",
+   "title": "Euroleague updates latest injury reports before final Round 13 games",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "With four games remaining in Round 13 of the 2026–27 EuroLeague Regular Season, Euroleague Basketball released its updated injury report on Friday morning, just hours before tip-off in Istanbul, Athens, Barcelona and Belgrade."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "02e96d9b84a6",
+   "url": "https://www.athletiko.gr/na-synechisei-to-seri-o-thrylos-kontra-stin-real-paei-me-fora-gia-10up-116993",
+   "title": "Να συνεχίσει το σερί ο Θρύλος κόντρα στην Ρεάλ, πάει με φόρα για 10UP*! | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Έχεις παίξει μπάλα και ξέρεις; Δείχνεις τις γνώσεις σου στην Super στοιχηματική κοινότητα και ξεχωρίζεις ανάμεσα σε χιλιάδες creators, δελτία και αναλύσεις μπαίνοντας σε Supet Πρόγραμμα Ανταμοιβής!"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "93e57f6a6223",
+   "url": "https://www.sdna.gr/mpasket/1488560_apagoreysi-eisodoy-dyo-minon-se-filathlo-toy-bikoy-ioanninon-gia-ybristiki",
+   "title": "Απαγόρευση εισόδου δύο μηνών σε φίλαθλο του Βίκου Ιωαννίνων για υβριστική συμπεριφορά",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "ΒΙΚΟΣ ΦΑΛΚΟΝΣ), χρηματική ποινή δεκαπέντε χιλιάδων (15.000,00) ευρώ για την πειθαρχική παράβαση της υβριστικής συμπεριφοράς εκ μέρους φιλάθλου της, εβρισκόμενου στη Γ’ Ζώνη, κατά τη διάρκεια του αγώνα που διεξήχθη στις 15.11.2026 με τη ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΑΜΑΡΟΥΣΙΟΥ 1896 ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ Ε…",
+    "ΠΕΡΙΣΤΕΡΙ ΚΑΕ), χρηματική ποινή πεντακοσίων (500,00) ευρώ για την πειθαρχική παράβαση της εκφοράς υβριστικών συνθημάτων με αποδέκτη μη φυσικό πρόσωπο και έλαβε χώρα κατά τη διάρκεια του αγώνα που διεξήχθη στις 15.11.2026 με την ΑΘΛΗΤΙΚΟΣ ΟΜΙΛΟΣ ΜΥΚΟΝΟΥ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ (δ.τ.",
+    "ΗΡΑΚΛΗΣ ΚΑΕ), χρηματική ποινή τριακοσίων (300,00) ευρώ για την πειθαρχική παράβαση της εκφοράς ενός υβριστικού συνθήματος με αποδέκτες μη φυσικά πρόσωπα που έλαβε χώρα κατά τη διάρκεια του αγώνα που διεξήχθη στις 14.11.2026 με την ΑΘΛΗΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΠΑΤΡΩΝ ΠΡΟΜΗΘΕΑΣ ΚΑΛΑΘΟΣΦΑΙΡΙΚΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Mykonos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 3,300,000 €, salary budget 2,200,000 €",
+      "25/26: budget 2,000,000 €, salary budget 1,400,000 €",
+      "23/24: row exists, no amounts"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c59506bd7db0",
+   "url": "https://www.sport24.gr/basket/oli-i-alitheia-gia-karlik-tzoouns-kai-olimpiako/",
+   "title": "Όλη η αλήθεια για Κάρλικ Τζόουνς και Ολυμπιακό",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Προφανώς ο Κάρλικ Τζόουνς θα μπορούσε να κάνει δουλειά στον Ολυμπιακό, προφανώς όμως και ο Ολυμπιακός δεν θα πάει να δώσει 3 εκατ."
+   ],
+   "amounts": [
+    "3 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "718c82e491e1",
+   "url": "https://basketballsphere.com/en/basketball-fever-returns-thessaloniki-paok-aris-rivalry/",
+   "title": "Basketball fever returns to Thessaloniki: PAOK and Aris renew their historic rivalry",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Once-great clubs were operating on modest budgets and were often close to financial collapse.",
+    "The arrival of Nikos Stavropoulos from Larissa for 10 million drachmas, a record transfer fee in Greek basketball at the time, demonstrated the ambitions of Thessaloniki’s other major club.",
+    "The club was acquired by Aristotelis “Telis” Mistakidis , an investor and one of the most powerful figures in the global metals trade, whose wealth is estimated at around $4 billion."
+   ],
+   "amounts": [
+    "10 million",
+    "$4"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Benetton Treviso",
+     "country": "Italy",
+     "sheet": [
+      "07/08: budget 7,500,000 €",
+      "player rows: 11/12 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Adam Mokoka",
+     "sheet": [
+      "26/27 Aris B.C.: 700,000 €",
+      "25/26 JL Bourg Basket: 200,000 €",
+      "21/22 Nanterre 92: 91,000 €"
+     ]
+    },
+    {
+     "name": "Andrea Trinchieri",
+     "sheet": [
+      "26/27 PAOK BC: 1,000,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "22/23 Bayern Munich: 750,000 €",
+      "21/22 Bayern Munich: 725,000 €"
+     ]
+    },
+    {
+     "name": "Breein Tyree",
+     "sheet": [
+      "26/27 PAOK BC: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "d24cf8dd836a",
+   "url": "https://basketballsphere.com/en/melbourne-united-vs-new-zealand-breakers-prediction-nbl-november-21-2026/",
+   "title": "Melbourne United vs New Zealand Breakers Prediction: NBL, November 21, 2026",
+   "site": "Basketball Sphere",
+   "country": "Australia",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "sum of money",
+    "thousand"
+   ],
+   "snippets": [
+    "Ingles and Travers will be featuring today, but United´s top scorer and one of the main MVP candidates, import Cole Anthony, will be unavailable as he has been suspended for one game and also received a 10 thousand dollar fine for his antics during the derby match against the Phoenix."
+   ],
+   "amounts": [
+    "10 thousand"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Melbourne United",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,550,000 €, salary budget 2,138,124 €",
+      "24/25: budget 4,350,000 €, salary budget 2,046,956 €"
+     ]
+    },
+    {
+     "name": "New Zealand Breakers",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,400,000 €, salary budget 1,581,052 €",
+      "24/25: budget 3,150,000 €, salary budget 1,474,508 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ac896342b368",
+   "url": "https://basketballsphere.com/en/zeljko-obradovic-effect-kendrick-nunn-panatinaikos/",
+   "title": "The Zeljko Obradovic effect? Kendrick Nunn has found a new balance at Panathinaikos",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "He averaged 19.0 points per game in the 2025-26 EuroLeague season."
+   ],
+   "amounts": [
+    "26 EuroLeague"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "2b7e2817781e",
+   "url": "https://zkrainynba.com/czarni-slupsk-moga-sie-przelamac/",
+   "title": "Czarni Słupsk szukają ratunku. Czy zmiany odmienią fatalny początek? - Z Krainy NBA",
+   "site": "Z Krainy NBA",
+   "country": "Poland",
+   "published": "2026-11-20",
+   "found": "2026-11-20",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Pamiętajmy, że Czarni dysponują jednym z niższych budżetów w lidze, co w pewnym stopniu widać również na parkiecie."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Czarni Slupsk",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 1,410,777 €, salary budget 846,466 €",
+      "25/26: budget 1,363,751 €, salary budget 818,251 €",
+      "24/25: budget 1,400,962 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "d244911e6c56",
    "url": "https://www.basketnews.lt/news-259891-dominaves-vokietaitis-perzenge-simboline-riba.html#utm_medium=rss&utm_content=news",
