@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T20:56+00:00",
+ "updated": "2026-11-21T22:55+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -13,25 +13,25 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,16 +76,16 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -94,7 +94,7 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,16 +121,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 24,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 12,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -166,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,26 +220,26 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
-   "found": 0,
+   "checked": 19,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "reached start date"
+   "pages": 5,
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -256,21 +256,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -292,7 +292,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -301,16 +301,16 @@
   },
   {
    "site": "Sporx",
-   "checked": 15,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +382,43 @@
   }
  ],
  "items": [
+  {
+   "id": "07bbaf5b9c62",
+   "url": "http://sportacentrs.com/basketbols/damas/22112026-dzino_oriemma_vidusskolas_absolventiem_ne",
+   "title": "Džīno Oriemma: \"Vidusskolas absolventiem nevajag uzreiz maksāt miljonus\"",
+   "site": "Sportacentrs",
+   "country": "Australia",
+   "published": "2026-11-22",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "miljon"
+   ],
+   "snippets": [
+    "Džīno Oriemma: &quot;Nesaprotu ideju maksāt bērnam miljonu uzreiz pēc vidusskolas&quot;",
+    "“Mums nav tāda prestiža (cachet) starp spēlētājām, kuras saņems miljonu dolāru, lai dotos spēlēt kādā citā vietā.",
+    "Neredzu jēgu vidusskolas bērnam maksāt miljonu dolāru, kamēr augstskolā vēl nav driblēts ne reizi,” Oriemma teica ceturtdien, 19."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Sydney Kings",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,800,000 €, salary budget 2,702,752 €",
+      "24/25: budget 4,500,000 €, salary budget 2,124,877 €",
+      "player rows: 25/26 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "fa2a80c8ec79",
    "url": "https://sportando.basketball/jazz-manca-un-vero-playmaker-per-supportare-darryn-peterson-e-keyonte-george/",
