@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-21T07:28+00:00",
+ "updated": "2026-11-21T09:01+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 3,
-   "found": 0,
+   "checked": 10,
+   "found": 2,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-20",
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,17 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
-   "found": 0,
+   "checked": 13,
+   "found": 4,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-06",
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
+   "pages": 1,
+   "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
@@ -105,15 +104,15 @@
   {
    "site": "Eurohoops EN",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -123,7 +122,7 @@
   {
    "site": "Eurohoops TR",
    "checked": 3,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 13,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 0,
+   "checked": 11,
+   "found": 2,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-20",
@@ -167,25 +166,25 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
+   "oldest": "2026-11-21",
    "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -213,7 +212,7 @@
   {
    "site": "Mundo Deportivo",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
@@ -221,16 +220,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 10,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "2026-11-15",
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,11 +238,11 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-20",
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before",
    "skipped_nba": 1
   },
@@ -258,16 +257,16 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -294,7 +293,7 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -303,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 9,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +383,510 @@
   }
  ],
  "items": [
+  {
+   "id": "e34be346043e",
+   "url": "https://sportando.basketball/reggio-emilia-recupera-echenique-e-valuta-nuove-soluzioni-thor-puo-diventare-un-centro-tattico/",
+   "title": "Reggio Emilia recupera Echenique e valuta nuove soluzioni: Thor può diventare un centro tattico - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Pur riconoscendo il valore della tradizionale coppia play-pivot, l’eventuale ricerca di nuovi equilibri potrebbe portare a ulteriori cambiamenti, nonostante un budget già ampiamente superato."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Pallacanestro Reggiana",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 8,400,000 €, salary budget 3,820,000 €",
+      "player rows: 22/23 (1), 21/22 (1), 15/16 (2)"
+     ]
+    },
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Utena Juventus",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 2,200,000 €, salary budget 1,300,000 €",
+      "25/26: budget 1,600,000 €, salary budget 950,000 €",
+      "24/25: budget 1,500,000 €",
+      "player rows: 26/27 (1), 24/25 (1), 23/24 (2)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5b59d943933e",
+   "url": "https://sportando.basketball/la-virtus-ritrova-abass-sara-gia-disponibile-per-domani/",
+   "title": "La Virtus ritrova Abass: sarà già disponibile per domani - Sportando",
+   "site": "Sportando",
+   "country": "United Arab Emirates",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "ingaggio"
+   ],
+   "snippets": [
+    "L'ala italiana è stata tesserata dopo l'ufficialità dell'ingaggio.",
+    "La Virtus ritrova Awudu Abass, che dopo l’ufficialità del suo ingaggio è già stato tesserato e sarà a disposizione di Alex Mumbrù per la partita di domani."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Alex Mumbru",
+     "sheet": [
+      "26/27 Virtus Bologna: 400,000 €"
+     ]
+    },
+    {
+     "name": "Awudu Abass",
+     "sheet": [
+      "23/24 Virtus Bologna: 275,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "5af2478565a0",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/serbijoje-keliama-samokslo-teorija-lietuva-sukurpe-klastinga-plana-pries-mus-874-2810782?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Serbijoje keliama sąmokslo teorija: „Lietuva sukurpė klastingą planą prieš mus“",
+   "site": "15min 24sek",
+   "country": "Serbia",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money",
+    "tukstan"
+   ],
+   "snippets": [
+    "Serbų pristatytame 24-ių kandidatų sąraše yra net 12 Eurolygos žaidėjų.",
+    "Pažymėtina, kad šalia Klaipėdos yra Palangos oro uostas, tačiau jis operatyviai būtų pasiekiamas nebent užsakomaisiais skrydžiais, kainuojančiais dešimtis tūkstančių eurų."
+   ],
+   "amounts": [
+    "12 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Plana",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 85,700 €, salary budget 66,846 €",
+      "24/25: budget 54,309 €",
+      "23/24: budget 41,655 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "af91a9c0325b",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/treviso-verso-roma-nicola-senglin-in-dubbio-chery-sfida-bilan-non-e-immarcabile",
+   "title": "Treviso verso Roma, Nicola: «Senglin in dubbio». Chery sfida Bilan: «Non è immarcabile»",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "La formazione capitolina, impegnata tra campionato ed Euro..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "f5648a4141d2",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/reggio-emilia-infortunio-serio-per-ogbeide-possibile-ritorno-sul-mercato-priftis-smith-non-e-ancora-al-top-fisicamente",
+   "title": "Reggio Emilia, infortunio serio per Ogbeide: possibile ritorno sul mercato. Priftis: «Smith non è ancora al top fisicamente»",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "La formazione capitolina, impegnata tra campionato ed Euro..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Pallacanestro Reggiana",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 9,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 8,400,000 €, salary budget 3,820,000 €",
+      "player rows: 22/23 (1), 21/22 (1), 15/16 (2)"
+     ]
+    },
+    {
+     "name": "Pallacanestro Trieste",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 2,500,000 €",
+      "25/26: budget 8,000,000 €, salary budget 4,000,000 €",
+      "24/25: budget 8,590,000 €, salary budget 4,080,000 €",
+      "player rows: 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "616612d37031",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/corsera-la-mano-di-banchi-sullolimpia-squadra-rivitalizzata",
+   "title": "CorSera: «La mano di Banchi sull'Olimpia. Squadra rivitalizzata»",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "La formazione capitolina, impegnata tra campionato ed Euro..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e1996c6d8238",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/al-palamangano-va-in-scena-il-primo-scontro-salvezza-la-longobardi-scafati-affronta-la-san-benedetto-cantu",
+   "title": "Al PalaMangano va in scena il primo scontro salvezza: la Longobardi Scafati affronta la San Benedetto Cantù",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "La formazione capitolina, impegnata tra campionato ed Euro..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Pallacanestro Cantu",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 3,500,000 €",
+      "25/26: budget 6,000,000 €, salary budget 3,000,000 €",
+      "24/25: budget 4,681,000 €"
+     ]
+    },
+    {
+     "name": "Scafati Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "567237cf662b",
+   "url": "https://www.eurohoops.net/en/fiba/2038658/fiba-europe-board-approves-hosts-of-2027-youth-eurobaskets/",
+   "title": "FIBA Europe maintains current restrictions on Russian, Belarusian, Israeli teams",
+   "site": "Eurohoops EN",
+   "country": "Germany",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "The Board approved the budget for 2027 and was also presented with reports on:"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Alba Berlin",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 11,420,000 €, salary budget 4,690,000 €",
+      "24/25: budget 12,830,000 €, salary budget 6,790,000 €",
+      "player rows: 25/26 (1), 23/24 (1), 22/23 (1)"
+     ]
+    },
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Hamburg Towers",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 6,630,000 €, salary budget 2,080,000 €",
+      "24/25: budget 6,300,000 €, salary budget 1,370,000 €",
+      "player rows: 20/21 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jorge Garbajosa",
+     "sheet": [
+      "08/09 BC Khimki Moscow: 3,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "79b52cc0ce6e",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2588218/iliadis-sto-gazzetta-fetino-ntermpi-paok-aris-ehei-mia-aigli-toy",
+   "title": "Ηλιάδης στο Gazzetta: «Το φετινό ντέρμπι ΠΑΟΚ - Άρης έχει μια αίγλη του παρελθόντος»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Είναι μια ομάδα με μεγάλο μπάτζετ, με την έλευση του Τρινκιέρι και κυρίως με τη μεγάλη μεταγραφή του Οσμάν ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6a02ed0d602f",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2588190/prelebits-sto-gazzetta-psahnomastan-na-broyme-gipedo-opoio-hanotan",
+   "title": "Πρέλεβιτς στο Gazzetta: «Ψαχνόμασταν να βρούμε το γήπεδο, το οποίο χανόταν σε ένα σύννεφο καπνού»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Τόσο στον ΠΑΟΚ όσο και στον Άρη έχουν γίνει μεγάλες επενδύσεις, τα μπάτζετ ανέβηκαν, ήρθαν παίκτες υψηλού επιπέδου και ο κόσμος έχει ξαναζεσταθεί για τα καλά."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e6307202e0a4",
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261121/1004253636/moses-wright-descartar-barca-verano-mvp-13a-jornada.html",
+   "title": "Moses Wright: de descartar al Barça en verano a ser MVP de la 13ª jornada",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Pero todo cambió en el mes de julio, cuando sorprendiendo a propios y extraños, Wright anunció que ejecutaba un cláusula presente en su contrato para rescindir su acuerdo con el Barça, previo pago de unos 900.000 euros y fichar por el Armani Milán italiano."
+   ],
+   "amounts": [
+    "900.000 euros"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Moses Wright",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,400,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "24/25 Olympiacos B.C.: 550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "c0db082b2ae9",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-22-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 22, 2026",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 5 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "MHP Riesen Ludwigsburg",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,740,000 €, salary budget 2,520,000 €",
+      "24/25: budget 5,760,000 €, salary budget 2,530,000 €"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "245ca6c131a0",
    "url": "https://www.eurohoops.net/tr/euroleague-tr/2038618/dusan-alimpijevic-kariyerimin-kalanini-besiktasta/",
