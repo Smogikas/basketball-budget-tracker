@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T19:04+00:00",
+ "updated": "2026-11-21T20:56+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 3,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,29 +76,29 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached start date"
   },
   {
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 11,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 33,
+   "checked": 24,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 23,
+   "checked": 12,
    "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-20",
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 16,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,26 +157,26 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 21,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
@@ -184,10 +184,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -202,12 +202,12 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -220,11 +220,11 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "reached start date"
   },
   {
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -256,12 +256,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-15",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -283,15 +283,6 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SportoweFakty",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -300,8 +291,17 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "SportoweFakty",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sporx",
-   "checked": 21,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +382,128 @@
   }
  ],
  "items": [
+  {
+   "id": "fa2a80c8ec79",
+   "url": "https://sportando.basketball/jazz-manca-un-vero-playmaker-per-supportare-darryn-peterson-e-keyonte-george/",
+   "title": "Jazz, manca un vero playmaker per supportare Darryn Peterson e Keyonte George - Sportando",
+   "site": "Sportando",
+   "country": "",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Anche George – 21.1 punti e 7.1 assist x game, ma 42% dal campo e 32% da tre- , che a settembre ha firmato un’estensione contrattuale quinquennale da 157.5 milioni di dollari, rappresenta una pedina fondamentale nel progetto dei Jazz ."
+   ],
+   "amounts": [
+    "157.5 milioni"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6579ed86f27b",
+   "url": "https://www.sdna.gr/mpasket/1489028_apotheothike-o-kosmos-toy-olympiakoy-apo-meli-tis-omadas-eno-gioyhare-ton-ntorsei",
+   "title": "Αποθεώθηκε ο κόσμος του Ολυμπιακού από μέλη της ομάδας, ενώ γιούχαρε τον Ντόρσεϊ…",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ως τότε, η γιούχα πώς ακριβώς δικαιολογείται; Ειδικά όταν μιλάμε για αθλητή για τον οποίο ο Ολυμπιακός ζήτησε το λιγότερο 5 εκατ.",
+    "ευρώ ενώ το συμβόλαιό του λήγει σε κάποιους μήνες."
+   ],
+   "amounts": [
+    "5 εκατ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8968c7fd12cd",
+   "url": "https://basketballsphere.com/en/anadolu-efes-74-game-scoring-feat/",
+   "title": "Anadolu Efes match 74-game scoring feat",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Anadolu Efes have scored over 100 points twice in three games, matching their total from the previous 74 EuroLeague outings.",
+    "In doing so, Anadolu Efes have matched their total number of 100-point performances from the preceding 74 EuroLeague games.",
+    "According to HackaStat data, Efes averaged a pace of 76.3 possessions per game during the first 10 rounds of the 2026/27 EuroLeague season."
+   ],
+   "amounts": [
+    "74 EuroLeague",
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "eab356460bce",
+   "url": "https://www.dnevnik.si/novice/svet/tudi-portugalci-nezadovoljni-na-tisoce-ljudi-danes-protestiralo-zaradi-vse-drazjih-stroskov-2842453/",
+   "title": "Tudi Portugalci nezadovoljni: na tisoče ljudi danes protestiralo zaradi vse dražjih stroškov",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "salar",
+    "tisoc"
+   ],
+   "snippets": [
+    "Manifestação contra os roubos, por mais salário e melhores pensões.",
+    "Kljub močnemu dežju se je danes v središču Lizbone zbralo več tisoč protestnikov.",
+    "Organizatorji trdijo, da se je protesta udeležilo več tisoč ljudi, policija pa svoje ocene števila zbranih ni objavila."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "2a3a1516b6d5",
    "url": "https://www.sdna.gr/mpasket/1489074_kaneis-den-akoyse-ton-alketa",
