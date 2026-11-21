@@ -1,28 +1,19 @@
 {
- "updated": "2026-11-21T05:10+00:00",
+ "updated": "2026-11-21T07:28+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -30,8 +21,18 @@
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-21",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,7 +77,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -103,33 +104,15 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -138,8 +121,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 13,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,19 +149,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -175,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -202,48 +203,49 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "reached start date"
+   "pages": 3,
+   "oldest": "2026-11-14",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -256,21 +258,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-13",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -292,30 +294,30 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-17",
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -382,6 +384,83 @@
   }
  ],
  "items": [
+  {
+   "id": "245ca6c131a0",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2038618/dusan-alimpijevic-kariyerimin-kalanini-besiktasta/",
+   "title": "Dusan Alimpijevic: “Kariyerimin Kalanını Beşiktaş’ta…”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Bu akşam salondaki 8 bin kişi, birçok kulübü yutabilecek bir atmosfer yarattı.”"
+   ],
+   "amounts": [
+    "8 bin"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "e66c3f678ca5",
+   "url": "https://www.dnevnik.si/nedeljski/zakulisje/estrada/aleksandri-prijovic-zazgali-avto-2841391/",
+   "title": "Aleksandri Prijović zažgali avto",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [
+    "Ogenj ni zajel le njunega, menda okrog 80.000 evrov vrednega terenca, temveč tudi avtomobil, parkiran poleg, poškodovano pa je bilo še drevo v bližini."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "a7eaaad6a3e5",
    "url": "https://basketballsphere.com/en/daniel-osayi-joventut-valencia-interview/",
