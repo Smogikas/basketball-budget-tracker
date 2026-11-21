@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-21T15:02+00:00",
+ "updated": "2026-11-21T17:00+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -22,15 +22,6 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Krepsinis.net",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -39,17 +30,26 @@
    "stop": "no older pages"
   },
   {
+   "site": "Krepsinis.net",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
+  },
+  {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,16 +67,16 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,12 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x793160073b00>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -103,16 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -120,8 +111,17 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops GR",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-21",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,8 +130,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 20,
-   "found": 0,
+   "checked": 28,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 12,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,39 +157,39 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 21,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-20",
+   "pages": 3,
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-21",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "",
-   "stop": "no more pages"
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 7,
+   "found": 1,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-21",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -202,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,13 +220,12 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-15",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
@@ -239,12 +238,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 36,
+   "found": 3,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 5,
+   "oldest": "2026-11-21",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,12 +256,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-14",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -293,17 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 16,
+   "checked": 25,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +382,196 @@
   }
  ],
  "items": [
+  {
+   "id": "010981762d68",
+   "url": "https://www.athletiko.gr/kosmosyrroi-exo-apo-to-pale-gia-to-ntermpi-toy-ari-me-ton-paok-117218",
+   "title": "Κοσμοσυρροή έξω από το Παλέ για το ντέρμπι του Αρη με τον ΠΑΟΚ | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Περίπου 20 λεπτά πριν το τζάμπολ, χιλιάδες φίλοι του Άρη είχαν ήδη γεμίσει το χώρο έξω από την έδρα της ομάδας τους."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "7032755a5b84",
+   "url": "https://meridiansport.rs/kosarka/rusija-fiba-evropa-takmicenja/",
+   "title": "Ruska košarka i dalje van takmičenja FIBA",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Odbor je usvojio i budžet za 2027."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "492af4b197ba",
+   "url": "https://basketballsphere.com/en/maxima-roma-vs-treviso-prediction-odds-serie-a-november-22-2026/",
+   "title": "Maxima Roma vs Treviso Prediction & Odds: Serie A, November 22, 2026",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Wednesday brought an 87–79 EuroCup defeat at Cluj, dropping them to 4–4 in Europe."
+   ],
+   "amounts": [
+    "79 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2aeac0b9457b",
+   "url": "https://basketballsphere.com/en/mykonos-vs-vikos-prediction-odds-greek-league-november-22-2026/",
+   "title": "Mykonos vs Vikos Prediction & Odds: Greek League, November 22, 2026",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "The first 100 euros of a payout are tax free in Greece, and a licensed book withholds the rest at the counter for you."
+   ],
+   "amounts": [
+    "100 euros"
+   ],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Mykonos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 3,300,000 €, salary budget 2,200,000 €",
+      "25/26: budget 2,000,000 €, salary budget 1,400,000 €",
+      "23/24: row exists, no amounts"
+     ]
+    },
+    {
+     "name": "Vikos Falcons Ioannina B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 2,250,000 €, salary budget 1,500,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "24031c4a4c06",
+   "url": "https://basketballsphere.com/en/euroleague-26-27-round-13-winners-losers/",
+   "title": "EuroLeague Winners & Losers: Trendsetters and meltdowns",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "This is the first time in the 2026/27 EuroLeague season that Milano or anything connected to the Italian club appears on the list of winners, but after a double-round week like this, it is simply impossible to overlook what Luca Banchi has done in record time for a team that looked catastrophic f…"
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Banchi",
+     "sheet": [
+      "18/19 AEK B.C.: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "fab9724c431a",
    "url": "https://sportando.basketball/longobardi-scafati-martino-contro-cantu-gara-fondamentale-per-noi/",
