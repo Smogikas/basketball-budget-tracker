@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21T17:00+00:00",
+ "updated": "2026-11-21T19:04+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 9,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -22,15 +22,6 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Krepsinis.net",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -39,17 +30,26 @@
    "stop": "no older pages"
   },
   {
+   "site": "Krepsinis.net",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
+  },
+  {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,20 +85,20 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "TrendBasket",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-05",
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "TrendBasket",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-07",
    "stop": "reached start date"
   },
   {
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,8 +130,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 28,
-   "found": 1,
+   "checked": 33,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -139,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 13,
-   "found": 0,
+   "checked": 23,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-20",
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -166,26 +166,26 @@
   },
   {
    "site": "Telesport",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
    "checked": 7,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-21",
@@ -202,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,28 +220,28 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-15",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 36,
-   "found": 3,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 5,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -283,10 +283,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
@@ -301,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 25,
+   "checked": 21,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +382,62 @@
   }
  ],
  "items": [
+  {
+   "id": "2a3a1516b6d5",
+   "url": "https://www.sdna.gr/mpasket/1489074_kaneis-den-akoyse-ton-alketa",
+   "title": "Κανείς δεν άκουσε τον Αλκέτα...",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Σε παιχνίδι υψηλού επιππέδου, με πολλά εκατομμύρια στο παρκέ, οι φιλοξενούμενοι φάνηκαν απροετοίμαστοι, όχι τόσο στα \"πλέις\" του αντιπάλου, αλλά στο πνευματικό κομμάτι και στη διαχείριση του παιχνιδιού."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "162f5be8ef70",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/nenad-stefanovic-u-4x10-niko-nije-konstatovao-da-igokea-ima-sedam-srpskih-igraca/559382",
+   "title": "Nenad Stefanović u „4x10“: Niko nije konstatovao da Igokea ima sedam srpskih igrača | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Bosnia and Herzegovina",
+   "published": "2026-11-21",
+   "found": "2026-11-21",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Poseban akcenat u razgovoru stavljen je na koncepciju ekipe, jer Igokea ove sezone ima jedan od manjih budžeta u klupskoj istoriji, ali i mlad tim sa čak sedam srpskih igrača, među kojima se istakao i novopečeni reprezentativac Lazar Stefanović ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Igokea",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 2,500,000 €, salary budget 1,500,000 €",
+      "25/26: budget 3,519,465 €, salary budget 2,300,000 €",
+      "24/25: budget 3,278,660 €, salary budget 2,150,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "010981762d68",
    "url": "https://www.athletiko.gr/kosmosyrroi-exo-apo-to-pale-gia-to-ntermpi-toy-ari-me-ton-paok-117218",
