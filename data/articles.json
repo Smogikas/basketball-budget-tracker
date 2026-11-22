@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22T20:57+00:00",
+ "updated": "2026-11-22T22:57+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 13,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 8,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,20 +40,20 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 12,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-07",
+   "oldest": "2026-11-08",
    "stop": "reached start date"
   },
   {
@@ -67,16 +67,16 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,12 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7c8ee030bc20>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -103,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,51 +121,6 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 38,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
-   "checked": 6,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sport24",
-   "checked": 6,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 8,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -174,16 +129,34 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Mozzart Sport",
+   "site": "Athletiko",
+   "checked": 11,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
    "checked": 5,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-21",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
-   "site": "Meridian Sport",
+   "site": "Gazzetta.gr",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -192,8 +165,35 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Encestando",
+   "site": "Telesport",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mozzart Sport",
    "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Encestando",
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -233,13 +233,13 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
+   "oldest": "2026-11-21",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 2,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -274,15 +274,24 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-22",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-19",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SportoweFakty",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -291,27 +300,18 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SportoweFakty",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
-  },
-  {
    "site": "Sporx",
-   "checked": 13,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -382,6 +382,144 @@
   }
  ],
  "items": [
+  {
+   "id": "0560bee50df2",
+   "url": "https://www.sdna.gr/mpasket/1489422_mia-anasa-apo-tin-armani-milano-o-oniema-buyout-450000-eyro-gia-ton-antikatastati",
+   "title": "«Μια ανάσα από την Αρμάνι Μιλάνο ο Ονιέμα – Buyout 450.000 ευρώ για τον αντικαταστάτη του Μπούκερ»",
+   "site": "SDNA",
+   "country": "Italy",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Μάλιστα, σύμφωνα με τον Ιταλό δημοσιογράφο Αντρέα Καλτσόνι, η Αρμάνι Μιλάνο αναμένεται να καταβάλει στη Σκαφάτι ποσό που φτάνει τις 450.000 ευρώ ως buyout, προκειμένου να εξασφαλίσει την απόκτηση του παίκτη, με την επίσημη ανακοίνωση να αναμένεται τις επόμενες ημέρες.",
+    "Scafati will receive a buyout of €450k GROSS."
+   ],
+   "amounts": [
+    "450.000 ευρώ",
+    "€450k"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Scafati Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 3,700,000 €, salary budget 2,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 2,170,000 €, salary budget 1,240,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "33a21cc984fe",
+   "url": "https://basketballsphere.com/en/dzanan-musa-fenerbahce-anadolu-efes-ergin-ataman/",
+   "title": "From Fenerbahce dream to Anadolu Efes: How Dzanan Musa ended up with Ergin Ataman",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "salar"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries",
+    "I received a million notifications about it on Twitter."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    },
+    {
+     "name": "Ergin Ataman",
+     "sheet": [
+      "24/25 Panathinaikos B.C.: 1,300,000 €",
+      "23/24 Panathinaikos B.C.: 1,080,000 €",
+      "20/21 Anadolu Efes S.K.: 1,000,000 €",
+      "16/17 Galatasaray S.K.: 810,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "9fe7ed1ce11e",
+   "url": "https://sports.walla.co.il/item/3877266",
+   "title": "צפו: אחרי שאיבדה את ג'וש ניבו, ברצלונה הפסידה גם בליגה - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "אקס מכבי תל אביב, שקלע בשישי 7 נקודות עם 6 ריבאונדים ב-24 דקות, הגיע לברצלונה בקיץ ממילאנו והעמיד העונה ממוצאים של 7.7 נקודות ו-7.7 ריבאונדים ב-10 הופעות ביורוליג, כולל 3.2 ריבאונדים בהתקפה למשחק."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "6bdbd859185a",
    "url": "https://basketballsphere.com/en/serbian-basketball-federation-ibon-navarro/",
