@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22T13:14+00:00",
+ "updated": "2026-11-22T15:00+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,16 +13,16 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,7 +85,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -94,26 +94,26 @@
   },
   {
    "site": "TrendBasket",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-10",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
+   "pages": 2,
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -121,8 +121,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -130,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 29,
+   "checked": 30,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -148,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -166,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,8 +184,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -261,16 +261,16 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -292,16 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 13,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,210 @@
   }
  ],
  "items": [
+  {
+   "id": "36d0ffc4c66d",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2039122/errick-mccollum-mike-jamesin-sayi-rekorunu-kiracak-oyuncu/",
+   "title": "Errick McCollum: “Mike James’in Sayı Rekorunu Kıracak Oyuncu…”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Esenler Erokspor’un yıldızı Errick McCollum , kendi podcast programı Euro McCollum Show’da Mike James’in rekoru hakkında konuştu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Esenler Erokspor",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,200,000 €, salary budget 2,800,000 €",
+      "21/22: row exists, no amounts"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Errick McCollum",
+     "sheet": [
+      "25/26 Galatasaray S.K.: 850,000 €",
+      "24/25 Karsiyaka Basket: 644,000 €"
+     ]
+    },
+    {
+     "name": "Mike James",
+     "sheet": [
+      "26/27 Anadolu Efes S.K.: 2,904,000 €",
+      "25/26 AS Monaco Basket: 3,000,000 €",
+      "24/25 AS Monaco Basket: 2,800,000 €",
+      "23/24 AS Monaco Basket: 2,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "657e16977ab8",
+   "url": "https://meridiansport.rs/kosarka/navaro-zvezda-srbija-moneke-cibona/",
+   "title": "Navaro o reprezentativcima Zvezde: Nama je prioritet utakmica u utorak - ovakav Čima među najboljima u Evroligi",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "placa"
+   ],
+   "snippets": [
+    "Moramo da napravimo procenu, ali ovo je teško… Ko plaća igrače?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f79dae7d542a",
+   "url": "https://basketballsphere.com/en/errick-mccollum-mike-james-euroleague-scoring-record/",
+   "title": "Errick McCollum on Mike James' EuroLeague scoring record",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "salar"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries",
+    "A post shared by EURO INSIDERS (@euroinsiders)"
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Errick McCollum",
+     "sheet": [
+      "25/26 Galatasaray S.K.: 850,000 €",
+      "24/25 Karsiyaka Basket: 644,000 €"
+     ]
+    },
+    {
+     "name": "Mike James",
+     "sheet": [
+      "26/27 Anadolu Efes S.K.: 2,904,000 €",
+      "25/26 AS Monaco Basket: 3,000,000 €",
+      "24/25 AS Monaco Basket: 2,800,000 €",
+      "23/24 AS Monaco Basket: 2,000,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "7fcca0c43d09",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1285574/wyjatkowi-goscie-na-trybunach-i-popis-dzikow-warszawa",
+   "title": "Wyjątkowi goście na trybunach i popis Dzików Warszawa",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tysiec"
+   ],
+   "snippets": [
+    "Na trybunach zasiadło niemal pięć tysięcy fanów, a goście czuli się w tej atmosferze wyśmienicie."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dziki Warszawa",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 2,350,000 €, salary budget 1,292,500 €",
+      "25/26: budget 2,116,165 €, salary budget 1,163,891 €",
+      "24/25: budget 2,142,008€",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€",
+      "player rows: 18/19 (2)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Gauthier Denis",
+     "sheet": [
+      "25/26 BCM Gravelines - Dunkerque: 75,000 €",
+      "23/24 Paris Basketball: 100,000 €",
+      "22/23 Paris Basketball: 85,000 €",
+      "21/22 Paris Basketball: 75,000 €"
+     ]
+    },
+    {
+     "name": "Joseph Girard",
+     "sheet": [
+      "24/25 Nevėžis Kėdainiai: 30,000 €"
+     ]
+    },
+    {
+     "name": "Rivaldo Soares",
+     "sheet": [
+      "26/27 Hapoel Holon: 105,600 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "19d983c8f881",
    "url": "https://www.eurohoops.net/el/euroleague-el-2/2039069/panter-o-vezenkof-ta-pio-evnoika-sfirigmata-stin-evroligka-ela-tora/",
