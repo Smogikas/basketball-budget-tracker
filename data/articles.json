@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-22T16:59+00:00",
+ "updated": "2026-11-22T19:06+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 9,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -13,6 +13,15 @@
   },
   {
    "site": "BasketNews.lt",
+   "checked": 2,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
+  },
+  {
+   "site": "BasketNews.com",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -21,17 +30,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "BasketNews.com",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
-  },
-  {
    "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-07",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,7 +76,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,11 +85,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
+   "pages": 1,
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
@@ -103,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 8,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,17 +121,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 2,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 27,
-   "found": 0,
+   "checked": 34,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -139,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 10,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 13,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,16 +220,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,7 +238,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -283,10 +283,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-19",
    "stop": "reached articles checked before"
   },
@@ -301,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +311,7 @@
   {
    "site": "Walla Sport",
    "checked": 5,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,242 @@
   }
  ],
  "items": [
+  {
+   "id": "d8e5156eed0d",
+   "url": "https://www.basketnews.lt/news-260027-crvena-zvezda-treneris-liko-kategoriskas-rinktines-klausimu-kas-moka-atlyginimus-zaidejams.html#utm_medium=rss&utm_content=news",
+   "title": "„Crvena Zvezda“ treneris rinktinės klausimu – kategoriškas: „Kas moka atlyginimus žaidėjams?“",
+   "site": "BasketNews.lt",
+   "country": "Serbia",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "atlyginim"
+   ],
+   "snippets": [
+    "Kas moka atlyginimus žaidėjams?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1a777d77585f",
+   "url": "https://www.eurohoops.net/tr/fiba-world-cup-tr/2039365/federasyondan-kizilyildiz-kocuna-sert-cevap-senin-haddine-degil/",
+   "title": "Federasyondan Kızılyıldız Koçuna Sert Cevap: “Senin Haddine Değil!”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "maas"
+   ],
+   "snippets": [
+    "Kızılyıldız oyuncularının maaşlarının nasıl ödendiği hakkında konuşmak, Bay Navarro’nun haddine değil."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6e8c491fa62e",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2039302/kizilyildiz-kocundan-dikkat-ceken-cikis-milli-takim-bizim-icin-oncelik-degil/",
+   "title": "Kızılyıldız Koçundan Dikkat Çeken Çıkış: “Milli Takım Bizim İçin Öncelik Değil”",
+   "site": "Eurohoops TR",
+   "country": "Croatia",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "maas"
+   ],
+   "snippets": [
+    "Peki oyuncuların maaşlarını kim ödüyor?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €",
+      "player rows: 17/18 (1), 13/14 (2), 12/13 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "91644b767efd",
+   "url": "https://www.athletiko.gr/esvise-ton-antagonismo-to-ntermpi-paok-aris-saronontas-stin-tiletheasi-117442",
+   "title": "«Εσβησε» τον ανταγωνισμό το ντέρμπι ΠΑΟΚ - Αρης... σαρώνοντας στην τηλεθέαση | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Η μεγάλη απήχηση της αναμέτρησης επιβεβαιώθηκε και στους πίνακες τηλεθέασης, καθώς η μονομαχία των δύο ομάδων της Θεσσαλονίκης δεν προσέλκυσε μόνο το ενδιαφέρον των φίλων του μπάσκετ που βρέθηκαν στο γήπεδο, αλλά και χιλιάδων τηλεθεατών που την παρακολούθησαν από τα σπίτια τους."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a3e23c444122",
+   "url": "https://www.sdna.gr/mpasket/1489345_sarose-stin-tiletheasi-paok-aris-htypise-20-kai-dielyse-ton-antagonismo",
+   "title": "Σάρωσε στην τηλεθέαση το ΠΑΟΚ - Άρης: «Χτύπησε» 20% και διέλυσε τον ανταγωνισμό!",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Δεν ήταν μόνο το κατάμεστο Παλατάκι που έζησε στους ρυθμούς του μεγάλου ντέρμπι ανάμεσα στον ΠΑΟΚ και τον Άρη, αλλά και χιλιάδες τηλεθεατές που παρακολούθησαν την αναμέτρηση από τους τηλεοπτικούς τους δέκτες!"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "433882f0eab6",
+   "url": "https://basketballsphere.com/en/barcelona-refereeing-complaints/",
+   "title": "Barcelona foul and free-throw numbers stand out amid refereeing complaints",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries",
+    "That ranks them 18th among the 20 EuroLeague teams."
+   ],
+   "amounts": [
+    "20 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Oded Kattash",
+     "sheet": [
+      "26/27 Maccabi Tel Aviv: 880,000 €",
+      "25/26 Maccabi Tel Aviv: 510,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0b896033da47",
+   "url": "https://sports.walla.co.il/item/3877253",
+   "title": "זו השנה השביעית: טורניר כדורסל האקסטרים ייערך בירושלים - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "המשתתפים שיגיעו למקומות הראשונים יזכו בגביעים ובשובר לרכישת ציוד ספורט בשווי 250 שקלים לזוג."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "318d36df5666",
    "url": "https://sportando.basketball/lba-round-9-longobardi-scafati-acqua-s-bernardo-cantu/",
