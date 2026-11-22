@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-22T19:06+00:00",
+ "updated": "2026-11-22T20:57+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 13,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,20 +76,20 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -112,17 +112,17 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
-   "found": 2,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -130,8 +130,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 34,
-   "found": 1,
+   "checked": 38,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -140,9 +140,9 @@
   {
    "site": "SDNA",
    "checked": 6,
-   "found": 1,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -157,16 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 10,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 3,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -174,8 +165,17 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Telesport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,16 +193,16 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-12",
+   "oldest": "2026-11-13",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 1,
+   "checked": 2,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -274,7 +274,7 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -301,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 15,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,109 @@
   }
  ],
  "items": [
+  {
+   "id": "6bdbd859185a",
+   "url": "https://basketballsphere.com/en/serbian-basketball-federation-ibon-navarro/",
+   "title": "Serbian Basketball Federation blasts Ibon Navarro over national team remarks",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "salar"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries",
+    "KSS also addressed his remarks about player salaries, claiming that the Serbian state provides significant financial support to Crvena Zvezda’s players and coaching staff."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "90f4330fa534",
+   "url": "https://basketballsphere.com/en/eugene-omoruyi-injury-besiktas/",
+   "title": "Eugene Omoruyi suffers bizarre injury during Besiktas-Fenerbahce derby",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "salar"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries"
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "d8e5156eed0d",
    "url": "https://www.basketnews.lt/news-260027-crvena-zvezda-treneris-liko-kategoriskas-rinktines-klausimu-kas-moka-atlyginimus-zaidejams.html#utm_medium=rss&utm_content=news",
