@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-22T07:28+00:00",
+ "updated": "2026-11-22T09:00+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 3,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
@@ -22,17 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,20 +76,20 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basket Dergisi",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
@@ -104,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -113,16 +112,16 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 18,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,7 +158,7 @@
   {
    "site": "Gazzetta.gr",
    "checked": 6,
-   "found": 0,
+   "found": 2,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-21",
@@ -167,24 +166,6 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -193,8 +174,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mozzart Sport",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,19 +211,19 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
@@ -239,11 +238,11 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
@@ -257,12 +256,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -284,25 +283,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
+   "pages": 2,
+   "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -383,6 +382,145 @@
   }
  ],
  "items": [
+  {
+   "id": "311ddee5dd51",
+   "url": "https://www.gazzetta.gr/basketball/2588659/techitserious-sto-gazzetta-gia-ti-niki-boloy-den-eimaste-youtubers-poy-eftiaxan",
+   "title": "Οι πρόεδροι της Νίκης Βόλου, TechItSerious, στο Gazzetta: «Δεν είμαστε YouTubers που έφτιαξαν ομάδα από το μηδέν, αναλάβαμε σύλλογο 103 ετών»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Θέλουμε ένα εξασφαλισμένο μπάτζετ από μια λαϊκή βάση, από το μικρό υστέρημα πολλών ανθρώπων»."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6fc6098e2736",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2588697/paokareia-2026",
+   "title": "\"ΠΑΟΚάρεια\" 2026",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Ο Ταϊρί συνεχίζει να κάνει πράγματα ως scoring guard επιπέδου Euroleague , ο Χουγκάζ μετά τη Μανρέσα, γίνεται καθοριστικός και στην 4η περίοδο ενός ΠΑΟΚ-Άρης με τα τρίποντά του, ο Φόστερ έστω και χωρίς προπόνηση όλη την εβδομάδα, έχει την εμπειρία και την «αλητεία» να διαχειριστεί τέτοια παιχνίδι…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ec1407268351",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261122/1004254000/114-91-alien-wembanyama-exhibe-numeros-planeta.html",
+   "title": "114-91: El 'alien' Wembanyama se exhibe con números de otro planeta",
+   "site": "Mundo Deportivo",
+   "country": "France",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Una partida de ajedrez con Wembanyama alcanzó los 51.000 dólares , dentro de una recaudación total de 1,1 millones de dólares."
+   ],
+   "amounts": [
+    "1,1 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Orleans Loiret Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 7,131,000 €, salary budget 1,950,000 €",
+      "25/26: budget 5,254,000 €, salary budget 1,385,000 €",
+      "24/25: budget 4,839,000 €, salary budget 1,243,000 €",
+      "player rows: 25/26 (10), 24/25 (11), 23/24 (12)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Victor Wembanyama",
+     "sheet": [
+      "22/23 Metropolitans Basketball Club: 250,000 €",
+      "21/22 ASVEL Basket: 180,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "f1ec8a3947ce",
+   "url": "https://www.dnevnik.si/nedeljski/aktualno/kraljica-jadrana-izginja-in-je-vse-bolj-drobna-2838480/",
+   "title": "Kraljica Jadrana izginja in je vse bolj drobna",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov"
+   ],
+   "snippets": [
+    "Tudi cena sardele se dviga in dosega že osem evrov za kilogram.",
+    "Zdaj dosegajo ceno že osem evrov za kilogram."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2d0518bb85c9",
+   "url": "https://sports.walla.co.il/item/3877167",
+   "title": "וומבניאמה והכדורסל ה\"אתי\" שלו הרגיזו את הליגה: את מי עקץ הכוכב? - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "וומבניאמה דאג להפגין את יכולתו מולה, ואחרי שקלע שלשה הביט לעברה כדי לוודא שראתה."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "b2c28580d491",
    "url": "https://www.sdna.gr/mpasket/1489141_panter-poios-pairnei-ta-pio-filika-sfyrigmata-o-sasa-vid",
