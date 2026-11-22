@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-21T22:55+00:00",
+ "updated": "2026-11-22T01:27+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -31,25 +31,25 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -71,7 +71,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "no older pages"
   },
   {
@@ -85,12 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7c5b0015a930>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -103,19 +103,19 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -130,17 +130,17 @@
   },
   {
    "site": "Athletiko",
-   "checked": 9,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 4,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -148,19 +148,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -175,25 +175,25 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,25 +220,25 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 19,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 5,
-   "oldest": "2026-11-15",
+   "pages": 1,
+   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -274,11 +274,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
@@ -292,30 +292,30 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -382,6 +382,29 @@
   }
  ],
  "items": [
+  {
+   "id": "b2c28580d491",
+   "url": "https://www.sdna.gr/mpasket/1489141_panter-poios-pairnei-ta-pio-filika-sfyrigmata-o-sasa-vid",
+   "title": "Πάντερ: «Ποιος παίρνει τα πιο φιλικά σφυρίγματα; Ο Σάσα!» (vid)",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Ο Κέβιν Πάντερ φιλοξενήθηκε στο podcast «Euro Insiders» και κλήθηκε να απαντήσει σε γρήγορες ερωτήσεις που του τέθηκαν, πετώντας τα..."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "07bbaf5b9c62",
    "url": "http://sportacentrs.com/basketbols/damas/22112026-dzino_oriemma_vidusskolas_absolventiem_ne",
