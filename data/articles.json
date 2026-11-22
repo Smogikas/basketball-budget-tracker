@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22T09:00+00:00",
+ "updated": "2026-11-22T10:58+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,29 +67,29 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
+   "pages": 1,
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
@@ -103,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 2,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-21",
@@ -166,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,8 +175,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -184,16 +184,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,35 +211,35 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-16",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Bild Basketball",
-   "checked": 3,
+   "site": "Sportacentrs",
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-16",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-20",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 7,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -256,21 +256,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-15",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "oldest": "2026-11-15",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -283,7 +283,7 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -292,16 +292,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -328,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -382,6 +382,96 @@
   }
  ],
  "items": [
+  {
+   "id": "9c6aac3998d4",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2588725/panter-gia-bezenkob-sasa-se-agapo-alla-pairneis-ta-eynoikotera",
+   "title": "Πάντερ για Βεζένκοβ: «Σάσα σε αγαπώ, αλλά παίρνεις τα ευνοϊκότερα σφυρίγματα στη Euroleague»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "A post shared by EURO INSIDERS (@euroinsiders)"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "eabb43cd8102",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/nenad-stefanovic-u-banjaluci-imam-mir-i-zastitu-u-voenju-tima-sada-vazi-pravilo-manje-je-vise/559410",
+   "title": "Nenad Stefanović: U Banjaluci imam mir i zaštitu, u vođenju tima sada važi pravilo „manje je više“ | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Croatia",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Što se tiče budžeta, to je negde jedan od manjih budžeta u istoriji Igokee, ali mi smo bili spremni na to, svesni toga i i više puta na konferenciji sam to govorio, uživam svaki dan u radu s njima jer nema niko negativan.",
+    "A sam si rekao da nije pitanje budžeta jer imate manji budžet nego ranije...",
+    "Vidite i sami ima dosta drugih ekipa u našoj grupi, konkretno Cibona, Slovan koje su poprilično odskočile pričom po budžetu i po rosteru."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Cibona",
+     "country": "Croatia",
+     "sheet": [
+      "26/27: budget 2,272,731 €, salary budget 1,684,308 €",
+      "25/26: budget 3,205,402 €, salary budget 807,667 €",
+      "24/25: budget 2,916,903 €",
+      "player rows: 13/14 (2), 12/13 (1), 10/11 (2)"
+     ]
+    },
+    {
+     "name": "KK Slovan",
+     "country": "Slovenia",
+     "sheet": [
+      "07/08: budget 850,000 €",
+      "05/06: budget 800,000 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "cecb37f104dc",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-23-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 23, 2026",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-22",
+   "found": "2026-11-22",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 1 unit"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "311ddee5dd51",
    "url": "https://www.gazzetta.gr/basketball/2588659/techitserious-sto-gazzetta-gia-ti-niki-boloy-den-eimaste-youtubers-poy-eftiaxan",
