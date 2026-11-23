@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:32+00:00",
+ "updated": "2026-11-23T03:12+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,12 +22,12 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
   },
   {
    "site": "Krepsinis.net",
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -87,10 +87,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x73f4ccbc4920>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -103,10 +103,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,12 +229,12 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
@@ -283,10 +283,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -301,21 +301,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2025-10-22",
-   "stop": "reached start date"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
