@@ -1,38 +1,47 @@
 {
- "updated": "2026-11-23T09:40+00:00",
+ "updated": "2026-11-23T11:17+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,17 +49,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-21",
-   "stop": "no older pages"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,7 +77,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -88,10 +88,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7ce7cca55a00>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -104,17 +104,18 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -122,7 +123,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,16 +132,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 28,
-   "found": 0,
+   "checked": 17,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +150,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -185,7 +186,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,17 +204,18 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -221,7 +223,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,7 +232,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,7 +241,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 8,
+   "checked": 10,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -248,7 +250,7 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -257,21 +259,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-15",
+   "oldest": "2026-11-16",
    "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-23",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -284,10 +286,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -302,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 11,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,8 +331,8 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -383,6 +385,317 @@
   }
  ],
  "items": [
+  {
+   "id": "da7ba3b3615a",
+   "url": "https://sportando.basketball/confronto-maxima-roma-bc-roma-editoriale-23-novembre-2026/",
+   "title": "Le due Roma alla sosta: Maxima ride, BC piange. Ma sugli spalti la capitale attende il decollo. Il confronto - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar"
+   ],
+   "snippets": [
+    "La cessione dei club è stata una libera scelta dei rispettivi proprietari, e il fatto che ci siano dollari pronti a essere investiti nel basket italiano non è necessariamente sinonimo di crisi o cattiva gestione."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d23fccd2900b",
+   "url": "https://www.basketnews.lt/news-260062-rinktines-lango-laukiantis-marciulionis-eisime-draskytis-plesytis-ir-kovoti-iki-kraujo.html#utm_medium=rss&utm_content=news",
+   "title": "Rinktinės lango laukiantis Marčiulionis: „Eisime draskytis, plėšytis ir kovoti iki kraujo“",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Augustas Marčiulionis",
+     "sheet": [
+      "26/27 Rytas Vilnius: 300,000 €",
+      "25/26 Rytas Vilnius: 100,000 €",
+      "20/21 Rytas Vilnius: 30,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "3371e8853889",
+   "url": "https://www.eurohoops.net/en/euroleague/2039618/zacharie-perrin-to-baskonia-euroleague/",
+   "title": "Zacharie Perrin completes EuroLeague move to Baskonia ahead of Efes",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "At the FIBA level, he led France to gold in the FIBA U20 EuroBasket and silver in the FIBA U19 World Cup 2023."
+   ],
+   "amounts": [
+    "20 EuroBasket"
+   ],
+   "seasons": [
+    "29/30",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Zacharie Perrin",
+     "sheet": [
+      "24/25 SLUC Nancy Basket: 55,000 €",
+      "23/24 Olympique Antibes Sharks: 20,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "b07a7727e313",
+   "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2039565/protathlima-v-efivon-itta-stis-leptomeries-apo-ton-proto-as-rodopolis/",
+   "title": "Πρωτάθλημα Β’ Εφήβων: Ήττα στις λεπτομέρειες από τον «πρώτο» ΑΣ Ροδόπολης",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Eurohoops Academy – ΑΣ Ροδόπολης 50-52 Δεκάλεπτα: 14-10, 25-21, 40-40, 50-52 Eurohoops Academy (Κόντος): Αναγνωστόπουλος, Τερνοβένκο, Φραντζεσκάκης 17(4), Βαγγελάτος, Μπάτσης 11(2), Κούβαλης 8, Νταής 4, Αλιφέρης, Παταβούκας 8(1), Μπογιατζής, Βαρδακαστάνης 2."
+   ],
+   "amounts": [
+    "52 Eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "50f598fd0fb9",
+   "url": "https://www.athletiko.gr/yparchei-talento-i-ethniki-gynaikon-chreiazetai-ypomoni-kai-chrono-117655",
+   "title": "«Υπάρχει ταλέντο, η Εθνική γυναικών χρειάζεται υπομονή και χρόνο» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Ξέρετε, σε αυτό που ακολουθεί εκείνο του ΣΕΦ, όπου 10 χιλιάδες άνθρωποι, σε μία ιστορική βραδιά μαζεύτηκαν για να παρακολουθήσουν την Εθνική ομάδα, να διεκδικεί την πρόκρισή της στους “8” της διοργάνωσης.",
+    "Όπου μαζεύτηκε 10 χιλιάδες κόσμος.",
+    "Και το ερώτημα είναι τι χρειάζεται η Εθνική ομάδα σε πρώτη φάση και στη συνέχεια οι σύλλογοι για να κάνουν ακόμα ένα βήμα ψηλότερα… “Αυτή είναι η ερώτηση τους ενός εκατομμυρίου” γέλασε η διεθνής παίκτρια."
+   ],
+   "amounts": [
+    "10 χιλιάδες"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d8a18d452c5b",
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261123/1004254413/baskonia-confirma-llegada-pivot-zach-perrin-traspasado-ilerna-lleida.html",
+   "title": "Baskonia confirma la llegada del pívot Zach Perrin, traspasado desde el iLerna Lleida",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "El portavoz azulgrana indicó que Zach Perrin tenía una posibilidad de salir en enero a cambio de una cantidad determinada , pero se ha adelantado el fichaje, y desmintió los rumores de que el club vasco vaya a abonar 500.000 euros por este traspaso."
+   ],
+   "amounts": [
+    "500.000 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "459801729dc7",
+   "url": "https://basketballsphere.com/en/besiktas-vs-paris-prediction-odds-euroleague-november-24-2026/",
+   "title": "Besiktas vs Paris Prediction & Odds: EuroLeague, November 24, 2026",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Besiktas hosts Paris on Tuesday, November 24, 2026, with a 6–7 EuroLeague record and renewed confidence after beating Fenerbahce in the Turkish league.",
+    "Paris has an excellent 4–2 European road record and improved to 8–1 in the French league with Sunday’s 113–87 win over Gravelines.",
+    "These teams have met twice in official competition, both in the 2023/24 EuroCup group stage, with the visitors winning each time."
+   ],
+   "amounts": [
+    "7 EuroLeague",
+    "2 European",
+    "24 EuroCup"
+   ],
+   "seasons": [
+    "23/24"
+   ],
+   "teams": [
+    {
+     "name": "BCM Gravelines - Dunkerque",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 5,681,000 €, salary budget 1,766,000 €",
+      "25/26: budget 5,858,000 €, salary budget 1,778,000 €",
+      "24/25: budget 5,475,000 €, salary budget 1,659,000 €",
+      "player rows: 26/27 (11), 25/26 (12), 24/25 (11)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Paris Basketball",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 30,858,000 €, salary budget 8,177,000 €",
+      "25/26: budget 28,883,000 €, salary budget 7,970,000 €",
+      "24/25: budget 18,885,000 €, salary budget 5,625,000 €",
+      "player rows: 26/27 (16), 25/26 (17), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "758c39109692",
+   "url": "https://www.dnevnik.si/novice/svet/musk-je-odpuscal-ameriske-uradnike-kitajci-pa-naj-bi-z-oglasi-za-delo-zeleli-iz-njih-dobiti-podatke-2842803/",
+   "title": "Musk je odpuščal ameriške uradnike, Kitajci pa naj bi z oglasi za delo želeli dobiti skrivnosti",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "tisoc"
+   ],
+   "snippets": [
+    "Iz državne službe je tedaj zaradi rezov, ki jih je uvedel Elon Musk, odšlo več sto tisoč ljudi, med njimi tudi nekdanji uslužbenci z dostopom do zaupnih informacij.",
+    "Za 1200 dolarjev je pripravil poročilo o možnem pristopu Trumpove vlade k varnostnemu sporazumu z Avstralijo in Združenim kraljestvom, pri čemer je uporabil izključno javno dostopne podatke.",
+    "»Dali so mi 1200 dolarjev za akademsko besedilo, ki jim v resnici ni dalo ničesar, kar bi lahko uporabili proti naši vladi.«"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "5a8430d8502d",
    "url": "https://www.basketnews.lt/news-260064-uzduokite-klausima-bn-qa-tinklalaidei-ir-laimekite-priza.html#utm_medium=rss&utm_content=news",
