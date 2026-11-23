@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:23+00:00",
+ "updated": "2026-11-23T17:18+00:00",
  "warnings": [],
  "run": [
   {
@@ -14,7 +14,7 @@
   {
    "site": "BasketNews.lt",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -32,7 +32,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,7 +86,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -104,17 +104,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -122,16 +122,16 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 17,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,7 +158,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -167,28 +167,28 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -203,34 +203,34 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
+   "oldest": "2020-12-18",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sportacentrs",
-   "checked": 13,
+   "site": "Mundo Deportivo",
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 6,
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 3,
    "oldest": "2026-11-17",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 10,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,7 +239,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -266,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-23",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -293,12 +293,13 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
@@ -311,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +384,165 @@
   }
  ],
  "items": [
+  {
+   "id": "2892eb9b305e",
+   "url": "https://www.basketnews.lt/news-260091-rinktines-matematika-keturiu-pergaliu-finisas-garantuotu-vieta-pc.html#utm_medium=rss&utm_content=news",
+   "title": "Rinktinės matematika: keturių pergalių finišas garantuotų vietą PČ",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "40470a4e1253",
+   "url": "https://www.eurohoops.net/en/euroleague/2039730/asvel-and-myles-cale-part-ways-by-mutual-agreement/",
+   "title": "ASVEL and Myles Cale part ways by mutual agreement",
+   "site": "Eurohoops EN",
+   "country": "France",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Cale, 27, has played only 5 EuroLeague games for ASVEL this season, averaging 4.6 points, 2.2 rebounds, and 1.4 assists."
+   ],
+   "amounts": [
+    "5 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Myles Cale",
+     "sheet": [
+      "26/27 ASVEL Basket: 425,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "8e12136fcd5e",
+   "url": "https://basketballsphere.com/en/euroleague-26-27-round-14-tactical-battles/",
+   "title": "Three high-stakes tactical battles defining EuroLeague Round 14",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries",
+    "The last time Valencia and Panathinaikos met was in Game 5 of the 2025/26 EuroLeague playoff series, when Brancou Badio scored 20 points to send Valencia to their first Final Four."
+   ],
+   "amounts": [
+    "26 EuroLeague"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Brancou Badio",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 1,300,000 €"
+     ]
+    },
+    {
+     "name": "Ergin Ataman",
+     "sheet": [
+      "24/25 Panathinaikos B.C.: 1,300,000 €",
+      "23/24 Panathinaikos B.C.: 1,080,000 €",
+      "20/21 Anadolu Efes S.K.: 1,000,000 €",
+      "16/17 Galatasaray S.K.: 810,000 €"
+     ]
+    },
+    {
+     "name": "Pedro Martinez",
+     "sheet": [
+      "26/27 Real Madrid Baloncesto: 1,200,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "462c6d3848c8",
    "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2039611/protathlima-v-pedon-proti-ke-aittiti-sta-misa-tis-a-fasis-i-eurohoops-academy/",
