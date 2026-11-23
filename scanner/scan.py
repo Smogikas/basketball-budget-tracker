@@ -676,6 +676,7 @@ class Rules:
         self.flags = compile_keywords(kw_cfg.get("flag_if_in_text", []))
         self.basketball_words = compile_keywords(kw_cfg.get("basketball_words", []))
         self.skip_title = compile_keywords(kw_cfg.get("skip_if_in_title", []))
+        self.gambling = compile_keywords(kw_cfg.get("skip_gambling", []))
         self.nba_names = compile_keywords(kw_cfg.get("nba_team_names", []))
 
     def is_nba_team(self, team):
@@ -697,6 +698,11 @@ def process_article(site, url, listed_date, fetcher, rules, sheet, settings, sta
     if any_match(rules.skip_title, norm(title)):
         return None, date
     text_n = norm(title + "\n" + text)
+    # Betting / casino / game-app pages (some sites publish paid casino posts).
+    if any_match(rules.gambling, norm(title) + " " + norm(url)) or \
+            sum(len(rx.findall(text_n)) for _, rx, _ in rules.gambling) >= 3:
+        stats["skipped_gambling"] = stats.get("skipped_gambling", 0) + 1
+        return None, date
     # General news sites: the article must be about basketball.
     if site.get("general") and not any_match(rules.basketball_words, text_n):
         return None, date
