@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-23T07:53+00:00",
+ "updated": "2026-11-23T09:40+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
@@ -27,11 +27,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 2
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,16 +68,16 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +86,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -103,8 +104,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-21",
@@ -112,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,7 +122,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 14,
+   "checked": 28,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -160,22 +161,22 @@
    "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,11 +185,11 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
@@ -211,7 +212,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,10 +240,10 @@
   {
    "site": "Basketball Sphere",
    "checked": 8,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
@@ -265,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -292,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 21,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -328,11 +329,11 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
+   "pages": 2,
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
@@ -382,6 +383,196 @@
   }
  ],
  "items": [
+  {
+   "id": "5a8430d8502d",
+   "url": "https://www.basketnews.lt/news-260064-uzduokite-klausima-bn-qa-tinklalaidei-ir-laimekite-priza.html#utm_medium=rss&utm_content=news",
+   "title": "Užduokite klausimą BN+ Q&A tinklalaidei ir laimėkite prizą",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5316cf6ba688",
+   "url": "https://www.eurohoops.net/en/fibawc/2039550/jonas-valanciunas-update-zalgiris-lithuania-euroleague-world-cup-qualifiers-fiba/",
+   "title": "Valanciunas to miss Lithuania’s first clash, questionable for second game",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "After the Kaunas outfit faces Real Madrid at Movistar Arena in Round 14 of the 2026–27 EuroLeague Regular Season on Wednesday, the club and federation will review the veteran center’s status to see if he can travel to Sarajevo for Sunday’s game against Bosnia-Herzegovina."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dainius Adomaitis",
+     "sheet": [
+      "22/23 Alvark Tokyo: 280,000 €",
+      "19/20 Rytas Vilnius: 150,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1ed0d27235a0",
+   "url": "https://www.sport24.gr/basket/xaris-stavrou-kai-lazaros-xristodoulopoulos-gia-tin-ataka-spanouli-gia-ton-kalathi-simera-den-tha-tin-elege/",
+   "title": "Χάρης Σταύρου και Λάζαρος Χριστοδουλόπουλος για την ατάκα Σπανούλη, για τον Καλάθη: \"Σήμερα δεν θα την έλεγε\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Η δεύτερη μεγαλύτερη ληστεία στην ιστορία του αθλητισμού, είναι ότι δεν μπήκε στο top 25 EuroLeague, σε μία ψηφοφορία που είχε γίνει."
+   ],
+   "amounts": [
+    "25 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5bee686c9f33",
+   "url": "https://basketballsphere.com/en/basketball-predictions-powered-by-quantcourt-november-24-2026/",
+   "title": "Basketball Predictions powered by QuantCourt: November 24, 2026",
+   "site": "Basketball Sphere",
+   "country": "Germany",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "-Total budget: 4 units"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Beirut First Club",
+     "country": "Lebanon",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Charlotte Hornets",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e8e28ed787c8",
+   "url": "https://www.gigantes.com/liga-endesa/real-madrid-homenaje-lolo-sainz-movistar-arena/",
+   "title": "El emotivo homenaje del Real Madrid a Lolo Sainz",
+   "site": "Gigantes",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "placa"
+   ],
+   "snippets": [
+    "Posteriormente, Florentino Pérez , presidente del Real Madrid, se acercó al centro de la pista para entregarle una placa con el escudo del club y una camiseta de la presente temporada personalizada con su apellido y el dorsal número 7."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "e27e3d3db524",
    "url": "https://basketfaul.com.tr/gundem/biz-voleybol-ulkesiyiz-6-akif-ustundag-naci-ozonay/",
