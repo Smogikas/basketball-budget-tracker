@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23T13:39+00:00",
+ "updated": "2026-11-23T15:23+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -32,16 +32,16 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 4,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,7 +86,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -104,25 +104,25 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 20,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +140,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 7,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 2,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -158,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
@@ -176,8 +176,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -185,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -203,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,25 +212,25 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 15,
-   "found": 1,
+   "checked": 13,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-16",
-   "stop": "reached start date"
+   "pages": 6,
+   "oldest": "2026-11-17",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,8 +239,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 2,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -266,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -293,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 12,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,8 +311,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -383,6 +383,87 @@
   }
  ],
  "items": [
+  {
+   "id": "462c6d3848c8",
+   "url": "https://www.eurohoops.net/el/eurohoops-academy-el/2039611/protathlima-v-pedon-proti-ke-aittiti-sta-misa-tis-a-fasis-i-eurohoops-academy/",
+   "title": "Πρωτάθλημα Β’ Παίδων: Πρώτη και αήττητη στα μισά της Α’ Φάσης η Eurohoops Academy!",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Eurohoops Academy – ΓΣ Άνοιξης 78  93-32 Δεκάλεπτα: 19-6, 54-11, 76-16, 93-32 Eurohoops Academy (Μπαστούνης): Αναγνωστόπουλος 7(1), Ψύχας 11(1), Κουτσιαυτης 9, Φασουλόπουλος 6, Σωτηρόπουλος12(2), Γλυνός 7(1), Σταν 13, Παππάς 6, Λαδόπουλος 13(1), Στέρπης 4, Αγαπουλάκης 5(1), Στάμος."
+   ],
+   "amounts": [
+    "32 Eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "602aeafdd6a5",
+   "url": "https://basketballsphere.com/en/euroleague-power-rankings-10-streaks-surprises-and-major-changes/",
+   "title": "EuroLeague Power Rankings #10",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "salar"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries"
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "fbc4c528f66f",
    "url": "https://www.eurohoops.net/en/euroleague/2039631/luca-vildoza-derek-willis-updates-partizan-euroleague/",
