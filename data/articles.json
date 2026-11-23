@@ -1,29 +1,28 @@
 {
- "updated": "2026-11-23T21:05+00:00",
+ "updated": "2026-11-23T23:08+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -32,25 +31,25 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "15min 24sek",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
+   "site": "15min 24sek",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
+  },
+  {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,21 +67,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketfaul.com.tr', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketfaul.com.tr', port=443): Read timed out. (read t"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -104,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 11,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,16 +139,16 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,9 +158,9 @@
   {
    "site": "Gazzetta.gr",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -185,10 +184,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -203,17 +202,17 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -221,26 +220,26 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 1,
    "oldest": "2026-11-18",
    "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -257,12 +256,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "reached start date"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -275,34 +274,34 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 4,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -320,11 +319,11 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-21",
+   "oldest": "2026-04-28",
    "stop": "reached start date"
   },
   {
@@ -383,6 +382,321 @@
   }
  ],
  "items": [
+  {
+   "id": "7108a0f5233a",
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261123/1004254679/lleida-incorporara-inmediato-cuatro-jugadores-superara-presupuesto-previsto.html",
+   "title": "El Lleida incorporará de inmediato a cuatro jugadores y superará el presupuesto previsto",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "presupuest"
+   ],
+   "snippets": [
+    "El iLerna Lleida anunció este lunes que la junta directiva de la entidad se compromete a realizar un mínimo de cuatro fichajes de forma \"inmediata\" y a hacer un \"esfuerzo extraordinario\" en el apartado económico que supondrá un aumento del presupuesto previsto."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basquet Coruna",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 5,870,000 €, salary budget 3,250,000 €",
+      "25/26: budget 3,300,000 €, salary budget 1,800,000 €",
+      "24/25: budget 4,200,000 €"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Zacharie Perrin",
+     "sheet": [
+      "24/25 SLUC Nancy Basket: 55,000 €",
+      "23/24 Olympique Antibes Sharks: 20,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "93ca7600836a",
+   "url": "https://basketballsphere.com/en/turkey-ergin-ataman-larkin-wilbekin-flynn-biberovic/",
+   "title": "One spot, four options: Ergin Ataman's dilemma with Turkey's naturalized players",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Although he has represented Turkey at senior level and won the 2025 EuroLeague title with Fenerbahce, he continues to be classified as a naturalized player by FIBA.",
+    "Biberovic was born in Bosnia and Herzegovina and represented the country at the 2016 FIBA U16 European Championship."
+   ],
+   "amounts": [
+    "2025 EuroLeague",
+    "16 European"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Ergin Ataman",
+     "sheet": [
+      "24/25 Panathinaikos B.C.: 1,300,000 €",
+      "23/24 Panathinaikos B.C.: 1,080,000 €",
+      "20/21 Anadolu Efes S.K.: 1,000,000 €",
+      "16/17 Galatasaray S.K.: 810,000 €"
+     ]
+    },
+    {
+     "name": "Nadir Hifi",
+     "sheet": [
+      "26/27 Paris Basketball: 1,100,000 €",
+      "25/26 Paris Basketball: 1,000,000 €",
+      "24/25 Paris Basketball: 250,000 €",
+      "23/24 Paris Basketball: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "6abbe8b9929c",
+   "url": "https://basketballsphere.com/en/jan-vesely-zeljko-obradovic-fenerbahce/",
+   "title": "Jan Vesely recalls his decision to join Zeljko Obradovic at Fenerbahce",
+   "site": "Basketball Sphere",
+   "country": "Russia",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Jan Vesely looks back on joining Fenerbahce to play for Zeljko Obradovic, the 2016 EuroLeague final and his move to Barcelona.",
+    "The Czech big man also reflected on the painful loss to CSKA Moscow in the 2016 EuroLeague final, the motivation it gave the team to return stronger, and the feeling of eventually reaching the top of European basketball.",
+    "The 2016 EuroLeague final against CSKA"
+   ],
+   "amounts": [
+    "2016 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "18/19"
+   ],
+   "teams": [
+    {
+     "name": "CSKA Moscow",
+     "country": "Russia",
+     "sheet": [
+      "25/26: budget 22,461,000 €",
+      "24/25: budget 23,110,000 €",
+      "23/24: budget 21,509,000 €",
+      "player rows: 23/24 (1), 22/23 (1), 21/22 (4)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jan Vesely",
+     "sheet": [
+      "24/25 FC Barcelona Basquet: 1,150,000 €",
+      "22/23 FC Barcelona Basquet: 1,800,000 €",
+      "21/22 Fenerbahce Istanbul: 1,955,000 €",
+      "20/21 Fenerbahce Istanbul: 1,914,000 €"
+     ]
+    },
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "c0e6f3ae8d02",
+   "url": "https://www.dnevnik.si/sport/kosarka/slovaska-liga-je-boljsa-od-slovenske-2842738/",
+   "title": "Slovaška liga je boljša od slovenske",
+   "site": "Dnevnik.si",
+   "country": "Slovakia",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "proracun"
+   ],
+   "snippets": [
+    "V primeru, da pridemo v evropski pokal, bi dvignili proračun.",
+    "V primeru, da pridemo v evropski pokal, bi dvignili proračun."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "BC Slovan Bratislava",
+     "country": "Slovakia",
+     "sheet": [
+      "26/27: budget 2,000,000 €, salary budget 1,200,000 €",
+      "25/26: budget 1,459,451 €, salary budget 948,643 €",
+      "24/25: budget 610,000 €"
+     ]
+    },
+    {
+     "name": "KK Buducnost",
+     "country": "Montenegro",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 5,400,000 €",
+      "25/26: budget 5,670,000 €, salary budget 4,200,000 €",
+      "24/25: budget 5,200,000 €, salary budget 3,800,000 €",
+      "player rows: 25/26 (1), 24/25 (1), 18/19 (10)"
+     ]
+    },
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ded9702f6a93",
+   "url": "https://www.dnevnik.si/mnenja/odprta-stran/o-lepoti-ki-pa-ni-vse-3-2842831/",
+   "title": "O lepoti, ki pa ni vse, 3.",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "Presenetljivo je, da nekdo, ki je vse življenje zagovarjal ustvarjalnost, danes tako zlahka odpiše tisoče ljudi, ki ustvarjajo drugače od njega."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9b79b5eacf7c",
+   "url": "https://www.dnevnik.si/mnenja/odprta-stran/svoboda-s-podporo-jankovicu-frangezu-in-cernetu-2-2842830/",
+   "title": "Svoboda s podporo Jankoviću, Frangežu in Černetu, 2.",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "evrih",
+    "evrov",
+    "placa",
+    "placo"
+   ],
+   "snippets": [
+    "Luka Mesec je, vsaj po mojem mnenju, dobro presodil politični trenutek in pokazal kar nekaj politične pretkanosti, ko je določil minimalno neto plačo pri 1000 evrih.",
+    "Ob veliki brezposelnosti bi bil »projekt 1000 evrov neto« zgolj sanje, ob tako rekoč polni zaposlenosti, ko je že sicer težko dobiti delavca za manj, kot znaša nova minimalna plača, pa realna možnost."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "476e504bd36e",
    "url": "https://www.gazzetta.gr/basketball/euroleague/2589183/balenthia-panathinaikos-o-exairetikos-kyrios-sorts-brike-ton-eayto",
