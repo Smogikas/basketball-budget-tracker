@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-23T11:17+00:00",
+ "updated": "2026-11-23T13:39+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -13,15 +13,6 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
    "checked": 2,
    "found": 0,
    "error": "",
@@ -30,18 +21,27 @@
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 5,
+   "site": "BasketNews.com",
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages",
    "skipped_nba": 1
   },
   {
+   "site": "Krepsinis.net",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
+  },
+  {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-23",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -86,43 +86,6 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7ce7cca55a00>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
-  },
-  {
-   "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-10",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops EN",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 6,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -131,16 +94,34 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Athletiko",
-   "checked": 17,
+   "site": "TrendBasket",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Eurohoops EN",
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
+   "site": "Eurohoops GR",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
    "checked": 5,
    "found": 0,
    "error": "",
@@ -149,9 +130,27 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
-   "checked": 3,
+   "site": "Athletiko",
+   "checked": 20,
    "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -160,9 +159,9 @@
   {
    "site": "Gazzetta.gr",
    "checked": 5,
-   "found": 0,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -177,8 +176,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -186,7 +185,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -204,18 +203,17 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
@@ -223,16 +221,16 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
-   "found": 0,
+   "checked": 15,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-17",
+   "pages": 2,
+   "oldest": "2026-11-16",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -241,8 +239,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 10,
-   "found": 1,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -250,7 +248,7 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -259,8 +257,8 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
@@ -295,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 18,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,8 +311,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -331,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -385,6 +383,358 @@
   }
  ],
  "items": [
+  {
+   "id": "fbc4c528f66f",
+   "url": "https://www.eurohoops.net/en/euroleague/2039631/luca-vildoza-derek-willis-updates-partizan-euroleague/",
+   "title": "Partizan gets Vildoza back for Dubai rematch, Willis out",
+   "site": "Eurohoops EN",
+   "country": "United Arab Emirates",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Partizan Mozzart Bet heads to the United Arab Emirates with a mixed injury report for Wednesday’s rematch against Dubai at Coca-Cola Arena in Round 14 of the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Luca Vildoza",
+     "sheet": [
+      "25/26 Virtus Bologna: 1,020,000 €",
+      "24/25 Olympiacos B.C.: 1,000,000 €",
+      "22/23 KK Crvena zvezda: 640,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "ba8c42e174c6",
+   "url": "https://www.sport24.gr/basket/asilliptos-kavgas-tou-enti-tzonson-me-ton-ntreimont-gkrin-sto-twitter-den-eisai-kan-o-kaliteros-enti-tzonson-stin-istoria-tou-nba/",
+   "title": "Ασύλληπτος καυγάς του Έντι Τζόνσον με τον Ντρέιμοντ Γκριν στο Twitter: \"Δεν είσαι καν ο καλύτερος Έντι Τζόνσον στην ιστορία του NBA\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Έβαλα νικητήρια σουτ, ήμουν σημαντικό κομμάτι τεσσάρων ομάδων που έφτασαν σε τελικούς περιφέρειας, είχα 22 πόντους ανά 28 λεπτά τη σεζόν που αναδείχθηκα κορυφαίος έκτος παίκτης, έβαλα περισσότερους από 20 χιλιάδες πόντους και όταν αποσύρθηκα, ήμουν ο 22ος σκόρερ στην ιστορία του NBA έχοντας παίξε…",
+    "Η συζήτηση συγκέντρωσε περισσότερα από 11-12 εκατομμύρια μάτια, με τον Τζόνσον να έχει πολλούς υποστηρικτές."
+   ],
+   "amounts": [
+    "20 χιλιάδες",
+    "12 εκατομμύρια"
+   ],
+   "seasons": [
+    "11/12"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "5ee105f14e91",
+   "url": "https://www.sport24.gr/basket/development-league-development-2-league-oi-aittitoi-pou-xexorizoun-kai-oi-megales-maxes-stous-12-omilous/",
+   "title": "Development League & Development 2 League: Οι αήττητοι που ξεχωρίζουν και οι μεγάλες μάχες στους 12 ομίλους",
+   "site": "Sport24",
+   "country": "USA",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Σε απόσταση αναπνοής βρίσκονται οι Destroyed Pistons και οι 20euros, που ακολουθούν με ρεκόρ 5-2 και 12 βαθμούς, διατηρώντας ανοιχτή τη μάχη της κορυφής."
+   ],
+   "amounts": [
+    "20euros"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Detroit Pistons",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 21/22 (1), 20/21 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c0976c073db4",
+   "url": "https://www.gazzetta.gr/basketball/nba/2589094/beef-gkrin-enti-tzonson-sto-nba-anti-gia-podcast-pigaine-gymnastirio-panta",
+   "title": "Beef Γκριν-Έντι Τζόνσον στο ΝΒΑ: «Αντί για podcast πήγαινε γυμναστήριο» - «Πάντα οι χαμένοι διαφωνούν»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Αυτοί οι παίκτες βγάζουν πάνω από 50 έως 60 εκατομμύρια δολάρια τον χρόνο.",
+    "These players are making upwards of $50 to $60 million a year."
+   ],
+   "amounts": [
+    "60 εκατομμύρια",
+    "$50",
+    "$60 million"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "58577c753b47",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/marko-ivanovic-borac-mozzart-stabilan-nema-razloga-za-brigu/559525",
+   "title": "Marko Ivanović: Borac Mozzart stabilan, nema razloga za brigu | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Grad Čačak je, kroz rebalans budžeta, opredelio dodatnih 15.000.000 dinara za Borac Mozzart, čime je još jednom potvrđena važnost kluba za sportski život grada.",
+    "Kada se uzmu u obzir sredstva koja očekujemo od obeštećenja za Pavla Nikolića i Aleksa Stina, kao i dodatna sredstva iz gradskog budžeta, jasno je da imamo osnov za optimizam."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ef965d1c83ee",
+   "url": "https://basketballsphere.com/en/euroleague-26-27-round-14-marquee-matchup/",
+   "title": "EuroLeague Round 14 Marquee Matchup: Battle of giants in Madrid",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "salar"
+   ],
+   "snippets": [
+    "Vasilije Micic and the problem with judging players by their salaries"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    },
+    {
+     "name": "Walter Tavares",
+     "sheet": [
+      "26/27 Real Madrid Baloncesto: 2,464,000 €",
+      "25/26 Real Madrid Baloncesto: 2,380,000 €",
+      "24/25 Real Madrid Baloncesto: 2,576,000 €",
+      "23/24 Real Madrid Baloncesto: 1,710,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "44a77e48c6b2",
+   "url": "https://basketballsphere.com/en/zacharie-perrin-baskonia-signing-2030/",
+   "title": "Baskonia sign Zacharie Perrin to long-term contract",
+   "site": "Basketball Sphere",
+   "country": "Spain",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "A former U20 European championship MVP",
+    "He was named MVP of the FIBA U20 EuroBasket 2024 after helping France win the tournament, averaging 15.4 points, 7.7 rebounds and 3.4 assists."
+   ],
+   "amounts": [
+    "20 European",
+    "20 EuroBasket"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Zacharie Perrin",
+     "sheet": [
+      "24/25 SLUC Nancy Basket: 55,000 €",
+      "23/24 Olympique Antibes Sharks: 20,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "9aa8cd6b3f3d",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1285736/ostrowskie-piekielko-troche-podzielone-srodowisko",
+   "title": "Ostrowskie piekiełko? \"Trochę podzielone środowisko\"",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Nie da się zawsze z niskim budżetem robić takich wyników, jak w poprzednim sezonie."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Arka Gdynia",
+     "country": "Poland",
+     "sheet": [
+      "26/27: budget 2,589,457€, salary budget 1,424,201€",
+      "25/26: budget 2,354,052 €, salary budget 1,294,729 €",
+      "24/25: budget 2,347,657€",
+      "player rows: 06/07 (1)"
+     ]
+    },
+    {
+     "name": "Stal Ostrow Wielkopolski",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,300,000 €, salary budget 780,000 €",
+      "24/25: budget 1,752,354€",
+      "player rows: 19/20 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ec0f3320b0d4",
+   "url": "https://sports.walla.co.il/item/3877347",
+   "title": "עופר ינאי נקנס ב-60 אלף שקל בשל התבטאויות כלפי ספי שמש - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-23",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "אלף",
+    "שקל"
+   ],
+   "snippets": [
+    "בית הדין של איגוד הכדורסל החליט היום (שני) לקנוס את עופר ינאי ב-60 אלף שקל בפועל ולהרחיקו לשני משחקים על תנאי בעקבות ביקורת נוקבת שהשמיע נגד השופט ספי שמש אחרי הדרבי התל אביבי לפני פחות משבועיים."
+   ],
+   "amounts": [
+    "60 אלף"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "da7ba3b3615a",
    "url": "https://sportando.basketball/confronto-maxima-roma-bc-roma-editoriale-23-novembre-2026/",
@@ -941,6 +1291,36 @@
     }
    ],
    "players": [],
+   "nba": false
+  },
+  {
+   "id": "190d23b358ce",
+   "url": "https://sportacentrs.com/basketbols/izlases/21112026-mes_nevaram_16_gadus_vecam_jaunietim_uzli",
+   "title": "\"Mēs nevaram 16 gadus vecam jaunietim uzlikt tādu atbildību\" – Freimanis aizstāv Beruē",
+   "site": "Sportacentrs",
+   "country": "Latvia",
+   "published": "2026-11-21",
+   "found": "2026-11-23",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tukstos"
+   ],
+   "snippets": [
+    "Tie, kam ir bērni, mani sapratīs, jo vecāki zina labāk nekā basketbola sabiedrība un tūkstošiem fanu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Rolands Freimanis",
+     "sheet": [
+      "21/22 Elan Chalon: 30,000 €"
+     ]
+    }
+   ],
    "nba": false
   },
   {
