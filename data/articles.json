@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24T15:20+00:00",
+ "updated": "2026-11-24T17:16+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -14,7 +14,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -23,13 +23,13 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
    "stop": "no older pages",
-   "skipped_nba": 1
+   "skipped_nba": 2
   },
   {
    "site": "Krepsinis.net",
@@ -42,8 +42,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -51,7 +51,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -69,21 +69,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -105,16 +105,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -123,24 +123,6 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 15,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -149,9 +131,27 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
-   "checked": 8,
+   "site": "Athletiko",
+   "checked": 13,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-24",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 9,
    "found": 2,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -159,7 +159,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -168,25 +168,25 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -213,12 +213,12 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -231,21 +231,22 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -258,21 +259,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
-   "stop": "reached start date"
+   "oldest": "2026-11-18",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -303,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +313,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -330,12 +331,13 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -384,6 +386,272 @@
   }
  ],
  "items": [
+  {
+   "id": "52af9cecbb06",
+   "url": "https://www.basketnews.lt/news-260143-zalgiris-i-madrida-isvyko-su-gossu-ir-lo.html#utm_medium=rss&utm_content=news",
+   "title": "„Žalgiris“ į Madridą išvyko su Gossu ir Lo",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "BN+ narystė iki 30 € pigiau"
+   ],
+   "amounts": [
+    "30 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2b7bac9bc53e",
+   "url": "https://basketnews.com/news-260147-nba-highest-paid-coaches-2026-27-salaries-top-10-steve-kerr-mike-brown.html#utm_medium=rss&utm_content=news",
+   "title": "Top 10 highest-paid NBA coaches in 2026-27 revealed: Reigning champ ranks 7th",
+   "site": "BasketNews.com",
+   "country": "USA",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "million",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Golden State Warriors head coach Steve Kerr remains the highest-paid coach in the NBA, earning an average annual salary of $17.5 million, according to a new report.",
+    "Golden State Warriors head coach Steve Kerr remains the highest-paid coach in the NBA, earning an average annual salary of $17.5 million, according to a new report.",
+    "Kurt Badenhausen of Sportico has revealed the NBA's 10 highest-paid head coaches for the 2026-27 season, with all 10 earning at least $10 million annually."
+   ],
+   "amounts": [
+    "$17.5 million",
+    "$10 million",
+    "$15 million",
+    "$11 million",
+    "$120.5 million"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Dallas Mavericks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Illawarra Hawks",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,700,000 €, salary budget 1,732,994 €",
+      "24/25: budget 3,600,000 €, salary budget 1,695,651 €"
+     ]
+    },
+    {
+     "name": "Los Angeles D-Fenders",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    },
+    {
+     "name": "New York Knicks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 17/18 (1), 16/17 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ee8cd0aa4559",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/kas-butu-jei-kauno-zalgiris-myletu-ne-tik-save-bet-ir-lietuvos-rinktine-875-2813314?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Kas būtų, jei Kauno „Žalgiris“ mylėtų ne tik save, bet ir Lietuvos rinktinę?",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "alga"
+   ],
+   "snippets": [
+    "Jonas Valančiūnas: „Žinau, kas moka man algą."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Jonas Valančiūnas",
+     "sheet": [
+      "26/27 Žalgiris Kaunas: 2,500,000 €",
+      "11/12 Rytas Vilnius: 250,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "ec589e8f56c0",
+   "url": "https://www.sdna.gr/mpasket/1490039_o-loykits-blepei-amesi-enishysi-se-ari-paok-kai-sholiazei-panathinaiko-kai",
+   "title": "Ο Λούκιτς βλέπει άμεση ενίσχυση σε Άρη - ΠΑΟΚ και σχολιάζει Παναθηναϊκό και Ομπράντοβιτς",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "«Όταν κοιτάς το ελληνικό πρωτάθλημα φέτος, τα μπάτζετ, αυτά που συμβαίνουν, το επίπεδο των ομάδων και τα ρόστερ που έχουν, νομίζω ότι πρέπει να είμαστε ρεαλιστές.",
+    "Νέοι ιδιοκτήτες, αλλαγές στα μπάτζετ και τις φιλοδοξίες.",
+    "Όταν βλέπεις τα μπάτζετ τους απ' έξω, ξαφνικά αρχίζεις να ακούς για τους παίκτες που θέλουν να υπογράψουν φέτος."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "75dabf67cc86",
+   "url": "https://www.sdna.gr/mpasket/1490051_apokalypseis-toy-apollona-p-gia-ti-wild-card-zitame-tin-tirisi-tis-nomimotitas-kai",
+   "title": "Αποκαλύψεις του Απόλλωνα Π. για τη wild card: «Ζητάμε την τήρηση της νομιμότητας και την αλήθεια»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "– Η Αναγέννηση Αρκαλοχωρίου δεν προσκόμισε ποτέ ως όφειλε προς την ΕΟΚ πριν την όλη διαδικασία υπεύθυνη δήλωση ότι μπορεί να καλύψει το κόστος των 50.000 ευρώ αν έπαιρνε (όπως κι έγινε) την wild card."
+   ],
+   "amounts": [
+    "50.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "80e21863e9a3",
+   "url": "https://www.gazzetta.gr/basketball/2589423/apollon-patras-o-apollon-den-psahnei-tipote-parapano-apo-tin-alitheia",
+   "title": "Απόλλων Πάτρας: «Ζητάμε την τήρηση της νομιμότητας και την αλήθεια»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η Αναγέννηση Αρκαλοχωρίου δεν προσκόμισε ποτέ ως όφειλε προς την ΕΟΚ πριν την όλη διαδικασία υπεύθυνη δήλωση ότι μπορεί να καλύψει το κόστος των 50.000 ευρώ αν έπαιρνε (όπως κι έγινε) την wild card."
+   ],
+   "amounts": [
+    "50.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "77850847c8d9",
+   "url": "https://www.dnevnik.si/novice/ljubljana/zacenja-se-celovita-energetska-sanacija-ljubljanske-porodnisnice-2843134/",
+   "title": "Začenja se celovita energetska sanacija ljubljanske porodnišnice",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money",
+    "tisoc"
+   ],
+   "snippets": [
+    "\"Vsako leto se v teh prostorih rodi več tisoč otrok, zato je naša dolžnost, da materam, novorojenčkom in njihovim družinam zagotovimo kar najboljše pogoje,\" je poudaril glede energetske sanacije porodnišnice.",
+    "Celotna investicija je po njegovih besedah z davkom vredna okoli 12 milijonov evrov.",
+    "Po navedbah UKC Ljubljana je projekt ocenjen na 156,1 milijona evrov, nova klinika pa bo prinesla skoraj 25.000 kvadratnih metrov novih zdravstvenih površin, sodobne oddelke za zdravljenje nalezljivih bolezni, intenzivno terapijo, specialistične ambulante in diagnostične zmogljivosti."
+   ],
+   "amounts": [
+    "12 milijonov",
+    "156,1 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "b50766eae69d",
    "url": "https://www.basketnews.lt/news-260140-top-10-laisvuju-agentu-veteranu-kas-gali-sustiprinti-eurolygos-klubus.html#utm_medium=rss&utm_content=news",
