@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-23T23:08+00:00",
+ "updated": "2026-11-24T01:30+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,12 +67,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
@@ -87,10 +87,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x7c6100fc6db0>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -112,10 +112,10 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -130,15 +130,33 @@
   },
   {
    "site": "Athletiko",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+  },
+  {
+   "site": "Sport24",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Gazzetta.gr",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -147,26 +165,8 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -202,21 +202,21 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
@@ -238,12 +238,13 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -256,12 +257,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
-   "found": 3,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "no older pages"
+   "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
@@ -274,19 +275,19 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-23",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
@@ -301,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,16 +311,16 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
