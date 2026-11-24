@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-24T07:39+00:00",
+ "updated": "2026-11-24T09:26+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 12,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -44,16 +44,16 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-08",
+   "oldest": "2026-11-09",
    "stop": "reached start date"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -103,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,8 +121,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -130,17 +130,18 @@
   },
   {
    "site": "Athletiko",
-   "checked": 26,
+   "checked": 20,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 1
   },
   {
    "site": "SDNA",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -148,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,25 +158,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 3,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,8 +185,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -202,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +212,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,12 +221,12 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
@@ -238,17 +239,16 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -258,15 +258,15 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "reached start date"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -288,21 +288,22 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 18,
+   "checked": 22,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -320,7 +321,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,11 +330,11 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
@@ -383,6 +384,226 @@
   }
  ],
  "items": [
+  {
+   "id": "5c5174cf7bca",
+   "url": "https://www.basketnews.lt/news-260124-basketnews-black-friday-pasiulymai-iki-50-nuolaida-narystems.html#utm_medium=rss&utm_content=news",
+   "title": "BasketNews Black Friday pasiūlymai: iki -50% nuolaida narystėms",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Pasinaudoję šia akcija, pirmus 3 mėnesius mokėsite vos 3,45 €/mėn.",
+    "(vietoje įprastų 6,90 €/mėn.).",
+    "Vienerių arba dvejų metų planus galite įsigyti su -22% nuolaida : 1 metų narystė dabar kainuoja tik 54 €, o 2 metų – vos 99 €."
+   ],
+   "amounts": [
+    "3,45 €",
+    "6,90 €",
+    "54 €",
+    "99 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "35d84d059d09",
+   "url": "https://www.krepsinis.net/naujiena/kaip-vasaros-sukretimas-sugrazino-karaliams-identiteta/354578",
+   "title": "Kaip vasaros sukrėtimas sugrąžino „Karaliams“ identitetą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Spain",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon"
+   ],
+   "snippets": [
+    "Iš pradžių pasitraukė pagrindiniai „Real“ krepšinio sektoriaus žmonės su Sergio Rodriguezu ir Martynu Pociumi priešakyje, o tada įvyko vienas skambiausių tarpsezonio ėjimų Eurolygoje – sumokėta kompensacija S.Scariolo ir milijoninė išpirka Valensijos „Valencia“ už Pedro Martinezą ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "7ac59e5e6cba",
+   "url": "https://www.eurohoops.net/en/euroleague/2039899/aleksej-pokusevski-talks-greece-olympiacos-paok-giannis-antetokounmpo/",
+   "title": "Pokusevski talks Greek passport, PAOK, and Olympiacos: “Never say never”",
+   "site": "Eurohoops EN",
+   "country": "Russia",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "He is also a veteran of 57 EuroLeague contests."
+   ],
+   "amounts": [
+    "57 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Lokomotiv Kuban",
+     "country": "Russia",
+     "sheet": [
+      "25/26: budget 18,371,000 €",
+      "24/25: budget 18,030,000 €",
+      "23/24: budget 14,784,000 €",
+      "player rows: 21/22 (1), 20/21 (2), 19/20 (2)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "b8e8705663eb",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2039913/datomeden-veselye-istanbuldaki-yillari-dusundukce-yuzumde-gulumseme-beliriyor/",
+   "title": "Datome’den Vesely’e: “İstanbul’daki Yılları Düşündükçe Yüzümde Gülümseme Beliriyor”",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Gigi Datome : “14 EuroLeague sezonu."
+   ],
+   "amounts": [
+    "14 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "245b1313c576",
+   "url": "https://www.sdna.gr/mpasket/1489907_exi-nees-katatheseis-apo-arhidiaitites-kai-diaitites-sto-kadro-kai-oi-telikoi-osfp",
+   "title": "Έξι νέες καταθέσεις από αρχιδιαιτητές και διαιτητές: Στο κάδρο και οι τελικοί ΟΣΦΠ-Παναθηναϊκός που σφύριξε ο Παπαπέτρου!",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Για τον έναν από αυτούς, μου έδειξε και έμβασμα 1.000 ευρώ από παράγοντα ομάδας» ."
+   ],
+   "amounts": [
+    "1.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ab176c7523b6",
+   "url": "https://basketballsphere.com/en/zoran-lukic-interview/",
+   "title": "INTERVIEW - Zoran Lukic: Making the Greek Basket League playoffs is Iraklis' minimum target",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "But when you look at the Greek Basket League this year, the budgets, what is happening, the level of those teams and the rosters they have, I think we need to be realistic.",
+    "New owners, changes in budgets and ambitions – that puts a little pressure on the other clubs.",
+    "When you look at their budgets from the outside, suddenly you start hearing about the players they want to sign this year."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Iraklis B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 3,300,000 €, salary budget 2,200,000 €",
+      "25/26: budget 2,100,000 €, salary budget 1,400,000 €",
+      "23/24: row exists, no amounts",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Zoran Lukič",
+     "sheet": [
+      "15/16 Banvit B.K.: 340,000 €",
+      "14/15 Banvit B.K.: 315,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
   {
    "id": "a8705941e806",
    "url": "https://meridiansport.rs/kosarka/tradicija-postoji-da-bi-se-postovala/",
