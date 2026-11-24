@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-24T05:22+00:00",
+ "updated": "2026-11-24T07:39+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 12,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -22,16 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,21 +67,21 @@
   },
   {
    "site": "Sport5",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basketfaul",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -96,41 +96,14 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-10",
+   "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops GR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -138,7 +111,7 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "SDNA",
+   "site": "Eurohoops GR",
    "checked": 5,
    "found": 0,
    "error": "",
@@ -147,20 +120,47 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
-   "checked": 0,
+   "site": "Eurohoops TR",
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Gazzetta.gr",
-   "checked": 0,
+   "site": "Athletiko",
+   "checked": 26,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 12,
+   "found": 0,
+   "error": "",
+   "pages": 3,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -175,19 +175,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -202,7 +202,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,12 +238,13 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -256,21 +257,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -283,25 +284,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
+   "pages": 2,
+   "oldest": "2026-11-21",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 2,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -328,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -382,6 +383,67 @@
   }
  ],
  "items": [
+  {
+   "id": "a8705941e806",
+   "url": "https://meridiansport.rs/kosarka/tradicija-postoji-da-bi-se-postovala/",
+   "title": "Tradicija postoji da bi ispoštovala",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budzet"
+   ],
+   "snippets": [
+    "Naprotiv, pokazao je Aleks Mumbru da sa značajno manjim budžetom od konkurencije može da pomrsi račune ama baš svakome u Evropi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "89b1b00c15a8",
+   "url": "https://www.dnevnik.si/novice/svet/novodobni-banditi-ropali-vlake-in-ukradli-za-20-milijonov-evrov-superg-in-orodja-2842863/",
+   "title": "Novodobni banditi: ropali vlake in ukradli za 20 milijonov evrov superg in orodja",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "V slogu starodobnih kriminalcev Divjega zahoda so tatovi v Kaliforniji napadli in oropali kar 36 tovornih vlakov, popihali pa so jo s plenom, vrednim več kot 20 milijonov evrov.",
+    "Napadli naj bi jih kar 36, z njih pa odnesli za več kot 20 milijonov evrov blaga."
+   ],
+   "amounts": [
+    "20 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "c0e6f3ae8d02",
    "url": "https://www.dnevnik.si/sport/kosarka/slovaska-liga-je-boljsa-od-slovenske-2842738/",
