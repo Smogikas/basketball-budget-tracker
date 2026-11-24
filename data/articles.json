@@ -1,37 +1,38 @@
 {
- "updated": "2026-11-24T09:26+00:00",
+ "updated": "2026-11-24T11:08+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
+   "checked": 2,
    "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 3,
-   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-24",
+   "stop": "no older pages",
+   "skipped_nba": 2
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,8 +68,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -76,7 +77,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +86,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -112,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,8 +122,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -130,18 +131,18 @@
   },
   {
    "site": "Athletiko",
-   "checked": 20,
-   "found": 0,
+   "checked": 36,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before",
-   "skipped_gambling": 1
+   "skipped_gambling": 2
   },
   {
    "site": "SDNA",
-   "checked": 2,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -149,7 +150,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,16 +159,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
-   "found": 0,
+   "checked": 10,
+   "found": 1,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -189,7 +190,7 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
@@ -203,16 +204,16 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,7 +222,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,25 +231,27 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_gambling": 1
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "reached articles checked before",
+   "skipped_gambling": 2
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -257,21 +260,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-17",
-   "stop": "no older pages"
+   "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -284,26 +287,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-22",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
+   "site": "SportoweFakty",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sporx",
-   "checked": 22,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -321,7 +323,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,10 +332,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -384,6 +386,210 @@
   }
  ],
  "items": [
+  {
+   "id": "7ac2a4ea9da9",
+   "url": "https://www.basketnews.lt/news-260119-ceponis-palaike-masiulio-sprendima-valanciunui-yra-ziauriai-sudetinga.html#utm_medium=rss&utm_content=news",
+   "title": "Čeponis palaikė Masiulio sprendimą: „Valančiūnui yra žiauriai sudėtinga“",
+   "site": "BasketNews.lt",
+   "country": "Turkey",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Po permainingos Kauno „Žalgirio“ savaitės Eurolygoje laidoje „7 Eurolygos dienos“ krepšinio komentatorius ir ekspertas Vaidas Čeponis bei visuomenininkas Benas Lastauskas aptarė įspūdingą Carseno Edwardso pasirodymą, Jono Valančiūno problemas gynyboje ir Saša Puklo teisėjavimą.",
+    "Po permainingos Kauno „Žalgirio“ savaitės Eurolygoje laidoje „7 Eurolygos dienos“ krepšinio komentatorius ir ekspertas Vaidas Čeponis bei visuomenininkas Benas Lastauskas aptarė įspūdingą Carseno Edwardso pasirodymą, Jono Valančiūno problemas gynyboje ir Saša Puklo teisėjavimą."
+   ],
+   "amounts": [
+    "7 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    },
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €",
+      "10/11: budget 217,215 €",
+      "09/10: budget 115,848 €",
+      "player rows: 12/13 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "0a6ada89de1a",
+   "url": "https://www.krepsinis.net/naujiena/n-mineikis-apie-iskovota-snaiperio-titula-ir-nauja-karjeros-etapa/354712",
+   "title": "N.Mineikis: apie iškovotą snaiperio titulą ir naują karjeros etapą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Lithuania",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Mineikiui ir jo artimiesiems, bet ir solidų piniginį prizą, siekiantį 10 tūkst."
+   ],
+   "amounts": [
+    "10 tūkst"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d7d929e2b7f0",
+   "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=568785",
+   "title": "''יקבל טונות של כסף'': עתיד דני אבדיה על הפרק - ערוץ הספורט",
+   "site": "Sport5",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "דולר"
+   ],
+   "snippets": [
+    "בפורטלנד לא נרגעים מהכוכב הישראלי: ''הוא יוכל גם לדרוש 400 מילון דולר כדי לשחק כדורסל."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "b6b21d96a7df",
+   "url": "https://www.eurohoops.net/en/euroleague/2039943/injury-report-round-14-sloukas-rivero-peters-out-bolmaro-martin-gtd/",
+   "title": "EuroLeague shares key injury updates before Round 14 tipoff",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Several roster updates ahead of Round 14 in the 2026–27 EuroLeague Regular Season"
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "685960c3cb2e",
+   "url": "https://www.athletiko.gr/skandalo-mpasket-moy-irthe-minyma-vinteo-apo-tainia-toy-al-patsino-sfyras-ayrio-den-koitas-na-mas-voithiseis-117811",
+   "title": "Σκάνδαλο μπάσκετ: «Μου ήρθε μήνυμα βίντεο από ταινία του Αλ Πατσίνο -  Σφυράς αύριο, δεν κοιτάς να μας βοηθήσεις;» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Για τον έναν από αυτούς, μου έδειξε και έμβασμα 1.000 ευρώ από παράγοντα ομάδας»."
+   ],
+   "amounts": [
+    "1.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "db2d982cd1ac",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2589313/nees-katatheseis-gia-basketgate-adianoito-na-paizei-diaititis-se",
+   "title": "Νέες καταθέσεις για το Basketgate: «Αδιανόητο να παίζει διαιτητής σε 3/5 τελικούς όπως ο Παπαπέτρου»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Για τον έναν από αυτούς, μου έδειξε και έμβασμα 1.000 ευρώ από παράγοντα ομάδας»."
+   ],
+   "amounts": [
+    "1.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "5c5174cf7bca",
    "url": "https://www.basketnews.lt/news-260124-basketnews-black-friday-pasiulymai-iki-50-nuolaida-narystems.html#utm_medium=rss&utm_content=news",
