@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:16+00:00",
+ "updated": "2026-11-24T19:16+00:00",
  "warnings": [],
  "run": [
   {
@@ -23,16 +23,24 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -41,17 +49,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -69,16 +68,16 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -89,10 +88,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x766f4466ef60>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -105,16 +104,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -123,7 +123,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -132,7 +132,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 13,
+   "checked": 28,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -142,7 +142,7 @@
   {
    "site": "SDNA",
    "checked": 9,
-   "found": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -150,7 +150,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,10 +159,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 4,
-   "found": 1,
+   "checked": 11,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -177,7 +177,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -186,7 +186,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -222,7 +222,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -231,7 +231,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,13 +240,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -259,12 +258,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
@@ -273,7 +272,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -295,16 +295,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,8 +313,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 7,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -331,11 +331,11 @@
   },
   {
    "site": "Gigantes",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before",
    "skipped_nba": 1
   },
@@ -386,6 +386,169 @@
   }
  ],
  "items": [
+  {
+   "id": "808d27d488ae",
+   "url": "https://www.basketnews.lt/news-260151-kaune-zveriski-dvigubi-dubliai-ir-pratesime-krite-zalgirio-dubleriai.html#utm_medium=rss&utm_content=news",
+   "title": "Kaune – žvėriški dvigubi dubliai ir pratęsime kritę „Žalgirio“ dubleriai",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "BN+ narystė iki 30 € pigiau"
+   ],
+   "amounts": [
+    "30 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Julius Kazakauskas",
+     "sheet": [
+      "21/22 ALM Evreux Basket: 40,000 €",
+      "20/21 Nevėžis Kėdainiai: 30,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "1d15d3c2aa7d",
+   "url": "https://www.sport5.co.il/articles.aspx?FolderID=11840&docID=568656",
+   "title": "המאמן שמוציא הכי הרבה מקבוצתו ביורוליג - ערוץ הספורט",
+   "site": "Sport5",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "תקציב"
+   ],
+   "snippets": [
+    "ההשוואה בין 11 הקבוצות שפורסמו את התקציבים ביורוליג, רגע לפני המחזור ה-14 של הליגה הטובה באירופה"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "807603462bda",
+   "url": "https://basketballsphere.com/en/sasa-obradovic-hapoel-jerusalem-euroleague-goal/",
+   "title": "Sasa Obradovic criticizes lack of patience toward coaches, sets EuroLeague goal for Hapoel Jerusalem",
+   "site": "Basketball Sphere",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "euro"
+   ],
+   "snippets": [
+    "I truly believe we need to build great chemistry that will allow us to compete with any budget.",
+    "Sasa Obradovic is doing a great job this season, as Hapoel Jerusalem sits at 8-0 in the EuroCup while holding a 7-0 record in the Israeli Premier League , and on the “ Euro Insiders ” podcast he spoke about why he chose that team to continue his career."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Hapoel Jerusalem",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 18,948,592 €, salary budget 15,000,000 €",
+      "25/26: budget 16,300,000 €, salary budget 7,817,000 €",
+      "24/25: budget 12,000,000 €, salary budget 5,650,000 €",
+      "player rows: 26/27 (14), 25/26 (14), 24/25 (13)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "3f4fcb42b7fc",
+   "url": "https://sports.walla.co.il/item/3877510",
+   "title": "\"בדרך זו או אחרת, הפועל ירושלים תהיה ביורוליג\" - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "יורו",
+    "תקציב"
+   ],
+   "snippets": [
+    "סשה אוברדוביץ' לא זקוק לתקציב הגדול ביותר בכדורסל הישראלי כדי להאמין שהפועל ירושלים יכולה לקרוא תיגר על שתי התל אביביות.",
+    "אני באמת מאמין שאנחנו צריכים ליצור כימיה נהדרת שתאפשר לנו להתמודד עם כל תקציב.",
+    "סשה אוברדוביץ' סיפר ל\"יורו אינסיידרס\" על הבחירה בפרויקט בבירה, המעורבות בבניית הסגל וההתמודדות עם הלחץ בכדורסל הישראלי, והחמיא לג'ארד הארפר וקני לופטון"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e06189f0a9bb",
+   "url": "https://sports.walla.co.il/item/3877508",
+   "title": "טוב מאי פעם: דני אבדיה גורם לארה\"ב להיזכר בטרייד המפוקפק - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "נגד פילדלפיה, כל חמש השלשות שקלע הגיעו ללא כדרור, ורק בניסיון האחרון שלו במשחק זרק לשלוש אחרי כדרור."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "52af9cecbb06",
    "url": "https://www.basketnews.lt/news-260143-zalgiris-i-madrida-isvyko-su-gossu-ir-lo.html#utm_medium=rss&utm_content=news",
