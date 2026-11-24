@@ -1,34 +1,35 @@
 {
- "updated": "2026-11-24T13:33+00:00",
+ "updated": "2026-11-24T15:20+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
+   "checked": 8,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 1,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
    "stop": "no older pages",
    "skipped_nba": 1
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 5,
-   "found": 3,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
@@ -41,7 +42,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +51,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +69,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,12 +78,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -104,8 +105,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -113,7 +114,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 7,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,8 +132,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 18,
-   "found": 0,
+   "checked": 15,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -140,33 +141,6 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Sport24",
-   "checked": 11,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -175,13 +149,40 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
+   "site": "Sport24",
+   "checked": 8,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
    "stop": "no older pages"
+  },
+  {
+   "site": "Gazzetta.gr",
+   "checked": 5,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Telesport",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
@@ -194,7 +195,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,21 +204,21 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
@@ -230,22 +231,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 9,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 7,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -267,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -285,10 +285,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
@@ -303,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 12,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +312,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -330,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -384,6 +384,305 @@
   }
  ],
  "items": [
+  {
+   "id": "b50766eae69d",
+   "url": "https://www.basketnews.lt/news-260140-top-10-laisvuju-agentu-veteranu-kas-gali-sustiprinti-eurolygos-klubus.html#utm_medium=rss&utm_content=news",
+   "title": "Top 10 laisvųjų agentų veteranų: kas gali sustiprinti Eurolygos klubus?",
+   "site": "BasketNews.lt",
+   "country": "United Arab Emirates",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e64344fc3fde",
+   "url": "https://www.athletiko.gr/apokalypsi-apo-ton-loykits-xero-pos-o-aris-etoimazetai-na-apoktisei-akoma-enan-paikti-117873",
+   "title": "Αποκάλυψη από τον Λούκιτς: «Ξέρω πως ο Αρης ετοιμάζεται να αποκτήσει ακόμα έναν παίκτη» | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Νέοι ιδιοκτήτες, αλλαγές στα μπάτζετ και στις φιλοδοξίες των ομάδων – όλα αυτά ασκούν πλέον μια επιπλέον πίεση στους υπόλοιπους συλλόγους» , ενώ συνέχισε, υπογραμμίζοντας δεδομένα για το μπάτζετ των δυο ομάδων, κάνοντας παράλληλα και την αποκάλυψη της...",
+    "«Όταν βλέπεις τα μπάτζετ τους από έξω, ξαφνικά αρχίζεις να ακούς και για τους παίκτες που θέλουν να αποκτήσουν μέσα στη σεζόν.",
+    "Ακόμη και ο ΠΑΟΚ είδε το μπάτζετ του να αυξάνεται κατά τη διάρκεια της σεζόν."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4864dfe3c953",
+   "url": "https://www.sport24.gr/basket/loukits-se-serviko-meso-xero-oti-o-aris-etoimazetai-episis-na-ipograpsei-enan-akomi-paikti/",
+   "title": "Λούκιτς σε σερβικό Μέσο: \"Ξέρω ότι ο Άρης ετοιμάζεται επίσης να υπογράψει έναν ακόμη παίκτη\"",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Αλλά όταν κοιτάς τη Stoiximan GBL φέτος, τους προϋπολογισμούς, το τι συμβαίνει, το επίπεδο αυτών των ομάδων και τα ρόστερ που έχουν, νομίζω ότι πρέπει να είμαστε ρεαλιστές.",
+    "Νέοι ιδιοκτήτες, αλλαγές στους προϋπολογισμούς και τις φιλοδοξίες – αυτό ασκεί μια μικρή πίεση στους άλλους συλλόγους.",
+    "Όταν κοιτάς τους προϋπολογισμούς τους από έξω, ξαφνικά αρχίζεις να ακούς για τους παίκτες που θέλουν να υπογράψουν φέτος."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Iraklis B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 3,300,000 €, salary budget 2,200,000 €",
+      "25/26: budget 2,100,000 €, salary budget 1,400,000 €",
+      "23/24: row exists, no amounts",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    },
+    {
+     "name": "Zoran Lukič",
+     "sheet": [
+      "15/16 Banvit B.K.: 340,000 €",
+      "14/15 Banvit B.K.: 315,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0cd3bc572429",
+   "url": "https://www.sport24.gr/basket/o-sakil-makkisik-sto-sport24-gia-olimpiako-bartzoka-ntorsei-kai-tin-kontra-tou-me-ton-kevin-ntourant/",
+   "title": "Ο Σακίλ ΜακΚίσικ στο SPORT24 για Ολυμπιακό, Μπαρτζώκα, Ντόρσεϊ και την κόντρα του με τον Κέβιν Ντουράντ",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Χιλιάδες οπαδοί με καπνογόνα ήταν μία στιγμή που δεν ήξερα ότι περίμενα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "3a55921b5f63",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2589393/loykits-gia-ari-etoimazetai-na-ypograpsei-enan-akomi-paikti",
+   "title": "Η αποκάλυψη του Λούκιτς για τον Άρη: «Ετοιμάζεται να υπογράψει έναν ακόμη παίκτη»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Νέοι ιδιοκτήτες, αλλαγές στους προϋπολογισμούς και τις φιλοδοξίες - αυτό ασκεί μια μικρή πίεση στους άλλους συλλόγους.",
+    "Όταν κοιτάς τους προϋπολογισμούς τους απ' έξω, ξαφνικά αρχίζεις να ακούς για τους παίκτες που θέλουν να υπογράψουν φέτος.",
+    "Ακόμα και ο ΠΑΟΚ έλαβε αύξηση στον προϋπολογισμό κατά τη διάρκεια της σεζόν."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Iraklis B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 3,300,000 €, salary budget 2,200,000 €",
+      "25/26: budget 2,100,000 €, salary budget 1,400,000 €",
+      "23/24: row exists, no amounts",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Željko Obradovič",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,000,000 €",
+      "16/17 Fenerbahce Istanbul: 1,300,000 €",
+      "15/16 Fenerbahce Istanbul: 2,200,000 €",
+      "08/09 Panathinaikos B.C.: 2,500,000 €"
+     ]
+    },
+    {
+     "name": "Zoran Lukič",
+     "sheet": [
+      "15/16 Banvit B.K.: 340,000 €",
+      "14/15 Banvit B.K.: 315,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4fe781461997",
+   "url": "https://basketballsphere.com/en/olympiacos-tale-the-unbroken/",
+   "title": "An Olympiacos Tale: The Unbroken",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "thousand"
+   ],
+   "snippets": [
+    "A team that has faced a thousand problems has remained unbroken, at least for now, with the league’s best player showing the way, a leader of such calibre that the club hadn’t seen since another guy with a bald head and a beard was playing for the Reds, and Bartzokas at the helm."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c8a8e02f3622",
+   "url": "https://sports.walla.co.il/item/3877489",
+   "title": "\"דני אבדיה תקף את לברון ישירות, אין הרבה מה לעשות מולו\" - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "דולר",
+    "מיליון",
+    "שכר"
+   ],
+   "snippets": [
+    "\"הוא הולך להיות בעמדה שבה ירוויח המון כסף, וזה יתפוס חלק גדול מתקרת השכר שלך.",
+    "ויש גם הערכה לגבי החוזה הבא :\"400 מיליון דולר\"",
+    "13 מיליון דולר העונה, 11 מיליון בעונה הבאה, ואז תצטרך לשלם לו 400 מיליון דולר לעונה כדי שישחק עבורך כדורסל\", התלוצצו."
+   ],
+   "amounts": [
+    "400 מיליון",
+    "13 מיליון",
+    "11 מיליון"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "beca3e9a9146",
    "url": "https://basketnews.com/news-260139-bartzokas-addresses-olympiacos-transfer-search-provides-milutinov-injury-update.html#utm_medium=rss&utm_content=news",
