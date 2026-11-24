@@ -1,16 +1,15 @@
 {
- "updated": "2026-11-24T19:16+00:00",
+ "updated": "2026-11-24T21:09+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
@@ -68,8 +67,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -77,21 +76,21 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x766f4466ef60>, 'C",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -104,13 +103,12 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
@@ -132,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 28,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -141,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -159,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -168,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -177,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -186,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -195,21 +193,22 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-15",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_gambling": 1
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
@@ -222,7 +221,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -240,7 +239,7 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -272,16 +271,15 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
@@ -295,16 +293,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 19,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,12 +311,12 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 7,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -331,13 +329,12 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -386,6 +383,113 @@
   }
  ],
  "items": [
+  {
+   "id": "48ee72ae5bdc",
+   "url": "https://www.basketnews.lt/news-260155-belgrado-nepabugo-virtus-sudave-triuskinama-smugi-crvena-zvezda.html#utm_medium=rss&utm_content=news",
+   "title": "Belgrado nepabūgo: „Virtus“ sudavė triuškinamą smūgį „Crvena Zvezda“",
+   "site": "BasketNews.lt",
+   "country": "Serbia",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "BN+ narystė iki 30 € pigiau"
+   ],
+   "amounts": [
+    "30 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "aefb31cebfab",
+   "url": "https://basketballsphere.com/en/steve-kerr-highest-paid-coaches/",
+   "title": "Steve Kerr leads 2026/27 highest-paid NBA coaches as 10 earn eight figures",
+   "site": "Basketball Sphere",
+   "country": "USA",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "million",
+    "salar",
+    "sum of money"
+   ],
+   "snippets": [
+    "Steve Kerr tops 2026/27 list of the NBA's highest-paid coaches at $17.5 million, as 10 coaches now earn eight figures annually.",
+    "Golden State Warriors head coach Steve Kerr remains the highest-paid coach in the NBA , earning an annual salary of around $17.5 million, as reported by Kurt Badenhausen of Sportico on his list of the 10 highest-paid coaches for the 2026/27 season.",
+    "Miami Heat head coach Erik Spoelstra and Los Angeles Clippers head coach Tyronn Lue share second place on the list, each earning $15 million per season."
+   ],
+   "amounts": [
+    "$17.5 million",
+    "$15 million",
+    "$10 million",
+    "$11 million",
+    "$120.5 million"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Dallas Mavericks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Illawarra Hawks",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,700,000 €, salary budget 1,732,994 €",
+      "24/25: budget 3,600,000 €, salary budget 1,695,651 €"
+     ]
+    },
+    {
+     "name": "Los Angeles D-Fenders",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    },
+    {
+     "name": "New York Knicks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 17/18 (1), 16/17 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "808d27d488ae",
    "url": "https://www.basketnews.lt/news-260151-kaune-zveriski-dvigubi-dubliai-ir-pratesime-krite-zalgirio-dubleriai.html#utm_medium=rss&utm_content=news",
