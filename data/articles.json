@@ -1,46 +1,37 @@
 {
- "updated": "2026-11-24T11:08+00:00",
+ "updated": "2026-11-24T13:33+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
    "stop": "no older pages",
-   "skipped_nba": 2
+   "skipped_nba": 1
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 3,
-   "found": 1,
+   "site": "BasketNews.com",
+   "checked": 5,
+   "found": 3,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
+   "site": "Krepsinis.net",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -49,8 +40,17 @@
    "stop": "no older pages"
   },
   {
+   "site": "15min 24sek",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-23",
+   "stop": "no older pages"
+  },
+  {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,8 +68,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -77,7 +77,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,8 +104,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -117,12 +117,12 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,17 +131,16 @@
   },
   {
    "site": "Athletiko",
-   "checked": 36,
-   "found": 1,
+   "checked": 18,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 8,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -159,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 10,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-23",
@@ -168,7 +167,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -195,11 +194,11 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-14",
+   "oldest": "2026-11-15",
    "stop": "reached start date"
   },
   {
@@ -217,7 +216,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "no older pages"
   },
   {
@@ -231,23 +230,22 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "no older pages",
-   "skipped_gambling": 1
+   "oldest": "2026-11-23",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before",
-   "skipped_gambling": 2
+   "skipped_gambling": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -269,12 +267,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -287,7 +285,7 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -296,16 +294,16 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 19,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -332,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -386,6 +384,450 @@
   }
  ],
  "items": [
+  {
+   "id": "beca3e9a9146",
+   "url": "https://basketnews.com/news-260139-bartzokas-addresses-olympiacos-transfer-search-provides-milutinov-injury-update.html#utm_medium=rss&utm_content=news",
+   "title": "Bartzokas addresses Olympiacos' transfer search, provides Milutinov injury update",
+   "site": "BasketNews.com",
+   "country": "Israel",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Olympiacos Piraeus head coach Georgios Bartzokas addressed potential reinforcements ahead of the Round 14 EuroLeague game against Maccabi Tel Aviv.",
+    "Olympiacos Piraeus head coach Georgios Bartzokas addressed potential reinforcements ahead of the Round 14 EuroLeague game against Maccabi Tel Aviv."
+   ],
+   "amounts": [
+    "14 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maccabi Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 44,602,070 €, salary budget 25,400,000 €",
+      "25/26: budget 26,000,000 €, salary budget 14,600,000 €",
+      "24/25: budget 19,000,000 €, salary budget 11,800,000 €",
+      "player rows: 26/27 (17), 25/26 (16), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Georgios Bartzokas",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,000,000 €",
+      "25/26 Olympiacos B.C.: 1,100,000 €",
+      "24/25 Olympiacos B.C.: 900,000 €",
+      "15/16 Lokomotiv Kuban: 550,000 €"
+     ]
+    },
+    {
+     "name": "Jean Montero",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,700,000 €",
+      "25/26 Valencia Basket: 1,300,000 €",
+      "24/25 Valencia Basket: 800,000 €",
+      "22/23 Real Betis Baloncesto: 28,000 €"
+     ]
+    },
+    {
+     "name": "John Konchar",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,000,000 €"
+     ]
+    },
+    {
+     "name": "Tyler Dorsey",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,800,000 €",
+      "25/26 Olympiacos B.C.: 1,400,000 €",
+      "24/25 Olympiacos B.C.: 1,450,000 €",
+      "23/24 Fenerbahce Istanbul: 1,485,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "228054669007",
+   "url": "https://basketnews.com/news-259832-10-big-name-euroleague-veterans-still-without-a-club.html#utm_medium=rss&utm_content=news",
+   "title": "10 forgotten EuroLeague veterans who could still help top teams",
+   "site": "BasketNews.com",
+   "country": "France",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "contract worth",
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "After signing a two-year contract worth around $5 million in 2025, Parker averaged just 7.7 points and 2.5 rebounds over 15 EuroLeague games.",
+    "Before his injury, Poirier averaged 8.0 points, 4.6 rebounds, and 0.6 blocks in 14 EuroLeague games during the 2025-26 season.",
+    "The American guard joined Trabzonspor in August after recovering from a serious ACL injury that forced him to miss the entire 2025-26 EuroLeague campaign with Crvena Zvezda."
+   ],
+   "amounts": [
+    "14 EuroLeague",
+    "26 EuroLeague",
+    "34 EuroLeague",
+    "35 EuroLeague",
+    "21 EuroLeague",
+    "$5 million",
+    "15 EuroLeague",
+    "23 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26",
+    "24/25",
+    "22/23",
+    "15/16"
+   ],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    },
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "dcb557382f8d",
+   "url": "https://basketnews.com/news-260136-panathinaikos-win-appeal-gain-advantage-over-olympiacos-in-greek-league.html#utm_medium=rss&utm_content=news",
+   "title": "Panathinaikos win appeal, gain advantage over Olympiacos in Greek League",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Greece's Supreme Council for the Resolution of Sports Disputes (ASEAD) announced on Tuesday that Panathinaikos will have both its two-point deduction and €100,000 fine overturned."
+   ],
+   "amounts": [
+    "€100,000"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a425e0e12409",
+   "url": "https://www.eurohoops.net/en/euroleague/2040058/facundo-campazzo-injury-update-real-madrid-euroleague/",
+   "title": "Real Madrid’s Facundo Campazzo approaches return from hamstring injury",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Closer to a return to action, but Facundo Campazzo is out for Round 14 of the 2026–27 EuroLeague Regular Season",
+    "However, Real Madrid has ruled the point guard out of Wednesday’s Round 14 matchup against Zalgiris at Movistar Arena in the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Facundo Campazzo",
+     "sheet": [
+      "25/26 Real Madrid Baloncesto: 1,600,000 €",
+      "24/25 Real Madrid Baloncesto: 1,500,000 €",
+      "23/24 Real Madrid Baloncesto: 1,500,000 €",
+      "22/23 KK Crvena zvezda: 1,800,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "23e87d08ba87",
+   "url": "https://www.eurohoops.net/en/euroleague/2040004/giorgos-bartzokas-talks-nikola-milutinov-transfer-market-olympiacos-euroleague/",
+   "title": "Bartzokas confirms Nikola Milutinov return, addresses Olympiacos market search",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Co-leading the 2026–27 EuroLeague Regular Season standings at 10–3 alongside Valencia , Olympiacos welcomes Hapoel IBI Tel Aviv to Sunel Arena on Wednesday for Round 14."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Nikola Milutinov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,816,000 €",
+      "25/26 Olympiacos B.C.: 2,720,000 €",
+      "24/25 Olympiacos B.C.: 1,600,000 €",
+      "23/24 Olympiacos B.C.: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "fa7b08f9a211",
+   "url": "https://www.sport24.gr/basket/olimpiakos-xapoel-tel-aviv-i-sinitheia-tis-nikis/",
+   "title": "Ολυμπιακός – Χάποελ Τελ Αβίβ: Η συνήθεια της νίκης",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Η Χάποελ εκτίναξε το μπάτζετ της ακόμη περισσότερο, αλλά για την ώρα δεν αποδίδει καλό μπάσκετ και το ρεκόρ της κρίνεται κακό."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "92ba69ec9677",
+   "url": "https://basketballsphere.com/en/panathinaikos-overturn-two-point-deduction-olympiacos/",
+   "title": "Panathinaikos overturn two-point deduction as Olympiacos remain punished",
+   "site": "Basketball Sphere",
+   "country": "Greece",
+   "published": "2026-11-24",
+   "found": "2026-11-24",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Panathinaikos have successfully appealed their two-point deduction and €100,000 fine imposed following the incidents in Game 5 of last season’s Greek Basket League Finals against Olympiacos.",
+    "ASEAD announced on Tuesday that it had partially upheld Panathinaikos’ appeal, cancelling the two-point deduction and the €100,000 fine imposed on the club.",
+    "The ruling also reduced a separate fine related to Kendrick Nunn’s conduct from €50,000 to €10,000, while the strict written reprimand against the club remains in place."
+   ],
+   "amounts": [
+    "€100,000",
+    "€50,000",
+    "€10,000",
+    "€20,000",
+    "€80,000"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Kendrick Nunn",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 4,664,000 €",
+      "25/26 Panathinaikos B.C.: 4,500,000 €",
+      "24/25 Panathinaikos B.C.: 2,390,000 €",
+      "23/24 Panathinaikos B.C.: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Tyrique Jones",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 1,200,000 €",
+      "25/26 Olympiacos B.C.: 750,000 €",
+      "25/26 KK Partizan: 700,000 €",
+      "24/25 KK Partizan: 1,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "7ac2a4ea9da9",
    "url": "https://www.basketnews.lt/news-260119-ceponis-palaike-masiulio-sprendima-valanciunui-yra-ziauriai-sudetinga.html#utm_medium=rss&utm_content=news",
