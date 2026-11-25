@@ -1,9 +1,19 @@
 {
- "updated": "2026-11-25T05:24+00:00",
+ "updated": "2026-11-25T07:42+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-24",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
+  },
+  {
+   "site": "BasketNews.lt",
    "checked": 0,
    "found": 0,
    "error": "",
@@ -12,27 +22,17 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 2,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
-  },
-  {
    "site": "BasketNews.com",
-   "checked": 7,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages",
-   "skipped_nba": 3
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,19 +77,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -104,26 +104,26 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 1,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -131,37 +131,37 @@
   },
   {
    "site": "Athletiko",
-   "checked": 4,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -176,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -203,47 +203,47 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 7,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -258,21 +258,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached start date"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -285,25 +285,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 1,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +384,69 @@
   }
  ],
  "items": [
+  {
+   "id": "1f34d24a9bea",
+   "url": "https://www.eurohoops.net/tr/nba-news-tr/2040430/nbade-en-cok-kazanan-10-koc-kimler/",
+   "title": "NBA’de En Çok Kazanan 10 Koç Kimler?",
+   "site": "Eurohoops TR",
+   "country": "USA",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "maas",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "NBA'de bu sezonki maaşı en yüksek koçlar.",
+    "Sportico’nun yayımladığı verilere göre Golden State Warriors koçu Steve Kerr, yıllık 17.5 milyon dolarlık maaşıyla NBA’in en çok kazanan koçu olma unvanını korudu.",
+    "Listede bu sezon 10 milyon dolar ve üzeri maaş alan 10 başantrenör yer alırken, geçen yıla kıyasla dikkat çeken değişiklikler yaşandı."
+   ],
+   "amounts": [
+    "17.5 milyon",
+    "10 milyon",
+    "15 milyon",
+    "17.5 Milyon",
+    "15 Milyon",
+    "11 Milyon",
+    "10 Milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dallas Mavericks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Illawarra Hawks",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,700,000 €, salary budget 1,732,994 €",
+      "24/25: budget 3,600,000 €, salary budget 1,695,651 €"
+     ]
+    },
+    {
+     "name": "New York Knicks",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 17/18 (1), 16/17 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "b83ae51a1f18",
    "url": "https://www.basketnews.lt/news-260076-lkl-legionieriaus-pasiaukojimas-del-rinktines-isskrido-i-kita-zemyna.html#utm_medium=rss&utm_content=news",
