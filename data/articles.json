@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25T11:14+00:00",
+ "updated": "2026-11-25T13:39+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -14,25 +14,26 @@
   {
    "site": "BasketNews.lt",
    "checked": 3,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 2,
-   "found": 1,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
    "stop": "no older pages"
   },
   {
+   "site": "BasketNews.com",
+   "checked": 3,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-25",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 1,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -40,8 +41,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -49,8 +50,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -68,7 +69,7 @@
   {
    "site": "Sport5",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -85,35 +86,36 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
+   "pages": 2,
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -121,27 +123,27 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 18,
+   "checked": 28,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 9,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -149,8 +151,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -158,8 +160,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 0,
+   "checked": 12,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-24",
@@ -176,22 +178,22 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
@@ -204,17 +206,17 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
@@ -236,17 +238,17 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_gambling": 1
   },
   {
    "site": "Basketball Sphere",
-   "checked": 5,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 3
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -268,12 +270,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -286,25 +288,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 21,
+   "checked": 20,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,7 +315,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -331,13 +333,12 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -359,11 +360,11 @@
   },
   {
    "site": "2Playbook FIBA",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
+   "pages": 2,
+   "oldest": "2026-11-12",
    "stop": "reached articles checked before"
   },
   {
@@ -386,6 +387,520 @@
   }
  ],
  "items": [
+  {
+   "id": "13bb486da977",
+   "url": "https://www.basketnews.lt/news-260193-olimpinis-prizininkas-buves-zalgirietis-ir-kylantys-talentai-ka-i-klaipeda-atsiveza-serbai.html#utm_medium=rss&utm_content=news",
+   "title": "Olimpinis prizininkas, buvęs žalgirietis ir kylantys talentai: ką į Klaipėdą atsiveža serbai?",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8742c4f4da63",
+   "url": "https://www.basketnews.lt/news-260195-milano-ekipa-papilde-aukstaugis.html#utm_medium=rss&utm_content=news",
+   "title": "Milano ekipą papildė aukštaūgis",
+   "site": "BasketNews.lt",
+   "country": "Italy",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "BasketNews šaltinių žiniomis, Milano klubas už Onyemą turėjo sumokėti apie 450 tūkst."
+   ],
+   "amounts": [
+    "450 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f963a3445376",
+   "url": "https://basketnews.com/news-259925-aliou-diarra-draws-panathinaikos-fenerbahce-real-madrid-interest.html#utm_medium=rss&utm_content=news",
+   "title": "Virtus breakout Aliou Diarra draws interest from three EuroLeague teams",
+   "site": "BasketNews.com",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Budget",
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "earn",
+    "sum of money"
+   ],
+   "snippets": [
+    "With a budget far smaller than at the start of Massimo Zanetti's tenure, Virtus Bologna have had to adapt in recent years by shifting their roster-building strategy.",
+    "With a budget far smaller than at the start of Massimo Zanetti's tenure, Virtus Bologna have had to adapt in recent years by shifting their roster-building strategy.",
+    "After all, without the same budget as the EuroLeague's top teams, Virtus must rely on other means to build rosters capable of competing in Europe."
+   ],
+   "amounts": [
+    "€400,000"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Aliou Diarra",
+     "sheet": [
+      "26/27 Virtus Bologna: 400,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "39119d3efbfd",
+   "url": "https://www.krepsinis.net/naujiena/nba-planuoja-surasti-10-mlrd-euru-arenoms-europoje-statyti/354734",
+   "title": "NBA planuoja surasti 10 mlrd. eurų arenoms Europoje statyti | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Serbia",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "doleri",
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "JAV dolerių) krepšinio arenų...",
+    "JAV dolerių) krepšinio arenų statybai ir renovacijai visoje Europoje.",
+    "Taip pat prognozuojama, kad per šį laikotarpį bus sukurta beveik 15 000 nuolatinių darbo vietų, o renginiuose apsilankys beveik 70 mln."
+   ],
+   "amounts": [
+    "70 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Plana",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 85,700 €, salary budget 66,846 €",
+      "24/25: budget 54,309 €",
+      "23/24: budget 41,655 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "30dec99c68ad",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/serbams-apie-lietuva-papasakojes-canakas-issklaide-samokslo-teorija-874-2814166?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Čanakas apšvietė lietuvių „klastą“ įžvelgusius serbus",
+   "site": "15min 24sek",
+   "country": "Serbia",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Joje yra apie 6 tūkst.",
+    "„Lietuvoje yra apie 2,8 mln."
+   ],
+   "amounts": [
+    "6 tūkst",
+    "2,8 mln"
+   ],
+   "seasons": [
+    "14/15"
+   ],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6135d94059cb",
+   "url": "https://www.pianetabasket.com/focus/nba-fa-sul-serio-piano-da-10-miliardi-di-euro-le-arene-in-europa-coinvolti-blackstone-jp-morgan-e-altri-colossi-finanziari",
+   "title": "NBA fa sul serio: piano da 10 miliardi di euro le arene in Europa. Coinvolti Blackstone, J.P. Morgan e altri colossi finanziari",
+   "site": "PianetaBasket",
+   "country": "Turkey",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "La NBA accelera sul progetto NBA Europe e annuncia un'iniziativa per mobilitare almeno 10 miliardi di euro destinati alla costruzione e alla riqualificazione di arene di basket in Europa, oltre che al..."
+   ],
+   "amounts": [
+    "10 miliardi"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "76dea8211934",
+   "url": "https://www.sport5.co.il/articles.aspx?FolderID=405&docID=568961",
+   "title": "המרדף החל: לאן ילך הכוכב העולה ביורוליג? - ערוץ הספורט",
+   "site": "Sport5",
+   "country": "Israel",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "שכר"
+   ],
+   "snippets": [
+    "מסיים חוזה בקיץ ומרוויח שכר נמוך: הגדולות כבר בחנו את צירופו של אליו דיארה"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0e22098519ef",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2040558/giannis-apektise-tin-diki-tou-entiposiaki-tichografia-se-kentriko-simio-tou-maiami-pic/",
+   "title": "Γιάννης: Απέκτησε την δική του εντυπωσιακή τοιχογραφία σε κεντρικό σημείο του Μαϊάμι (Pic)",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Το εντυπωσιακό γκράφιτι είναι έτοιμο και ήδη ελκύει τα βλέμματα των χιλιάδων κατοίκων του Μαϊάμι, το οποίο βρήκε τον αθλητικό του “ήρωα” στο πρόσωπο του “Greek Freak”."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "dbfe896c291c",
+   "url": "https://www.eurohoops.net/tr/euroleague-tr/2040534/luka-doncicin-babasi-baskoniaya-salladi-bu-rezalet-bir-karar/",
+   "title": "Luka Doncic’in Babası, Baskonia’ya Salladı: “Bu, Rezalet Bir Karar!”",
+   "site": "Eurohoops TR",
+   "country": "Spain",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milyon"
+   ],
+   "snippets": [
+    "Sadece iki milyon nüfusa sahip olan Slovenya, NBA’de en büyük yıldızı Luka Doncic’i ve NCAA’de gelecek vadeden birçok oyuncuyu barındırıyor."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Saski Baskonia",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 23,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 17,000,000 €, salary budget 12,000,000 €",
+      "24/25: budget 16,000,000 €, salary budget 11,300,000 €",
+      "player rows: 25/26 (2), 24/25 (2), 23/24 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "4a17c1cfca1e",
+   "url": "https://www.sdna.gr/mpasket/1490322_nba-anakoinose-ependyseis-10-dis-dolarion-se-egkatastaseis-mpasket-stin-eyropi",
+   "title": "Το NBA ανακοίνωσε επενδύσεις 10 δισ. δολαρίων σε εγκαταστάσεις μπάσκετ στην Ευρώπη",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το NBA ανακοίνωσε το πλάνο του για την ανάπτυξη αθλητικών εγκαταστάσων σε όλη την Ευρώπη, το κόστος του οποίου θα φτάσει τα 10 δισεκατομμύρια δολάρια.",
+    "δολαρίων, με σκοπό να διατεθούν σε αθλητικές εγκαταστάσεις μπάσκετ στην Γηραιά Ήπειρο.",
+    "«Το National Basketball Association (NBA) ανακοίνωσε σήμερα σχέδια για μια πρωτοβουλία που στοχεύει στην εξασφάλιση χρηματοδότησης ύψους τουλάχιστον 10 δισεκατομμυρίων ευρώ, με σκοπό την ανάπτυξη και την ανακαίνιση γηπέδων μπάσκετ –καθώς και των αθλητικών και ψυχαγωγικών ζωνών που τα περιβάλλουν–…"
+   ],
+   "amounts": [
+    "70 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f0149b205eed",
+   "url": "https://www.sport24.gr/basket/to-nba-anakoinose-plano-gia-anaptixi-gipedon-se-oli-tin-evropi-sta-10-dis-to-kostos-tis-xrimatodotisis/",
+   "title": "Το NBA ανακοίνωσε πλάνο για ανάπτυξη γηπέδων σε όλη την Ευρώπη: Στα 10 δισ. το κόστος της χρηματοδότησης",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το NBA ανακοίνωσε το πλάνο του για ανάπτυξη αθλητικών εγκαταστάσων σε όλη την Ευρώπη, μία πρωτοβουλία ύψους 10 δισεκατομμυρίων δολαρίων.",
+    "Το NBA στοχεύει στην εξασφάλιση χρηματοδότησης ύψους τουλάχιστον 10 δισεκατομμυρίων ευρώ, τα οποία θα επενδυθούν σε αθλητικές εγκαταστάσεις στη Γηραιά Ήπειρο.",
+    "“Το National Basketball Association (NBA) ανακοίνωσε σήμερα σχέδια για μια πρωτοβουλία που στοχεύει στην εξασφάλιση χρηματοδότησης ύψους τουλάχιστον 10 δισεκατομμυρίων ευρώ, με σκοπό την ανάπτυξη και την ανακαίνιση γηπέδων μπάσκετ –καθώς και των αθλητικών και ψυχαγωγικών ζωνών που τα περιβάλλουν–…"
+   ],
+   "amounts": [
+    "70 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "7882140cf945",
+   "url": "https://www.gazzetta.gr/basketball/nba/2589652/nba-anakoinose-plano-gia-tin-anaptyxi-gipedon-se-oli-tin-eyropi",
+   "title": "To ΝΒΑ ανακοίνωσε πλάνο για την ανάπτυξη γηπέδων σε όλη την Ευρώπη - Το κόστος της χρηματοδότησης",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Το NBA ανακοίνωσε το πλάνο του για ανάπτυξη αθλητικών εγκαταστάσεων σε όλη την Ευρώπη, μία πρωτοβουλία ύψους 10 δισεκατομμυρίων δολαρίων.",
+    "Το NBA στοχεύει στην εξασφάλιση χρηματοδότησης ύψους τουλάχιστον 10 δισεκατομμυρίων ευρώ , τα οποία θα επενδυθούν σε αθλητικές εγκαταστάσεις στη Γηραιά Ήπειρο.",
+    "«Το National Basketball Association (NBA) ανακοίνωσε σήμερα σχέδια για μια πρωτοβουλία που στοχεύει στην εξασφάλιση χρηματοδότησης ύψους τουλάχιστον 10 δισεκατομμυρίων ευρώ, με σκοπό την ανάπτυξη και την ανακαίνιση γηπέδων μπάσκετ –καθώς και των αθλητικών και ψυχαγωγικών ζωνών που τα περιβάλλουν–…"
+   ],
+   "amounts": [
+    "70 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "05260e89d4e5",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261125/1004255233/nba-europa-anuncia-iniciativa-destinar-10-000-millones-desarrollo-pabellones-primer-nivel.html",
+   "title": "NBA Europa anuncia una iniciativa para destinar 10.000 millones al desarrollo de pabellones de primer nivel",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "euros",
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "La liga estadounidense ha anunciado hoy planes para una iniciativa que buscará destinar 10.000 millones de euros para financiar el desarrollo y la renovación de pabellones de baloncesto en Europa, así como la estructura deportiva y de ocio alrededor de dichos pabellones.",
+    "Según un estudio de 'The Sports Consultancy' citado por la NBA, NBA Europa tendrá un impacto económico de más de 24.000 millones de euros en el Producto Interior Bruto europeo en sus primeros 10 años, generará 15.000 puestos de trabajo y atraerá cerca de 70 millones de espectadores como resultado…",
+    "Según fuentes cercanas al proceso, en el caso de España -y a través de Barcelona y Madrid -, este impacto económico será de 2.300 millones de euros en el PIB y creará 1.500 nuevos empleos a la vez que atraerá 6 millones de espectadores."
+   ],
+   "amounts": [
+    "10.000 millones",
+    "24.000 millones",
+    "70 millones",
+    "2.300 millones",
+    "6 millones",
+    "860 millones",
+    "360 millones",
+    "4.200 millones"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "c03ef62dbd82",
+   "url": "https://sportowefakty.wp.pl/inne/1286060/kolejne-klopoty-piesiewicza-w-tle-ponad-milion-zlotych-cba-opublikowala-komunika",
+   "title": "Kolejne kłopoty Piesiewicza, w tle ponad milion złotych. CBA opublikowała komunikat",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Radosław Piesiewicz usłyszał nowy zarzut wyrządzenia szkody majątkowej w wielkich rozmiarach na ponad 1 mln zł - przekazało CBA.",
+    "Takie działanie doprowadziło do wyrządzenia spółce szkody przekraczającej 1 mln zł \".",
+    "Szkoda, zdaniem prokuratury, wynosi powyżej miliona złotych, a to oznacza, że podejrzanemu grozi do 10 lat więzienia \"."
+   ],
+   "amounts": [
+    "1 mln",
+    "216 tys"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "b18d7dd44c79",
    "url": "https://www.basketnews.lt/news-260192-canakas-apie-lietuvos-krepsini-rinktiniu-musi-ir-neiveikiama-zalgiri.html#utm_medium=rss&utm_content=news",
