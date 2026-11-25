@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-25T17:16+00:00",
+ "updated": "2026-11-25T19:12+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -14,7 +14,7 @@
   {
    "site": "BasketNews.lt",
    "checked": 3,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 7,
-   "found": 3,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -31,7 +31,16 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 0,
+   "found": 0,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -39,17 +48,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "no older pages"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,7 +77,7 @@
   {
    "site": "Basketfaul",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -85,13 +85,12 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "TrendBasket",
@@ -104,7 +103,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -113,8 +112,8 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 8,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -122,8 +121,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 2,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -131,8 +130,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 33,
-   "found": 1,
+   "checked": 22,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -140,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 11,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -149,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 9,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -176,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,10 +184,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -203,47 +202,44 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
+   "oldest": "2026-11-21",
    "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached start date",
-   "skipped_nba": 1
+   "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 3,
-   "found": 2,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -261,16 +257,15 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "2026-11-19",
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -288,12 +283,13 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "SportoweFakty",
@@ -306,7 +302,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -315,11 +311,11 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
+   "oldest": "2019-08-04",
    "stop": "no older pages"
   },
   {
@@ -333,10 +329,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -387,6 +383,139 @@
   }
  ],
  "items": [
+  {
+   "id": "434262c59517",
+   "url": "https://sportando.basketball/raptors-warriors-e-hawks-alla-finestra-per-anthony-davis/",
+   "title": "Raptors, Warriors e Hawks alla finestra per Anthony Davis - Sportando",
+   "site": "Sportando",
+   "country": "Australia",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dollar",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Secondo queste valutazioni, la franchigia potrebbe avere difficoltà a sostenere anche il contratto di Davis dopo aver garantito quasi 215 milioni di dollari a Trae Young fino al termine della stagione 2029-30.",
+    "Ricordiamo che  Davis ha una player option da 62,7 milioni di dollari per il 2027-28."
+   ],
+   "amounts": [
+    "215 milioni",
+    "62,7 milioni"
+   ],
+   "seasons": [
+    "29/30",
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Illawarra Hawks",
+     "country": "Australia",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 3,700,000 €, salary budget 1,732,994 €",
+      "24/25: budget 3,600,000 €, salary budget 1,695,651 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "36ac61a43854",
+   "url": "https://www.eurohoops.net/en/euroleague/2040653/bad-news-for-besiktas-wenyen-gabriel-has-torn-his-acl/",
+   "title": "Bad news for Besiktas, Wenyen Gabriel has torn his ACL",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "This season, Wenyen Gabriel played 13 EuroLeague games for Besiktas, averaging 8.1 points and 3.7 rebounds per game."
+   ],
+   "amounts": [
+    "13 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Wenyen Gabriel",
+     "sheet": [
+      "24/25 Panathinaikos B.C.: 500,000 €",
+      "24/25 Maccabi Tel Aviv: 690,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "e417d9cd95d3",
+   "url": "https://basketballsphere.com/en/italy-vs-turkey-prediction-fiba-world-cup-qualifiers-november-26-2026/",
+   "title": "Italy vs Turkey Prediction: FIBA World Cup Qualifiers, November 26, 2026",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Italy vs Turkey - Preview & Prediction: In the FIBA Basketball World Cup 2027 European Qualifiers, Italy will host Turkey in Group J."
+   ],
+   "amounts": [
+    "2027 European"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Alessandro Pajola",
+     "sheet": [
+      "26/27 KK Partizan: 900,000 €",
+      "25/26 Virtus Bologna: 1,600,000 €"
+     ]
+    },
+    {
+     "name": "Awudu Abass",
+     "sheet": [
+      "23/24 Virtus Bologna: 275,000 €"
+     ]
+    },
+    {
+     "name": "Cedi Osman",
+     "sheet": [
+      "26/27 PAOK BC: 3,000,000 €",
+      "25/26 Panathinaikos B.C.: 1,500,000 €",
+      "24/25 Panathinaikos B.C.: 1,600,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "fc91caae7985",
    "url": "https://www.basketnews.lt/news-260209-alk-traukiasi-is-nsfa-organizacijos.html#utm_medium=rss&utm_content=news",
