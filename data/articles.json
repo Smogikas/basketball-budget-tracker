@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25T21:12+00:00",
+ "updated": "2026-11-25T23:09+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 8,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,11 +40,11 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "no older pages"
   },
   {
@@ -53,7 +53,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-09",
+   "oldest": "2026-11-10",
    "stop": "reached start date"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -85,10 +85,10 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -103,16 +103,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,16 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 15,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -138,17 +129,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Athletiko",
+   "checked": 51,
+   "found": 0,
+   "error": "",
+   "pages": 3,
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 13,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 14,
-   "found": 0,
+   "checked": 17,
+   "found": 3,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-25",
@@ -166,7 +166,7 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,8 +238,8 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -256,12 +256,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -292,26 +292,25 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 24,
+   "checked": 17,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-26",
    "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -383,6 +382,167 @@
   }
  ],
  "items": [
+  {
+   "id": "e9e3a310f095",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2589811/mpartzokas-plirosa-50000-eyro-epeidi-milisa-ashima-sta-apodytiria",
+   "title": "Μπαρτζώκας: «Πλήρωσα 50.000 ευρώ επειδή μίλησα άσχημα στα αποδυτήρια, κάποιος με κατέγραψε κρυφά»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Έχετε ξανακούσει 50.000 ευρώ για μια βρισιά; Η οποία δεν απευθύνθηκα σε κανέναν."
+   ],
+   "amounts": [
+    "50.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e21f7a6717fc",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2589810/mpartzokas-tha-ypograpsoyme-enan-i-dyo-paiktes-efoson-hreiastei",
+   "title": "Μπαρτζώκας: «Θα υπογράψουμε έναν ή δύο παίκτες, εφόσον χρειαστεί»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Έχετε ξανακούσει 50.000 ευρώ για μια βρισιά; Η οποία δεν απευθύνθηκα σε κανέναν."
+   ],
+   "amounts": [
+    "50.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "29cb2989ed01",
+   "url": "https://www.gazzetta.gr/gwomen/basketball/2589569/panathinaikos-sto-timoni-tis-omadas-mpasket-o-kobalefski",
+   "title": "Στο τιμόνι της ομάδας μπάσκετ του Παναθηναϊκού ο Κοβαλέφσκι",
+   "site": "Gazzetta.gr",
+   "country": "Poland",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "2018-2020: Βοηθός προπονητή, CCC Polkowice (Euroleague το 2018-19, Eurocup το 2019-20)"
+   ],
+   "amounts": [
+    "19, Eurocup"
+   ],
+   "seasons": [
+    "25/26",
+    "18/19",
+    "19/20",
+    "17/18",
+    "16/17"
+   ],
+   "teams": [
+    {
+     "name": "Stal Ostrow Wielkopolski",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,300,000 €, salary budget 780,000 €",
+      "24/25: budget 1,752,354€",
+      "player rows: 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Start Lublin",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,194,243 €, salary budget 1,316,546 €",
+      "24/25: budget 1,792,122€"
+     ]
+    },
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€",
+      "player rows: 19/20 (1), 18/19 (4), 14/15 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4db4319dd94f",
+   "url": "https://basketballsphere.com/en/dubai-anadolu-efes-euroleague/",
+   "title": "Dubai and Anadolu Efes post worst shooting nights of the EuroLeague season",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Dubai and Anadolu Efes recorded the worst and second-worst three-point shooting performances by any team so far in the 2026/27 EuroLeague season on the exact same night."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "1d42e5a48ea9",
    "url": "https://www.dnevnik.si/novice/posel/cena-osnovnega-zivila-raste-predelave-vse-manj-pricakujejo-se-pomanjkanja-2843379/",
