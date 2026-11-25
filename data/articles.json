@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-25T07:42+00:00",
+ "updated": "2026-11-25T09:30+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 13,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
-   "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
+   "pages": 3,
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
-   "site": "BasketNews.com",
-   "checked": 5,
-   "found": 0,
+   "site": "BasketNews.lt",
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-24",
    "stop": "no older pages"
+  },
+  {
+   "site": "BasketNews.com",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
   },
   {
    "site": "Krepsinis.net",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "15min 24sek",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 2,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,7 +77,7 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -86,11 +86,11 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-23",
+   "pages": 1,
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
@@ -104,8 +104,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -113,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,8 +122,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 6,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -131,26 +131,27 @@
   },
   {
    "site": "Athletiko",
-   "checked": 17,
-   "found": 0,
+   "checked": 24,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 1
   },
   {
    "site": "SDNA",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://www.sdna.gr/googlenews.xml",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://www.sdna.gr/googlenews.xml"
+   "checked": 9,
+   "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-24",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 4,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -158,8 +159,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-24",
@@ -167,10 +168,10 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -181,7 +182,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Meridian Sport",
@@ -203,26 +205,26 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_gambling": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -231,20 +233,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_gambling": 1
   },
   {
    "site": "Basketball Sphere",
-   "checked": 7,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
@@ -258,12 +261,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "no older pages"
+   "stop": "reached start date"
   },
   {
    "site": "Ekipa Svet24",
@@ -272,7 +275,8 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Basketball.hr",
@@ -285,25 +289,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,8 +316,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -321,19 +325,19 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-04-28",
+   "oldest": "2026-05-01",
    "stop": "reached start date"
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -384,6 +388,512 @@
   }
  ],
  "items": [
+  {
+   "id": "11550ee18f6e",
+   "url": "https://www.basketnews.lt/news-260188-serbai-i-lietuva-atvyksta-su-vienu-eurolygos-zaideju.html#utm_medium=rss&utm_content=news",
+   "title": "Serbai į Lietuvą atvyksta su vienu Eurolygos žaidėju",
+   "site": "BasketNews.lt",
+   "country": "Serbia",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Nors Serbijos rinktinės išplėstiniame kandidatų sąraše buvo 11 Eurolygos krepšininkų, trečiadienio rytą kelionei į Lietuvą išsiruošė tik vienas šį sezoną stipriausiame Europos turnyre rungtyniaujantis žaidėjas – Belgrado „Crvena Zvezda“ narys Nikola Djurišičius.",
+    "Nors Serbijos rinktinės išplėstiniame kandidatų sąraše buvo 11 Eurolygos krepšininkų, trečiadienio rytą kelionei į Lietuvą išsiruošė tik vienas šį sezoną stipriausiame Europos turnyre rungtyniaujantis žaidėjas – Belgrado „Crvena Zvezda“ narys Nikola Djurišičius ."
+   ],
+   "amounts": [
+    "11 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c434ac9d75a7",
+   "url": "https://www.krepsinis.net/naujiena/serbijos-sudetyje-klaipedoje-vienas-eurolygos-zaidejas/354730",
+   "title": "Serbijos sudėtyje Klaipėdoje – vienas Eurolygos žaidėjas | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Serbia",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Nors išplėstiniame kandidatų sąraše buvo 11 Eurolygos žaidėjų, sudėtyje liko vienintelis Nikola Džurišičius ."
+   ],
+   "amounts": [
+    "11 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "1c9f7cb12924",
+   "url": "https://www.eurohoops.net/en/euroleague/2040477/luca-vildoza-tyler-dorsey-euroleague-round-14-injury-report-update/",
+   "title": "EuroLeague releases official injury report for Round 14 finale",
+   "site": "Eurohoops EN",
+   "country": "Turkey",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Roster adjustments across the four remaining games to complete Round 14 of the 2026–27 EuroLeague Regular Season",
+    "Eight teams are preparing for tipoff in the remaining Round 14 fixtures of the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Bruno Fernando",
+     "sheet": [
+      "26/27 Anadolu Efes S.K.: 1,760,000 €",
+      "25/26 KK Partizan: 1,200,000 €"
+     ]
+    },
+    {
+     "name": "Deividas Sirvydis",
+     "sheet": [
+      "25/26 Žalgiris Kaunas: 650,000 €",
+      "24/25 Žalgiris Kaunas: 400,000 €",
+      "23/24 Lietkabelis Panevėžys: 100,000 €",
+      "22/23 Noblesville Boom: 40,000 €"
+     ]
+    },
+    {
+     "name": "Derek Willis",
+     "sheet": [
+      "25/26 Paris Basketball: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "865c2bd1a43d",
+   "url": "https://www.eurohoops.net/en/euroleague/2040447/tony-parker-talks-asvel-losing-streak-euroleague/",
+   "title": "Tony Parker weighs ASVEL changes: “Going to manage this situation”",
+   "site": "Eurohoops EN",
+   "country": "France",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "LDLC ASVEL Villeurbanne head coach Tony Parker has warned that changes could be coming after his club dropped their fifth consecutive game in the 2026–27 EuroLeague Regular Season."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Tony Parker",
+     "sheet": [
+      "26/27 ASVEL Basket: 250,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "00b4ccf7a060",
+   "url": "https://www.athletiko.gr/o-kovalefski-antikatastatis-tis-erntem-ston-pagko-toy-panathinaikoy-118026",
+   "title": "O Kοβαλέφσκι αντικαταστάτης της Ερντέμ στον πάγκο του Παναθηναϊκού | Athletiko",
+   "site": "Athletiko",
+   "country": "Poland",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "2018-2020: Βοηθός προπονητή, CCC Polkowice (Euroleague το 2018-19, Eurocup το 2019-20)"
+   ],
+   "amounts": [
+    "19, Eurocup"
+   ],
+   "seasons": [
+    "25/26",
+    "18/19",
+    "19/20",
+    "17/18",
+    "16/17"
+   ],
+   "teams": [
+    {
+     "name": "Stal Ostrow Wielkopolski",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,300,000 €, salary budget 780,000 €",
+      "24/25: budget 1,752,354€",
+      "player rows: 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Start Lublin",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,194,243 €, salary budget 1,316,546 €",
+      "24/25: budget 1,792,122€"
+     ]
+    },
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€",
+      "player rows: 19/20 (1), 18/19 (4), 14/15 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a5ecd3bb5e82",
+   "url": "https://www.athletiko.gr/cuba-step-to-megalo-mpasketiko-mystiko-toy-fintel-kastro-117925",
+   "title": "Cuba Step: Το μεγάλο μπασκετικό μυστικό του Φιντέλ Κάστρο | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Από το Granma στο Euro Step",
+    "Ήταν ο άνθρωπος που ανακάλυψε το Euro Step ή, για να αποδώσουμε δικαιοσύνη, ήταν ο άνθρωπος που ανακάλυψε το Cuba Step.",
+    "Ο Φιντέλ αυτή την κίνηση, που πλέον είναι γνωστή ως Euro Step, τη χρησιμοποιούσε στα μπασκετικά ματς που συμμετείχε μετά την επικράτηση της επανάστασης το 1959."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "55ddb21e0495",
+   "url": "https://www.sdna.gr/mpasket/1490241_ston-panathinaiko-o-karol-kobalefski",
+   "title": "Στον Παναθηναϊκό ο Κάρολ Κοβαλέφσκι",
+   "site": "SDNA",
+   "country": "Poland",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "2018-2020: Βοηθός προπονητή, CCC Polkowice (Euroleague το 2018-19, Eurocup το 2019-20)"
+   ],
+   "amounts": [
+    "19, Eurocup"
+   ],
+   "seasons": [
+    "25/26",
+    "18/19",
+    "19/20",
+    "17/18",
+    "16/17"
+   ],
+   "teams": [
+    {
+     "name": "Stal Ostrow Wielkopolski",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,300,000 €, salary budget 780,000 €",
+      "24/25: budget 1,752,354€",
+      "player rows: 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Start Lublin",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,194,243 €, salary budget 1,316,546 €",
+      "24/25: budget 1,792,122€"
+     ]
+    },
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€",
+      "player rows: 19/20 (1), 18/19 (4), 14/15 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "dffd13a5bce5",
+   "url": "https://www.sport24.gr/basket/o-panathinaikos-anakoinose-ton-diadoxo-tis-selen-erntem/",
+   "title": "Ο Παναθηναϊκός ανακοίνωσε τον διάδοχο της Σελέν Ερντέμ",
+   "site": "Sport24",
+   "country": "Poland",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "2018-2020: Βοηθός προπονητή, CCC Polkowice (Euroleague το 2018-19, Eurocup το 2019-20)"
+   ],
+   "amounts": [
+    "19, Eurocup"
+   ],
+   "seasons": [
+    "25/26",
+    "18/19",
+    "19/20",
+    "17/18",
+    "16/17"
+   ],
+   "teams": [
+    {
+     "name": "Stal Ostrow Wielkopolski",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,300,000 €, salary budget 780,000 €",
+      "24/25: budget 1,752,354€",
+      "player rows: 19/20 (1)"
+     ]
+    },
+    {
+     "name": "Start Lublin",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 2,194,243 €, salary budget 1,316,546 €",
+      "24/25: budget 1,792,122€"
+     ]
+    },
+    {
+     "name": "Zastal Zielona Gora",
+     "country": "Poland",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 1,800,000 €, salary budget 1,080,000 €",
+      "24/25: budget 1,517,709€",
+      "player rows: 19/20 (1), 18/19 (4), 14/15 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "29f6942025e5",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2589571/paok-kai-ntorsei-perimenoyn-tin-apofasi-toy-olympiakoy",
+   "title": "ΠΑΟΚ και Ντόρσεϊ περιμένουν την απόφαση του Ολυμπιακού",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Στις επαφές που έχουν γίνει ανάμεσα στις εμπλεκόμενες πλευρές, ο Ολυμπιακός γνωρίζει μέχρι που είναι διατεθειμένοι να φτάσουν οι Θεσσαλονικείς για μια πιθανή αποζημίωση , με πληροφορίες του Gazzetta να αναφέρουν ότι το ποσό φτάνει μέχρι το 1.500.000 ευρώ ."
+   ],
+   "amounts": [
+    "1.500.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "8b7345d9241a",
+   "url": "https://basketballsphere.com/en/crvena-zvezda-euroleague-winning-big-losing-bigger/",
+   "title": "Crvena Zvezda and the art of winning big, losing bigger",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "thousand"
+   ],
+   "snippets": [
+    "The budget has grown, the roster has become more recognizable, and expectations have naturally followed.",
+    "A lack of motivation in a EuroLeague game, in front of thousands of supporters, is a particularly concerning explanation."
+   ],
+   "amounts": [],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "fa2c4e576959",
+   "url": "https://sports.walla.co.il/item/3877573",
+   "title": "\"החיים מוזרים, החיים פיוטיים\": הייז-דייויס שוב שבר את ולנסיה - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "נייג'ל הייז-דייויס סיפק אמש (שלישי) עוד רגע בלתי נשכח בעונת היורוליג הדרמטית, כשקלע שלשת ניצחון מטורפת, עם הבאזר, והעניק לפנאתינייקוס 83:86 דרמטי על ולנסיה בספרד."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "1f34d24a9bea",
    "url": "https://www.eurohoops.net/tr/nba-news-tr/2040430/nbade-en-cok-kazanan-10-koc-kimler/",
