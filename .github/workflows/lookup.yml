@@ -1,0 +1,30 @@
+name: Sheet lookup
+
+on:
+  workflow_dispatch:
+    inputs:
+      names:
+        description: "Player names, separated by ; (prints their rows from the Player Salaries tab)"
+        required: true
+
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Print matching rows
+        env:
+          NAMES: ${{ inputs.names }}
+        run: |
+          python3 - <<'PY'
+          import csv, io, os, unicodedata, urllib.request
+          url = "https://docs.google.com/spreadsheets/d/1Qt4ijFGDmvoLLHb-gCbcAF9KGts6ZC-RHwWzQw68cZI/export?format=csv&gid=207447642"
+          rows = list(csv.reader(io.StringIO(urllib.request.urlopen(url, timeout=60).read().decode("utf-8"))))
+          n = lambda s: unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower().strip()
+          names = [n(x) for x in os.environ["NAMES"].split(";") if x.strip()]
+          head = next(i for i, r in enumerate(rows) if "name" in [n(c) for c in r])
+          print("HEADER\t" + "\t".join(rows[head]))
+          for r in rows[head + 1:]:
+              if any(c and n(c) in names for c in r):
+                  print("ROW\t" + "\t".join(r))
+          PY
