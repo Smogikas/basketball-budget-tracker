@@ -1,28 +1,20 @@
 {
- "updated": "2026-11-25T13:39+00:00",
+ "updated": "2026-11-25T15:23+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 2,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -31,9 +23,18 @@
    "skipped_nba": 1
   },
   {
+   "site": "BasketNews.com",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+  },
+  {
    "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -41,17 +42,18 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "PianetaBasket",
-   "checked": 5,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-09",
@@ -68,8 +70,8 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -77,25 +79,25 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Basket Dergisi",
+   "checked": 0,
+   "found": 0,
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x78a9f840a3c0>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
+  },
+  {
    "site": "TrendBasket",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,18 +106,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -123,18 +124,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 28,
-   "found": 0,
+   "checked": 15,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -142,8 +142,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -152,7 +152,7 @@
   {
    "site": "Sport24",
    "checked": 5,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -160,49 +160,51 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 12,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-24",
+   "pages": 2,
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Meridian Sport",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-25",
    "stop": "reached articles checked before",
    "skipped_nba": 1
   },
   {
+   "site": "Mozzart Sport",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-25",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Meridian Sport",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-16",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Marca",
@@ -215,31 +217,30 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Sportacentrs",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-18",
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sportacentrs",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages",
-   "skipped_gambling": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -248,7 +249,8 @@
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -261,12 +263,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached start date"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -292,13 +294,13 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-22",
+   "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
@@ -306,7 +308,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 20,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -315,8 +317,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 5,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -360,11 +362,11 @@
   },
   {
    "site": "2Playbook FIBA",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-12",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -387,6 +389,278 @@
   }
  ],
  "items": [
+  {
+   "id": "3169e3a63e86",
+   "url": "https://sportando.basketball/bc-roma-lancia-insieme-undici-partite-di-serie-a-da-30-euro/",
+   "title": "BC Roma lancia “Insieme”: undici partite di Serie A da 30 euro - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "30 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Aquila Trento",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 7,000,000 €, salary budget 3,000,000 €",
+      "25/26: budget 6,222,222 €, salary budget 2,900,000 €",
+      "24/25: budget 5,910,000 €, salary budget 2,870,000 €",
+      "player rows: 25/26 (1), 24/25 (2), 16/17 (1)"
+     ]
+    },
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "df0a196e8010",
+   "url": "https://www.basketnews.lt/news-260198-zalgirio-slifuojamas-talentas-priaugti-raumenys-ir-stabdomas-maksimalizmas.html#utm_medium=rss&utm_content=news",
+   "title": "„Žalgirio“ šlifuojamas talentas: priaugti raumenys ir stabdomas maksimalizmas",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Kaodirichi Akobundu - Ehiogu",
+     "sheet": [
+      "24/25 Pallacanestro Varese: 73,600 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4cd5da135691",
+   "url": "https://www.athletiko.gr/plano-ependysis-10-dis-apo-to-nva-stin-eyropi-sto-proskinio-i-anaptyxi-gipedon-se-synergasia-me-ependytika-gkroyp-kolossoys-118081",
+   "title": "Πλάνο επένδυσης 10 δις από το ΝΒΑ στην Ευρώπη: Στο προσκήνιο η ανάπτυξη γηπέδων σε συνεργασία με επενδυτικά γκρουπ-κολοσσούς | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "δολαρι",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Έτσι, το ΝΒΑ ανακοίνωσε πως υπάρχει σχέδιο για εξασφάλιση χρηματοδότησης που θα ξεπερνά τα 10 δις ευρώ, σε συνεργασία με επενδυτικά γκρουπ-κολοσσούς της παγκόσμιας αγοράς.",
+    "Σύμφωνα με πρόσφατη μελέτη από το The Sports Consultancy, η επικείμενη διοργάνωση, που θα προκύψει από τη συνεργασία του ΝΒΑ με τη FIBA, στην Ευρώπη, θα μπορούσε να συνεισφέρει περισσότερα από 24 δισεκατομμύρια ευρώ σε ακαθάριστη προστιθέμενη αξία στο ΑΕΠ σε όλη την Ευρώπη, να στηρίξει σχεδόν 15.…",
+    "Μάλιστα, όσον αφορά την Ελλάδα, η ίδια μελέτη εκτιμά πως σε βάθος δεκαετίας η οικονομική συνεισφορά στην Αθήνα θα μπορούσε να ξεπεράσει τα 800 εκατ."
+   ],
+   "amounts": [
+    "800 εκατ",
+    "3,5 εκατ",
+    "70 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "50c5f7ab0f5d",
+   "url": "https://telesport.rs/2026/11/25/dijara-na-meti-tri-mocna-evroligasa/",
+   "title": "Dijara na meti tri moćna evroligaša? - Telesport",
+   "site": "Telesport",
+   "country": "Turkey",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "hiljad",
+    "sum of money",
+    "zaraduje"
+   ],
+   "snippets": [
+    "Tada mu ističe ugovor po kome trenutno zarađuje 400 hiljada evra mesečno."
+   ],
+   "amounts": [
+    "400 hiljada"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "Real Madrid Baloncesto",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 67,200,000 €, salary budget 44,400,000 €",
+      "25/26: budget 61,600,000 €, salary budget 40,500,000 €",
+      "24/25: budget 48,424,000 €, salary budget 38,232,000 €",
+      "player rows: 26/27 (4), 25/26 (14), 24/25 (10)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2111ff6544ea",
+   "url": "https://www.dnevnik.si/nedeljski/prosti-cas/tek-po-slovenskih-poteh-postaja-milijonski-turisticni-posel-2842799/",
+   "title": "Ko tekači postanejo turisti: trail tek v Slovenijo prinaša milijone",
+   "site": "Dnevnik.si",
+   "country": "USA",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Trije največji tekaški dogodki so letos privabili več kot 10.700 udeležencev iz več kot 90 držav, ki so skupaj s spremljevalci ustvarili več kot 5,5 milijona evrov neposredne",
+    "Po podatkih organizatorja Good4Venture so trije največji slovenski trail tekaški dogodki letos ustvarili več kot 5,5 milijona evrov neposredne potrošnje.",
+    "Skupno so ustvarili več kot 5,5 milijona evrov neposredne potrošnje, pretežno zunaj vrhunca turistične sezone."
+   ],
+   "amounts": [
+    "5,5 milijona",
+    "1,1 milijona",
+    "2,75 milijona",
+    "1,14 milijona",
+    "2,85 milijona",
+    "8,3 milijona",
+    "3,3 milijona",
+    "8,2 milijona"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Coachella Valley Lakers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "77f0dc2a4f29",
+   "url": "https://sports.walla.co.il/item/3877624",
+   "title": "כשמתעלמים מכל סימני האזהרה: מצבה הקשה של הפועל חיפה - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "שכר",
+    "תקציב"
+   ],
+   "snippets": [
+    "שחקנים חתמו על חוזים שעל פי מקורבים כוללים סעיפי יציאה אם השכר לא משולם, בעוד אחרים קיבלו כסף מראש.",
+    "הכתובת היא כמובן הבקרה התקציבית של איגוד הכדורסל.",
+    "מאיגוד הכדורסל השיבו: \"בהתאם לתקנון הבקרה התקציבית, קבוצת הפועל חיפה הגישה ערבויות כנדרש בסך 25% מתקציב הקבוצה."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "da5cd12e3f93",
+   "url": "https://sports.walla.co.il/item/3877633",
+   "title": "ליגת ווינר סל משיקה משחק פנטזי עם פרסים יקרי ערך - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "אלף",
+    "שקל",
+    "תקציב"
+   ],
+   "snippets": [
+    "המשתתפים יוכלו לבחור שחקנים מקבוצות הליגה במסגרת תקציב וירטואלי, להרכיב סגל, לבצע חילופים ולצבור נקודות בהתאם לביצועים האמיתיים על הפרקט.",
+    "האוהדים יוכלו להרכיב קבוצת חלומות ולהתחרות על פרסים, בהם מסך סוני בשווי 25 אלף שקל.",
+    "הפרס הראשון הוא מסך טלוויזיה SONY BRAVIA בגודל 98 אינץ', בשווי 25 אלף שקל, ולצדו יחולקו עשרות פרסים נוספים, בהם מסכי טלוויזיה, אוזניות ומוצרים אלקטרוניים מבית ישפאר-סוני."
+   ],
+   "amounts": [
+    "25 אלף"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "13bb486da977",
    "url": "https://www.basketnews.lt/news-260193-olimpinis-prizininkas-buves-zalgirietis-ir-kylantys-talentai-ka-i-klaipeda-atsiveza-serbai.html#utm_medium=rss&utm_content=news",
