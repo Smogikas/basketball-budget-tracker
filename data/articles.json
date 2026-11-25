@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:16+00:00",
+ "updated": "2026-11-25T05:24+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,30 +13,31 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-25",
+   "stop": "no older pages",
+   "skipped_nba": 3
   },
   {
    "site": "Krepsinis.net",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
@@ -67,12 +68,12 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
@@ -103,10 +104,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -121,25 +122,25 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -166,10 +167,10 @@
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -202,39 +203,40 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-18",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
@@ -301,21 +303,21 @@
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -382,6 +384,103 @@
   }
  ],
  "items": [
+  {
+   "id": "b83ae51a1f18",
+   "url": "https://www.basketnews.lt/news-260076-lkl-legionieriaus-pasiaukojimas-del-rinktines-isskrido-i-kita-zemyna.html#utm_medium=rss&utm_content=news",
+   "title": "LKL legionieriaus pasiaukojimas: dėl rinktinės išskrido į kitą žemyną",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "naujiems nariams pirmus 3 mėn., vėliau 6,90 €/mėn."
+   ],
+   "amounts": [
+    "6,90 €"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Vilniaus Sakalai",
+     "country": "Lithuania",
+     "sheet": [
+      "12/13: budget 202,720 €",
+      "10/11: budget 217,215 €",
+      "09/10: budget 115,848 €",
+      "player rows: 12/13 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Ricky Lindo",
+     "sheet": [
+      "25/26 JL Bourg Basket: 175,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "b0b9b1fe5c1e",
+   "url": "https://www.basketnews.lt/news-260181-turkijos-vaistines-minejes-saras-apie-komanda-pakirtusi-virusa-ir-beprotiska-tvarkarasti.html#utm_medium=rss&utm_content=news",
+   "title": "Turkijos vaistines minėjęs Šaras: apie komandą pakirtusį virusą ir beprotišką tvarkaraštį",
+   "site": "BasketNews.lt",
+   "country": "Turkey",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon"
+   ],
+   "snippets": [
+    "Atrodo, kad norima sugrūsti milijoną rungtynių į tvarkaraštį, o paskui daryti pertraukas dėl rinktinių langų, kad visi būtų patenkinti."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Šarūnas Jasikevičius",
+     "sheet": [
+      "99/00 KK Olimpija: 120,000 €",
+      "98/99 Rytas Vilnius: 63,700 €",
+      "25/26 Fenerbahce Istanbul: 1,000,000 €",
+      "22/23 FC Barcelona Basquet: 1,200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "9e0f81da60bc",
    "url": "https://basketnews.com/news-260162-nigel-hayes-davis-stuns-valencia-with-second-buzzer-beater-in-less-than-a-year.html#utm_medium=rss&utm_content=news",
