@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-25T09:30+00:00",
+ "updated": "2026-11-25T11:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 13,
+   "checked": 7,
    "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -22,26 +22,25 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
-  },
-  {
-   "site": "Krepsinis.net",
    "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-25",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -113,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,17 +121,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 24,
-   "found": 2,
+   "checked": 18,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -142,7 +141,7 @@
   {
    "site": "SDNA",
    "checked": 9,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
@@ -151,7 +150,7 @@
   {
    "site": "Sport24",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -159,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-24",
@@ -177,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -187,11 +186,11 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
@@ -205,22 +204,21 @@
   },
   {
    "site": "Marca",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_gambling": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -233,22 +231,22 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages",
-   "skipped_gambling": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
    "checked": 5,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 3
   },
   {
    "site": "Basket.zoznam.sk",
@@ -270,13 +268,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -307,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 21,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -316,8 +313,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -325,7 +322,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -334,12 +331,13 @@
   },
   {
    "site": "Gigantes",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -388,6 +386,97 @@
   }
  ],
  "items": [
+  {
+   "id": "b18d7dd44c79",
+   "url": "https://www.basketnews.lt/news-260192-canakas-apie-lietuvos-krepsini-rinktiniu-musi-ir-neiveikiama-zalgiri.html#utm_medium=rss&utm_content=news",
+   "title": "Čanakas – apie Lietuvos krepšinį, rinktinių mūšį ir neįveikiamą „Žalgirį“",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "„Lietuva turi 2,8 mln."
+   ],
+   "amounts": [
+    "2,8 mln"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "95fb0ffd0e7d",
+   "url": "https://basketnews.com/news-260190-dzanan-musa-play-vs-lithuania-bosnia-herzegovina-fiba-qualifiers.html#utm_medium=rss&utm_content=news",
+   "title": "Dzanan Musa expected to play in a crucial FIBA World Cup qualifiers game",
+   "site": "BasketNews.com",
+   "country": "United Arab Emirates",
+   "published": "2026-11-25",
+   "found": "2026-11-25",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "This season, Musa averages 7.3 points, 3.5 rebounds, 3.3 assists, and 9.8 PIR per game in 6 EuroLeague appearances for Dubai."
+   ],
+   "amounts": [
+    "6 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "11550ee18f6e",
    "url": "https://www.basketnews.lt/news-260188-serbai-i-lietuva-atvyksta-su-vienu-eurolygos-zaideju.html#utm_medium=rss&utm_content=news",
