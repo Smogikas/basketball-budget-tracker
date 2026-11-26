@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26T19:18+00:00",
+ "updated": "2026-11-26T21:07+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -13,8 +13,8 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -22,7 +22,7 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,7 +31,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +40,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -80,7 +80,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "no older pages"
   },
   {
@@ -104,7 +104,7 @@
   {
    "site": "Eurohoops EN",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -112,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 31,
+   "checked": 38,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,7 +157,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 17,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -166,16 +166,16 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,7 +184,7 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -193,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -211,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,14 +238,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 11,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1,
-   "skipped_gambling": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -258,21 +256,21 @@
   },
   {
    "site": "Dnevnik.si",
+   "checked": 4,
+   "found": 2,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "",
    "stop": "reached articles checked before"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -303,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -321,7 +319,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -384,6 +382,66 @@
   }
  ],
  "items": [
+  {
+   "id": "4e3b9274789c",
+   "url": "https://www.dnevnik.si/novice/svet/znana-nemska-pivovarna-po-347-letih-zapira-vrata-zaboj-piva-prodajajo-za-pet-evrov-2843552/",
+   "title": "Znana nemška pivovarna po 347 letih zapira vrata. Zaboj piva prodajajo za pet evrov",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Za zaboj piva je treba odšteti le pet evrov.",
+    "Cena pet evrov velja za cel zaboj piva, kavcijo za povratno embalažo pa je treba doplačati.",
+    "V običajni prodaji zaboj piva znanih blagovnih znamk pogosto stane od 15 do 20 evrov, zato pričakujejo veliko zanimanje kupcev."
+   ],
+   "amounts": [
+    "497 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "83af162c4479",
+   "url": "https://www.dnevnik.si/sport/nogomet/spremljamo-celje-v-budimpesti-pri-ferencvarosu-2843540/",
+   "title": "(SPREMLJAMO) Ob polčasu Ferencvaroš – Celje 0:0",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Igralci Ferencvaroša so na nogometni tržnici po podatkih Transfermarkta trenutno vredni 38,25 milijona evrov.",
+    "Njihov najdragocenejši član pa je haitijski napadalec Lenny Joseph, za čigar usluge bi moral potencialni novi delodajalec odšteti štiri milijone evrov.",
+    "Grofi so sicer od svojih tokratnih nasprotnikov vredni dobrih 23 milijonov evrov manj, pri čemer znaša trenutna vrednost njihovega najdragocenejšega moža Svita Sešlarja 2,2 milijona evrov."
+   ],
+   "amounts": [
+    "38,25 milijona",
+    "23 milijonov",
+    "2,2 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "7844a61a55fc",
    "url": "https://www.basketnews.lt/news-260288-atnaujinti-rinktines-scenarijai-kas-garantuotu-kelialapi-i-pc.html#utm_medium=rss&utm_content=news",
