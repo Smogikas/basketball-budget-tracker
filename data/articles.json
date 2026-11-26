@@ -1,30 +1,29 @@
 {
- "updated": "2026-11-26T07:40+00:00",
+ "updated": "2026-11-26T09:28+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 14,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 1
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-26",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -32,8 +31,8 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -41,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 4,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 6,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -77,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -104,8 +103,8 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 3,
-   "found": 2,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -122,7 +121,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -131,7 +130,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 21,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -140,7 +139,7 @@
   },
   {
    "site": "SDNA",
-   "checked": 6,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 8,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 10,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-25",
@@ -167,10 +166,10 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -185,25 +184,25 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-16",
+   "oldest": "2026-11-17",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,7 +211,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,26 +220,25 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "reached start date",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Bild Basketball",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-19",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Bild Basketball",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -251,24 +249,24 @@
    "site": "Basket.zoznam.sk",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "reached start date"
+   "error": "HTTPSConnectionPool(host='basket.zoznam.sk', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basket.zoznam.sk', port=443): Read timed out. (read ti"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -289,7 +287,7 @@
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-23",
+   "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
@@ -303,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 12,
+   "checked": 13,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -330,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -384,6 +382,338 @@
   }
  ],
  "items": [
+  {
+   "id": "a08eda3602c0",
+   "url": "https://www.basketnews.lt/news-260264-ar-lietuva-atgaivins-viltis-patekti-i-pasaulio-cempionata-pateik-savo-spejima-ir-laimek-prizus.html#utm_medium=rss&utm_content=news",
+   "title": "Ar Lietuva atgaivins viltis patekti į pasaulio čempionatą? Pateik savo spėjimą ir laimėk prizus",
+   "site": "BasketNews.lt",
+   "country": "Lithuania",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "I vieta – 150 € BN Shop dovanų čekis;",
+    "II vieta – 100 € BN Shop dovanų čekis;",
+    "III vieta – 50 € BN Shop dovanų čekis."
+   ],
+   "amounts": [
+    "150 €",
+    "100 €",
+    "50 €"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c32db2a804e9",
+   "url": "https://basketnews.com/news-260202-all-euroleague-players-november-fiba-window-full-list-by-country.html#utm_medium=rss&utm_content=news",
+   "title": "All EuroLeague players in November FIBA window: Who has the strongest team?",
+   "site": "BasketNews.com",
+   "country": "United Arab Emirates",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Based on the latest national team announcements and player availability updates, up to 66 EuroLeague players could feature in these FIBA Qualifiers, representing 15 of the 24 participating national teams.",
+    "Serbia leads the way with 11 EuroLeague players named to its extended squad, although the actual number of participants could be lower.",
+    "FIBA has already confirmed the final 12-man rosters for Thursday's six qualifying games , with 28 EuroLeague players included across eight national teams."
+   ],
+   "amounts": [
+    "66 EuroLeague",
+    "11 EuroLeague",
+    "28 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Dejan Davidovac",
+     "sheet": [
+      "24/25 KK Crvena zvezda: 750,000 €"
+     ]
+    },
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    },
+    {
+     "name": "Filip Petrušev",
+     "sheet": [
+      "24/25 Olympiacos B.C.: 1,000,000 €",
+      "24/25 KK Crvena zvezda: 800,000 €",
+      "22/23 KK Crvena zvezda: 250,000 €"
+     ]
+    },
+    {
+     "name": "Marko Gudurič",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,700,000 €",
+      "25/26 Olimpia Milano: 2,700,000 €",
+      "18/19 Fenerbahce Istanbul: 400,000 €",
+      "17/18 Fenerbahce Istanbul: 350,000 €"
+     ]
+    },
+    {
+     "name": "Nemanja Dangubič",
+     "sheet": [
+      "17/18 KK Crvena zvezda: 250,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    },
+    {
+     "name": "Vladimir Lučič",
+     "sheet": [
+      "23/24 Bayern Munich: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "c1c98d01a7f6",
+   "url": "https://www.krepsinis.net/naujiena/d-alimpijevicius-issirinko-dvyliktuka-macui-pries-lietuva/354730",
+   "title": "D.Alimpijevičius išsirinko dvyliktuką mačui prieš Lietuvą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "Serbia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Nors išplėstiniame kandidatų sąraše buvo 11 Eurolygos žaidėjų, sudėtyje liko vienintelis Nikola Džurišičius ."
+   ],
+   "amounts": [
+    "11 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c43930753f5b",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/serbija-isrikiavo-dvyliktuka-rungtynems-su-lietuva-874-2814818?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Serbija išrikiavo dvyliktuką rungtynėms su Lietuva",
+   "site": "15min 24sek",
+   "country": "Serbia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Nors pirmajame išplėstiniame sąraše Serbija turėjo net 12 Eurolygos žaidėjų, tapo aišku, jog pirmajame „lango“ mače jų turės vos vieną."
+   ],
+   "amounts": [
+    "12 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "Neptūnas Klaipėda",
+     "country": "Lithuania",
+     "sheet": [
+      "26/27: budget 3,308,000 €, salary budget 1,900,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,220,000 €",
+      "24/25: budget 2,600,000 €",
+      "player rows: 26/27 (3), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9447cf59750d",
+   "url": "https://www.sport24.gr/basket/basketaki-the-league-athens-entiposiakes-tapes-buzzer-beaters-kai-ena-dinamiko-karfoma-stin-korifi-tou-superbet-top-10/",
+   "title": "Basketaki The League Athens: Εντυπωσιακές τάπες, buzzer beaters και ένα δυναμικό κάρφωμα στην κορυφή του Superbet Top 10",
+   "site": "Sport24",
+   "country": "USA",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Νο 7 – Νίκος Μπόλος (20euros)",
+    "Εντυπωσιακή σόλο προσπάθεια από τον Νίκο Μπόλο των 20euros, ο οποίος ξεχύθηκε από την αριστερή πλευρά του γηπέδου, πέρασε όποιον βρήκε μπροστά του και έφτασε μέχρι το αντίπαλο καλάθι, ολοκληρώνοντας την εξαιρετική ατομική του ενέργεια με καλάθι και φάουλ!"
+   ],
+   "amounts": [
+    "20euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Charlotte Hornets",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 21/22 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "dd6c51ac3844",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2589799/papapetroy-sto-gazz-floor-novibet-o-olympiakos-ekane-ti-hapoel-na",
+   "title": "Παπαπέτρου στο Gazz Floor by Novibet: «Ο Ολυμπιακός έκανε τη Χάποελ να φαίνεται μικρή ομάδα»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "μπατζετ"
+   ],
+   "snippets": [
+    "Δηλαδή, σήμερα φαίνεται λες και είναι μια ομάδα η οποία δεν έχει αυτό το μπάτζετ και αυτούς τους παίκτες» , ήταν τα λόγια του άλλοτε φοργουορντ του Παναθηναικού."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "67c48494e50c",
+   "url": "https://www.dnevnik.si/novice/svet/velikodusno-darilo-musk-obljubil-da-bo-vsak-otrok-v-zda-prejel-dve-delnici-spacex-a-2843415/",
+   "title": "Velikodušno darilo: Musk obljubil, da bo vsak otrok v ZDA prejel dve delnici SpaceX-a",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bela hiša je oktobra sporočila, da je bilo odprtih skoraj 70 milijonov takšnih računov.",
+    "Cena delnice SpaceX-a je ob koncu sredinega trgovanja znašala 127,44 dolarja, kar pomeni, da skupna vrednost napovedane donacije dosega skoraj 18 milijard dolarjev.",
+    "Vrednost te pobude po trenutnih tržnih cenah znaša približno 54 milijard dolarjev."
+   ],
+   "amounts": [
+    "70 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c66f4964e64f",
+   "url": "https://ekipa.svet24.si/sport/kosarka/slovenci-v-tujini-kosarka/doncic-hvalezen-1943336",
+   "title": "Dončić družini iz LA-ja s sporočilom, ki orosi vsa očesa",
+   "site": "Ekipa Svet24",
+   "country": "USA",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "Vsaj v trenutkih, ko je od hčerk oddaljen več tisoč kilometrov."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Coachella Valley Lakers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "32d048e445bb",
    "url": "https://www.basketnews.lt/news-260256-aiski-galutine-serbu-sudetis-macui-klaipedoje.html#utm_medium=rss&utm_content=news",
