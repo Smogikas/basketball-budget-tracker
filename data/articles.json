@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26T15:20+00:00",
+ "updated": "2026-11-26T17:23+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -22,16 +22,17 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTP 403 for https://basketnews.com/news/rss",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+   "checked": 6,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "no older pages",
+   "skipped_nba": 2
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,16 +41,16 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,7 +68,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,12 +77,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -112,7 +113,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,7 +122,7 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -130,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 11,
+   "checked": 50,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 5,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -148,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,35 +158,36 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 2
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -193,7 +195,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,25 +204,25 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +231,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,12 +240,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,7 +259,7 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
@@ -274,7 +276,7 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -283,10 +285,10 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -301,7 +303,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 19,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +384,301 @@
   }
  ],
  "items": [
+  {
+   "id": "97e377e072bf",
+   "url": "https://basketnews.com/news-260284-virtus-bologna-confirm-date-for-first-euroleague-game-at-new-arena.html#utm_medium=rss&utm_content=news",
+   "title": "Virtus Bologna announce historic move to new EuroLeague arena",
+   "site": "BasketNews.com",
+   "country": "Italy",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Built at a cost of around €70 million, the venue replaces the former Pavilion 35 at BolognaFiere and was designed to accommodate basketball, tennis, concerts, and exhibitions."
+   ],
+   "amounts": [
+    "€70 million"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "0f46fc298b13",
+   "url": "https://www.sdna.gr/mpasket/1490715_alekos-mpartzokas-ego-ebriza-aytoi-giati-traboysan-binteo",
+   "title": "Αλέκος Μπαρτζώκας: «Εγώ έβριζα, αυτοί γιατί τραβούσαν βίντεο;»",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "50.000 ευρώ μεροκαματιάρης άνθρωπος.",
+    "Προκειμένου αυτό να πληρώσει τις κάμερες στο ΣΕΦ και τίποτα μερεμέτια της… ιδιωτικής επένδυσης των πάνω από 100 εκατ.",
+    "Γιατί τις 820.000 ευρώ, μόνος του τις είχε στο σπίτι του, δεν είχε κανέναν παρέα."
+   ],
+   "amounts": [
+    "50.000 ευρώ",
+    "100 εκατ",
+    "820.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "94f732f6e7f6",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2590044/ifi-77-tis-pari-ehei-tin-ypografi-toy-symbolaio-kai-oi-apodohes-toy",
+   "title": "To «7/7» της Παρί έχει υπογραφή και είναι του Ναντίρ Ιφί: Το συμβόλαιο και οι αποδοχές του 24χρονου",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "αποδοχ",
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Μάλιστα, είναι ο πιο ακριβοπληρωμένος παίκτης στη Γαλλία, με τις ετήσιες αποδοχές του να αγγίζουν το 1.1 εκατομμύριο ευρώ, ενώ το συμβόλαιό του είναι μέχρι το καλοκαίρι του 2028."
+   ],
+   "amounts": [
+    "1.1 εκατομμύριο"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "147bd16ed650",
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261126/1004255916/valencia-retirara-14-dubljevic-le-dara-pista-l-alqueria.html",
+   "title": "El Valencia retirará el 14 de Dubljevic y le dará una pista de L'Alqueria",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "Un ex del Barça abandona el Dubai para firmar un millonario contrato con el PAOK"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Basket Zaragoza",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 4,500,000 €, salary budget 2,700,000 €",
+      "24/25: budget 4,000,000 €, salary budget 2,500,000 €",
+      "player rows: 22/23 (1), 19/20 (1), 10/11 (1)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "602504db8bc5",
+   "url": "https://www.mundodeportivo.com/baloncesto/20261126/1004255888/basketballtv-nueva-ventana-basket-global.html",
+   "title": "BasketballTV, nueva ventana al basket global",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "por temporada"
+   ],
+   "snippets": [
+    "Este lanzamiento se produce tras la adquisición por parte de DAZN de BASKET.TV , un servicio líder de retransmisión de baloncesto en Latinoamérica que emite cerca de 4900 partidos por temporada en Argentina, Bolivia, Brasil, Chile, Ecuador y Uruguay, lo que refuerza la presencia de DAZN en un mer…",
+    "Un ex del Barça abandona el Dubai para firmar un millonario contrato con el PAOK"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "CB Girona",
+     "country": "Spain",
+     "sheet": [
+      "04/05: budget 3,600,000 €",
+      "player rows: 05/06 (1)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "0179db756804",
+   "url": "https://basketballsphere.com/en/evan-fournier-ergin-ataman-france-comments-biberovic/",
+   "title": "Evan Fournier fires back at Ergin Ataman over France comments",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Biberovic was born in Zenica, Bosnia and Herzegovina, and represented the country at the 2016 FIBA U16 European Championship before eventually switching his international allegiance to Turkey."
+   ],
+   "amounts": [
+    "16 European"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Ergin Ataman",
+     "sheet": [
+      "24/25 Panathinaikos B.C.: 1,300,000 €",
+      "23/24 Panathinaikos B.C.: 1,080,000 €",
+      "20/21 Anadolu Efes S.K.: 1,000,000 €",
+      "16/17 Galatasaray S.K.: 810,000 €"
+     ]
+    },
+    {
+     "name": "Evan Fournier",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,000,000 €",
+      "25/26 Olympiacos B.C.: 3,000,000 €",
+      "24/25 Olympiacos B.C.: 2,000,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0cd86328ed6e",
+   "url": "https://www.dnevnik.si/novice/posel/evropski-letalski-prevoznik-nenadoma-odpovedal-vse-danasnje-polete-razmere-so-kriticne-pred-stecajem-smo-2843527/",
+   "title": "Evropski letalski prevoznik nenadoma odpovedal vse današnje polete: »Razmere so kritične, pred stečajem smo!«",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Kljub temu se je pri ceni 0,04 norveške krone tržna vrednost letalskega prevoznika zmanjšala na vsega 9,7 milijona dolarjev."
+   ],
+   "amounts": [
+    "9,7 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e3e4593a53a2",
+   "url": "https://www.dnevnik.si/novice/lokalno/vec-kot-tri-milijone-evrov-za-resitev-dragocenih-slovenskih-mokrisc-2843488/",
+   "title": "Več kot tri milijone evrov za rešitev dragocenih slovenskih mokrišč",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Z več kot 3,3 milijona evrov vrednim projektom bodo do konca leta 2029 izboljševali",
+    "Projekt, katerega skupna vrednost znaša dobrih 3,3 milijona evrov, se bo izvajal do konca leta 2029, sofinancirata pa ga Republika Slovenija in Evropska unija v okviru Programa evropske kohezijske politike 2021–2027."
+   ],
+   "amounts": [
+    "3,3 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "c39f49245ab0",
    "url": "https://www.15min.lt/24sek/naujiena/lietuva/brazdeikis-stojo-ginti-eurolygos-zaideju-tai-nera-sazininga-875-2815324?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
