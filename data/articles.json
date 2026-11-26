@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:36+00:00",
+ "updated": "2026-11-26T03:13+00:00",
  "warnings": [],
  "run": [
   {
@@ -13,31 +13,30 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 7,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
    "stop": "no older pages"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
@@ -77,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -97,10 +96,10 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached start date"
+   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
   },
   {
    "site": "Eurohoops EN",
@@ -131,17 +130,17 @@
   },
   {
    "site": "Athletiko",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 10,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -149,12 +148,12 @@
   },
   {
    "site": "Sport24",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Gazzetta.gr",
@@ -176,12 +175,12 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -203,21 +202,21 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2020-12-18",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Mundo Deportivo",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-21",
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
@@ -239,12 +238,13 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 1
   },
   {
    "site": "Basket.zoznam.sk",
@@ -275,11 +275,11 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -302,12 +302,12 @@
   },
   {
    "site": "Sporx",
-   "checked": 6,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
