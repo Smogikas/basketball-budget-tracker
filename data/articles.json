@@ -1,20 +1,21 @@
 {
- "updated": "2026-11-26T05:26+00:00",
+ "updated": "2026-11-26T07:40+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 14,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -31,7 +32,7 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,20 +77,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -104,34 +104,16 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
+   "pages": 2,
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -139,8 +121,26 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Eurohoops TR",
+   "checked": 6,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Athletiko",
+   "checked": 21,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "SDNA",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,19 +149,19 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 3,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -176,25 +176,25 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -203,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -212,7 +212,7 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,28 +221,29 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 1
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-23",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -284,25 +285,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 1,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +312,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +330,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -383,6 +384,153 @@
   }
  ],
  "items": [
+  {
+   "id": "32d048e445bb",
+   "url": "https://www.basketnews.lt/news-260256-aiski-galutine-serbu-sudetis-macui-klaipedoje.html#utm_medium=rss&utm_content=news",
+   "title": "Aiški galutinė serbų sudėtis mačui Klaipėdoje",
+   "site": "BasketNews.lt",
+   "country": "Turkey",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Į išplėstinį 24 žaidėjų rinktinės sąrašą serbų vairininkas Dušanas Alimpijevičius buvo įtraukęs 11 Eurolygos krepšininkų."
+   ],
+   "amounts": [
+    "11 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Bahcesehir Koleji",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 13,000,000 €, salary budget 8,600,000 €",
+      "24/25: budget 9,000,000 €, salary budget 5,900,000 €",
+      "player rows: 26/27 (3), 25/26 (1), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "CB San Pablo Burgos",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 5,000,000 €, salary budget 3,000,000 €",
+      "23/24: budget 2,880,000 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Balša Koprivica",
+     "sheet": [
+      "24/25 KK Partizan: 300,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "6ed2450111e0",
+   "url": "https://www.eurohoops.net/en/euroleague/2041004/hapoel-tel-aviv-relocates-team-operations-to-israel-euroleague/",
+   "title": "Hapoel Tel Aviv relocates team operations back to Israel",
+   "site": "Eurohoops EN",
+   "country": "Israel",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Hapoel currently sits at 7–7 in the 2026–27 EuroLeague Regular Season, trailing the Play-In Showdown cutoff by just one win as they chase a postseason berth."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ad2034ead37c",
+   "url": "https://www.eurohoops.net/en/euroleague/2040988/shaquielle-mckissic-nearing-olympiacos-return-euroleague/",
+   "title": "Olympiacos interested in reunion with Shaquielle McKissic",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Wednesday’s appearance in the stands alongside his wife at SUNEL Arena during Round 14 of the 2026–27 EuroLeague Regular Season, following a winning effort opposite Hapoel IBI Tel Aviv , may not have been a coincidence after all.",
+    "Defending continental and domestic championships, the Reds currently sits atop the 2026–27 EuroLeague Regular Season standings at 11–3 and hold fourth place in the Stoiximan GBL Regular Season at 7–1."
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Shaquielle McKissic",
+     "sheet": [
+      "25/26 Olympiacos B.C.: 700,000 €",
+      "24/25 Olympiacos B.C.: 650,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "f8a7741c4942",
    "url": "https://www.sdna.gr/mpasket/1490517_binteo-diasyrei-ton-giorgo-ebriza-monos-moy-mpartzoka-agrammata-moyng-spiti-sas",
