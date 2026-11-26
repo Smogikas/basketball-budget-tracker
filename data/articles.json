@@ -1,19 +1,20 @@
 {
- "updated": "2026-11-26T11:12+00:00",
+ "updated": "2026-11-26T13:38+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
+   "checked": 8,
    "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,6 +23,16 @@
   },
   {
    "site": "BasketNews.com",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "no older pages",
+   "skipped_nba": 1
+  },
+  {
+   "site": "Krepsinis.net",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -30,27 +41,18 @@
    "stop": "no older pages"
   },
   {
-   "site": "Krepsinis.net",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "no older pages"
-  },
-  {
    "site": "15min 24sek",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 7,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -77,7 +79,7 @@
   {
    "site": "Basketfaul",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
@@ -85,7 +87,7 @@
   },
   {
    "site": "Basket Dergisi",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -103,7 +105,7 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 2,
+   "checked": 5,
    "found": 1,
    "error": "",
    "pages": 2,
@@ -112,7 +114,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,8 +123,8 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 7,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -130,16 +132,17 @@
   },
   {
    "site": "Athletiko",
-   "checked": 17,
+   "checked": 26,
    "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 3
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,7 +151,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,16 +160,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
+   "checked": 19,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,8 +178,8 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -184,11 +187,11 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
@@ -202,13 +205,12 @@
   },
   {
    "site": "Marca",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -221,7 +223,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,7 +232,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,35 +241,34 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 5,
-   "found": 1,
+   "checked": 4,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 2
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-20",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Dnevnik.si",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached start date"
-  },
-  {
-   "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-19",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -276,19 +277,19 @@
   },
   {
    "site": "Basketball.hr",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeo"
-  },
-  {
-   "site": "Z Krainy NBA",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Z Krainy NBA",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
@@ -298,7 +299,7 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "no older pages",
    "skipped_nba": 1
   },
@@ -313,8 +314,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 6,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -322,7 +323,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -331,12 +332,13 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "2Playbook ACB",
@@ -385,6 +387,568 @@
   }
  ],
  "items": [
+  {
+   "id": "14a45a64566d",
+   "url": "https://sportando.basketball/napoli-arena-piano-da-400-milioni-e-obiettivo-2029-30-sullo-sfondo-leuroleague/",
+   "title": "Napoli Arena, piano da 400 milioni e obiettivo 2029/30. Sullo sfondo l’EuroLeague - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Secondo il Corriere del Mezzogiorno , il piano complessivo vale circa 400 milioni di euro , di cui 300 per l’impianto , previsto da 12mila posti per il basket e fino a 15mila per altri eventi ."
+   ],
+   "amounts": [
+    "400 milioni"
+   ],
+   "seasons": [
+    "29/30"
+   ],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4081f4f811ed",
+   "url": "https://basketnews.com/news-260272-anadolu-efes-part-ways-with-fatts-russell.html#utm_medium=rss&utm_content=news",
+   "title": "Anadolu Efes guard leaves for Italy",
+   "site": "BasketNews.com",
+   "country": "Turkey",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "In 19 EuroCup appearances, he averaged 19.8 points, 6.2 assists, 3.6 rebounds, and 1.4 steals in fewer than 28 minutes per game, while shooting 47% from 2-point range and 33% from three."
+   ],
+   "amounts": [
+    "19 EuroCup"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e0a4e51a5874",
+   "url": "https://www.pianetabasket.com/euroleague/nervi-tesi-in-casa-hapoel-tel-aviv-oturu-lancia-una-bottiglia-e-colpisce-toppin-in-testa",
+   "title": "Nervi tesi in casa Hapoel Tel Aviv: Oturu lancia una bottiglia e colpisce Toppin in testa",
+   "site": "PianetaBasket",
+   "country": "Israel",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "מיליון",
+    "שקל",
+    "תקציב"
+   ],
+   "snippets": [
+    "ממה שרשום באינטרנט, תקציב הפועל ת\"א הוא 200 מיליון שקל."
+   ],
+   "amounts": [
+    "200 מיליון"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Hapoel Tel Aviv",
+     "country": "Israel",
+     "sheet": [
+      "26/27: budget 70,000,000 €, salary budget 43,700,000 €",
+      "25/26: budget 49,400,000 €, salary budget 31,400,000 €",
+      "24/25: budget 25,000,000 €, salary budget 15,700,000 €",
+      "player rows: 26/27 (22), 25/26 (22), 24/25 (17)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ca6f38e76e1c",
+   "url": "https://basketfaul.com.tr/gundem/itpudisin-cildirdigi-anlar/",
+   "title": "Itoudis'in Çıldırdığı Anlar - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "butce"
+   ],
+   "snippets": [
+    "Euroleague’nin en büyük bütçelerinden birine sahip olmasına karşın 14 haftada 7 mağlubiyet alan Hapoel, son 4 haftada 3 kez kaybetti."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "28d16c7a946a",
+   "url": "https://www.eurohoops.net/en/euroleague/2041044/moses-wright-round-14-mvp-euroleague/",
+   "title": "Milan’s Moses Wright captures back-to-back EuroLeague Round MVP awards",
+   "site": "Eurohoops EN",
+   "country": "France",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "earn",
+    "sum of money"
+   ],
+   "snippets": [
+    "After claiming the Most Valuable Player honors in Round 13 of the 2026–27 EuroLeague Regular Season , Moses Wright earned back-to-back recognition by winning the Round 14 MVP award.",
+    "Another Most Valuable Player of the Round performance by Moses Wright in the 2026–27 EuroLeague Regular Season"
+   ],
+   "amounts": [
+    "27 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "08/09",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Olimpia Milano",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 40,000,000 €, salary budget 25,000,000 €",
+      "25/26: budget 40,511,000 €, salary budget 26,000,000 €",
+      "24/25: budget 38,611,000 €, salary budget 25,230,000 €",
+      "player rows: 26/27 (7), 25/26 (11), 24/25 (5)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Moses Wright",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,400,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "24/25 Olympiacos B.C.: 550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "86b5c0d04be3",
+   "url": "https://www.eurohoops.net/tr/eurocup-tr/2041246/paok-cedi-osmanin-yerine-euroleagueden-transfer-yapti/",
+   "title": "PAOK, Cedi Osman’ın Yerine EuroLeague’den Transfer Yaptı!",
+   "site": "Eurohoops TR",
+   "country": "United Arab Emirates",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "33 yaşındaki oyuncu Valencia , Barcelona ve Dubai ile toplam 88 EuroLeague maçında görev yaptı."
+   ],
+   "amounts": [
+    "88 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Cedi Osman",
+     "sheet": [
+      "26/27 PAOK BC: 3,000,000 €",
+      "25/26 Panathinaikos B.C.: 1,500,000 €",
+      "24/25 Panathinaikos B.C.: 1,600,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "f53b143f5d94",
+   "url": "https://www.athletiko.gr/ki-omos-ayti-einai-i-pagkosmia-athlitiki-omospondia-me-ta-perissotera-meli-118296",
+   "title": "Κι όμως αυτή είναι η παγκόσμια αθλητική ομοσπονδία με τα περισσότερα μέλη | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Υπολογίζεται ότι περίπου 250 εκατομμύρια άνθρωποι παγκοσμίως ασχολούνται με κάποια μορφή του βόλεϊ, ενώ έχουν καταγραφεί 57 διαφορετικές παραλλαγές του αθλήματος."
+   ],
+   "amounts": [
+    "250 εκατομμύρια"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "5485c7bd7afa",
+   "url": "https://www.athletiko.gr/o-panathinaikos-ekane-prasino-to-gta-6-sloykas-kai-cheiz-nteivis-mpikan-ston-kosmo-toy-dimofiloys-videogame-video-118297",
+   "title": "Ο Παναθηναϊκός έκανε... πράσινο το GTA 6: Σλούκας και Χέιζ-Ντέιβις μπήκαν στον κόσμο του δημοφιλούς videogame (video) | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "Η κυκλοφορία του GTA 6 αποτελεί ένα από τα μεγαλύτερα γεγονότα στον χώρο του gaming , με εκατομμύρια φίλους της σειράς να εξερευνούν τον κόσμο της Leonida και να δημιουργούν τις δικές τους ιστορίες μέσα στο παιχνίδι"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f0ef856ad3b5",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/africko-cudo-zaludelo-evroligu-pre-dve-godine-igrao-u-ruandi-a-sada-na-meti-zeljka-reala-fenera/559740",
+   "title": "Afričko čudo zaludelo Evroligu: Pre dve godine igrao u Ruandi, a sada na meti Željka, Reala, Fenera... | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Turkey",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Jasno je svima daje trenutna cena za koju Dijara igra (400.000 evra) sića i da je ono što pruža daleko iznad te brojke.",
+    "Na kraju, svaka čast Virtusu koja je u Africi prepoznala nebrušeni dijamant i načinila od potpunog anonimusa jednog od najboljih centara Evrvolige i to za \"samo\" 400.000 evra."
+   ],
+   "amounts": [
+    "400.000 evra"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "001d0c9e03e0",
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261126/1004255830/ex-barca-abandona-dubai-firmar-millonario-contrato-paok.html",
+   "title": "Un ex del Barça abandona el Dubai para firmar un millonario contrato con el PAOK",
+   "site": "Mundo Deportivo",
+   "country": "Italy",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon"
+   ],
+   "snippets": [
+    "A falta de confirmación oficial por parte de ambos clubs, el alero estadounidense Justin Anderson (33 años y 1,98 metros), que jugó en el Barça la temporada 2024-25, abandonará, con efecto inmediato, el Dubai Basketball para firmar un millonario contrato  con el PAOK de Salónica griego."
+   ],
+   "amounts": [],
+   "seasons": [
+    "24/25",
+    "27/28",
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Andrea Costa Imola",
+     "country": "Italy",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 11/12 (1), 10/11 (1)"
+     ]
+    },
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Andrea Trinchieri",
+     "sheet": [
+      "26/27 PAOK BC: 1,000,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "22/23 Bayern Munich: 750,000 €",
+      "21/22 Bayern Munich: 725,000 €"
+     ]
+    },
+    {
+     "name": "Justin Anderson",
+     "sheet": [
+      "25/26 Dubai Basketball: 1,000,000 €",
+      "24/25 FC Barcelona Basquet: 665,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "36cec4797e38",
+   "url": "https://basketballsphere.com/en/daron-russell-anadolu-efes-departure/",
+   "title": "Anadolu Efes part ways with Daron Russell after brief spell",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "He finished the 2025/26 EuroCup season as the competition’s leading scorer, averaging 19.8 points, 6.2 assists and 3.6 rebounds per game."
+   ],
+   "amounts": [
+    "26 EuroCup"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26",
+    "22/23"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "U-BT Cluj - Napoca",
+     "country": "Romania",
+     "sheet": [
+      "26/27: budget 6,000,000 €, salary budget 3,600,000 €",
+      "25/26: budget 5,500,000 €, salary budget 3,300,000 €",
+      "24/25: budget 4,500,000 €, salary budget 2,500,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "831a3d861f36",
+   "url": "https://basketballsphere.com/en/juhann-begarin-asvel-contract-season/",
+   "title": "Asvel keep Juhann Begarin until the end of the season",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "During the 2025/26 campaign, he made 23 EuroLeague appearances, averaging 4.6 points and 2.3 rebounds per game."
+   ],
+   "amounts": [
+    "23 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "AS Monaco Basket",
+     "country": "France",
+     "sheet": [
+      "25/26: budget 38,715,000 €, salary budget 20,134,000 €",
+      "24/25: budget 29,375,000 €, salary budget 14,747,000 €",
+      "23/24: budget 27,511,000 €, salary budget 13,099,500 €",
+      "player rows: 25/26 (16), 24/25 (16), 23/24 (14)"
+     ]
+    },
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Juhann Begarin",
+     "sheet": [
+      "26/27 ASVEL Basket: 200,000 €",
+      "25/26 AS Monaco Basket: 275,000 €",
+      "24/25 AS Monaco Basket: 225,000 €",
+      "23/24 Nanterre 92: 145,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4c01c1661b10",
+   "url": "https://sports.walla.co.il/item/3877742",
+   "title": "ההפסד של הפועל לא מדאיג, הקריסה היא הבעיה | הטור של דבורין - וואלה ספורט",
+   "site": "Walla Sport",
+   "country": "Israel",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "שקל"
+   ],
+   "snippets": [
+    "לכן גם 17 הנקודות שקלע וויינרייט לזכות הפועל, ולצידו מיציץ' עם 16, ובלייקני עם 15, לא הספיקו נוכח ההצגה של שלושת כוכבי פיראוס, סשה וזנקוב, קורי ג'וזף ואוון פורנייה."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "a5a886a17ae5",
    "url": "https://sportando.basketball/virtus-bologna-quattro-big-di-euroleague-su-aliou-darra/",
