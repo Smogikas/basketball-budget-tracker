@@ -1,38 +1,18 @@
 {
- "updated": "2026-11-26T13:38+00:00",
+ "updated": "2026-11-26T15:20+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 1,
+   "checked": 5,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "no older pages"
-  },
-  {
-   "site": "BasketNews.com",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "no older pages",
-   "skipped_nba": 1
-  },
-  {
-   "site": "Krepsinis.net",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -41,18 +21,36 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
+   "site": "BasketNews.com",
    "checked": 0,
+   "found": 0,
+   "error": "HTTP 403 for https://basketnews.com/news/rss",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTP 403 for https://basketnews.com/news/rss"
+  },
+  {
+   "site": "Krepsinis.net",
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
+   "checked": 2,
+   "found": 1,
+   "error": "",
+   "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-10",
@@ -69,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -78,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -105,44 +103,43 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 5,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 26,
-   "found": 2,
+   "checked": 11,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 3
+   "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 12,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -151,7 +148,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -160,15 +157,6 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 19,
-   "found": 0,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -177,9 +165,18 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Telesport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
+  },
+  {
    "site": "Mozzart Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -187,8 +184,8 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -196,7 +193,7 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -205,21 +202,21 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
@@ -227,12 +224,12 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-19",
+   "oldest": "2026-11-20",
    "stop": "reached start date"
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -241,30 +238,30 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 4,
-   "found": 2,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-20",
    "stop": "reached articles checked before"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 3,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-19",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
@@ -286,26 +283,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-24",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 12,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -314,8 +310,8 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 5,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -332,13 +328,12 @@
   },
   {
    "site": "Gigantes",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
@@ -387,6 +382,147 @@
   }
  ],
  "items": [
+  {
+   "id": "c39f49245ab0",
+   "url": "https://www.15min.lt/24sek/naujiena/lietuva/brazdeikis-stojo-ginti-eurolygos-zaideju-tai-nera-sazininga-875-2815324?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Brazdeikis stojo ginti Eurolygos žaidėjų: „Tai nėra sąžininga“",
+   "site": "15min 24sek",
+   "country": "Lithuania",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Pirmosiose rudens „lango“ rungtynėse Dainiaus Adomaičio auklėtiniai versis su 3 Eurolygos žaidėjais: Dovydu Giedraičiu, Deividu Sirvydžiu ir Mareku Blaževičiumi."
+   ],
+   "amounts": [
+    "3 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Kauno Baltai",
+     "country": "Lithuania",
+     "sheet": [
+      "10/11: budget 173,772 €",
+      "09/10: budget 130,329 €",
+      "08/09: budget 347,544 €"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6de19ee22674",
+   "url": "https://meridiansport.rs/kosarka/iako-grad-prica-drugacije-litvanci-spremaju-vrelu-atmosferu-za-srbiju/",
+   "title": "Iako grad priča drugačije, Litvanci spremaju vrelu atmosferu za Srbiju",
+   "site": "Meridian Sport",
+   "country": "Serbia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "hiljad"
+   ],
+   "snippets": [
+    "Sve je rasprodato i dvorana Neptunasa će biti ispunjena do poslednjeg mesta, što znači da će u hali biti više od pet hiljada ljudi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4aeffbbabee0",
+   "url": "https://www.dnevnik.si/novice/slovenija/vlada-za-pomoc-kmetom-zaradi-letosnje-toce-zagotovila-3-1-milijona-evrov-2843516/",
+   "title": "Vlada za pomoč kmetom zaradi letošnje toče zagotovila 3,1 milijona evrov",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Za pomoč prizadetim kmetijskim gospodarstvom bo iz državnega proračuna zagotovljenih do 3,1 milijona evrov, so po"
+   ],
+   "amounts": [
+    "3,1 milijona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "38322b98b22d",
+   "url": "https://www.dnevnik.si/novice/svet/moskva-kritizira-proracun-eu-to-ni-denar-za-mir-2843515/",
+   "title": "Moskva kritizira proračun EU: \"To ni denar za mir\"",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "proracun"
+   ],
+   "snippets": [
+    "Moskva je danes kritizirala načrtovani sedemletni proračun EU in zatrdila, da gre za financiranje vojne v Ukrajini in ne miru.",
+    "Z razpravo o \"še enem znatnem znesku\", ki naj bi bil v okviru pogajanj o dolgoročnem proračunu EU za obdobje 2028-2034 namenjen Ukrajini, si Bruselj \"prizadeva financirati vojno\", je v Moskvi dejal Peskov.",
+    "Finančna podpora Ukrajini, vključena v evropski sedemletni proračun, pomeni, da bodo imeli državljani držav EU v svojih žepih manj denarja, je opozoril Peskov, pri čemer je izrecno omenil državljane Francije, Italije in Nemčije, poroča nemška tiskovna agencija dpa."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6bedca46853d",
+   "url": "https://www.dnevnik.si/novice/slovenija/javni-sklad-za-napredno-zdravljenje-redkih-bolezni-uradno-zacel-delovati-2843513/",
+   "title": "Javni sklad za napredno zdravljenje redkih bolezni uradno začel delovati",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Država je za ustanovitev javnega sklada zagotovila 10 milijonov evrov namenskega premoženja, s čimer so postavljeni finančni temelji za njegovo delovanje, so zapisali."
+   ],
+   "amounts": [
+    "10 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "14a45a64566d",
    "url": "https://sportando.basketball/napoli-arena-piano-da-400-milioni-e-obiettivo-2029-30-sullo-sfondo-leuroleague/",
