@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26T09:28+00:00",
+ "updated": "2026-11-26T11:12+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 10,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -13,8 +13,8 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -31,17 +31,17 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 8,
-   "found": 1,
+   "checked": 4,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-26",
    "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
@@ -49,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -104,7 +104,7 @@
   {
    "site": "Eurohoops EN",
    "checked": 2,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-25",
@@ -121,24 +121,6 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 12,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 7,
    "found": 0,
    "error": "",
@@ -147,9 +129,27 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Athletiko",
+   "checked": 17,
+   "found": 2,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 5,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Sport24",
-   "checked": 4,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -157,16 +157,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +175,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,16 +184,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -202,25 +202,26 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 1,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-21",
+   "oldest": "2026-11-22",
    "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +230,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,25 +239,26 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before",
+   "skipped_gambling": 2
   },
   {
    "site": "Basket.zoznam.sk",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='basket.zoznam.sk', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='basket.zoznam.sk', port=443): Read timed out. (read ti"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-19",
+   "stop": "reached start date"
   },
   {
    "site": "Dnevnik.si",
-   "checked": 5,
+   "checked": 4,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -266,7 +268,7 @@
   {
    "site": "Ekipa Svet24",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -276,10 +278,10 @@
    "site": "Basketball.hr",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
+   "error": "HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
    "oldest": "",
-   "stop": "reached articles checked before"
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketball.hr', port=443): Read timed out. (read timeo"
   },
   {
    "site": "Z Krainy NBA",
@@ -297,11 +299,12 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
-   "checked": 13,
+   "checked": 12,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -319,7 +322,7 @@
   },
   {
    "site": "El Correo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +385,285 @@
   }
  ],
  "items": [
+  {
+   "id": "a5a886a17ae5",
+   "url": "https://sportando.basketball/virtus-bologna-quattro-big-di-euroleague-su-aliou-darra/",
+   "title": "Virtus Bologna, quattro big di EuroLeague su Aliou Darra - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro"
+   ],
+   "snippets": [
+    "Diarra ha un contratto da poco meno di 400mila euro, in scadenza a fine annata ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "2d96f37df0fd",
+   "url": "https://www.eurohoops.net/en/eurocup/2041207/justin-anderson-to-sign-with-paok-eurocup/",
+   "title": "Justin Anderson is leaving Dubai to ink blockbuster PAOK deal",
+   "site": "Eurohoops EN",
+   "country": "United Arab Emirates",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Over that span, he logged 88 EuroLeague appearances with Valencia , FC Barcelona, and Dubai.",
+    "The two-year agreement with Anderson also fits the club’s broader plans, since they are set to enter the 2027–28 EuroLeague among the new franchises in a planned expansion ."
+   ],
+   "amounts": [
+    "88 EuroLeague",
+    "28 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "27/28"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Valencia Basket",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 38,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 35,000,000 €, salary budget 19,000,000 €",
+      "24/25: budget 26,950,000 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (3), 24/25 (4)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Justin Anderson",
+     "sheet": [
+      "25/26 Dubai Basketball: 1,000,000 €",
+      "24/25 FC Barcelona Basquet: 665,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "002b95d320a1",
+   "url": "https://www.athletiko.gr/poios-einai-o-anterson-poy-tha-ginei-o-pio-akrivopliromenos-paiktis-toy-paok-meta-ton-osman-118273",
+   "title": "Ποιος είναι ο Αντερσον που θα γίνει ο πιο ακριβοπληρωμένος παίκτης του ΠΑΟΚ μετά τον Οσμάν | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Αυτή τη σεζόν εκπροσώπησε την Dubai BC, αλλά αφήνει τα Ηνωμένα Αραβικά Εμιράτα και υπογράφει 18μηνο συμβόλαιο με τους «ασπρόμαυρους», έναντι ενός ποσού που θα ξεπεράσει τα τρία εκατομμύρια ευρώ!"
+   ],
+   "amounts": [],
+   "seasons": [
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "ddef8b783d56",
+   "url": "https://www.athletiko.gr/epanilthe-kai-kleinei-anterson-o-paok-stin-ellada-eos-to-savvato-118264",
+   "title": "Επανήλθε και κλείνει Άντερσον ο ΠΑΟΚ - Στην Ελλάδα έως το Σάββατο | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Μάλιστα, σύμφωνα με πληροφορίες, οι απολαβές του θα ξεπεράσουν συνολικά τα τρία εκατομμύρια ευρώ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "11b87b954635",
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261126/1004255729/moses-wright-pivot-descarto-barca-repite-mvp-jornada-euroliga.html",
+   "title": "Moses Wright, el pívot que descartó al Barça, repite como MVP de la jornada en la Euroliga",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Pero todo cambió en el mes de julio, cuando sorprendiendo a propios y extraños, Wright anunció que ejecutaba un cláusula presente en su contrato para rescindir su acuerdo con el Barça, previo pago de unos 900.000 euros y fichar por el Armani Milán italiano, equipo con el que, tras un arranque muy…"
+   ],
+   "amounts": [
+    "900.000 euros"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Moses Wright",
+     "sheet": [
+      "26/27 Olimpia Milano: 2,400,000 €",
+      "25/26 Žalgiris Kaunas: 1,000,000 €",
+      "24/25 Olympiacos B.C.: 550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "ea5a1257298a",
+   "url": "https://basketballsphere.com/en/euroleague-players-who-disappointed-this-season-part-2/",
+   "title": "Three EuroLeague players who have disappointed this season",
+   "site": "Basketball Sphere",
+   "country": "",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Jaylen Hoard, McKinley Wright and Andreas Obst have struggled to replicate their 2025/26 EuroLeague performances."
+   ],
+   "amounts": [
+    "26 EuroLeague"
+   ],
+   "seasons": [
+    "25/26",
+    "26/27"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Andreas Obst",
+     "sheet": [
+      "26/27 Bayern Munich: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Jaylen Hoard",
+     "sheet": [
+      "26/27 Maccabi Tel Aviv: 1,584,000 €",
+      "25/26 Maccabi Tel Aviv: 935,000 €",
+      "24/25 Maccabi Tel Aviv: 368,000 €",
+      "23/24 Hapoel Tel Aviv: 162,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "e6c7c9f6b17f",
+   "url": "https://www.dnevnik.si/novice/svet/vucic-po-aretaciji-sefa-informerja-ubili-me-bodo-ne-prenesejo-me-2843436/",
+   "title": "Vučić po aretaciji šefa Informerja: »Ubili me bodo, ne prenesejo me«",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-26",
+   "found": "2026-11-26",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "milijon"
+   ],
+   "snippets": [
+    "Trdil je, da bo zaradi tega na ulice Srbije prišlo milijon ljudi."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "a08eda3602c0",
    "url": "https://www.basketnews.lt/news-260264-ar-lietuva-atgaivins-viltis-patekti-i-pasaulio-cempionata-pateik-savo-spejima-ir-laimek-prizus.html#utm_medium=rss&utm_content=news",
