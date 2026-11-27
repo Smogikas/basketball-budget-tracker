@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T13:34+00:00",
+ "updated": "2026-11-27T15:14+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 7,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -13,22 +13,21 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 2,
    "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
+   "oldest": "2026-11-27",
    "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
@@ -41,8 +40,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,21 +67,21 @@
   },
   {
    "site": "Sport5",
+   "checked": 3,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basketfaul",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -104,17 +103,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 3,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -122,26 +121,26 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Athletiko",
-   "checked": 23,
+   "checked": 15,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
-   "stop": "reached articles checked before",
-   "skipped_gambling": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 9,
+   "checked": 8,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -150,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -159,7 +158,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 3,
@@ -168,17 +167,17 @@
   },
   {
    "site": "Telesport",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -186,10 +185,10 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -213,16 +212,16 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -231,7 +230,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -249,10 +248,10 @@
   },
   {
    "site": "Basket.zoznam.sk",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-23",
    "stop": "reached articles checked before"
   },
@@ -267,12 +266,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
@@ -285,25 +284,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 17,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -312,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -339,11 +338,11 @@
   },
   {
    "site": "2Playbook ACB",
-   "checked": 2,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -384,6 +383,244 @@
   }
  ],
  "items": [
+  {
+   "id": "2e9831216bed",
+   "url": "https://sportando.basketball/su-lbatv-e-disponibile-la-nuova-puntata-di-unlocker-room-tema-italbasket-e-crescita-dei-giovani/",
+   "title": "Su LBATV è disponibile la nuova puntata di \"Unlocker Room\": tema Italbasket e crescita dei giovani - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Moderata da Alessandro Mamoli, la discussione ha coinvolto in questa occasione gli ospiti Andrea Bargnani (LBA Executive Advisor, 3 Europei e 1137 punti in azzurro), Davide Lamma (Color di LBATV, bronzo agli Europei 2003) e Alessandro Abbio (ex di Auxilium Torino e Virtus Bologna, campione d’Euro…"
+   ],
+   "amounts": [
+    "3 Europei"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Andrea Costa Imola",
+     "country": "Italy",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 11/12 (1), 10/11 (1)"
+     ]
+    },
+    {
+     "name": "Auxilium Pallacanestro Torino",
+     "country": "Italy",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 17/18 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b39f32fa72b5",
+   "url": "https://www.basketnews.lt/news-260325-motiejunas-ir-okmanas-paaiskino-kodel-isigijo-joventut.html#utm_medium=rss&utm_content=news",
+   "title": "Motiejūnas ir Okmanas paaiškino, kodėl įsigijo „Joventut“",
+   "site": "BasketNews.lt",
+   "country": "Spain",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Klubas pagal koncesijos sutartį valdo legendinę 12,7 tūkst."
+   ],
+   "amounts": [
+    "12,7 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "26d78a738039",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/oficialu-zalgirio-ir-tesonet-imone-isigijo-zymu-ispanijos-kluba-874-2816402?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Oficialu: „Žalgirio“ ir „Tesonet“ įmonė įsigijo žymų Ispanijos klubą",
+   "site": "15min 24sek",
+   "country": "Spain",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Klubas pagal koncesijos sutartį valdo legendinę 12,7 tūkst."
+   ],
+   "amounts": [
+    "12,7 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "Coachella Valley Lakers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    },
+    {
+     "name": "FC Barcelona Basquet",
+     "country": "Spain",
+     "sheet": [
+      "26/27: budget 45,000,000 €, salary budget 36,000,000 €",
+      "25/26: budget 37,787,000 €, salary budget 28,862,000 €",
+      "24/25: budget 41,717,000 €, salary budget 31,602,000 €",
+      "player rows: 26/27 (4), 25/26 (2), 24/25 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Nicolas Laprovittola",
+     "sheet": [
+      "24/25 FC Barcelona Basquet: 1,150,000 €",
+      "19/20 Real Madrid Baloncesto: 1,500,000 €",
+      "15/16 Rytas Vilnius: 200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "04fb0ccfa6ba",
+   "url": "https://www.eurohoops.net/el/euroleague-el-2/2041840/ethniki-panathinaikos-thlasi-o-mitoglou-off-ki-o-kalaitzakis-me-diastremma/",
+   "title": "Εθνική & Παναθηναϊκός: Θλάση ο Μήτογλου, “off” κι ο Καλαϊτζάκης με διάστρεμμα",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω"
+   ],
+   "snippets": [
+    "Ο “Κάλα” είναι ο μόνος με πιθανότητες να προλάβει το τζάμπολ, ενώ ο “Dinos” δεν αναμένεται να έχει επανέλθει ούτε μέχρι το ευρω-ντέρμπι με Ολυμπιακό (11/12, 21:15) στο ΟΑΚΑ."
+   ],
+   "amounts": [],
+   "seasons": [
+    "11/12"
+   ],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f39fe9aa41ac",
+   "url": "https://www.eurohoops.net/tr/fiba-world-cup-tr/2041862/dusan-alimpijevic-ve-sirbistana-euroleagueden-10-kisilik-takviye/",
+   "title": "Dusan Alimpijevic ve Sırbistan’a EuroLeague’den 10 Kişilik Takviye!",
+   "site": "Eurohoops TR",
+   "country": "Turkey",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Sırbistan Basketbol Federasyonu, bu karşılaşmada 10 EuroLeague oyuncusunun forma giyebileceğini resmen duyurdu."
+   ],
+   "amounts": [
+    "10 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "52de8ff76e0e",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/iako-je-legenda-drejmond-nije-siguran-u-voriorsima/559845",
+   "title": "Iako je legenda, Drejmond nije siguran u Voriorsima | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Salary",
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "milion",
+    "sum of money",
+    "zaraduje"
+   ],
+   "snippets": [
+    "Grin trenutno zarađuje približno 27,7 miliona dolara u poslednjoj godini ugovora."
+   ],
+   "amounts": [
+    "27,7 miliona"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "b9df45cf2bca",
    "url": "https://www.basketnews.lt/news-260323-ziemelis-reze-tiesiai-del-nesumoketu-wolves-algu-kaltina-pacius-legionierius.html#utm_medium=rss&utm_content=news",
