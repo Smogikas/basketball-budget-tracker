@@ -1,16 +1,15 @@
 {
- "updated": "2026-11-27T19:15+00:00",
+ "updated": "2026-11-27T21:11+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
+   "checked": 10,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-27",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
@@ -28,22 +27,21 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages",
-   "skipped_nba": 2
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
+   "oldest": "2026-11-27",
    "stop": "no older pages"
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -51,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 9,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -69,20 +67,20 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 1,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
    "stop": "no older pages"
   },
   {
@@ -105,18 +103,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 4,
+   "checked": 1,
    "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 5,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -124,17 +121,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 26,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -142,8 +139,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 9,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -151,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
-   "found": 0,
+   "checked": 7,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -160,25 +157,25 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 8,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-26",
+   "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -187,16 +184,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -205,16 +202,16 @@
   },
   {
    "site": "Marca",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -223,7 +220,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -232,21 +229,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 5,
+   "found": 3,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -259,21 +256,21 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-20",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
+   "oldest": "2026-11-20",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Ekipa Svet24",
+   "checked": 2,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -286,25 +283,26 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-23",
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -313,11 +311,11 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
+   "oldest": "2021-01-13",
    "stop": "no older pages"
   },
   {
@@ -385,6 +383,636 @@
   }
  ],
  "items": [
+  {
+   "id": "7052c2aae2b2",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/didziule-geda-zinia-del-rungtyniu-su-lietuva-sokiravo-bosniu-zvaigzde-874-2816522?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "„Didžiulė gėda“: žinia dėl rungtynių su Lietuva šokiravo bosnių žvaigždę",
+   "site": "15min 24sek",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "To priežastis – iš FIBA gautas netikėtas prašymas susimokėti 36 tūkst.",
+    "konvertuojamųjų markių (18,4 tūkst.",
+    "eurų) už krepšininko draudimą."
+   ],
+   "amounts": [
+    "36 tūkst",
+    "18,4 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e5c61f73b2c4",
+   "url": "https://basketfaul.com.tr/milli-takimlar/erkek-milli-takimlar/a-milli-erkek-milli-takimlar/bosna-dzanan-musayi-sigorta-bedeli-yuzunden-oynatamiyor/",
+   "title": "Bosna, Dzanan Musa'yı Sigorta Bedeli Yüzünden Oynatamıyor - Basketfaul",
+   "site": "Basketfaul",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "dolar",
+    "euro",
+    "milyon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bosna Hersek Basketbol Federasyonu Genel Sekreteri Cevat Alihodzic, Dzanan Musa’nın oynayabilmesi için 18 bin 400 euroluk sigorta ödemesi yapmaları gerektiğini ancak olanaklarının buna izin vermediğini söyledi.",
+    "Talep, Dzanan Musa’nın sigortası için 18 bin 400 euro ödenmesi gerektiğiyle ilgili.",
+    "Basketfaul’un notu: Alman Dirk Nowitzki yıllarca milli takımda oynamak için 1 milyon doları bulan sigorta bedelini cebinden karşılamıştı."
+   ],
+   "amounts": [
+    "18 bin",
+    "400 euroluk",
+    "400 euro",
+    "1 milyon"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Bosna Royal",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 4,000,000 €, salary budget 2,800,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,800,000 €",
+      "24/25: budget 850,000 €",
+      "player rows: 09/10 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "6744288ec750",
+   "url": "https://www.eurohoops.net/en/euroleague/2042044/panathinaikos-has-filed-two-complaints-against-olympiacos-and-bartzokas/",
+   "title": "Panathinaikos has filed two complaints against Olympiacos and Bartzokas",
+   "site": "Eurohoops EN",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euros",
+    "sum of money"
+   ],
+   "snippets": [
+    "Simultaneously, a complaint was filed with the Judicial Body of the Greek League, seeking disciplinary action against Olympiacos for “targeting judicial authorities,” and against Georgios Bartzokas for his comments following the match against Hapoel regarding the 50,000 euros fine he received fro…"
+   ],
+   "amounts": [
+    "50,000 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Olympiacos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 48,000,000 €, salary budget 35,060,000 €",
+      "25/26: budget 44,000,000 €, salary budget 32,600,000 €",
+      "24/25: budget 39,480,000 €, salary budget 29,000,000 €",
+      "player rows: 26/27 (17), 25/26 (19), 24/25 (18)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Georgios Bartzokas",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,000,000 €",
+      "25/26 Olympiacos B.C.: 1,100,000 €",
+      "24/25 Olympiacos B.C.: 900,000 €",
+      "15/16 Lokomotiv Kuban: 550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "ffbe0b8388f8",
+   "url": "https://www.eurohoops.net/el/nba-news-el/2042025/aivazoglou-gia-nba-europe-sigoura-tha-anakinosoume-omades-stis-arches-tou-2027/",
+   "title": "Αϊβάζογλου για NBA Europe: “Σίγουρα θα ανακοινώσουμε ομάδες στις αρχές του 2027”",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω"
+   ],
+   "snippets": [
+    "Όσον αφορά στο ότι το NBA σκοπεύει να επενδύσει 10 δισεκατομμύρια ευρώ για ανακατασκευή και ανακαίνιση αθλητικών εγκαταστάσεων σε όλη την Ευρώπη , εξήγησε: « Η ιδέα βασίζεται σε δύο θεμελιώδεις αρχές."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "d2d2c490563d",
+   "url": "https://www.athletiko.gr/o-ntegian-mpontirogka-paraitithike-apo-tin-voyleytiki-toy-idiotita-sti-servia-118686",
+   "title": "Ο Ντέγιαν Μποντιρόγκα παραιτήθηκε από τη βουλευτική του ιδιότητα στη Σερβία | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ωστόσο, αμέσως μετά την αποδοχή της υποψηφιότητάς μου, ενημέρωσα το Κίνημα πως, λόγω των πολυάριθμων υποχρεώσεών μου, δεν θα μπορούσα να αναλάβω τα κοινοβουλευτικά μου καθήκοντα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "ae1a173e0d4b",
+   "url": "https://www.sdna.gr/mpasket/1491116_paraitithike-apo-ti-boyleytiki-toy-idiotita-o-mpontirogka-i-epistoli-toy",
+   "title": "Παραιτήθηκε από τη βουλευτική του ιδιότητα ο Μποντιρόγκα - Η επιστολή του",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ωστόσο, αμέσως μετά την αποδοχή της υποψηφιότητάς μου, ενημέρωσα το Κίνημα πως, λόγω των πολυάριθμων υποχρεώσεών μου, δεν θα μπορούσα να αναλάβω τα κοινοβουλευτικά μου καθήκοντα."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "a8059295724d",
+   "url": "https://www.sport24.gr/basket/paraitithike-apo-ti-vouleftiki-tou-idiotita-o-bontirogka/",
+   "title": "Παραιτήθηκε από τη βουλευτική του ιδιότητα ο Μποντιρόγκα",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budzet",
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ωστόσο, αμέσως μετά την αποδοχή της υποψηφιότητάς μου, ενημέρωσα το Κίνημα πως, λόγω των πολυάριθμων υποχρεώσεών μου, δεν θα μπορούσα να αναλάβω τα κοινοβουλευτικά μου καθήκοντα.",
+    "Odbor za administrativno-budžetska i mandatno-imunitetska pitanja u ponedeljak će održati drugu sednicu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d78c1719a9bc",
+   "url": "https://www.gazzetta.gr/basketball/2590409/mpontirogka-giati-paraitithike-tis-boyleytikis-toy-idiotitas",
+   "title": "Ο Μποντιρόγκα αποφάσισε να παραιτηθεί των βουλευτικών του καθηκόντων, μετά την ορκομωσία του",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget",
+    "Salary"
+   ],
+   "keywords": [
+    "budzet",
+    "αποδοχ"
+   ],
+   "snippets": [
+    "Ωστόσο, αμέσως μετά την αποδοχή της υποψηφιότητάς μου, ενημέρωσα το Κίνημα πως, λόγω των πολυάριθμων υποχρεώσεών μου, δεν θα μπορούσα να αναλάβω τα κοινοβουλευτικά μου καθήκοντα.",
+    "Odbor za administrativno-budžetska i mandatno-imunitetska pitanja u ponedeljak će održati drugu sednicu."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "51a4ea454666",
+   "url": "https://telesport.rs/2026/11/27/musa-2/",
+   "title": "Musa zbog 18.400 evra propušta odlučujuću utakmicu!? - Telesport",
+   "site": "Telesport",
+   "country": "Serbia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evra",
+    "sum of money"
+   ],
+   "snippets": [
+    "Košarkaški savez Bosne i Hercegovine nije u mogućnosti da izdvoji 36.000 konvertibilnih maraka, odnosno oko 18.400 evra , koliko FIBA zahteva za osiguranje košarkaša Dubaija."
+   ],
+   "amounts": [
+    "18.400 evra"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4966be456512",
+   "url": "https://basketballsphere.com/en/euroleague-all-time-foreign-born-scoring-leaders/",
+   "title": "EuroLeague all-time foreign-born scoring leaders: All 20 clubs",
+   "site": "Basketball Sphere",
+   "country": "Turkey",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Shane Larkin leads Anadolu Efes with 3,395 points in 226 EuroLeague appearances.",
+    "Vladimir Lucic has scored 2,161 points in 216 EuroLeague games for Bayern , making him the club’s leading foreign-born scorer.",
+    "All of his points came during Besiktas’ 2012/13 EuroLeague campaign."
+   ],
+   "amounts": [
+    "226 EuroLeague",
+    "216 EuroLeague",
+    "13 EuroLeague",
+    "74 EuroLeague",
+    "222 EuroLeague",
+    "162 EuroLeague",
+    "254 EuroLeague",
+    "204 EuroLeague"
+   ],
+   "seasons": [
+    "26/27",
+    "00/01",
+    "22/23",
+    "12/13",
+    "24/25"
+   ],
+   "teams": [
+    {
+     "name": "Anadolu Efes S.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 46,000,000 €, salary budget 31,000,000 €",
+      "24/25: budget 34,500,000 €, salary budget 23,000,000 €",
+      "player rows: 26/27 (5), 25/26 (7), 24/25 (3)"
+     ]
+    },
+    {
+     "name": "Bayern Munich",
+     "country": "Germany",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 48,420,000 €, salary budget 18,030,000 €",
+      "24/25: budget 46,266,939 €, salary budget 22,915,705 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (2)"
+     ]
+    },
+    {
+     "name": "Besiktas J.K.",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 20,000,000 €, salary budget 13,000,000 €",
+      "25/26: budget 10,260,000 €, salary budget 6,410,000 €",
+      "24/25: budget 5,800,000 €, salary budget 4,000,000 €",
+      "player rows: 26/27 (1), 25/26 (3), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Fenerbahce Istanbul",
+     "country": "Turkey",
+     "sheet": [
+      "26/27: budget 47,700,000 €, salary budget 30,000,000 €",
+      "25/26: budget 39,800,000 €, salary budget 27,000,000 €",
+      "24/25: budget 33,500,000 €, salary budget 22,000,000 €",
+      "player rows: 27/28 (1), 26/27 (10), 25/26 (16)"
+     ]
+    },
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Codi Miller - McIntyre",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 2,500,000 €",
+      "25/26 KK Crvena zvezda: 1,360,000 €",
+      "24/25 KK Crvena zvezda: 1,288,000 €"
+     ]
+    },
+    {
+     "name": "Jan Vesely",
+     "sheet": [
+      "24/25 FC Barcelona Basquet: 1,150,000 €",
+      "22/23 FC Barcelona Basquet: 1,800,000 €",
+      "21/22 Fenerbahce Istanbul: 1,955,000 €",
+      "20/21 Fenerbahce Istanbul: 1,914,000 €"
+     ]
+    },
+    {
+     "name": "Kevin Punter",
+     "sheet": [
+      "25/26 FC Barcelona Basquet: 2,220,000 €",
+      "24/25 FC Barcelona Basquet: 2,300,000 €",
+      "23/24 KK Partizan: 2,366,000 €",
+      "22/23 KK Partizan: 1,500,000 €"
+     ]
+    },
+    {
+     "name": "Mike Batiste",
+     "sheet": [
+      "11/12 Panathinaikos B.C.: 1,900,000 €",
+      "09/10 Panathinaikos B.C.: 1,700,000 €",
+      "08/09 Panathinaikos B.C.: 1,666,667 €",
+      "07/08 Panathinaikos B.C.: 1,600,000 €"
+     ]
+    },
+    {
+     "name": "Sasha Vezenkov",
+     "sheet": [
+      "26/27 Olympiacos B.C.: 3,696,000 €",
+      "25/26 Olympiacos B.C.: 3,700,000 €",
+      "24/25 Olympiacos B.C.: 3,800,000 €",
+      "21/22 Olympiacos B.C.: 900,000 €"
+     ]
+    },
+    {
+     "name": "Shane Larkin",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 2,640,000 €",
+      "25/26 Anadolu Efes S.K.: 3,700,000 €",
+      "24/25 Anadolu Efes S.K.: 3,600,000 €",
+      "23/24 Anadolu Efes S.K.: 3,600,000 €"
+     ]
+    },
+    {
+     "name": "Shavon Shields",
+     "sheet": [
+      "26/27 Fenerbahce Istanbul: 1,408,000 €",
+      "25/26 Olimpia Milano: 1,500,000 €",
+      "24/25 Olimpia Milano: 1,200,000 €"
+     ]
+    },
+    {
+     "name": "Sylvain Francisco",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 3,520,000 €",
+      "25/26 Žalgiris Kaunas: 1,100,000 €",
+      "24/25 Žalgiris Kaunas: 530,000 €",
+      "22/23 Peristeri B.C.: 200,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "85ef37482692",
+   "url": "https://basketballsphere.com/en/sylvain-francisco-panathinaikos-zalgiris-asvel/",
+   "title": "Sylvain Francisco reveals why Panathinaikos was not his first choice",
+   "site": "Basketball Sphere",
+   "country": "France",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "sum of money"
+   ],
+   "snippets": [
+    "Asvel’s budget was subsequently significantly reduced, and Francisco eventually signed a three-year contract with Panathinaikos, bringing his offseason to an unexpected conclusion.",
+    "Through 14 EuroLeague rounds, Francisco is averaging 12.5 points, 2.4 rebounds and 4.5 assists per game."
+   ],
+   "amounts": [
+    "14 EuroLeague"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sylvain Francisco",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 3,520,000 €",
+      "25/26 Žalgiris Kaunas: 1,100,000 €",
+      "24/25 Žalgiris Kaunas: 530,000 €",
+      "22/23 Peristeri B.C.: 200,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "a041632a6d84",
+   "url": "https://basketballsphere.com/en/dzanan-musa-bosnia-and-herzegovina-lithuania-insurance-issue/",
+   "title": "Why Dzanan Musa will miss game against Lithuania",
+   "site": "Basketball Sphere",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Dzanan Musa to miss Bosnia and Herzegovina's clash vs Lithuania after the federation could not afford the €18,400 insurance requested by FIBA",
+    "According to the federation , the request involved an insurance payment of 36,000 Bosnian convertible marks, approximately €18,400."
+   ],
+   "amounts": [
+    "€18,400"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "b4a24e1ca29b",
+   "url": "https://sportowefakty.wp.pl/koszykowka/1286490/wynik-niemiec-pomogl-polakom-jedziemy-na-mistrzostwa-swiata",
+   "title": "Wynik Niemiec pomógł Polakom. Jedziemy na mistrzostwa świata!",
+   "site": "SportoweFakty",
+   "country": "Poland",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tysiec"
+   ],
+   "snippets": [
+    "Mecz w Xiaomi Arenie przyciągnął ponad 10 tysięcy widzów, którzy do ostatniej sekundy wierzyli w zwycięstwo gospodarzy."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Andreas Obst",
+     "sheet": [
+      "26/27 Bayern Munich: 1,500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "fef8aa26598d",
    "url": "https://www.eurohoops.net/en/fibawc/2041941/wc-qualifiers-roundup-france-clinches-their-place-at-the-world-cup/",
