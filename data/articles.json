@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:38+00:00",
+ "updated": "2026-11-27T03:16+00:00",
  "warnings": [],
  "run": [
   {
@@ -87,10 +87,10 @@
    "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "error": "HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded with url: /feed (Caused by ConnectTimeoutError(<HTTPSConnection(host='basketdergisi.com', port=443) at 0x74d141ba9280>, 'C",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='basketdergisi.com', port=443): Max retries exceeded wi"
   },
   {
    "site": "TrendBasket",
@@ -130,19 +130,19 @@
   },
   {
    "site": "Athletiko",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -166,21 +166,21 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
-   "found": 0,
+   "checked": 1,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
@@ -188,8 +188,8 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -211,12 +211,13 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sportacentrs",
@@ -238,12 +239,13 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before",
+   "skipped_gambling": 2
   },
   {
    "site": "Basket.zoznam.sk",
@@ -382,6 +384,42 @@
   }
  ],
  "items": [
+  {
+   "id": "9fa9f578e441",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/nova-vosa-i-novi-kosarkaski-trzaj-u-srpskoj-atini-prvi-u-klsu-drugi-ljudi-i-ozbiljan-kapital-u-pozadini/559763",
+   "title": "Nova Voša i novi košarkaški trzaj u „Srpskoj Atini”: Prvi u KLS-u, drugi ljudi i ozbiljan kapital u pozadini | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "evra",
+    "milion"
+   ],
+   "snippets": [
+    "Kada se u Srbiji povede reč o košarci, pažnja se najčešće odmah usmeri ka Boegradu – ka evroligaškim i ABA reflektorima, velikim budžetima i svakodnev...",
+    "Uz to, kako je nezvanično rečeno Mozzart Sportu budžet kluba za ovu sezonu iznosi oko milion evra, uz napomenu da postoje potraživanja nekolicine bivših igrača, ali je to obaveza koju bi, prema najavama, do kraja tekuće godine trebalo da regulišu grad, klub i sportsko društvo Vojvodina, čiji je k…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Vojvodina",
+     "country": "Serbia",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 08/09 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "cd2385fc737e",
    "url": "https://sportando.basketball/italbasket-banchi-sono-impressionato-dal-desiderio-mostrato-di-vincere-questa-partita/",
