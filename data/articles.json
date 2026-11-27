@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-27T05:25+00:00",
+ "updated": "2026-11-27T07:39+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -22,16 +22,17 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -40,20 +41,20 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-10",
+   "oldest": "2026-11-11",
    "stop": "reached start date"
   },
   {
@@ -76,12 +77,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -112,55 +113,55 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 15,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -175,19 +176,19 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -202,25 +203,25 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Mundo Deportivo",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
    "stop": "reached articles checked before"
   },
   {
+   "site": "Mundo Deportivo",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "no older pages"
+  },
+  {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,21 +230,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 6,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-24",
+   "oldest": "2026-11-25",
    "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -283,39 +284,39 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-24",
+   "pages": 2,
+   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 9,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -328,20 +329,20 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "2Playbook ACB",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
@@ -382,6 +383,72 @@
   }
  ],
  "items": [
+  {
+   "id": "0270ba98796b",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2590207/enas-hronos-telis-mystakidis-stin-kae-paok",
+   "title": "Ένας χρόνος Τέλης Μυστακίδης στην ΚΑΕ ΠΑΟΚ",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Η κίνηση με τη μεταγραφή του Τσέντι Όσμαν από τον Παναθηναϊκό , με 2.000.000 ευρώ αποζημίωση στους Πράσινους και ένα πλουσιοπάροχο τριετές συμβόλαιο στο αρχηγό της εθνικής Τουρκίας , που ξεπερνάει τα 9.000.000 ευρώ ήταν αυτή που έδειξε ακόμα και στους πιο..."
+   ],
+   "amounts": [
+    "2.000.000 ευρώ",
+    "9.000.000 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "697835b5a459",
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261127/1004256105/nba-europa-opcion-joventut-volver-jugar-competicion-maximo-nivel.html",
+   "title": "NBA Europa, opción para el Joventut para volver a jugar una competición de máximo nivel",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "millon",
+    "sum of money"
+   ],
+   "snippets": [
+    "NBA Europa anuncia una iniciativa para destinar 10.000 millones al desarrollo de pabellones de primer nivel"
+   ],
+   "amounts": [
+    "10.000 millones"
+   ],
+   "seasons": [
+    "08/09"
+   ],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "6d86176f0e34",
    "url": "https://www.2playbook.com/one-on-one/pozas-liga-u-es-necesario-comunicacion-disruptiva-yendo-por-donde-resto-ligas-no-van_24439_102.html",
