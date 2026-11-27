@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-27T09:27+00:00",
+ "updated": "2026-11-27T11:08+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 11,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-26",
+   "pages": 2,
+   "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 4,
-   "found": 1,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -22,12 +22,13 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
-   "found": 2,
+   "checked": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
@@ -40,7 +41,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 11,
+   "checked": 7,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,19 +77,19 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -103,17 +104,17 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -130,7 +131,7 @@
   },
   {
    "site": "Athletiko",
-   "checked": 19,
+   "checked": 22,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -148,8 +149,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -157,8 +158,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 7,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -166,17 +167,17 @@
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -184,12 +185,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -202,7 +203,7 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -220,7 +221,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -229,7 +230,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -238,12 +239,13 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 0,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 3,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before",
+   "skipped_gambling": 2
   },
   {
    "site": "Basket.zoznam.sk",
@@ -265,7 +267,7 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -292,16 +294,17 @@
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Sporx",
-   "checked": 11,
+   "checked": 25,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -328,10 +331,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -382,6 +385,138 @@
   }
  ],
  "items": [
+  {
+   "id": "b16f69861375",
+   "url": "https://www.eurohoops.net/el/eurohoops-organization/2041794/dei-3x3-power-to-the-hood-by-eurohoops-i-megali-basketiki-giorti-epistrefi-stis-gitonies-tis-athinas-gia-akoma-mia-sezon/",
+   "title": "ΔΕΗ 3×3 POWER TO THE HOOD by Eurohoops: Η μεγάλη μπασκετική γιορτή επιστρέφει στις γειτονιές της Αθήνας για ακόμα μία σεζόν",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Μάθετε περισσότερα: dei3x3.eurohoops.net"
+   ],
+   "amounts": [
+    "3.eurohoops"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b6db05e20fbb",
+   "url": "https://www.gazzetta.gr/basketball/basket-league/2590275/i-mpasketiki-mykonos-stoys-kinimatografoys-tis-koypes-tis-fernei-o",
+   "title": "Η μπασκετική Μύκονος στους κινηματογράφους: «Τις κούπες τις φέρνει ο πελεκάνος»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Όταν του είπα ότι ήθελα να κάνω αυτή την ταινία, εκείνος πίστεψε στην ιδέα από την πρώτη στιγμή, παρόλο που δεν είχαμε ακόμη μιλήσει με την ομάδα, δεν υπήρχε προϋπολογισμός ούτε κάποια εξασφαλισμένη παραγωγή."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c3b42585dc5d",
+   "url": "https://basketballsphere.com/en/serbia-fiba-world-cup-qualifiers-euroleague-players/",
+   "title": "Massive boost for Serbia: 10 EuroLeague players to join for crucial game",
+   "site": "Basketball Sphere",
+   "country": "Serbia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Serbia gets a major boost as 10 EuroLeague players - including Vasilije Micic and Filip Petrusev - join the squad ahead of Italy game.",
+    "According to Mozzart Sport , 10 EuroLeague players will join Serbia on Friday following Thursday’s loss to Lithuania."
+   ],
+   "amounts": [
+    "10 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    },
+    {
+     "name": "KK Partizan",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 28,000,000 €, salary budget 18,000,000 €",
+      "25/26: budget 24,299,863 €, salary budget 16,932,227 €",
+      "24/25: budget 23,705,785 €, salary budget 15,420,341 €",
+      "player rows: 27/28 (1), 26/27 (7), 25/26 (14)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Arijan Lakič",
+     "sheet": [
+      "24/25 KK Partizan: 200,000 €"
+     ]
+    },
+    {
+     "name": "Dejan Davidovac",
+     "sheet": [
+      "24/25 KK Crvena zvezda: 750,000 €"
+     ]
+    },
+    {
+     "name": "Filip Petrušev",
+     "sheet": [
+      "24/25 Olympiacos B.C.: 1,000,000 €",
+      "24/25 KK Crvena zvezda: 800,000 €",
+      "22/23 KK Crvena zvezda: 250,000 €"
+     ]
+    },
+    {
+     "name": "Vanja Marinkovič",
+     "sheet": [
+      "25/26 KK Partizan: 680,000 €",
+      "24/25 KK Partizan: 800,000 €"
+     ]
+    },
+    {
+     "name": "Vasilije Micič",
+     "sheet": [
+      "26/27 Hapoel Tel Aviv: 5,104,000 €",
+      "25/26 Hapoel Tel Aviv: 4,930,000 €",
+      "22/23 Anadolu Efes S.K.: 3,300,000 €",
+      "21/22 Anadolu Efes S.K.: 2,550,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "f0e72ef6e8b6",
    "url": "https://sportando.basketball/frecciarossa-final-eight-2027-attiva-la-promo-black-friday-fino-al-30-novembre-biglietti-a-partire-da-9-euro-in-vendita-anche-semifinali-e-finale/",
