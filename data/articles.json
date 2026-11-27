@@ -1,20 +1,21 @@
 {
- "updated": "2026-11-27T17:23+00:00",
+ "updated": "2026-11-27T19:15+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 8,
-   "found": 2,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "BasketNews.lt",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -23,16 +24,17 @@
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 2
   },
   {
    "site": "Krepsinis.net",
    "checked": 1,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -40,8 +42,8 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 3,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -49,8 +51,8 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -67,16 +69,16 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketfaul",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -104,16 +106,17 @@
   {
    "site": "Eurohoops EN",
    "checked": 4,
-   "found": 2,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Eurohoops GR",
    "checked": 5,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -122,7 +125,7 @@
   {
    "site": "Eurohoops TR",
    "checked": 3,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -130,8 +133,8 @@
   },
   {
    "site": "Athletiko",
-   "checked": 17,
-   "found": 1,
+   "checked": 26,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -139,8 +142,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
-   "found": 1,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -148,8 +151,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
-   "found": 1,
+   "checked": 6,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -157,10 +160,10 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 9,
-   "found": 1,
+   "checked": 8,
+   "found": 0,
    "error": "",
-   "pages": 3,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -175,7 +178,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -193,26 +196,26 @@
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-17",
+   "oldest": "2026-11-18",
    "stop": "reached start date"
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
@@ -220,7 +223,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -256,21 +259,21 @@
   },
   {
    "site": "Dnevnik.si",
+   "checked": 4,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-20",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Ekipa Svet24",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-20",
+   "oldest": "",
    "stop": "reached articles checked before"
-  },
-  {
-   "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -301,7 +304,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 14,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -310,7 +313,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -382,6 +385,144 @@
   }
  ],
  "items": [
+  {
+   "id": "fef8aa26598d",
+   "url": "https://www.eurohoops.net/en/fibawc/2041941/wc-qualifiers-roundup-france-clinches-their-place-at-the-world-cup/",
+   "title": "WC Qualifiers roundup: France clinches their place at the World Cup",
+   "site": "Eurohoops EN",
+   "country": "",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "FIBA World Cup 2027 European Qualifiers"
+   ],
+   "amounts": [
+    "2027 European"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Amine Noua",
+     "sheet": [
+      "23/24 Hapoel Holon: 220,500 €",
+      "22/23 ASVEL Basket: 200,000 €",
+      "20/21 ASVEL Basket: 180,000 €",
+      "19/20 ASVEL Basket: 180,000 €"
+     ]
+    },
+    {
+     "name": "Henri Drell",
+     "sheet": [
+      "26/27 Neptūnas Klaipėda: 150,000 €"
+     ]
+    },
+    {
+     "name": "Sylvain Francisco",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 3,520,000 €",
+      "25/26 Žalgiris Kaunas: 1,100,000 €",
+      "24/25 Žalgiris Kaunas: 530,000 €",
+      "22/23 Peristeri B.C.: 200,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "0ad111491712",
+   "url": "https://www.eurohoops.net/tr/fiba-world-cup-tr/2041970/bosna-hersekin-yildizi-18-bin-euro-yuzunden-milli-maca-cikamiyor/",
+   "title": "Bosna Hersek’in Yıldızı, 18 Bin Euro Yüzünden Milli Maça Çıkamıyor!",
+   "site": "Eurohoops TR",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bosna Hersek Basketbol Federasyonu Genel Sekreteri Cevat Alihodzic, FIBA’nın Dzanan Musa için son anda ‘ 18 bin 400 euroluk bir sigorta ödemesi’ çıkardığını duyurdu.",
+    "Talep, Dzanan Musa’nın sigortası için 18 bin 400 euro ödenmesi gerektiğiyle ilgili."
+   ],
+   "amounts": [
+    "18 Bin",
+    "18 bin",
+    "400 euroluk",
+    "400 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    },
+    {
+     "name": "KK Bosna Royal",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 4,000,000 €, salary budget 2,800,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,800,000 €",
+      "24/25: budget 850,000 €",
+      "player rows: 09/10 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "078ace8467a8",
+   "url": "https://www.dnevnik.si/novice/slovenija/peticijo-proti-ustavitvi-siritve-onkoloskega-instituta-podpisalo-ze-19-000-ljudi-2843755/",
+   "title": "Peticijo proti ustavitvi širitve onkologije podpisalo že 19.000 ljudi",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "sum of money"
+   ],
+   "snippets": [
+    "Prejšnja vlada je za nadzidavo stavbe H in gradnje novega objekta R že zagotovila 42,8 milijonov evrov, začetek gradnje pa so načrtovali leta 2028."
+   ],
+   "amounts": [
+    "42,8 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "c571a9bbe6f0",
    "url": "https://sportando.basketball/bosnia-scoppia-il-caso-dzanan-musa-non-puo-giocare-per-unassicurazione-di-36-000-marchi-bosniaci/",
