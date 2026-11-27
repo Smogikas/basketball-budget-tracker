@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-27T15:14+00:00",
+ "updated": "2026-11-27T17:23+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 6,
-   "found": 1,
+   "checked": 8,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -13,7 +13,7 @@
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
+   "checked": 3,
    "found": 1,
    "error": "",
    "pages": 1,
@@ -22,8 +22,8 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 2,
-   "found": 0,
+   "checked": 3,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -32,7 +32,7 @@
   {
    "site": "Krepsinis.net",
    "checked": 1,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -50,7 +50,7 @@
   {
    "site": "PianetaBasket",
    "checked": 8,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-11",
@@ -67,7 +67,7 @@
   },
   {
    "site": "Sport5",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -76,12 +76,12 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -103,36 +103,35 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 2,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
+   "pages": 2,
+   "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 4,
+   "checked": 5,
    "found": 1,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops TR",
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops TR",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before",
-   "skipped_nba": 1
-  },
-  {
    "site": "Athletiko",
-   "checked": 15,
-   "found": 0,
+   "checked": 17,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -141,7 +140,7 @@
   {
    "site": "SDNA",
    "checked": 8,
-   "found": 0,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -149,8 +148,8 @@
   },
   {
    "site": "Sport24",
-   "checked": 4,
-   "found": 0,
+   "checked": 5,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 0,
+   "checked": 9,
+   "found": 1,
    "error": "",
    "pages": 3,
    "oldest": "2026-11-26",
@@ -171,13 +170,13 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 2,
-   "found": 1,
+   "checked": 3,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -185,12 +184,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -212,16 +211,16 @@
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-22",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-23",
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,12 +238,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -266,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -302,7 +301,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 7,
+   "checked": 14,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +382,669 @@
   }
  ],
  "items": [
+  {
+   "id": "c571a9bbe6f0",
+   "url": "https://sportando.basketball/bosnia-scoppia-il-caso-dzanan-musa-non-puo-giocare-per-unassicurazione-di-36-000-marchi-bosniaci/",
+   "title": "Bosnia, scoppia il caso Dzanan Musa: non può giocare per un'assicurazione di 36.000 marchi bosniaci - Sportando",
+   "site": "Sportando",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "La Federazione bosniaca ha comunicato di non essere in grado di sostenere la spesa di 36.000 marchi bosniaci, circa 18.400 euro, richiesta per assicurare il giocatore del Dubai Basketball."
+   ],
+   "amounts": [
+    "18.400 euro"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "52a053c30957",
+   "url": "https://sportando.basketball/joventut-badalona-confluence-valley-completa-lacquisizione-ricky-rubio-entra-nellazionariato/",
+   "title": "Joventut Badalona, Confluence Valley completa l’acquisizione: Ricky Rubio entra nell’azionariato - Sportando",
+   "site": "Sportando",
+   "country": "Spain",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Žalgiris Group gestisce con successo strutture sportive e di intrattenimento in Lituania, ha triplicato il budget dello Žalgiris Kaunas nell’ultimo decennio e dirige una squadra di calcio che compete nella UEFA Conference League."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "Coachella Valley Lakers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "f8f43135b71b",
+   "url": "https://www.basketnews.lt/news-260330-netiketa-kliutis-mace-su-lietuva-nezais-ryskiausia-bosniu-zvaigzde.html#utm_medium=rss&utm_content=news",
+   "title": "Netikėta kliūtis: mače su Lietuva veikiausiai nežais ryškiausia bosnių žvaigždė",
+   "site": "BasketNews.lt",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "konvertuojamųjų markių (Bosnijos ir Hercegovinos valiuta, 18,4 tūkst.",
+    "eurų) už Musos draudimą, – pasakojo jis."
+   ],
+   "amounts": [
+    "18,4 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "eaab3d55e785",
+   "url": "https://basketnews.com/news-260334-sylvain-francisco-reveals-two-teams-he-prioritized-over-panathinaikos-this-offseason.html#utm_medium=rss&utm_content=news",
+   "title": "Sylvain Francisco reveals two teams he prioritized over Panathinaikos this offseason",
+   "site": "BasketNews.com",
+   "country": "France",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "Francisco was one of the pillars projected by ASVEL in their big-time project led by Tony Parker, but after their budget was significantly reduced, Francisco landed in Athens, where he joined Panathinaikos."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "ASVEL Basket",
+     "country": "France",
+     "sheet": [
+      "26/27: budget 24,778,000 €, salary budget 7,884,000 €",
+      "25/26: budget 18,689,000 €, salary budget 4,546,000 €",
+      "24/25: budget 16,223,000 €, salary budget 5,584,000 €",
+      "player rows: 26/27 (17), 25/26 (15), 24/25 (14)"
+     ]
+    },
+    {
+     "name": "Panathinaikos B.C.",
+     "country": "Greece",
+     "sheet": [
+      "26/27: budget 64,000,000 €, salary budget 52,600,000 €",
+      "25/26: budget 50,000,000 €, salary budget 39,420,000 €",
+      "24/25: budget 39,360,000 €, salary budget 29,590,000 €",
+      "player rows: 26/27 (18), 25/26 (18), 24/25 (18)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Sylvain Francisco",
+     "sheet": [
+      "26/27 Panathinaikos B.C.: 3,520,000 €",
+      "25/26 Žalgiris Kaunas: 1,100,000 €",
+      "24/25 Žalgiris Kaunas: 530,000 €",
+      "22/23 Peristeri B.C.: 200,000 €"
+     ]
+    },
+    {
+     "name": "Tony Parker",
+     "sheet": [
+      "26/27 ASVEL Basket: 250,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "59175581d178",
+   "url": "https://basketnews.com/news-260331-dzanan-musa-ruled-out-of-crucial-lithuania-game-due-to-insurance-issue.html#utm_medium=rss&utm_content=news",
+   "title": "Bosnia star ruled out of crucial Lithuania game due to insurance issue",
+   "site": "BasketNews.com",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "eur",
+    "sum of money"
+   ],
+   "snippets": [
+    "Bosnia's Basketball Federation executive Dzevad Alihodzic announced that Musa will most likely miss the Lithuania game as the federation is unable to cover the 36,000 BAM (around 18,400 EUR) insurance for the Dubai Basketball star.",
+    "This season, Musa is averaging 7.3 points, 3.5 rebounds, 3.3 assists, and 9.8 PIR per game in 6 EuroLeague appearances for Dubai."
+   ],
+   "amounts": [
+    "18,400 EUR",
+    "6 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "59799aa80786",
+   "url": "https://www.krepsinis.net/naujiena/netiketas-smugis-bosniams-dz-musa-veikiausiai-nezais-pries-lietuva/354797",
+   "title": "Netikėtas smūgis bosniams: Dž.Musa veikiausiai nežais prieš Lietuvą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "FIBA atsiuntė prašymą sumokėti apie 18,4 tūkst.",
+    "eurų draudimo sumą, kurios federacija padengti negali."
+   ],
+   "amounts": [
+    "18,4 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "d09da3011b1f",
+   "url": "https://www.15min.lt/24sek/naujiena/europa/busimi-lietuvos-varzovai-del-netiketos-priezasties-versis-be-zvaigzdes-874-2816448?utm_source=rssfeed_24sek&utm_medium=rss&utm_campaign=rssfeed",
+   "title": "Lietuvos varžovai neteko žvaigždės: priežastis – „netikėtas“ FIBA prašymas",
+   "site": "15min 24sek",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "– Už Džanano Musos draudimą prašoma 36 000 KM (18,4 tūkst.",
+    "Dėl kelio traumos Dž.Musa praleido net 20 Eurolygos rungtynių 2025-2026 m."
+   ],
+   "amounts": [
+    "18,4 tūkst",
+    "20 Eurolygos"
+   ],
+   "seasons": [
+    "25/26"
+   ],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "e809999aacb7",
+   "url": "https://www.pianetabasket.com/le-nazionali/caso-dzanan-musa-in-bosnia-niente-nazionale-per-unassicurazione-da-18400-euro-sono-sotto-shock-voglio-giocare",
+   "title": "Caso Dzanan Musa in Bosnia, niente Nazionale per un'assicurazione da 18.400 euro: «Sono sotto shock, voglio giocare»",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "18.400 euro"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "361bfaf1bb18",
+   "url": "https://www.eurohoops.net/en/fibawc/2041936/dzanan-musa-unable-to-play-for-bosnia-and-herzegovina-due-to-insurance-problems/",
+   "title": "Dzanan Musa unable to play for Bosnia and Herzegovina due to insurance problems",
+   "site": "Eurohoops EN",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budget",
+    "euros",
+    "sum of money",
+    "thousand"
+   ],
+   "snippets": [
+    "As stated by Dzevad Alihodzic, the general secretary of the Basketball Federation of Bosnia and Herzegovina, they do not have the funds, having spent this month’s budget on preparations for the men’s and women’s senior national teams.",
+    "The Basketball Federation of Bosnia and Herzegovina is unable to pay FIBA just over 18 thousand euros, which is why Musa will miss the match against Lithuania",
+    "Due to insurance issues, and the fact that BiH needs to pay FIBA around 36,000 convertible marks (just over 18,000 euros) for Musa’s appearance, the Dubai player will not play."
+   ],
+   "amounts": [
+    "18 thousand",
+    "18,000 euros"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "327287294936",
+   "url": "https://www.eurohoops.net/en/fiba-champions-league/2041912/joventut-badalona-starts-a-new-era-with-confluence-valley-and-ricky-rubio-as-shareholders/",
+   "title": "Joventut Badalona starts a new era with Confluence Valley and Ricky Rubio as shareholders",
+   "site": "Eurohoops EN",
+   "country": "Spain",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "budget"
+   ],
+   "snippets": [
+    "The Žalgiris Group successfully manages sports and entertainment facilities in Lithuania, has tripled Žalgiris Kaunas’s budget over the last decade, and runs a football club that competes in the UEFA Conference League."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "Coachella Valley Lakers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "a24c8a94bde5",
+   "url": "https://www.eurohoops.net/el/fibawc-el/2041937/mousa-i-vosnia-den-bori-na-plironi-tin-asfalia-tou-ke-chani-to-mats-me-ti-lithounia/",
+   "title": "Μούσα: Η Βοσνία δεν μπορεί να πληρώνει την ασφάλειά του και χάνει το ματς με τη Λιθουνία",
+   "site": "Eurohoops GR",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω"
+   ],
+   "snippets": [
+    "Σύμφωνα με την ανακοίνωση της βοσνιακής ομοσπονδίας, πριν από δύο ημέρες ήρθε ένα αίτημα από τη FIBA για την πληρωμή ασφάλειας 18.400 ευρω (λόγω του τραυματισμού του παίκτη σε αναμέτρηση της Ντουμπάι με την Μακάμπι για την Ευρωλίγκα ), με τον γενικό γραμματέα, Τζεβάντ Αλίχοτζιτς να δηλώνει αδυναμ…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "02f3e06a56d0",
+   "url": "https://www.athletiko.gr/i-vosnia-stereitai-ton-moysa-apenanti-sti-lithoyania-logo-asfaleias-i-ofeili-poy-yparchei-pros-tin-fiba-118655",
+   "title": "Η Βοσνία στερείται τον Μούσα απέναντι στη Λιθουανία λόγω... ασφάλειας - Η οφειλή που υπάρχει προς την FIBA | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω"
+   ],
+   "snippets": [
+    "Ο Τζεβάντ Αλιχότζιτς, Εκτελεστικός Διευθυντής της βοσνιακής ομοσπονδίας, γνωστοποίησε πως ο Τζάναν Μούσα θα απουσιάσει από το παιχνίδι απέναντι στη «Lietuva», καθώς δεν υπάρχουν τα απαραίτητα οικονομικά μέσα για την καταβολή των 36.000 βοσνιακών μάρκων (περίπου 18.400 ευρώ) που απαιτούνται για τη…"
+   ],
+   "amounts": [
+    "18.400 ευρώ"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "f0b83db8963b",
+   "url": "https://www.sdna.gr/mpasket/1491051_thermi-ypodohi-gia-ntokimanter-tis-mykonoy-betsson-stin-athina",
+   "title": "Θερμή υποδοχή για το ντοκιμαντέρ της Μυκόνου Betsson στην Αθήνα",
+   "site": "SDNA",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "προυπολογισμ"
+   ],
+   "snippets": [
+    "Όταν του είπα ότι ήθελα να κάνω αυτή την ταινία, εκείνος πίστεψε στην ιδέα από την πρώτη στιγμή, παρόλο που δεν είχαμε ακόμη μιλήσει με την ομάδα, δεν υπήρχε προϋπολογισμός ούτε κάποια εξασφαλισμένη παραγωγή."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "3ce9021ca174",
+   "url": "https://www.sport24.gr/basket/provlima-me-mousa-sti-vosnia-den-paizei-o-asteras-tis-sto-krisimo-mats-logo-ofeilis-sti-fiba/",
+   "title": "Πρόβλημα με Μούσα στη Βοσνία: Δεν παίζει ο αστέρας της στο κρίσιμο ματς λόγω οφειλής στη FIBA",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Το ποσό ανέρχεται στα 36 χιλιάδες Μάρκα Βοσνίας, δηλαδή 18.405 χιλιάδες ευρώ."
+   ],
+   "amounts": [
+    "36 χιλιάδες",
+    "18.405 χιλιάδες"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "c7b728e2fcc8",
+   "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2590373/moysa-poios-einai-o-logos-poy-den-tha-agonistei-me-ti",
+   "title": "Γιατί δεν μπορεί να αγωνιστεί ο Μούσα με τη Βοσνία στο κρίσιμο ματς με τη Λιθουανία – Η αντίδραση του παίκτη",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money",
+    "ευρω",
+    "χιλιαδ"
+   ],
+   "snippets": [
+    "Πρόκειται για 36 χιλιάδες μάρκα Βοσνίας, τα οποία σε ευρώ είναι 18.405."
+   ],
+   "amounts": [
+    "36 χιλιάδες"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "51ee76b75bdd",
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261127/1004256310/confluence-valley-ricky-rubio-toman-riendas-joventut.html",
+   "title": "Confluence Valley y Ricky Rubio toman las riendas del Joventut",
+   "site": "Mundo Deportivo",
+   "country": "Spain",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget"
+   ],
+   "keywords": [
+    "presupuest"
+   ],
+   "snippets": [
+    "Por su parte, Žalgiris Group gestiona con éxito instalaciones deportivas y de entretenimiento en Lituania , ha triplicado el presupuesto del Žalgiris Kaunas en la última década y dirige un club de fútbol que compite en la UEFA Conference League ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Club Joventut Badalona",
+     "country": "Spain",
+     "sheet": [
+      "26/27: row exists, no amounts",
+      "25/26: budget 9,000,000 €, salary budget 6,000,000 €",
+      "24/25: budget 9,150,000 €, salary budget 5,750,000 €",
+      "player rows: 25/26 (1)"
+     ]
+    },
+    {
+     "name": "Coachella Valley Lakers",
+     "country": "USA",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 12/13 (1)"
+     ]
+    },
+    {
+     "name": "Žalgiris Kaunas",
+     "country": "Lithuania",
+     "sheet": [
+      "98/99: budget 910,747€",
+      "26/27: budget 28,600,000 €, salary budget 19,700,000 €",
+      "25/26: budget 21,700,000 €, salary budget 14,400,000 €",
+      "player rows: 26/27 (5), 25/26 (15), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "2e9831216bed",
    "url": "https://sportando.basketball/su-lbatv-e-disponibile-la-nuova-puntata-di-unlocker-room-tema-italbasket-e-crescita-dei-giovani/",
