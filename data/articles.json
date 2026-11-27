@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-27T07:39+00:00",
+ "updated": "2026-11-27T09:27+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 3,
-   "found": 0,
+   "checked": 11,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 2,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
@@ -23,16 +23,15 @@
   {
    "site": "BasketNews.com",
    "checked": 3,
-   "found": 0,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,7 +40,7 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -50,7 +49,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 2,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,28 +67,28 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Basketfaul",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-25",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
@@ -113,7 +112,7 @@
   },
   {
    "site": "Eurohoops GR",
-   "checked": 1,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -122,24 +121,6 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 5,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Athletiko",
-   "checked": 15,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "SDNA",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -148,9 +129,27 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Sport24",
-   "checked": 2,
+   "site": "Athletiko",
+   "checked": 19,
    "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "SDNA",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Sport24",
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -158,8 +157,8 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 5,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -171,13 +170,13 @@
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
-   "found": 0,
+   "checked": 3,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -185,12 +184,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -203,25 +202,25 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mundo Deportivo",
-   "checked": 4,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-22",
    "stop": "no older pages"
   },
   {
+   "site": "Mundo Deportivo",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-22",
+   "stop": "reached articles checked before"
+  },
+  {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,7 +229,7 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -253,7 +252,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2026-11-20",
-   "stop": "reached articles checked before"
+   "stop": "reached start date"
   },
   {
    "site": "Dnevnik.si",
@@ -266,12 +265,12 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball.hr",
@@ -284,25 +283,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-22",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 9,
+   "checked": 11,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +310,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 7,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -329,10 +328,10 @@
   },
   {
    "site": "Gigantes",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -383,6 +382,212 @@
   }
  ],
  "items": [
+  {
+   "id": "f0e72ef6e8b6",
+   "url": "https://sportando.basketball/frecciarossa-final-eight-2027-attiva-la-promo-black-friday-fino-al-30-novembre-biglietti-a-partire-da-9-euro-in-vendita-anche-semifinali-e-finale/",
+   "title": "Frecciarossa Final Eight 2027, attiva la promo \"Black Friday\" fino al 30 novembre: biglietti a partire da 9 euro, in vendita anche semifinali e finale - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "CON LA PROMO BLACK FRIDAY IN VENDITA TUTTI I SETTORI PER TUTTI I GIORNI DI GARA CON PREZZI A PARTIRE DA 9€"
+   ],
+   "amounts": [
+    "9€"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Andrea Costa Imola",
+     "country": "Italy",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 11/12 (1), 10/11 (1)"
+     ]
+    },
+    {
+     "name": "Auxilium Pallacanestro Torino",
+     "country": "Italy",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 17/18 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "df9905e32da2",
+   "url": "https://www.basketnews.lt/news-260317-ispudingas-papildymas-mace-su-italija-serbai-sulauks-10-eurolygos-zaideju.html#utm_medium=rss&utm_content=news",
+   "title": "Įspūdingas papildymas: mače su Italija serbai sulauks 10 Eurolygos žaidėjų",
+   "site": "BasketNews.lt",
+   "country": "Serbia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [],
+   "amounts": [
+    "10 Eurolygos"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Crvena zvezda",
+     "country": "Serbia",
+     "sheet": [
+      "26/27: budget 27,000,000 €, salary budget 18,500,000 €",
+      "25/26: budget 25,894,514 €, salary budget 18,200,000 €",
+      "24/25: budget 25,668,635 €, salary budget 17,000,000 €",
+      "player rows: 26/27 (4), 25/26 (7), 24/25 (15)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "6acaa8e3b041",
+   "url": "https://basketnews.com/news-260318-ergin-ataman-drops-major-euroleague-expansion-hint-while-speaking-in-italian.html#utm_medium=rss&utm_content=news",
+   "title": "Ergin Ataman drops major EuroLeague expansion hint while speaking in Italian",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "thousand"
+   ],
+   "snippets": [
+    "\"I've coached more than a thousand games in atmospheres like this throughout Europe."
+   ],
+   "amounts": [],
+   "seasons": [
+    "06/07",
+    "27/28"
+   ],
+   "teams": [],
+   "players": [
+    {
+     "name": "Ergin Ataman",
+     "sheet": [
+      "24/25 Panathinaikos B.C.: 1,300,000 €",
+      "23/24 Panathinaikos B.C.: 1,080,000 €",
+      "20/21 Anadolu Efes S.K.: 1,000,000 €",
+      "16/17 Galatasaray S.K.: 500,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "390e3737b81f",
+   "url": "https://basketnews.com/news-260312-serbia-adds-10-euroleague-players-for-crucial-game-against-italy.html#utm_medium=rss&utm_content=news",
+   "title": "Serbia brings in 10 EuroLeague players after heavy loss to Lithuania",
+   "site": "BasketNews.com",
+   "country": "",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "According to Nikola Stojkovic of Mozzart Sport , 10 EuroLeague players will join the Serbian national team on Friday following Thursday's 97-78 defeat to Lithuania."
+   ],
+   "amounts": [
+    "10 EuroLeague"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [
+    {
+     "name": "Dušan Alimpijevič",
+     "sheet": [
+      "25/26 Besiktas J.K.: 450,000 €",
+      "24/25 Besiktas J.K.: 450,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "4b21b57a1df8",
+   "url": "https://www.sport24.gr/basket/apo-poious-xasame-pou-agonizontai-oi-paiktes-tou-roster-tis-georgias/",
+   "title": "Από ποιους χάσαμε: Πού αγωνίζονται οι παίκτες του ρόστερ της Γεωργίας",
+   "site": "Sport24",
+   "country": "Greece",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Salary"
+   ],
+   "keywords": [
+    "μισθ"
+   ],
+   "snippets": [
+    "Αυτά τα παιδιά αν αθροίσεις τους μισθούς τους δεν ξέρω αν φτάνουν τον μισθό του Τολιόπουλου."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "dd138a91256c",
+   "url": "https://www.mozzartsport.com/kosarka/vesti/nova-vosa-i-kosarkaski-trzaj-u-srpskoj-atini-prvi-u-kls-drugi-ljudi-i-ozbiljan-kapital-u-pozadini/559763",
+   "title": "Nova Voša i košarkaški trzaj u „Srpskoj Atini”: Prvi u KLS, drugi ljudi i ozbiljan kapital u pozadini | Mozzart Sport",
+   "site": "Mozzart Sport",
+   "country": "Serbia",
+   "published": "2026-11-27",
+   "found": "2026-11-27",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "budzet",
+    "evra",
+    "milion"
+   ],
+   "snippets": [
+    "Kada se u Srbiji povede reč o košarci, pažnja se najčešće odmah usmeri ka Boegradu – ka evroligaškim i ABA reflektorima, velikim budžetima i svakodnev...",
+    "Uz to, kako je nezvanično rečeno Mozzart Sportu budžet kluba za ovu sezonu iznosi oko milion evra, uz napomenu da postoje potraživanja nekolicine bivših igrača, ali je to obaveza koju bi, prema najavama, do kraja tekuće godine trebalo da regulišu grad, klub i sportsko društvo Vojvodina, čiji je k…"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Vojvodina",
+     "country": "Serbia",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 08/09 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "0270ba98796b",
    "url": "https://www.gazzetta.gr/basketball/basket-league/2590207/enas-hronos-telis-mystakidis-stin-kae-paok",
