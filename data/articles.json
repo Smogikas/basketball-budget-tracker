@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:33+00:00",
+ "updated": "2026-11-28T03:09+00:00",
  "warnings": [],
  "run": [
   {
@@ -22,12 +22,13 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 2
   },
   {
    "site": "Krepsinis.net",
@@ -49,7 +50,7 @@
   },
   {
    "site": "PianetaBasket",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -67,21 +68,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
+   "oldest": "2026-11-28",
    "stop": "no older pages"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket Dergisi",
@@ -103,10 +104,10 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -139,8 +140,8 @@
   },
   {
    "site": "SDNA",
-   "checked": 8,
-   "found": 1,
+   "checked": 7,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -148,12 +149,12 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-28",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
