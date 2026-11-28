@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-28T07:32+00:00",
+ "updated": "2026-11-28T09:06+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 5,
-   "found": 0,
+   "checked": 13,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
@@ -22,24 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-28",
-   "stop": "no older pages"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Krepsinis.net",
-   "checked": 7,
-   "found": 1,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
-  },
-  {
-   "site": "15min 24sek",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -48,9 +40,18 @@
    "stop": "no older pages"
   },
   {
-   "site": "PianetaBasket",
-   "checked": 4,
+   "site": "15min 24sek",
+   "checked": 0,
    "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "PianetaBasket",
+   "checked": 10,
+   "found": 2,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -76,33 +77,15 @@
   },
   {
    "site": "Basketfaul",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-26",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
-   "site": "TrendBasket",
-   "checked": 0,
-   "found": 0,
-   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
-  },
-  {
-   "site": "Eurohoops EN",
+   "site": "Basket Dergisi",
    "checked": 3,
    "found": 0,
    "error": "",
@@ -111,8 +94,26 @@
    "stop": "reached articles checked before"
   },
   {
-   "site": "Eurohoops GR",
+   "site": "TrendBasket",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "reached start date"
+  },
+  {
+   "site": "Eurohoops EN",
    "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-26",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Eurohoops GR",
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -121,17 +122,17 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 6,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 22,
-   "found": 0,
+   "checked": 12,
+   "found": 2,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
@@ -148,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 6,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -157,16 +158,16 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 11,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
-   "pages": 2,
+   "pages": 3,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 2,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,7 +176,7 @@
   },
   {
    "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -184,16 +185,16 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-27",
+   "oldest": "2026-11-28",
    "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -207,8 +208,7 @@
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Mundo Deportivo",
@@ -221,7 +221,7 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,16 +230,16 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "Basketball Sphere",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -258,7 +258,7 @@
   {
    "site": "Dnevnik.si",
    "checked": 4,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
@@ -266,8 +266,8 @@
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 4,
-   "found": 1,
+   "checked": 2,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-28",
@@ -284,25 +284,25 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-24",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 10,
+   "checked": 16,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +311,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 4,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +383,285 @@
   }
  ],
  "items": [
+  {
+   "id": "26dcf936708f",
+   "url": "https://sportando.basketball/virtus-bilancio-zanetti-15-milioni-fabbisogno-2027/",
+   "title": "Il Corriere di Bologna: Massimo Zanetti mette il turbo per coprire i conti Virtus Servono altri 22 milioni - Sportando",
+   "site": "Sportando",
+   "country": "Italy",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "bilanc",
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Virtus, perdita di 15,1 milioni nel bilancio 2026.",
+    "La Virtus Bologna ha chiuso il bilancio 2026 con una perdita di 15,1 milioni di euro , ricavi per 14,6 milioni e costi per 29,3 milioni .",
+    "Zanetti ha versato 15 milioni in otto mesi; per il 2027 fabbisogno finanziario stimato a 22 milioni"
+   ],
+   "amounts": [
+    "22 milioni",
+    "15,1 milioni",
+    "15 milioni",
+    "14,6 milioni",
+    "29,3 milioni",
+    "1,5 milioni",
+    "18 milioni",
+    "10 milioni"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "c9314d70c91a",
+   "url": "https://www.basketnews.lt/news-260370-bosniu-federacija-rado-remeja-musos-draudimui.html#utm_medium=rss&utm_content=news",
+   "title": "Bosnių federacija rado rėmėją Musos draudimui",
+   "site": "BasketNews.lt",
+   "country": "United Arab Emirates",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "FIBA už „ Dubai “ priklausančio krepšininko draudimą pareikalavo 36 tūkst.",
+    "Bosnijos ir Hercegovinos markių (apie 18,4 tūkst."
+   ],
+   "amounts": [
+    "36 tūkst",
+    "18,4 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "972e0b79845a",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/napoli-basket-preoccupazione-per-petrucelli-si-teme-uno-stiramento-le-ultime-su-brown-e-jakimovski",
+   "title": "Napoli Basket, preoccupazione per Petrucelli: si teme uno stiramento. Le ultime su Brown e Jakimovski",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "bilanc",
+    "euro",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "\"Restano delicate le condizioni finanziarie della Virtus Bologna\", scrive il Corriere di Bologna, con il club che avrebbe chiuso il bilancio 2026 con una perdita di 15,1 milioni di euro, destinata a s..."
+   ],
+   "amounts": [
+    "15,1 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "69886c349bb1",
+   "url": "https://www.pianetabasket.com/legabasket-serie-a/corriere-di-bologna-virtus-bologna-bilancio-in-rosso-per-151-milioni-zanetti-ne-versa-15-nel-2027-ne-serviranno-altri-22",
+   "title": "Corriere di Bologna: Virtus Bologna, bilancio in rosso per 15,1 milioni. Zanetti ne versa 15, nel 2027 ne serviranno altri 22",
+   "site": "PianetaBasket",
+   "country": "Italy",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "bilanc",
+    "milion",
+    "sum of money"
+   ],
+   "snippets": [
+    "Virtus Bologna chiude il 2026 con una perdita di 15,1 milioni: l’analisi dei conti, il sostegno di Massimo Zanetti e le previsioni finanziarie per il 2027."
+   ],
+   "amounts": [
+    "15,1 milioni"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Napoli Basket",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 5,000,000 €",
+      "25/26: row exists, no amounts",
+      "24/25: budget 9,080,000 €, salary budget 3,420,000 €",
+      "player rows: 24/25 (1)"
+     ]
+    },
+    {
+     "name": "Virtus Bologna",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 25,000,000 €, salary budget 14,000,000 €",
+      "25/26: budget 28,000,000 €, salary budget 15,000,000 €",
+      "24/25: budget 30,200,000 €, salary budget 20,510,000 €",
+      "player rows: 26/27 (3), 25/26 (9), 24/25 (6)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "John Petrucelli",
+     "sheet": [
+      "25/26 Trapani Shark: 500,000 €",
+      "24/25 Germani Brescia: 280,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
+  {
+   "id": "d3b59ee11f3e",
+   "url": "https://www.athletiko.gr/ayta-fernei-o-tzastin-anterson-ston-paok-ena-ischyro-oplo-sta-cheria-toy-antrea-trinkieri-118734",
+   "title": "Αυτά φέρνει ο Τζάστιν Αντερσον στον ΠΑΟΚ - Ενα πολυσύνθετο «όπλο» στη φαρέτρα του Αντρέα Τρινκιέρι | Athletiko",
+   "site": "Athletiko",
+   "country": "United Arab Emirates",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ",
+    "ευρω"
+   ],
+   "snippets": [
+    "Μάλιστα, σύμφωνα με πληροφορίες, οι απολαβές του θα ξεπεράσουν συνολικά τα τρία εκατομμύρια ευρώ."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "9b7f9a391501",
+   "url": "https://www.athletiko.gr/san-simera-pethane-o-anthropos-poy-gennise-to-mpasket-118731",
+   "title": "Σαν σήμερα πέθανε ο άνθρωπος που «γέννησε» το μπάσκετ | Athletiko",
+   "site": "Athletiko",
+   "country": "Greece",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "εκατομμυρ"
+   ],
+   "snippets": [
+    "134 χρόνια αργότερα, η πρωτοβουλία του, έχει αλλάξει τη ζωή εκατομμυρίων ανθρώπων, αν όχι περισσότερων."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "17aa04a3b42f",
+   "url": "https://www.gazzetta.gr/basketball/euroleague/2590432/o-sakil-makkisik-sto-gazzetta-eylogimenos-me-oti-ezisa-ston-olympiako",
+   "title": "Ο Σακίλ ΜακΚίσικ στο Gazzetta: «Ευλογημένος με ό,τι έζησα στον Ολυμπιακό, τώρα ζω το επόμενο κεφάλαιο στη ζωή μου»",
+   "site": "Gazzetta.gr",
+   "country": "Greece",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Νιώθω ότι πήγα από τα 100 χιλιόμετρα την ώρα στα 60 ή στα 70."
+   ],
+   "amounts": [
+    "100 χιλιόμετρα"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "2bf1c1236811",
    "url": "https://www.basketnews.lt/news-260370-bosniu-zvaigzde-pasirodys-mace-su-lietuva.html#utm_medium=rss&utm_content=news",
