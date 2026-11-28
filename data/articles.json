@@ -1,37 +1,45 @@
 {
- "updated": "2026-11-28T05:17+00:00",
+ "updated": "2026-11-28T07:32+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 0,
-   "found": 0,
+   "checked": 2,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-28",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
+   "checked": 7,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-27",
+   "stop": "no older pages"
+  },
+  {
+   "site": "15min 24sek",
    "checked": 1,
    "found": 0,
    "error": "",
@@ -40,17 +48,8 @@
    "stop": "no older pages"
   },
   {
-   "site": "15min 24sek",
-   "checked": 0,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
-  },
-  {
    "site": "PianetaBasket",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -68,21 +67,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-28",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
+   "oldest": "",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -97,50 +96,50 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-11",
-   "stop": "reached start date"
+   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
+   "pages": 0,
+   "oldest": "",
+   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
-   "found": 0,
+   "checked": 6,
+   "found": 1,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-26",
+   "pages": 2,
+   "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 0,
+   "checked": 22,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 5,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -149,34 +148,34 @@
   },
   {
    "site": "Sport24",
-   "checked": 0,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-28",
+   "stop": "no older pages"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 0,
+   "checked": 11,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mozzart Sport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,12 +184,12 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Encestando",
@@ -203,25 +202,26 @@
   },
   {
    "site": "Marca",
-   "checked": 0,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "reached articles checked before"
+   "stop": "no older pages",
+   "skipped_nba": 1
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Sportacentrs",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -230,22 +230,21 @@
   },
   {
    "site": "Bild Basketball",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
-   "stop": "no older pages",
-   "skipped_gambling": 1
-  },
-  {
-   "site": "Basketball Sphere",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "no more pages"
+   "oldest": "2026-11-25",
+   "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketball Sphere",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -258,17 +257,17 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 0,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
-   "found": 0,
+   "checked": 4,
+   "found": 1,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-28",
@@ -285,39 +284,39 @@
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
-   "pages": 1,
-   "oldest": "2026-11-25",
+   "pages": 2,
+   "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 0,
+   "checked": 5,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-23",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-24",
+   "stop": "no older pages"
   },
   {
    "site": "Sporx",
-   "checked": 0,
+   "checked": 10,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-28",
+   "stop": "no older pages"
   },
   {
    "site": "Walla Sport",
-   "checked": 0,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-28",
+   "stop": "no older pages"
   },
   {
    "site": "El Correo",
@@ -384,6 +383,212 @@
   }
  ],
  "items": [
+  {
+   "id": "2bf1c1236811",
+   "url": "https://www.basketnews.lt/news-260370-bosniu-zvaigzde-pasirodys-mace-su-lietuva.html#utm_medium=rss&utm_content=news",
+   "title": "Bosnių žvaigždė pasirodys mače su Lietuva",
+   "site": "BasketNews.lt",
+   "country": "United Arab Emirates",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "FIBA už „ Dubai “ priklausančio krepšininko draudimą pareikalavo 36 tūkst.",
+    "Bosnijos ir Hercegovinos markių (apie 18,4 tūkst."
+   ],
+   "amounts": [
+    "36 tūkst",
+    "18,4 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "38ee2fcf57ba",
+   "url": "https://www.krepsinis.net/naujiena/problema-isspresta-dz-musa-zais-pries-lietuva/354797",
+   "title": "Problema išspręsta: Dž.Musa žais prieš Lietuvą | Krepsinis.net",
+   "site": "Krepsinis.net",
+   "country": "United Arab Emirates",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euru",
+    "sum of money"
+   ],
+   "snippets": [
+    "FIBA atsiuntė prašymą sumokėti apie 18,4 tūkst.",
+    "eurų draudimo sumą, kurios federacija padengti negalėjo."
+   ],
+   "amounts": [
+    "18,4 tūkst"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Dubai Basketball",
+     "country": "United Arab Emirates",
+     "sheet": [
+      "26/27: budget 32,000,000 €, salary budget 21,000,000 €",
+      "25/26: budget 27,000,000 €, salary budget 18,500,000 €",
+      "24/25: budget 9,000,000 €, salary budget 4,500,000 €",
+      "player rows: 26/27 (7), 25/26 (2), 24/25 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "b9a37e1e6c83",
+   "url": "https://www.eurohoops.net/tr/fiba-world-cup-tr/2042160/bosna-hersekte-dzanan-musa-krizi-cozuldu-18-bin-euroyu-ben-oderim/",
+   "title": "Bosna Hersek’te Dzanan Musa Krizi Çözüldü: “18 Bin Euro’yu Ben Öderim”",
+   "site": "Eurohoops TR",
+   "country": "Bosnia and Herzegovina",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "euro",
+    "sum of money"
+   ],
+   "snippets": [
+    "Dün 18 bin 400 euroluk sigorta bedeli nedeniyle Litvanya maçında forma giyemeyeceği açıklanan Dzanan Musa için Bosna Hersek’te kriz çözüldü.",
+    "Bosna Hersek Basketbol Federasyonu dün, FIBA’nın Musa için son anda 18 bin 400 euroluk sigorta bedeli talep ettiğini ve federasyonun bu miktarı karşılayamayacağını açıklamıştı."
+   ],
+   "amounts": [
+    "18 Bin",
+    "18 bin",
+    "400 euroluk"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Bosna Royal",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 4,000,000 €, salary budget 2,800,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,800,000 €",
+      "24/25: budget 850,000 €",
+      "player rows: 09/10 (1)"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Džanan Musa",
+     "sheet": [
+      "26/27 Dubai Basketball: 2,860,000 €",
+      "25/26 Dubai Basketball: 3,300,000 €",
+      "24/25 Real Madrid Baloncesto: 1,100,000 €",
+      "21/22 Club Baloncesto Breogan: 225,000 €"
+     ]
+    }
+   ],
+   "nba": true
+  },
+  {
+   "id": "b81c0111f21a",
+   "url": "https://www.dnevnik.si/novice/slovenija/interventni-zakon-razvojni-preboj-ali-nevaren-poseg-v-javne-finance-2842660/",
+   "title": "Ekonomisti razdeljeni: bo interventni zakon Slovenijo popeljal naprej ali nazaj?",
+   "site": "Dnevnik.si",
+   "country": "Slovenia",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Budget",
+    "Amount"
+   ],
+   "keywords": [
+    "evrov",
+    "milijon",
+    "proracun",
+    "sum of money"
+   ],
+   "snippets": [
+    "Če se bo del tega denarja vrnil v gospodarstvo, potrošnjo in nove zaposlitve, bo po njihovem mnenju tudi izpad proračunskih prihodkov manjši, kot kažejo statični izračuni.",
+    "Kot drugo dejstvo navaja proračunske izdatke.",
+    "»Od leta 2019, ko smo imeli uravnotežen proračun in zmerno gospodarsko rast, so izdatki proračuna v povprečju rasli za 9,2 odstotka na leto."
+   ],
+   "amounts": [
+    "300 milijonov"
+   ],
+   "seasons": [],
+   "teams": [],
+   "players": [],
+   "nba": false
+  },
+  {
+   "id": "4500ce2e757a",
+   "url": "https://ekipa.svet24.si/sport/kosarka/reprezentancna-kosarka/slovenija-finska-kosarka-migranti-priseljenci-tujci-1943858",
+   "title": "Slovenski šport rabi Mustaphe in druge migrante - v tem svetu daje misliti",
+   "site": "Ekipa Svet24",
+   "country": "Serbia",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "tisoc"
+   ],
+   "snippets": [
+    "Niso ravno tista prepoznavna finska imena, s katerimi smo zrasli, ko je dežela tisočerih jezer še vlagala v smučarske skoke namesto globalne moštvene športe, kajneda?"
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Železničar Indija",
+     "country": "Serbia",
+     "sheet": [
+      "25/26: budget 62,850 €, salary budget 49,023 €",
+      "24/25: budget 98,771 €",
+      "23/24: budget 64,121 €"
+     ]
+    }
+   ],
+   "players": [
+    {
+     "name": "Edon Maxhuni",
+     "sheet": [
+      "25/26 BCM Gravelines - Dunkerque: 135,000 €",
+      "24/25 SIG Strasbourg: 140,000 €",
+      "23/24 ESSM Le Portel: 96,000 €"
+     ]
+    },
+    {
+     "name": "Olivier Nkamhoua",
+     "sheet": [
+      "26/27 FC Barcelona Basquet: 1,250,000 €",
+      "25/26 Pallacanestro Varese: 170,000 €"
+     ]
+    }
+   ],
+   "nba": false
+  },
   {
    "id": "e8239b134ad3",
    "url": "https://www.sdna.gr/mpasket/1491161_aibazogloy-stis-arhes-toy-2027-oi-anakoinoseis-gia-nba-europe",
