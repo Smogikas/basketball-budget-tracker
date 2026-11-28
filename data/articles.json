@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-27T23:11+00:00",
+ "updated": "2026-11-28T01:33+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.com",
-   "checked": 5,
+   "checked": 6,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -31,30 +31,29 @@
   },
   {
    "site": "Krepsinis.net",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "15min 24sek",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "reached articles checked before"
   },
   {
    "site": "PianetaBasket",
-   "checked": 8,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-11",
+   "oldest": "2026-11-12",
    "stop": "reached start date"
   },
   {
@@ -68,21 +67,21 @@
   },
   {
    "site": "Sport5",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
-  },
-  {
-   "site": "Basketfaul",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
+   "oldest": "",
    "stop": "reached articles checked before"
+  },
+  {
+   "site": "Basketfaul",
+   "checked": 1,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
   },
   {
    "site": "Basket Dergisi",
@@ -97,26 +96,26 @@
    "site": "TrendBasket",
    "checked": 0,
    "found": 0,
-   "error": "HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read timeout=10)",
-   "pages": 0,
-   "oldest": "",
-   "stop": "page 1 failed: HTTPSConnectionPool(host='trendbasket.net', port=443): Read timed out. (read tim"
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-11",
+   "stop": "reached start date"
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
   {
    "site": "Eurohoops GR",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
@@ -131,17 +130,17 @@
   },
   {
    "site": "Athletiko",
-   "checked": 8,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "SDNA",
-   "checked": 2,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-26",
@@ -149,48 +148,48 @@
   },
   {
    "site": "Sport24",
-   "checked": 3,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Telesport",
-   "checked": 1,
-   "found": 0,
-   "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Mozzart Sport",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "no more pages"
+  },
+  {
+   "site": "Mozzart Sport",
+   "checked": 0,
+   "found": 0,
+   "error": "",
+   "pages": 1,
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Meridian Sport",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Encestando",
@@ -203,30 +202,30 @@
   },
   {
    "site": "Marca",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sportacentrs",
-   "checked": 38,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-17",
-   "stop": "reached start date"
+   "pages": 1,
+   "oldest": "2026-11-21",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Bild Basketball",
@@ -239,12 +238,12 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "pages": 1,
+   "oldest": "",
+   "stop": "no more pages"
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,66 +256,66 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Basketball.hr",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
-   "oldest": "2026-11-27",
+   "pages": 1,
+   "oldest": "",
    "stop": "reached articles checked before"
   },
   {
    "site": "Z Krainy NBA",
-   "checked": 1,
+   "checked": 0,
    "found": 0,
    "error": "",
-   "pages": 2,
+   "pages": 1,
    "oldest": "2026-11-25",
    "stop": "reached articles checked before"
   },
   {
    "site": "SportoweFakty",
-   "checked": 1,
-   "found": 1,
+   "checked": 0,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-23",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Sporx",
-   "checked": 5,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-28",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "Walla Sport",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-27",
-   "stop": "no older pages"
+   "oldest": "",
+   "stop": "reached articles checked before"
   },
   {
    "site": "El Correo",
@@ -383,6 +382,38 @@
   }
  ],
  "items": [
+  {
+   "id": "e8239b134ad3",
+   "url": "https://www.sdna.gr/mpasket/1491161_aibazogloy-stis-arhes-toy-2027-oi-anakoinoseis-gia-nba-europe",
+   "title": "Αϊβάζογλου: «Στις αρχές του 2027 οι ανακοινώσεις για το NBA Europe»",
+   "site": "SDNA",
+   "country": "Italy",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "ευρω"
+   ],
+   "snippets": [
+    "ευρώ για την κατασκευή και ανακαίνιση γηπέδων στην Ευρώπη: «Η ιδέα βασίζεται σε δύο βασικές αρχές."
+   ],
+   "amounts": [],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "Maxima Roma",
+     "country": "Italy",
+     "sheet": [
+      "26/27: budget 10,000,000 €, salary budget 7,000,000 €",
+      "player rows: 26/27 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
   {
    "id": "c09ba9b711b6",
    "url": "https://www.athletiko.gr/aivazogloy-to-nba-europe-tha-anakoinosei-tis-omades-stis-arches-toy-2027-118703",
