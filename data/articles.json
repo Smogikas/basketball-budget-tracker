@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-28T09:06+00:00",
+ "updated": "2026-11-28T11:03+00:00",
  "warnings": [],
  "run": [
   {
    "site": "Sportando",
-   "checked": 13,
-   "found": 1,
+   "checked": 10,
+   "found": 0,
    "error": "",
-   "pages": 3,
-   "oldest": "2026-11-27",
+   "pages": 2,
+   "oldest": "2026-11-28",
    "stop": "reached articles checked before"
   },
   {
    "site": "BasketNews.lt",
    "checked": 2,
-   "found": 1,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
@@ -22,17 +22,16 @@
   },
   {
    "site": "BasketNews.com",
-   "checked": 3,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-28",
-   "stop": "no older pages",
-   "skipped_nba": 1
+   "stop": "no older pages"
   },
   {
    "site": "Krepsinis.net",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -41,17 +40,17 @@
   },
   {
    "site": "15min 24sek",
-   "checked": 0,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "stop": "no older pages"
   },
   {
    "site": "PianetaBasket",
-   "checked": 10,
-   "found": 2,
+   "checked": 9,
+   "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-12",
@@ -77,19 +76,19 @@
   },
   {
    "site": "Basketfaul",
+   "checked": 1,
+   "found": 1,
+   "error": "",
+   "pages": 1,
+   "oldest": "2026-11-26",
+   "stop": "no older pages"
+  },
+  {
+   "site": "Basket Dergisi",
    "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
-   "oldest": "2026-11-26",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Basket Dergisi",
-   "checked": 3,
-   "found": 0,
-   "error": "",
-   "pages": 2,
    "oldest": "2026-11-26",
    "stop": "reached articles checked before"
   },
@@ -104,11 +103,11 @@
   },
   {
    "site": "Eurohoops EN",
-   "checked": 1,
+   "checked": 2,
    "found": 0,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-26",
+   "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
@@ -122,21 +121,22 @@
   },
   {
    "site": "Eurohoops TR",
-   "checked": 0,
+   "checked": 1,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 2,
    "oldest": "2026-11-27",
    "stop": "reached articles checked before"
   },
   {
    "site": "Athletiko",
-   "checked": 12,
-   "found": 2,
+   "checked": 15,
+   "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_gambling": 1
   },
   {
    "site": "SDNA",
@@ -149,7 +149,7 @@
   },
   {
    "site": "Sport24",
-   "checked": 5,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -158,16 +158,7 @@
   },
   {
    "site": "Gazzetta.gr",
-   "checked": 6,
-   "found": 1,
-   "error": "",
-   "pages": 3,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
-  },
-  {
-   "site": "Telesport",
-   "checked": 1,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
@@ -175,8 +166,18 @@
    "stop": "reached articles checked before"
   },
   {
+   "site": "Telesport",
+   "checked": 4,
+   "found": 0,
+   "error": "",
+   "pages": 2,
+   "oldest": "2026-11-27",
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
+  },
+  {
    "site": "Mozzart Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -185,12 +186,13 @@
   },
   {
    "site": "Meridian Sport",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 2,
    "oldest": "2026-11-28",
-   "stop": "reached articles checked before"
+   "stop": "reached articles checked before",
+   "skipped_nba": 1
   },
   {
    "site": "Encestando",
@@ -203,16 +205,16 @@
   },
   {
    "site": "Marca",
-   "checked": 2,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2020-12-18",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Mundo Deportivo",
-   "checked": 3,
+   "checked": 1,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -221,16 +223,17 @@
   },
   {
    "site": "Sportacentrs",
-   "checked": 0,
+   "checked": 32,
    "found": 0,
    "error": "",
-   "pages": 1,
+   "pages": 7,
    "oldest": "2026-11-21",
-   "stop": "reached start date"
+   "stop": "reached start date",
+   "skipped_nba": 2
   },
   {
    "site": "Bild Basketball",
-   "checked": 2,
+   "checked": 3,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -239,12 +242,13 @@
   },
   {
    "site": "Basketball Sphere",
-   "checked": 2,
-   "found": 0,
+   "checked": 8,
+   "found": 1,
    "error": "",
    "pages": 2,
-   "oldest": "2026-11-27",
-   "stop": "reached articles checked before"
+   "oldest": "2026-11-28",
+   "stop": "reached articles checked before",
+   "skipped_gambling": 2
   },
   {
    "site": "Basket.zoznam.sk",
@@ -257,12 +261,12 @@
   },
   {
    "site": "Dnevnik.si",
-   "checked": 4,
+   "checked": 0,
    "found": 0,
    "error": "",
    "pages": 1,
    "oldest": "2026-11-21",
-   "stop": "no older pages"
+   "stop": "reached articles checked before"
   },
   {
    "site": "Ekipa Svet24",
@@ -302,7 +306,7 @@
   },
   {
    "site": "Sporx",
-   "checked": 16,
+   "checked": 18,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -311,7 +315,7 @@
   },
   {
    "site": "Walla Sport",
-   "checked": 3,
+   "checked": 4,
    "found": 0,
    "error": "",
    "pages": 1,
@@ -383,6 +387,89 @@
   }
  ],
  "items": [
+  {
+   "id": "a3fbeace0790",
+   "url": "https://basketfaul.com.tr/milli-takimlar/erkek-milli-takimlar/a-milli-erkek-milli-takimlar/nurkic-musanin-sigorta-odemesi-benden/",
+   "title": "Nurkic: Musa'nın Sigorta Ödemesi Benden - Basketfaul",
+   "site": "Basketfaul",
+   "country": "Bosnia and Herzegovina",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "sum of money"
+   ],
+   "snippets": [
+    "Bosna Hersek Basketbol Federasyonu dün, FIBA’nın Musa için son anda 18 bin 400 euroluk sigorta bedeli talep ettiğini ve federasyonun bu miktarı karşılayamayacağını açıklamıştı."
+   ],
+   "amounts": [
+    "18 bin",
+    "400 euroluk"
+   ],
+   "seasons": [],
+   "teams": [
+    {
+     "name": "KK Bosna Royal",
+     "country": "Bosnia and Herzegovina",
+     "sheet": [
+      "26/27: budget 4,000,000 €, salary budget 2,800,000 €",
+      "25/26: budget 2,800,000 €, salary budget 1,800,000 €",
+      "24/25: budget 850,000 €",
+      "player rows: 09/10 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": true
+  },
+  {
+   "id": "8aeab63a6912",
+   "url": "https://basketballsphere.com/en/virtus-financial-struggles-massimo-zanetti/",
+   "title": "Inside Virtus' financial struggles: Losses, mounting costs and Zanetti's backing",
+   "site": "Basketball Sphere",
+   "country": "Italy",
+   "published": "2026-11-28",
+   "found": "2026-11-28",
+   "type": [
+    "Amount"
+   ],
+   "keywords": [
+    "million",
+    "sum of money"
+   ],
+   "snippets": [
+    "Virtus continues to face significant financial difficulties, with the club reportedly recording a loss of €15.1 million in 2026.",
+    "Despite efforts to reduce expenses and improve its financial position, the Italian side remains heavily dependent on the backing of majority owner Massimo Zanetti, who has injected €15 million into the club over the past eight months.",
+    "Virtus records €15.1 million loss as expenses exceed revenue"
+   ],
+   "amounts": [
+    "€15.1 million",
+    "€15 million",
+    "€14.6 million",
+    "€29.3 million",
+    "€18 million",
+    "€1.5 million",
+    "€7.5 million",
+    "€12.7 million"
+   ],
+   "seasons": [
+    "26/27"
+   ],
+   "teams": [
+    {
+     "name": "Andrea Costa Imola",
+     "country": "Italy",
+     "sheet": [
+      "not in budget tabs",
+      "player rows: 11/12 (1), 10/11 (1)"
+     ]
+    }
+   ],
+   "players": [],
+   "nba": false
+  },
   {
    "id": "26dcf936708f",
    "url": "https://sportando.basketball/virtus-bilancio-zanetti-15-milioni-fabbisogno-2027/",
